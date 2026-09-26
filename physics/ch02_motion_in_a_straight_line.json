@@ -1,0 +1,411 @@
+{
+  "test_metadata": {
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": 2,
+    "subject": "physics",
+    "level": "L1_NCERT_Grounding",
+    "tier": "⭐ IMPORTANT",
+    "target_exam": "JEE Main / JEE Advanced / NEET",
+    "total_questions": 15,
+    "distribution": {
+      "Theory": 6,
+      "Formula": 6,
+      "Image": 3
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following statements regarding distance and displacement is INCORRECT according to NCERT fundamentals?",
+        "hi": "NCERT के मूलभूत सिद्धांतों के अनुसार दूरी और विस्थापन के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+      },
+      "options": {
+        "A": {
+          "en": "Distance is always greater than or equal to the magnitude of displacement.",
+          "hi": "दूरी हमेशा विस्थापन के परिमाण से बड़ी या उसके बराबर होती है।"
+        },
+        "B": {
+          "en": "Displacement can be zero even if the total distance traveled is non-zero.",
+          "hi": "कुल तय की गई दूरी अशून्य होने पर भी विस्थापन शून्य हो सकता है।"
+        },
+        "C": {
+          "en": "The magnitude of displacement can never exceed the distance traveled.",
+          "hi": "विस्थापन का परिमाण कभी भी तय की गई दूरी से अधिक नहीं हो सकता।"
+        },
+        "D": {
+          "en": "Distance can decrease with time for a moving particle.",
+          "hi": "किसी गतिमान कण के लिए समय के साथ दूरी घट सकती है।"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "For a particle moving along a straight line, which condition guarantees that the average speed equals the magnitude of the average velocity?",
+        "hi": "एक सरल रेखा में गतिमान कण के लिए, कौन सी स्थिति यह सुनिश्चित करती है कि औसत चाल औसत वेग के परिमाण के बराबर हो?"
+      },
+      "options": {
+        "A": {
+          "en": "The particle moves with constant non-zero acceleration.",
+          "hi": "कण नियत अशून्य त्वरण के साथ गति करता है।"
+        },
+        "B": {
+          "en": "The particle moves in a single direction without reversing its motion.",
+          "hi": "कण अपनी गति की दिशा बदले बिना केवल एक ही दिशा में गति करता है।"
+        },
+        "C": {
+          "en": "The particle returns to its starting point.",
+          "hi": "कण अपने प्रारंभिक बिंदु पर वापस लौट आता है।"
+        },
+        "D": {
+          "en": "The acceleration of the particle is always directed opposite to velocity.",
+          "hi": "कण का त्वरण हमेशा वेग के विपरीत दिशा में होता है।"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "When a ball is thrown vertically upward, at the highest point of its trajectory, what are its instantaneous velocity and acceleration?",
+        "hi": "जब किसी गेंद को ऊर्ध्वाधर ऊपर की ओर फेंका जाता है, तो उसके प्रक्षेप-पथ के उच्चतम बिंदु पर उसका तात्क्षणिक वेग और त्वरण क्या होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Velocity is zero, acceleration is zero.",
+          "hi": "वेग शून्य है, त्वरण शून्य है।"
+        },
+        "B": {
+          "en": "Velocity is non-zero, acceleration is zero.",
+          "hi": "वेग अशून्य है, त्वरण शून्य है।"
+        },
+        "C": {
+          "en": "Velocity is zero, acceleration is g downwards.",
+          "hi": "वेग शून्य है, त्वरण g नीचे की ओर है।"
+        },
+        "D": {
+          "en": "Velocity is maximum, acceleration is g upwards.",
+          "hi": "वेग अधिकतम है, त्वरण g ऊपर की ओर है।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the definition of instantaneous acceleration a = dv/dt, if the velocity of a particle is zero at a given instant, can its acceleration be non-zero?",
+        "hi": "तात्क्षणिक त्वरण a = dv/dt की परिभाषा के अनुसार, यदि किसी दिए गए क्षण पर किसी कण का वेग शून्य है, तो क्या उसका त्वरण अशून्य हो सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "No, zero velocity strictly requires zero acceleration.",
+          "hi": "नहीं, शून्य वेग के लिए अनिवार्य रूप से शून्य त्वरण होना चाहिए।"
+        },
+        "B": {
+          "en": "Yes, an object momentarily at rest can have non-zero acceleration.",
+          "hi": "हाँ, क्षणिक रूप से विरामावस्था में स्थित वस्तु का त्वरण अशून्य हो सकता है।"
+        },
+        "C": {
+          "en": "Only if the motion is uniform.",
+          "hi": "केवल तभी जब गति एकसमान हो।"
+        },
+        "D": {
+          "en": "Only when moving along a curved path in 3D.",
+          "hi": "केवल तभी जब वह 3D में वक्राकार पथ पर गति कर रहा हो।"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Theory-based",
+      "question": {
+        "en": "In a 1D relative motion scenario, train A moves east with velocity v_A and train B moves east with velocity v_B. What is the relative velocity of train A with respect to train B (v_AB)?",
+        "hi": "1D आपेक्षिक गति में, ट्रेन A पूर्व की ओर v_A वेग से और ट्रेन B पूर्व की ओर v_B वेग से चलती है। ट्रेन B के सापेक्ष ट्रेन A का आपेक्षिक वेग (v_AB) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "v_A + v_B towards East",
+          "hi": "पूर्व की ओर v_A + v_B"
+        },
+        "B": {
+          "en": "v_A - v_B towards East",
+          "hi": "पूर्व की ओर v_A - v_B"
+        },
+        "C": {
+          "en": "v_B - v_A towards East",
+          "hi": "पूर्व की ओर v_B - v_A"
+        },
+        "D": {
+          "en": "sqrt(v_A^2 + v_B^2)",
+          "hi": "sqrt(v_A^2 + v_B^2)"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Theory-based",
+      "question": {
+        "en": "In the kinematic equation for displacement in the nth second, s_n = u + (a/2)(2n - 1), why is the equation dimensionally consistent despite appearing to add velocity (u) to acceleration times number (a/2 * (2n-1))?",
+        "hi": "nवें सेकंड में विस्थापन के समीकरण s_n = u + (a/2)(2n - 1) में, यह समीकरण विमीय रूप से सही क्यों है, जबकि दिखने में यह वेग (u) और त्वरण वाले पद का योग लगता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The equation is actually dimensionally inconsistent and only an empirical approximation.",
+          "hi": "यह समीकरण वास्तव में विमीय रूप से गलत है और केवल एक आनुभविक सन्निकटन है।"
+        },
+        "B": {
+          "en": "The term (2n - 1) has dimensions of time squared.",
+          "hi": "(2n - 1) पद की विमा समय के वर्ग की होती है।"
+        },
+        "C": {
+          "en": "A unit time interval factor (Δt = 1 s) is implicitly multiplied with u and (2n-1), making every term have dimensions of length [L].",
+          "hi": "एक एकांक समय अंतराल (Δt = 1 s) अंतर्निहित रूप से u और (2n-1) के साथ गुणा होता है, जिससे प्रत्येक पद की विमा लंबाई [L] हो जाती है।"
+        },
+        "D": {
+          "en": "Acceleration 'a' carries dimensions of velocity in this specific equation.",
+          "hi": "इस विशिष्ट समीकरण में त्वरण 'a' वेग की विमा रखता है।"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "A car initially moving with velocity u = 10 m/s accelerates uniformly at a = 2.5 m/s² for a duration of t = 6 s. Using the primary kinematic formula v = u + at, find the final velocity v of the car.",
+        "hi": "एक कार प्रारंभिक वेग u = 10 m/s से चलना शुरू करके t = 6 s के लिए a = 2.5 m/s² के एकसमान त्वरण से त्वरित होती है। मूल गतिज सूत्र v = u + at का उपयोग करके कार का अंतिम वेग v ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "20 m/s",
+          "hi": "20 m/s"
+        },
+        "B": {
+          "en": "25 m/s",
+          "hi": "25 m/s"
+        },
+        "C": {
+          "en": "30 m/s",
+          "hi": "30 m/s"
+        },
+        "D": {
+          "en": "35 m/s",
+          "hi": "35 m/s"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "A train starts from rest (u = 0) with uniform acceleration a = 1.2 m/s². Using the formula s = ut + (1/2)at², calculate the distance s traveled by the train in t = 10 s.",
+        "hi": "एक ट्रेन विरामावस्था (u = 0) से a = 1.2 m/s² के एकसमान त्वरण के साथ चलना शुरू करती है। सूत्र s = ut + (1/2)at² का उपयोग करके t = 10 s में ट्रेन द्वारा तय की गई दूरी s ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "60 m",
+          "hi": "60 m"
+        },
+        "B": {
+          "en": "120 m",
+          "hi": "120 m"
+        },
+        "C": {
+          "en": "144 m",
+          "hi": "144 m"
+        },
+        "D": {
+          "en": "240 m",
+          "hi": "240 m"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Formula-based",
+      "question": {
+        "en": "A bullet enters a wooden block with initial velocity u = 60 m/s and comes to rest (v = 0) after penetrating a distance s = 0.18 m. Using the formula v² = u² + 2as, calculate the magnitude of uniform retardation 'a' of the bullet.",
+        "hi": "एक गोली u = 60 m/s के प्रारंभिक वेग से एक लकड़ी के गुटके में प्रवेश करती है और s = 0.18 m की दूरी तय करने के बाद विराम (v = 0) में आ जाती है। सूत्र v² = u² + 2as का उपयोग करके गोली के एकसमान मंदन 'a' का परिमाण ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "5,000 m/s²",
+          "hi": "5,000 m/s²"
+        },
+        "B": {
+          "en": "10,000 m/s²",
+          "hi": "10,000 m/s²"
+        },
+        "C": {
+          "en": "15,000 m/s²",
+          "hi": "15,000 m/s²"
+        },
+        "D": {
+          "en": "20,000 m/s²",
+          "hi": "20,000 m/s²"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Formula-based",
+      "question": {
+        "en": "A body starts from rest (u = 0) with uniform acceleration a = 4 m/s². Using the formula for displacement in the nth second s_n = u + (a/2)(2n - 1), calculate the distance covered during the 5th second (n = 5).",
+        "hi": "एक पिंड विरामावस्था (u = 0) से a = 4 m/s² के एकसमान त्वरण के साथ गति प्रारंभ करता है। nवें सेकंड में विस्थापन के सूत्र s_n = u + (a/2)(2n - 1) का उपयोग करके 5वें सेकंड (n = 5) के दौरान तय की गई दूरी की गणना कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "14 m",
+          "hi": "14 m"
+        },
+        "B": {
+          "en": "18 m",
+          "hi": "18 m"
+        },
+        "C": {
+          "en": "20 m",
+          "hi": "20 m"
+        },
+        "D": {
+          "en": "36 m",
+          "hi": "36 m"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "category": "Formula-based",
+      "question": {
+        "en": "A stone is dropped from a cliff (u = 0) and takes t = 4 s to reach the ground. Using the formula h = (1/2)gt² with g = 9.8 m/s², find the height h of the cliff.",
+        "hi": "एक पत्थर को एक चट्टान से गिराया जाता है (u = 0) और जमीन तक पहुँचने में t = 4 s का समय लगता है। g = 9.8 m/s² के साथ सूत्र h = (1/2)gt² का उपयोग करके चट्टान की ऊंचाई h ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "39.2 m",
+          "hi": "39.2 m"
+        },
+        "B": {
+          "en": "78.4 m",
+          "hi": "78.4 m"
+        },
+        "C": {
+          "en": "98.0 m",
+          "hi": "98.0 m"
+        },
+        "D": {
+          "en": "156.8 m",
+          "hi": "156.8 m"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "category": "Formula-based",
+      "question": {
+        "en": "A particle moves along a straight line such that its position is given by x = 3t² + 4t + 2 (in meters). Using the derivative formula for instantaneous velocity v = dx/dt, calculate the velocity of the particle at time t = 3 s.",
+        "hi": "एक कण एक सरल रेखा में इस प्रकार गति करता है कि उसकी स्थिति x = 3t² + 4t + 2 (मीटर में) द्वारा दी जाती है। तात्क्षणिक वेग के अवकलज सूत्र v = dx/dt का उपयोग करके समय t = 3 s पर कण का वेग परिकलित कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "18 m/s",
+          "hi": "18 m/s"
+        },
+        "B": {
+          "en": "22 m/s",
+          "hi": "22 m/s"
+        },
+        "C": {
+          "en": "26 m/s",
+          "hi": "26 m/s"
+        },
+        "D": {
+          "en": "41 m/s",
+          "hi": "41 m/s"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "Image-based",
+      "image_reference": "NCERT Figure 2.7: A linear velocity-time (v-t) graph starting at (0, 0) and rising linearly to (t_1, v_1) = (6 s, 18 m/s), followed by a horizontal plateau from t = 6 s to t = 10 s at constant velocity 18 m/s.",
+      "question": {
+        "en": "Based on the described velocity-time (v-t) graph, what is the total displacement of the particle from t = 0 to t = 10 s, calculated from the area under the curve?",
+        "hi": "वर्णित वेग-समय (v-t) ग्राफ के आधार पर, वक्र के नीचे के क्षेत्रफल से गणना करते हुए, t = 0 से t = 10 s तक कण का कुल विस्थापन क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "72 m",
+          "hi": "72 m"
+        },
+        "B": {
+          "en": "108 m",
+          "hi": "108 m"
+        },
+        "C": {
+          "en": "126 m",
+          "hi": "126 m"
+        },
+        "D": {
+          "en": "180 m",
+          "hi": "180 m"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "category": "Image-based",
+      "image_reference": "NCERT Figure 2.3: Position-time (x-t) graph representing 1D motion where the curve starts at x = 0 and is parabolic opening upwards (concave upward curve, d²x/dt² > 0).",
+      "question": {
+        "en": "In the described position-time (x-t) graph with an upward-opening parabola, what physical condition of motion is represented?",
+        "hi": "ऊपर की ओर खुलने वाले परवलय के साथ वर्णित स्थिति-समय (x-t) ग्राफ में गति की कौन सी भौतिक स्थिति दर्शाई गई है?"
+      },
+      "options": {
+        "A": {
+          "en": "Motion with constant negative acceleration (retardation)",
+          "hi": "नियत ऋणात्मक त्वरण (मंदन) के साथ गति"
+        },
+        "B": {
+          "en": "Motion with constant positive acceleration",
+          "hi": "नियत धनात्मक त्वरण के साथ गति"
+        },
+        "C": {
+          "en": "Uniform motion with zero acceleration",
+          "hi": "शून्य त्वरण के साथ एकसमान गति"
+        },
+        "D": {
+          "en": "Particle permanently at rest",
+          "hi": "कण स्थायी रूप से विरामावस्था में"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "category": "Image-based",
+      "image_reference": "NCERT Figure 2.9: Position-time (x-t) graphs for two objects A and B moving along the same straight line with parallel straight lines having identical positive slopes.",
+      "question": {
+        "en": "If the position-time (x-t) graphs of two objects A and B are straight lines that are parallel to each other, what can be conclusively deduced about their relative velocity v_AB?",
+        "hi": "यदि दो वस्तुओं A और B के स्थिति-समय (x-t) ग्राफ एक-दूसरे के समानांतर सरल रेखाएं हैं, तो उनके आपेक्षिक वेग v_AB के बारे में निश्चित रूप से क्या निष्कर्ष निकाला जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Their relative velocity is non-zero and constant.",
+          "hi": "उनका आपेक्षिक वेग अशून्य और नियत है।"
+        },
+        "B": {
+          "en": "Their relative velocity is zero (v_AB = 0).",
+          "hi": "उनका आपेक्षिक वेग शून्य है (v_AB = 0)।"
+        },
+        "C": {
+          "en": "Object A is accelerating with respect to B.",
+          "hi": "वस्तु A, B के सापेक्ष त्वरित हो रही है।"
+        },
+        "D": {
+          "en": "The two objects will collide at some future instant.",
+          "hi": "दोनों वस्तुएं भविष्य में किसी क्षण टकराएंगी।"
+        }
+      }
+    }
+  ]
+}
