@@ -1,0 +1,411 @@
+{
+  "test_metadata": {
+    "chapter": "Structure of Atom",
+    "chapter_number": 2,
+    "subject": "chemistry",
+    "level": "L1_NCERT_Grounding",
+    "tier": "⭐ IMPORTANT",
+    "target_exam": "JEE Main / JEE Advanced / NEET",
+    "total_questions": 15,
+    "distribution": {
+      "Theory": 6,
+      "Formula": 6,
+      "Image": 3
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to Bohr's postulate for the hydrogen atom in NCERT, the angular momentum of an electron in a stationary orbit is quantized as an integral multiple of which fundamental quantity?",
+        "hi": "NCERT में हाइड्रोजन परमाणु के लिए बोर की अभिधारणा के अनुसार, स्थायी कक्षा में इलेक्ट्रॉन का कोणीय संवेग किस मूल राशि का पूर्ण गुणज होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "h / π",
+          "hi": "h / π"
+        },
+        "B": {
+          "en": "h / (2π)",
+          "hi": "h / (2π)"
+        },
+        "C": {
+          "en": "h / (4π)",
+          "hi": "h / (4π)"
+        },
+        "D": {
+          "en": "2h / π",
+          "hi": "2h / π"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which spectral series of the hydrogen atomic spectrum falls strictly in the visible region of electromagnetic radiation according to NCERT?",
+        "hi": "NCERT के अनुसार हाइड्रोजन परमाणु स्पेक्ट्रम की कौन सी स्पेक्ट्रमी श्रेणी विद्युत चुंबकीय विकिरण के दृश्य (visible) क्षेत्र में आती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Lyman series",
+          "hi": "लाइमन श्रेणी"
+        },
+        "B": {
+          "en": "Balmer series",
+          "hi": "बामर श्रेणी"
+        },
+        "C": {
+          "en": "Paschen series",
+          "hi": "पाश्चन श्रेणी"
+        },
+        "D": {
+          "en": "Brackett series",
+          "hi": "ब्रैकेट श्रेणी"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which fundamental principle states that 'No two electrons in an atom can have the same set of four quantum numbers'?",
+        "hi": "कौन सा मूलभूत सिद्धांत बताता है कि 'किसी परमाणु में किन्हीं दो इलेक्ट्रॉनों के लिए चारों क्वांटम संख्याओं का मान समान नहीं हो सकता'?"
+      },
+      "options": {
+        "A": {
+          "en": "Aufbau Principle",
+          "hi": "आउफ़बाऊ सिद्धांत"
+        },
+        "B": {
+          "en": "Pauli's Exclusion Principle",
+          "hi": "पाउली का अपवर्जन सिद्धांत"
+        },
+        "C": {
+          "en": "Hund's Rule of Maximum Multiplicity",
+          "hi": "हुंड का अधिकतम बहुलता का नियम"
+        },
+        "D": {
+          "en": "Heisenberg's Uncertainty Principle",
+          "hi": "हाइजेनबर्ग का अनिश्चितता सिद्धांत"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to Hund's Rule of Maximum Multiplicity in NCERT, electron pairing in degenerate orbitals (such as px, py, pz) cannot occur until:",
+        "hi": "NCERT में हुंड के अधिकतम बहुलता के नियम के अनुसार, समभ्रंश कक्षकों (जैसे px, py, pz) में इलेक्ट्रॉनों का युग्मन तब तक नहीं हो सकता जब तक कि:"
+      },
+      "options": {
+        "A": {
+          "en": "All orbitals in the atom are completely filled",
+          "hi": "परमाणु के सभी कक्षक पूरी तरह न भर जाएं"
+        },
+        "B": {
+          "en": "Each degenerate orbital is singly occupied with parallel spins",
+          "hi": "प्रत्येक समभ्रंश कक्षक में समानांतर चक्रण वाला एक-एक इलेक्ट्रॉन न आ जाए"
+        },
+        "C": {
+          "en": "The principal quantum number reaches n = 3",
+          "hi": "मुख्य क्वांटम संख्या n = 3 तक न पहुंच जाए"
+        },
+        "D": {
+          "en": "The net spin of the subshell becomes zero",
+          "hi": "उपकोश का कुल चक्रण शून्य न हो जाए"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Theory-based",
+      "question": {
+        "en": "What is the total number of nodal planes (angular nodes) present in a d-orbital according to NCERT?",
+        "hi": "NCERT के अनुसार एक d-कक्षक में उपस्थित नोडल तलों (कोणीय नोड्स) की कुल संख्या कितनी होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "0",
+          "hi": "0"
+        },
+        "B": {
+          "en": "1",
+          "hi": "1"
+        },
+        "C": {
+          "en": "2",
+          "hi": "2"
+        },
+        "D": {
+          "en": "3",
+          "hi": "3"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Theory-based",
+      "question": {
+        "en": "Why are half-filled (e.g., Cr: 3d⁵ 4s¹) and completely filled (e.g., Cu: 3d¹⁰ 4s¹) electronic configurations exceptionally stable according to NCERT?",
+        "hi": "NCERT के अनुसार अर्ध-पूरित (जैसे Cr: 3d⁵ 4s¹) और पूर्ण-पूरित (जैसे Cu: 3d¹⁰ 4s¹) इलेक्ट्रॉनिक विन्यास अत्यधिक स्थायी क्यों होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Due to relatively small size of chromium and copper atoms",
+          "hi": "क्रोमियम और कॉपर परमाणुओं के अपेक्षाकृत छोटे आकार के कारण"
+        },
+        "B": {
+          "en": "Due to symmetrical distribution of electrons and maximum exchange energy",
+          "hi": "इलेक्ट्रॉनों के सममित वितरण और अधिकतम विनिमय ऊर्जा (exchange energy) के कारण"
+        },
+        "C": {
+          "en": "Because 4s electrons have zero angular momentum",
+          "hi": "क्योंकि 4s इलेक्ट्रॉनों का कोणीय संवेग शून्य होता है"
+        },
+        "D": {
+          "en": "Because d-orbitals completely shield the nucleus",
+          "hi": "क्योंकि d-कक्षक नाभिक को पूरी तरह परिरक्षित कर लेते हैं"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "Using the de Broglie relation λ = h / (mv) from NCERT, calculate the de Broglie wavelength of an electron (mass m = 9.1 × 10⁻³¹ kg) moving with a speed v = 1.0 × 10⁶ m/s (Take Planck's constant h = 6.63 × 10⁻³⁴ J·s).",
+        "hi": "NCERT के दे ब्रॉग्ली सूत्र λ = h / (mv) का उपयोग करके, चाल v = 1.0 × 10⁶ m/s से गतिमान एक इलेक्ट्रॉन (द्रव्यमान m = 9.1 × 10⁻³¹ kg) की दे ब्रॉग्ली तरंगदैर्घ्य की गणना कीजिए (प्लांक नियतांक h = 6.63 × 10⁻³⁴ J·s लें)।"
+      },
+      "options": {
+        "A": {
+          "en": "7.28 × 10⁻¹⁰ m",
+          "hi": "7.28 × 10⁻¹⁰ m"
+        },
+        "B": {
+          "en": "6.63 × 10⁻¹¹ m",
+          "hi": "6.63 × 10⁻¹¹ m"
+        },
+        "C": {
+          "en": "3.31 × 10⁻⁹ m",
+          "hi": "3.31 × 10⁻⁹ m"
+        },
+        "D": {
+          "en": "9.10 × 10⁻¹² m",
+          "hi": "9.10 × 10⁻¹² m"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "According to Bohr's model in NCERT, the energy of an electron in the nth stationary orbit of a hydrogen atom is given by E_n = -2.18 × 10⁻¹⁸ / n² J. What is the energy of the electron in the second orbit (n = 2)?",
+        "hi": "NCERT में बोर मॉडल के अनुसार, हाइड्रोजन परमाणु की n वीं स्थायी कक्षा में इलेक्ट्रॉन की ऊर्जा E_n = -2.18 × 10⁻¹⁸ / n² J दी जाती है। दूसरी कक्षा (n = 2) में इलेक्ट्रॉन की ऊर्जा क्या होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "-2.18 × 10⁻¹⁸ J",
+          "hi": "-2.18 × 10⁻¹⁸ J"
+        },
+        "B": {
+          "en": "-1.09 × 10⁻¹⁸ J",
+          "hi": "-1.09 × 10⁻¹⁸ J"
+        },
+        "C": {
+          "en": "-0.545 × 10⁻¹⁸ J",
+          "hi": "-0.545 × 10⁻¹⁸ J"
+        },
+        "D": {
+          "en": "-0.242 × 10⁻¹⁸ J",
+          "hi": "-0.242 × 10⁻¹⁸ J"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Formula-based",
+      "question": {
+        "en": "Using the Bohr radius formula r_n = 52.9 × n² pm for hydrogen from NCERT, calculate the radius of the third orbit (n = 3) of the hydrogen atom.",
+        "hi": "NCERT से हाइड्रोजन के लिए बोर त्रिज्या सूत्र r_n = 52.9 × n² pm का उपयोग करते हुए, हाइड्रोजन परमाणु की तीसरी कक्षा (n = 3) की त्रिज्या की गणना कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "158.7 pm",
+          "hi": "158.7 pm"
+        },
+        "B": {
+          "en": "476.1 pm",
+          "hi": "476.1 pm"
+        },
+        "C": {
+          "en": "211.6 pm",
+          "hi": "211.6 pm"
+        },
+        "D": {
+          "en": "529.0 pm",
+          "hi": "529.0 pm"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Formula-based",
+      "question": {
+        "en": "Using the Rydberg equation for hydrogen ν̄ = 109,677 [ (1/n₁²) - (1/n₂²) ] cm⁻¹, find the wavenumber ν̄ for the first spectral line of the Lyman series (n₁ = 1, n₂ = 2).",
+        "hi": "हाइड्रोजन के लिए रिडबर्ग समीकरण ν̄ = 109,677 [ (1/n₁²) - (1/n₂²) ] cm⁻¹ का उपयोग करके, लाइमन श्रेणी की प्रथम स्पेक्ट्रमी रेखा (n₁ = 1, n₂ = 2) के लिए तरंग संख्या ν̄ ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "82,257.75 cm⁻¹",
+          "hi": "82,257.75 cm⁻¹"
+        },
+        "B": {
+          "en": "109,677.00 cm⁻¹",
+          "hi": "109,677.00 cm⁻¹"
+        },
+        "C": {
+          "en": "27,419.25 cm⁻¹",
+          "hi": "27,419.25 cm⁻¹"
+        },
+        "D": {
+          "en": "15,232.90 cm⁻¹",
+          "hi": "15,232.90 cm⁻¹"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "category": "Formula-based",
+      "question": {
+        "en": "According to the Heisenberg Uncertainty Principle formula Δx · Δp ≥ h / (4π), if the uncertainty in momentum Δp of an object is 1.0 × 10⁻²⁴ kg·m/s, what is the minimum uncertainty in its position Δx? (Take h = 6.626 × 10⁻³⁴ J·s and π = 3.1416).",
+        "hi": "हाइजेनबर्ग अनिश्चितता सिद्धांत सूत्र Δx · Δp ≥ h / (4π) के अनुसार, यदि किसी वस्तु के संवेग में अनिश्चितता Δp = 1.0 × 10⁻²⁴ kg·m/s है, तो उसकी स्थिति में न्यूनतम अनिश्चितता Δx क्या होगी? (h = 6.626 × 10⁻³⁴ J·s तथा π = 3.1416 लें)।"
+      },
+      "options": {
+        "A": {
+          "en": "5.27 × 10⁻¹¹ m",
+          "hi": "5.27 × 10⁻¹¹ m"
+        },
+        "B": {
+          "en": "1.05 × 10⁻¹⁰ m",
+          "hi": "1.05 × 10⁻¹⁰ m"
+        },
+        "C": {
+          "en": "6.63 × 10⁻¹⁰ m",
+          "hi": "6.63 × 10⁻¹⁰ m"
+        },
+        "D": {
+          "en": "3.14 × 10⁻¹² m",
+          "hi": "3.14 × 10⁻¹² m"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "category": "Formula-based",
+      "question": {
+        "en": "For a principal quantum number n = 4, using the standard NCERT formulas for total subshells (n) and total orbitals (n²), how many total orbitals exist in the fourth principal energy shell?",
+        "hi": "मुख्य क्वांटम संख्या n = 4 के लिए, कुल उपकोशों (n) और कुल कक्षकों (n²) के मानक NCERT सूत्रों का उपयोग करते हुए, चौथे मुख्य ऊर्जा कोश में कुल कितने कक्षक होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "8",
+          "hi": "8"
+        },
+        "B": {
+          "en": "16",
+          "hi": "16"
+        },
+        "C": {
+          "en": "32",
+          "hi": "32"
+        },
+        "D": {
+          "en": "4",
+          "hi": "4"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "Image-based",
+      "question": {
+        "en": "Referring to the boundary surface diagrams of d-orbitals in NCERT (Fig 2.12), which d-orbital possesses a doughnut-shaped ring of electron cloud in the xy-plane and lobes along the z-axis?",
+        "hi": "NCERT में d-कक्षकों के सीमा तल आरेखों (चित्र 2.12) के संदर्भ में, किस d-कक्षक में xy-तल में इलेक्ट्रॉन मेघ की डोनट-आकार की वलय और z-अक्ष के अनुदिश पालि (lobes) होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "d_xy",
+          "hi": "d_xy"
+        },
+        "B": {
+          "en": "d_x²-y²",
+          "hi": "d_x²-y²"
+        },
+        "C": {
+          "en": "d_z²",
+          "hi": "d_z²"
+        },
+        "D": {
+          "en": "d_xz",
+          "hi": "d_xz"
+        }
+      },
+      "image_reference": "NCERT Class 11 Chemistry Figure 2.12: Boundary surface diagrams (shapes) of five d-orbitals: d_xy, d_yz, d_zx, d_x²-y², and d_z² showing orientation of lobes along or between Cartesian axes."
+    },
+    {
+      "id": 14,
+      "category": "Image-based",
+      "question": {
+        "en": "Examining the hydrogen energy level diagram (NCERT Fig 2.10), as the principal quantum number n increases towards infinity (n → ∞), what happens to the energy separation (ΔE) between successive energy levels?",
+        "hi": "हाइड्रोजन ऊर्जा स्तर आरेख (NCERT चित्र 2.10) का अवलोकन करने पर, जैसे-जैसे मुख्य क्वांटम संख्या n अनंत की ओर बढ़ती है (n → ∞), क्रमिक ऊर्जा स्तरों के बीच ऊर्जा अंतराल (ΔE) पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "It continually increases",
+          "hi": "यह निरंतर बढ़ता है"
+        },
+        "B": {
+          "en": "It remains strictly constant",
+          "hi": "यह बिल्कुल नियत रहता है"
+        },
+        "C": {
+          "en": "It continually decreases and levels become crowded/converge",
+          "hi": "यह निरंतर घटता है और ऊर्जा स्तर पास-पास आते जाते हैं (अभिसरित होते हैं)"
+        },
+        "D": {
+          "en": "It oscillates between zero and infinity",
+          "hi": "यह शून्य और अनंत के बीच दोलन करता है"
+        }
+      },
+      "image_reference": "NCERT Class 11 Chemistry Figure 2.10: Energy level diagram of the hydrogen atom showing electron transitions responsible for Lyman, Balmer, Paschen, Brackett, and Pfund series."
+    },
+    {
+      "id": 15,
+      "category": "Image-based",
+      "question": {
+        "en": "According to the diagonal arrow Aufbau chart in NCERT (Fig 2.17), why is the 4s orbital filled before the 3d orbital?",
+        "hi": "NCERT में विकर्ण तीर वाले आउफ़बाऊ चार्ट (चित्र 2.17) के अनुसार, 3d कक्षक से पहले 4s कक्षक क्यों भरा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Because 4s has a lower (n + l) value (4 + 0 = 4) than 3d (3 + 2 = 5)",
+          "hi": "क्योंकि 4s के लिए (n + l) का मान (4 + 0 = 4), 3d (3 + 2 = 5) से कम है"
+        },
+        "B": {
+          "en": "Because 4s has higher principal quantum number n",
+          "hi": "क्योंकि 4s की मुख्य क्वांटम संख्या n अधिक है"
+        },
+        "C": {
+          "en": "Because 3d orbitals have spherical symmetry",
+          "hi": "क्योंकि 3d कक्षक गोलीय सममित होते हैं"
+        },
+        "D": {
+          "en": "Because Pauli's exclusion principle prevents 3d filling",
+          "hi": "क्योंकि पाउली का अपवर्जन सिद्धांत 3d के भराव को रोकता है"
+        }
+      },
+      "image_reference": "NCERT Class 11 Chemistry Figure 2.17: Diagram illustrating the Aufbau principle showing diagonal arrows indicating the sequential filling order of orbitals: 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s..."
+    }
+  ]
+}

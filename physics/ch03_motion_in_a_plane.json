@@ -1,0 +1,411 @@
+{
+  "test_metadata": {
+    "chapter": "Motion in a Plane",
+    "chapter_number": 3,
+    "subject": "physics",
+    "level": "L1_NCERT_Grounding",
+    "tier": "⭐ IMPORTANT",
+    "target_exam": "JEE Main / JEE Advanced / NEET",
+    "total_questions": 15,
+    "distribution": {
+      "Theory": 6,
+      "Formula": 6,
+      "Image": 3
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "Two non-zero vectors A and B satisfy the condition A · B = 0. According to vector algebra in NCERT, what is the angle between them?",
+        "hi": "दो शून्येतर सदिश A और B शर्त A · B = 0 को संतुष्ट करते हैं। NCERT सदिश बीजगणित के अनुसार, उनके बीच का कोण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "0°",
+          "hi": "0°"
+        },
+        "B": {
+          "en": "45°",
+          "hi": "45°"
+        },
+        "C": {
+          "en": "90°",
+          "hi": "90°"
+        },
+        "D": {
+          "en": "180°",
+          "hi": "180°"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "For a projectile launched at an angle θ with the horizontal (neglecting air resistance), what is the nature of its velocity and acceleration at the highest point of its trajectory?",
+        "hi": "क्षैतिज से θ कोण पर प्रक्षेपित प्रक्षेप्य के लिए (वायु प्रतिरोध नगण्य मानते हुए), उसके प्रक्षेप-पथ के उच्चतम बिंदु पर वेग और त्वरण की क्या प्रकृति होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Both velocity and acceleration are zero",
+          "hi": "वेग और त्वरण दोनों शून्य होते हैं"
+        },
+        "B": {
+          "en": "Velocity is u cos θ horizontally, acceleration is g vertically downward",
+          "hi": "वेग क्षैतिज दिशा में u cos θ तथा त्वरण ऊर्ध्वाधर नीचे की ओर g होता है"
+        },
+        "C": {
+          "en": "Velocity is zero, acceleration is g vertically downward",
+          "hi": "वेग शून्य तथा त्वरण ऊर्ध्वाधर नीचे की ओर g होता है"
+        },
+        "D": {
+          "en": "Velocity is u sin θ vertically upward, acceleration is zero",
+          "hi": "वेग ऊर्ध्वाधर ऊपर की ओर u sin θ तथा त्वरण शून्य होता है"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "For a given projection speed u, the horizontal range R of an ideal projectile is identical for which of the following pairs of projection angles with the horizontal?",
+        "hi": "एक दिए गए प्रक्षेपण वेग u के लिए, एक आदर्श प्रक्षेप्य का क्षैतिज परास R क्षैतिज से प्रक्षेपण कोणों के किस युग्म के लिए समान होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "θ and (180° - θ)",
+          "hi": "θ और (180° - θ)"
+        },
+        "B": {
+          "en": "θ and (90° - θ)",
+          "hi": "θ और (90° - θ)"
+        },
+        "C": {
+          "en": "θ and (45° + θ)",
+          "hi": "θ और (45° + θ)"
+        },
+        "D": {
+          "en": "θ and (60° - θ)",
+          "hi": "θ और (60° - θ)"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "In uniform circular motion of an object along a circular path of radius r with constant speed v, what can be stated about its acceleration vector?",
+        "hi": "त्रिज्या r के वृत्तीय पथ पर नियत चाल v से एकसमान वृत्तीय गति करते हुए किसी पिंड के त्वरण सदिश के बारे में क्या कहा जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Its magnitude is zero",
+          "hi": "इसका परिमाण शून्य होता है"
+        },
+        "B": {
+          "en": "Its magnitude is constant (v²/r) and direction continually points toward the center",
+          "hi": "इसका परिमाण नियत (v²/r) रहता है और दिशा निरंतर केंद्र की ओर होती है"
+        },
+        "C": {
+          "en": "Its magnitude is constant and direction is tangential to the circle",
+          "hi": "इसका परिमाण नियत रहता है और दिशा वृत्त की स्पर्श रेखा के अनुदिश होती है"
+        },
+        "D": {
+          "en": "Both its magnitude and direction remain completely constant",
+          "hi": "इसका परिमाण और दिशा दोनों पूर्णतः नियत रहते हैं"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the right-handed Cartesian coordinate system in NCERT, what is the vector product î × ĵ of standard unit vectors?",
+        "hi": "NCERT के अनुसार दक्षिणावर्ती कार्तीय निर्देशांक प्रणाली में मानक एकांक सदिशों का सदिश गुणनफल î × ĵ क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "0",
+          "hi": "0"
+        },
+        "B": {
+          "en": "-k̂",
+          "hi": "-k̂"
+        },
+        "C": {
+          "en": "k̂",
+          "hi": "k̂"
+        },
+        "D": {
+          "en": "1",
+          "hi": "1"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Theory-based",
+      "question": {
+        "en": "Why is the trajectory of an ideal projectile near Earth's surface a parabola?",
+        "hi": "पृथ्वी की सतह के समीप एक आदर्श प्रक्षेप्य का प्रक्षेप-पथ परवलयाकार क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Because acceleration is constant in magnitude and direction while initial velocity is not collinear with acceleration",
+          "hi": "क्योंकि त्वरण परिमाण व दिशा में नियत है तथा प्रारंभिक वेग त्वरण के संरेखीय नहीं है"
+        },
+        "B": {
+          "en": "Because both horizontal and vertical velocities decrease linearly with time",
+          "hi": "क्योंकि क्षैतिज और ऊर्ध्वाधर दोनों वेग समय के साथ रैखिक रूप से घटते हैं"
+        },
+        "C": {
+          "en": "Because centripetal force acts continuously on the projectile",
+          "hi": "क्योंकि प्रक्षेप्य पर निरंतर अभिकेंद्री बल कार्य करता है"
+        },
+        "D": {
+          "en": "Because gravity increases quadratically with distance",
+          "hi": "क्योंकि गुरुत्वाकर्षण दूरी के साथ द्विघात रूप से बढ़ता है"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "A football is kicked with an initial speed u = 20 m/s at an angle θ = 45° with the horizontal. Using the NCERT formula R = (u² sin 2θ) / g and taking g = 10 m/s², what is the horizontal range R?",
+        "hi": "एक फुटबॉल को क्षैतिज से θ = 45° के कोण पर प्रारंभिक चाल u = 20 m/s से किक मारी जाती है। NCERT सूत्र R = (u² sin 2θ) / g का उपयोग करते हुए तथा g = 10 m/s² मानकर, क्षैतिज परास R क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "20 m",
+          "hi": "20 m"
+        },
+        "B": {
+          "en": "40 m",
+          "hi": "40 m"
+        },
+        "C": {
+          "en": "80 m",
+          "hi": "80 m"
+        },
+        "D": {
+          "en": "10 m",
+          "hi": "10 m"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "A projectile is launched with an initial velocity u = 40 m/s at an angle θ = 30° above the horizontal. Using the NCERT formula H = (u² sin² θ) / (2g) and taking g = 10 m/s², calculate the maximum height H reached.",
+        "hi": "एक प्रक्षेप्य को क्षैतिज से θ = 30° के कोण पर प्रारंभिक वेग u = 40 m/s से प्रक्षेपित किया जाता है। NCERT सूत्र H = (u² sin² θ) / (2g) का उपयोग करके तथा g = 10 m/s² लेते हुए प्राप्त अधिकतम ऊंचाई H की गणना कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "10 m",
+          "hi": "10 m"
+        },
+        "B": {
+          "en": "20 m",
+          "hi": "20 m"
+        },
+        "C": {
+          "en": "40 m",
+          "hi": "40 m"
+        },
+        "D": {
+          "en": "80 m",
+          "hi": "80 m"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Formula-based",
+      "question": {
+        "en": "An arrow is shot at an angle θ = 30° above the horizontal with a speed u = 30 m/s. Using the NCERT formula for total time of flight T = (2u sin θ) / g and taking g = 10 m/s², find the time of flight T.",
+        "hi": "एक तीर को क्षैतिज से ऊपर θ = 30° के कोण पर u = 30 m/s की चाल से दागा जाता है। कुल उड्डयन काल के लिए NCERT सूत्र T = (2u sin θ) / g का उपयोग करते हुए तथा g = 10 m/s² मानकर, उड्डयन काल T ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "1.5 s",
+          "hi": "1.5 s"
+        },
+        "B": {
+          "en": "3.0 s",
+          "hi": "3.0 s"
+        },
+        "C": {
+          "en": "4.5 s",
+          "hi": "4.5 s"
+        },
+        "D": {
+          "en": "6.0 s",
+          "hi": "6.0 s"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Formula-based",
+      "question": {
+        "en": "A vehicle rounds a flat circular track of radius r = 25 m at a constant speed v = 10 m/s. Using the centripetal acceleration formula a_c = v² / r from NCERT, what is the magnitude of its centripetal acceleration?",
+        "hi": "एक वाहन त्रिज्या r = 25 m के समतल वृत्ताकार ट्रैक पर नियत चाल v = 10 m/s से मुड़ता है। NCERT के अभिकेंद्री त्वरण सूत्र a_c = v² / r का उपयोग करते हुए, इसके अभिकेंद्री त्वरण का परिमाण क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "2.5 m/s²",
+          "hi": "2.5 m/s²"
+        },
+        "B": {
+          "en": "4.0 m/s²",
+          "hi": "4.0 m/s²"
+        },
+        "C": {
+          "en": "10.0 m/s²",
+          "hi": "10.0 m/s²"
+        },
+        "D": {
+          "en": "0.4 m/s²",
+          "hi": "0.4 m/s²"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "category": "Formula-based",
+      "question": {
+        "en": "A stone tied to a string rotates in a horizontal circle of radius r = 0.5 m with an angular velocity ω = 4 rad/s. Using the NCERT formula a_c = ω² r, find the magnitude of centripetal acceleration of the stone.",
+        "hi": "एक डोरी से बंधा पत्थर त्रिज्या r = 0.5 m के क्षैतिज वृत्त में कोणीय वेग ω = 4 rad/s से घूमता है। NCERT सूत्र a_c = ω² r का उपयोग करते हुए, पत्थर के अभिकेंद्री त्वरण का परिमाण ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "2.0 m/s²",
+          "hi": "2.0 m/s²"
+        },
+        "B": {
+          "en": "8.0 m/s²",
+          "hi": "8.0 m/s²"
+        },
+        "C": {
+          "en": "16.0 m/s²",
+          "hi": "16.0 m/s²"
+        },
+        "D": {
+          "en": "32.0 m/s²",
+          "hi": "32.0 m/s²"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "category": "Formula-based",
+      "question": {
+        "en": "A particle moves in the xy-plane with velocity components v_x = 6 m/s and v_y = 8 m/s. Using the NCERT formula v = √(v_x² + v_y²), what is the magnitude of the particle's resultant velocity?",
+        "hi": "एक कण xy-तल में वेग घटकों v_x = 6 m/s तथा v_y = 8 m/s के साथ गति करता है। NCERT सूत्र v = √(v_x² + v_y²) का उपयोग करके कण के परिणामी वेग का परिमाण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "10 m/s",
+          "hi": "10 m/s"
+        },
+        "B": {
+          "en": "14 m/s",
+          "hi": "14 m/s"
+        },
+        "C": {
+          "en": "48 m/s",
+          "hi": "48 m/s"
+        },
+        "D": {
+          "en": "7 m/s",
+          "hi": "7 m/s"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "Image-based",
+      "question": {
+        "en": "Based on the standard NCERT diagram of projectile trajectory (Fig 3.17), what is the relationship between the velocity vector and acceleration vector at the highest point (apex) of the path?",
+        "hi": "प्रक्षेप्य प्रक्षेप-पथ के मानक NCERT आरेख (चित्र 3.17) के आधार पर, पथ के उच्चतम बिंदु (शीर्ष) पर वेग सदिश और त्वरण सदिश के बीच क्या संबंध होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "They are parallel (angle = 0°)",
+          "hi": "वे समानांतर होते हैं (कोण = 0°)"
+        },
+        "B": {
+          "en": "They are mutually perpendicular (angle = 90°)",
+          "hi": "वे परस्पर लंबवत होते हैं (कोण = 90°)"
+        },
+        "C": {
+          "en": "They are anti-parallel (angle = 180°)",
+          "hi": "वे प्रति-समानांतर होते हैं (कोण = 180°)"
+        },
+        "D": {
+          "en": "The angle between them is 45°",
+          "hi": "उनके बीच का कोण 45° होता है"
+        }
+      },
+      "image_reference": "NCERT Class 11 Physics Figure 3.17: Path of a projectile showing velocity vector v decomposed into horizontal (v_x = u_x) and vertical (v_y) components at the launch point, highest point (apex), and return point."
+    },
+    {
+      "id": 14,
+      "category": "Image-based",
+      "question": {
+        "en": "In the NCERT diagram for uniform circular motion (Fig 3.19), what is the work done by the centripetal force on the object over any displacement along the circular path?",
+        "hi": "एकसमान वृत्तीय गति के लिए NCERT आरेख (चित्र 3.19) में, वृत्ताकार पथ पर किसी भी विस्थापन के दौरान वस्तु पर अभिकेंद्री बल द्वारा किया गया कार्य कितना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Positive and equal to (1/2)mv²",
+          "hi": "धनात्मक तथा (1/2)mv² के बराबर"
+        },
+        "B": {
+          "en": "Zero, because force and instantaneous displacement are mutually perpendicular",
+          "hi": "शून्य, क्योंकि बल और तात्कालिक विस्थापन परस्पर लंबवत हैं"
+        },
+        "C": {
+          "en": "Negative, because force acts inward",
+          "hi": "ऋणात्मक, क्योंकि बल अंदर की ओर कार्य करता है"
+        },
+        "D": {
+          "en": "Variable depending on the angular position",
+          "hi": "कोणीय स्थिति के आधार पर परिवर्तनशील"
+        }
+      },
+      "image_reference": "NCERT Class 11 Physics Figure 3.19: An object executing uniform circular motion of radius r, showing the instantaneous velocity vector v directed along the tangent and the centripetal acceleration vector a_c directed towards the center O."
+    },
+    {
+      "id": 15,
+      "category": "Image-based",
+      "question": {
+        "en": "Referring to the parallelogram law diagram (NCERT Fig 3.2), if two equal magnitude vectors |A| = |B| = P act at an angle θ = 60° to each other, what is the magnitude of their resultant diagonal vector R?",
+        "hi": "समानांतर चतुर्भुज नियम आरेख (NCERT चित्र 3.2) के संदर्भ में, यदि दो समान परिमाण वाले सदिश |A| = |B| = P परस्पर θ = 60° के कोण पर कार्य करते हैं, तो उनके परिणामी विकर्ण सदिश R का परिमाण क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "P",
+          "hi": "P"
+        },
+        "B": {
+          "en": "√2 P",
+          "hi": "√2 P"
+        },
+        "C": {
+          "en": "√3 P",
+          "hi": "√3 P"
+        },
+        "D": {
+          "en": "2P",
+          "hi": "2P"
+        }
+      },
+      "image_reference": "NCERT Class 11 Physics Figure 3.2: Parallelogram law of vector addition, showing vectors A and B as adjacent sides of a parallelogram and resultant vector R as the diagonal from the common origin."
+    }
+  ]
+}

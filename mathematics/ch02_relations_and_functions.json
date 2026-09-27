@@ -1,0 +1,280 @@
+{
+  "test_metadata": {
+    "chapter": "Relations and Functions",
+    "chapter_number": 2,
+    "subject": "mathematics",
+    "level": "L1_NCERT_Grounding",
+    "tier": "📘 USUAL",
+    "target_exam": "JEE Main / JEE Advanced / NEET",
+    "total_questions": 10,
+    "distribution": {
+      "Theory": 4,
+      "Formula": 4,
+      "Image": 2
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the formal definition in NCERT, a relation f from a non-empty set A to a non-empty set B is called a function if:",
+        "hi": "NCERT की औपचारिक परिभाषा के अनुसार, एक अरिक्त समुच्चय A से एक अरिक्त समुच्चय B में एक संबंध f फलन कहलाता है यदि:"
+      },
+      "options": {
+        "A": {
+          "en": "Every element of set B has a unique pre-image in set A",
+          "hi": "समुच्चय B के प्रत्येक अवयव का समुच्चय A में एक अद्वितीय पूर्व-प्रतिबिंब हो"
+        },
+        "B": {
+          "en": "Every element of set A has one and only one image in set B",
+          "hi": "समुच्चय A के प्रत्येक अवयव का समुच्चय B में केवल और केवल एक ही प्रतिबिंब हो"
+        },
+        "C": {
+          "en": "Range of f is strictly equal to set A",
+          "hi": "f का परिसर निश्चित रूप से समुच्चय A के बराबर हो"
+        },
+        "D": {
+          "en": "At least one element of set A has multiple images in set B",
+          "hi": "समुच्चय A के कम से कम एक अवयव के समुच्चय B में एकाधिक प्रतिबिंब हों"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "In NCERT, what is the domain and range of the real Signum function f: R → R defined by f(x) = 1 (if x > 0), 0 (if x = 0), and -1 (if x < 0)?",
+        "hi": "NCERT में, f(x) = 1 (यदि x > 0), 0 (यदि x = 0), तथा -1 (यदि x < 0) द्वारा परिभाषित वास्तविक चिह्न फलन (Signum function) f: R → R का प्रांत और परिसर क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Domain = R, Range = [-1, 1]",
+          "hi": "प्रांत = R, परिसर = [-1, 1]"
+        },
+        "B": {
+          "en": "Domain = R, Range = {-1, 0, 1}",
+          "hi": "प्रांत = R, परिसर = {-1, 0, 1}"
+        },
+        "C": {
+          "en": "Domain = R - {0}, Range = {-1, 1}",
+          "hi": "प्रांत = R - {0}, परिसर = {-1, 1}"
+        },
+        "D": {
+          "en": "Domain = [0, ∞), Range = {0, 1}",
+          "hi": "प्रांत = [0, ∞), परिसर = {0, 1}"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "What is the domain and range of the Modulus function f: R → R defined by f(x) = |x| according to NCERT?",
+        "hi": "NCERT के अनुसार f(x) = |x| द्वारा परिभाषित मापांक फलन (Modulus function) f: R → R का प्रांत और परिसर क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Domain = R, Range = [0, ∞)",
+          "hi": "प्रांत = R, परिसर = [0, ∞)"
+        },
+        "B": {
+          "en": "Domain = [0, ∞), Range = R",
+          "hi": "प्रांत = [0, ∞), परिसर = R"
+        },
+        "C": {
+          "en": "Domain = R, Range = (-∞, 0]",
+          "hi": "प्रांत = R, परिसर = (-∞, 0]"
+        },
+        "D": {
+          "en": "Domain = R - {0}, Range = (0, ∞)",
+          "hi": "प्रांत = R - {0}, परिसर = (0, ∞)"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "Let R be a relation from set A to set B. What is the relation between the Range of R and the Co-domain B according to NCERT?",
+        "hi": "मान लीजिए कि R समुच्चय A से समुच्चय B में एक संबंध है। NCERT के अनुसार R के परिसर (Range) और सह-प्रांत (Co-domain) B के बीच क्या संबंध होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Range ⊆ Co-domain",
+          "hi": "परिसर ⊆ सह-प्रांत"
+        },
+        "B": {
+          "en": "Co-domain ⊂ Range always",
+          "hi": "सह-प्रांत ⊂ परिसर सदैव"
+        },
+        "C": {
+          "en": "Range ∩ Co-domain = ∅",
+          "hi": "परिसर ∩ सह-प्रांत = ∅"
+        },
+        "D": {
+          "en": "Range = Set A always",
+          "hi": "परिसर = समुच्चय A सदैव"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Formula-based",
+      "question": {
+        "en": "If set A has 3 elements and set B has 4 elements, using the NCERT formula n(A × B) = n(A) · n(B), how many elements are there in the Cartesian product A × B?",
+        "hi": "यदि समुच्चय A में 3 अवयव तथा समुच्चय B में 4 अवयव हैं, तो NCERT सूत्र n(A × B) = n(A) · n(B) का उपयोग करके कार्तीय गुणन A × B में कितने अवयव होंगे?"
+      },
+      "options": {
+        "A": {
+          "en": "7",
+          "hi": "7"
+        },
+        "B": {
+          "en": "12",
+          "hi": "12"
+        },
+        "C": {
+          "en": "64",
+          "hi": "64"
+        },
+        "D": {
+          "en": "81",
+          "hi": "81"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Formula-based",
+      "question": {
+        "en": "If set A = {1, 2} and set B = {3, 4}, using the formula for total number of relations from A to B as 2^(n(A)·n(B)) from NCERT, how many total relations can be defined from A to B?",
+        "hi": "यदि समुच्चय A = {1, 2} और समुच्चय B = {3, 4} है, तो NCERT से A से B में कुल संबंधों की संख्या के सूत्र 2^(n(A)·n(B)) का उपयोग करते हुए, A से B में कुल कितने संबंध परिभाषित किए जा सकते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "8",
+          "hi": "8"
+        },
+        "B": {
+          "en": "16",
+          "hi": "16"
+        },
+        "C": {
+          "en": "4",
+          "hi": "4"
+        },
+        "D": {
+          "en": "32",
+          "hi": "32"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "Find the domain of the real-valued function f(x) = √(9 - x²) using the NCERT condition that the expression under the square root must be non-negative (9 - x² ≥ 0).",
+        "hi": "NCERT शर्त कि वर्गमूल के अंतर्गत व्यंजक ऋणेतर होना चाहिए (9 - x² ≥ 0) का उपयोग करके वास्तविक फलन f(x) = √(9 - x²) का प्रांत ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "(-3, 3)",
+          "hi": "(-3, 3)"
+        },
+        "B": {
+          "en": "[-3, 3]",
+          "hi": "[-3, 3]"
+        },
+        "C": {
+          "en": "[0, 3]",
+          "hi": "[0, 3]"
+        },
+        "D": {
+          "en": "(-∞, -3] ∪ [3, ∞)",
+          "hi": "(-∞, -3] ∪ [3, ∞)"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "If f(x) = 2x + 1 and g(x) = x² - 3, using the standard NCERT algebra of functions rule (f + g)(x) = f(x) + g(x), what is the value of (f + g)(3)?",
+        "hi": "यदि f(x) = 2x + 1 और g(x) = x² - 3 है, तो फलनों के बीजगणित के मानक NCERT नियम (f + g)(x) = f(x) + g(x) का उपयोग करके, (f + g)(3) का मान क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "10",
+          "hi": "10"
+        },
+        "B": {
+          "en": "13",
+          "hi": "13"
+        },
+        "C": {
+          "en": "15",
+          "hi": "15"
+        },
+        "D": {
+          "en": "7",
+          "hi": "7"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Image-based",
+      "question": {
+        "en": "Referring to the step-graph of the Greatest Integer Function f(x) = [x] in NCERT (Fig 2.11), what is the value of f(-1.5) and the Range of this function?",
+        "hi": "NCERT में महत्तम पूर्णांक फलन f(x) = [x] के सीढ़ीदार आरेख (चित्र 2.11) के संदर्भ में, f(-1.5) का मान और इस फलन का परिसर क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "f(-1.5) = -1, Range = R",
+          "hi": "f(-1.5) = -1, परिसर = R"
+        },
+        "B": {
+          "en": "f(-1.5) = -2, Range = Z (set of integers)",
+          "hi": "f(-1.5) = -2, परिसर = Z (पूर्णांकों का समुच्चय)"
+        },
+        "C": {
+          "en": "f(-1.5) = -1.5, Range = [0, ∞)",
+          "hi": "f(-1.5) = -1.5, परिसर = [0, ∞)"
+        },
+        "D": {
+          "en": "f(-1.5) = 2, Range = Z",
+          "hi": "f(-1.5) = 2, परिसर = Z"
+        }
+      },
+      "image_reference": "NCERT Class 11 Mathematics Figure 2.11: Graph of the Greatest Integer Function f(x) = [x], showing horizontal step segments of length 1 with a solid closed circle at the left endpoint and an open circle at the right endpoint."
+    },
+    {
+      "id": 10,
+      "category": "Image-based",
+      "question": {
+        "en": "Looking at the V-shaped graph of the Modulus Function f(x) = |x| (NCERT Fig 2.9), about which line or axis is the entire graph symmetrical?",
+        "hi": "मापांक फलन f(x) = |x| के V-आकार के आरेख (NCERT चित्र 2.9) को देखने पर, संपूर्ण आरेख किस रेखा या अक्ष के परितः सममित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Symmetrical about the x-axis",
+          "hi": "x-अक्ष के परितः सममित"
+        },
+        "B": {
+          "en": "Symmetrical about the y-axis (line x = 0)",
+          "hi": "y-अक्ष (रेखा x = 0) के परितः सममित"
+        },
+        "C": {
+          "en": "Symmetrical about the line y = x",
+          "hi": "रेखा y = x के परितः सममित"
+        },
+        "D": {
+          "en": "Symmetrical about the origin (0, 0)",
+          "hi": "मूल बिंदु (0, 0) के परितः सममित"
+        }
+      },
+      "image_reference": "NCERT Class 11 Mathematics Figure 2.9: V-shaped graph of the Modulus Function f(x) = |x|, consisting of ray y = x for x ≥ 0 and ray y = -x for x < 0 meeting at the origin (0, 0)."
+    }
+  ]
+}
