@@ -1,12 +1,20 @@
-# MicroSprint JSON — NCERT Grounding Question Bank (Questions Only)
+# MicroSprint JSON — NCERT Grounding Question Bank (PCMB)
 
-This repository contains curated, NCERT-level grounding question papers (Level 1) for competitive STEM exams (**JEE Main, JEE Advanced, NEET UG**).
+Curated NCERT-level grounding question papers (Level 1) for competitive STEM exams (**JEE Main, JEE Advanced, NEET UG**).
 
-## 📌 Structure
-Questions are provided in bilingual format (**English + Hindi**) with full metadata and options (A, B, C, D).
-**Contains questions ONLY (no solutions or answer keys)** for student practice and automated assessment engines.
+## 📁 Repository Structure
+```
+microsprint-json/
+├── physics/                                    # Student Question Papers (Questions & Options ONLY)
+│   └── ch02_motion_in_a_straight_line.json
+├── solutions/                                  # Teacher Solutions (Step-by-step Bilingual Explanations & Answer Keys)
+│   └── physics/
+│       └── ch02_motion_in_a_straight_line_solution.json
+└── README.md
+```
 
-### Blueprint:
+## 📌 Blueprint Specs:
+- **Bilingual**: English + Hindi for all questions, options, and solutions.
 - **⭐ Important Topics (15 Questions)**:
   - 6 Theory-based
   - 6 Formula-based
