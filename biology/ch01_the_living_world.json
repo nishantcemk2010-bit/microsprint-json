@@ -1,0 +1,280 @@
+{
+  "test_metadata": {
+    "chapter": "The Living World",
+    "chapter_number": 1,
+    "subject": "biology",
+    "level": "L1_NCERT_Grounding",
+    "tier": "📘 USUAL",
+    "target_exam": "NEET UG",
+    "total_questions": 10,
+    "distribution": {
+      "Theory": 4,
+      "Formula": 4,
+      "Image": 2
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to NCERT, which of the following is considered a strictly 'defining property' of all living organisms without any exception?",
+        "hi": "NCERT के अनुसार, निम्नलिखित में से किसे बिना किसी अपवाद के सभी सजीवों का एक निश्चित 'परिभाषिक लक्षण' (defining property) माना जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Growth",
+          "hi": "वृद्धि"
+        },
+        "B": {
+          "en": "Reproduction",
+          "hi": "जनन"
+        },
+        "C": {
+          "en": "Cellular organisation and consciousness",
+          "hi": "कोशिकीय संगठन और चेतना (संवेदना)"
+        },
+        "D": {
+          "en": "Increase in body mass",
+          "hi": "शरीर के द्रव्यमान में वृद्धि"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the universal rules of binomial nomenclature established by Carolus Linnaeus, which of the following statements is INCORRECT?",
+        "hi": "कैरोलस लिनियस द्वारा स्थापित द्विपद नामकरण के सार्वभौमिक नियमों के अनुसार, निम्नलिखित में से कौन सा कथन गलत है?"
+      },
+      "options": {
+        "A": {
+          "en": "Biological names are generally in Latin and written in italics.",
+          "hi": "जैविक नाम प्रायः लैटिन भाषा में होते हैं और तिरछे (italics) अक्षरों में लिखे जाते हैं।"
+        },
+        "B": {
+          "en": "The first word represents the genus while the second word denotes the specific epithet.",
+          "hi": "पहला शब्द वंश (genus) को और दूसरा शब्द जाति संकेत-पद (specific epithet) को दर्शाता है।"
+        },
+        "C": {
+          "en": "Both words in a biological name, when handwritten, are separately underlined.",
+          "hi": "जैविक नाम के दोनों शब्दों को, जब हाथ से लिखा जाता है, तो अलग-अलग रेखांकित किया जाता है।"
+        },
+        "D": {
+          "en": "The specific epithet starts with a capital letter while the genus starts with a small letter.",
+          "hi": "जाति संकेत-पद बड़े (capital) अक्षर से और वंश छोटे (small) अक्षर से शुरू होता है।"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "As we navigate from Species to Kingdom in a taxonomic hierarchy, what happens to the number of common characteristics shared among organisms?",
+        "hi": "वर्गिकी पदानुक्रम में जब हम जाति (Species) से जगत (Kingdom) की ओर ऊपर जाते हैं, तो जीवों के बीच साझा किए जाने वाले उभयनिष्ठ लक्षणों की संख्या पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The number of common characteristics progressively decreases.",
+          "hi": "उभयनिष्ठ लक्षणों की संख्या उत्तरोत्तर घटती जाती है।"
+        },
+        "B": {
+          "en": "The number of common characteristics progressively increases.",
+          "hi": "उभयनिष्ठ लक्षणों की संख्या उत्तरोत्तर बढ़ती जाती है।"
+        },
+        "C": {
+          "en": "The number of common characteristics remains completely unchanged.",
+          "hi": "उभयनिष्ठ लक्षणों की संख्या पूरी तरह अपरिवर्तित रहती है।"
+        },
+        "D": {
+          "en": "It first decreases and then increases at the level of Class.",
+          "hi": "यह पहले घटती है और फिर वर्ग (Class) के स्तर पर बढ़ती है।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "What do the international standard abbreviations ICBN and ICZN stand for in biological nomenclature?",
+        "hi": "जैविक नामकरण में अंतरराष्ट्रीय मानक संक्षिप्त नाम ICBN और ICZN का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "International Code for Botanical Nomenclature and International Code of Zoological Nomenclature",
+          "hi": "इंटरनेशनल कोड फॉर बॉटनिकल नोमेनक्लेचर और इंटरनेशनल कोड ऑफ जूलॉजिकल नोमेनक्लेचर"
+        },
+        "B": {
+          "en": "Indian Code of Botanical Names and Indian Code of Zoological Names",
+          "hi": "इंडियन कोड ऑफ बॉटनिकल नेम्स और इंडियन कोड ऑफ जूलॉजिकल नेम्स"
+        },
+        "C": {
+          "en": "International Council of Biological Nomenclature and International Council of Zoological Nomenclature",
+          "hi": "इंटरनेशनल काउंसिल ऑफ बायोलॉजिकल नोमेनक्लेचर और इंटरनेशनल काउंसिल ऑफ जूलॉजिकल नोमेनक्लेचर"
+        },
+        "D": {
+          "en": "International Center of Botanical Nomenclature and International Center of Zoological Nomenclature",
+          "hi": "इंटरनेशनल सेंटर ऑफ बॉटनिकल नोमेनक्लेचर और इंटरनेशनल सेंटर ऑफ जूलॉजिकल नोमेनक्लेचर"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Formula-based",
+      "question": {
+        "en": "In the correctly written scientific name Mangifera indica Linn., what does the word 'Linn.' signify at the end of the binomial designation?",
+        "hi": "सही ढंग से लिखे गए वैज्ञानिक नाम Mangifera indica Linn. में द्विपद नाम के अंत में 'Linn.' शब्द क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "It indicates that the plant was first described by Carolus Linnaeus.",
+          "hi": "यह दर्शाता है कि इस पादप का सबसे पहले वर्णन कैरोलस लिनियस द्वारा किया गया था।"
+        },
+        "B": {
+          "en": "It indicates the sub-variety of the mango fruit.",
+          "hi": "यह आम के फल की उप-किस्म को दर्शाता है।"
+        },
+        "C": {
+          "en": "It represents the language in which the plant is found locally.",
+          "hi": "यह उस भाषा को दर्शाता है जिसमें यह पादप स्थानीय रूप से पाया जाता है।"
+        },
+        "D": {
+          "en": "It denotes that the species is extinct in nature.",
+          "hi": "यह दर्शाता है कि यह प्रजाति प्रकृति में विलुप्त हो चुकी है।"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Formula-based",
+      "question": {
+        "en": "Which of the following represents the correct taxonomic classification of Man (Homo sapiens) in ascending order from Family to Phylum according to NCERT Table 1.1?",
+        "hi": "NCERT तालिका 1.1 के अनुसार कुल (Family) से संघ (Phylum) तक बढ़ते क्रम में मानव (Homo sapiens) का सही वर्गिकी वर्गीकरण निम्नलिखित में से कौन सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hominidae → Primata → Mammalia → Chordata",
+          "hi": "होमिनिडी (Hominidae) → प्राइमाटा (Primata) → मैमेलिया (Mammalia) → कॉर्डेटा (Chordata)"
+        },
+        "B": {
+          "en": "Primata → Hominidae → Mammalia → Chordata",
+          "hi": "प्राइमाटा → होमिनिडी → मैमेलिया → कॉर्डेटा"
+        },
+        "C": {
+          "en": "Hominidae → Mammalia → Primata → Chordata",
+          "hi": "होमिनिडी → मैमेलिया → प्राइमाटा → कॉर्डेटा"
+        },
+        "D": {
+          "en": "Chordata → Mammalia → Primata → Hominidae",
+          "hi": "कॉर्डेटा → मैमेलिया → प्राइमाटा → होमिनिडी"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "According to NCERT Table 1.1, which Family and Order does the common Housefly (Musca domestica) belong to?",
+        "hi": "NCERT तालिका 1.1 के अनुसार, घरेलू मक्खी (Musca domestica) किस कुल (Family) और गण (Order) से संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Family: Muscidae, Order: Diptera",
+          "hi": "कुल: मसीडी (Muscidae), गण: डिप्टेरा (Diptera)"
+        },
+        "B": {
+          "en": "Family: Diptera, Order: Muscidae",
+          "hi": "कुल: डिप्टेरा, गण: मसीडी"
+        },
+        "C": {
+          "en": "Family: Arthropoda, Order: Insecta",
+          "hi": "कुल: आर्थ्रोपोडा, गण: इन्सेक्टा"
+        },
+        "D": {
+          "en": "Family: Hominidae, Order: Diptera",
+          "hi": "कुल: होमिनिडी, गण: डिप्टेरा"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "Which of the following correctly pairs related Genera with their common Family according to NCERT examples?",
+        "hi": "NCERT के उदाहरणों के अनुसार निम्नलिखित में से कौन सा संबंधित वंशों (Genera) को उनके उभयनिष्ठ कुल (Family) के साथ सही रूप से सुमेलित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Genera Solanum, Petunia, and Datura are placed in Family Solanaceae.",
+          "hi": "वंश सोलेनम (Solanum), पिटूनिया (Petunia) और धतूरा (Datura) कुल सोलेनेसी (Solanaceae) में रखे गए हैं।"
+        },
+        "B": {
+          "en": "Genera Panthera and Felis are placed in Family Canidae.",
+          "hi": "वंश पैंथेरा और फेलिस कुल कैनिडी (Canidae) में रखे गए हैं।"
+        },
+        "C": {
+          "en": "Genera Homo and Musca are placed in Family Muscidae.",
+          "hi": "वंश होमो और मस्का कुल मसीडी में रखे गए हैं।"
+        },
+        "D": {
+          "en": "Genera Mangifera and Triticum are placed in Family Poaceae.",
+          "hi": "वंश मैंजीफेरा और ट्रिटिकम कुल पोएसी में रखे गए हैं।"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Figure 1.1: Taxonomic categories showing hierarchical arrangement in ascending order depicted as stepping blocks: Species → Genus → Family → [ ? ] → Class → Division/Phylum → Kingdom.",
+      "question": {
+        "en": "In the taxonomic hierarchy stepping ladder diagram in NCERT, which obligatory category occupies the bracketed position [ ? ] between Family and Class?",
+        "hi": "NCERT में वर्गिकी पदानुक्रम सीढ़ी आरेख में, कुल (Family) और वर्ग (Class) के बीच कोष्ठक वाली स्थिति [ ? ] में कौन सा अनिवार्य संवर्ग आता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cohort",
+          "hi": "कोहॉर्ट"
+        },
+        "B": {
+          "en": "Order (गण)",
+          "hi": "गण (Order)"
+        },
+        "C": {
+          "en": "Tribe",
+          "hi": "ट्राइब"
+        },
+        "D": {
+          "en": "Subfamily",
+          "hi": "उपकुल"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Section 1.4: Diagrammatic illustration of a standard Herbarium Sheet (measuring standard 41 cm × 29 cm) showing a pressed and dried plant specimen affixed in the center, with a standard informational label affixed at the lower right-hand corner.",
+      "question": {
+        "en": "According to NCERT, which piece of information is NOT typically recorded on the label pasted at the lower right-hand corner of a standard herbarium sheet?",
+        "hi": "NCERT के अनुसार, एक मानक हर्बेरियम शीट के निचले दाएँ कोने पर चिपकाए गए लेबल पर आमतौर पर कौन सी जानकारी दर्ज नहीं की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Date and place of collection",
+          "hi": "एकत्र करने की तिथि और स्थान"
+        },
+        "B": {
+          "en": "English, local, and botanical names along with Family and Collector's name",
+          "hi": "अंग्रेजी, स्थानीय और वानस्पतिक नाम तथा कुल और संग्रहकर्ता का नाम"
+        },
+        "C": {
+          "en": "Height of the living tree in meters and exact root depth",
+          "hi": "जीवित वृक्ष की मीटर में ऊंचाई और सटीक जड़ की गहराई"
+        },
+        "D": {
+          "en": "Family of the plant specimen",
+          "hi": "पादप नमूने का कुल"
+        }
+      }
+    }
+  ]
+}

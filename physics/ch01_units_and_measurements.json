@@ -1,0 +1,280 @@
+{
+  "test_metadata": {
+    "chapter": "Units and Measurements",
+    "chapter_number": 1,
+    "subject": "physics",
+    "level": "L1_NCERT_Grounding",
+    "tier": "📘 USUAL",
+    "target_exam": "JEE Main / JEE Advanced / NEET",
+    "total_questions": 10,
+    "distribution": {
+      "Theory": 4,
+      "Formula": 4,
+      "Image": 2
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following physical quantities has the same dimensions as Planck's constant (h)?",
+        "hi": "निम्नलिखित में से किस भौतिक राशि की विमाएँ प्लांक नियतांक (h) के समान हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Linear momentum",
+          "hi": "रैखिक संवेग"
+        },
+        "B": {
+          "en": "Angular momentum",
+          "hi": "कोणीय संवेग"
+        },
+        "C": {
+          "en": "Work",
+          "hi": "कार्य"
+        },
+        "D": {
+          "en": "Power",
+          "hi": "शक्ति"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the NCERT rules for significant figures, how many significant figures are there in the measurement 0.005080 m?",
+        "hi": "सार्थक अंकों के लिए NCERT नियमों के अनुसार, माप 0.005080 m में कितने सार्थक अंक हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "3",
+          "hi": "3"
+        },
+        "B": {
+          "en": "4",
+          "hi": "4"
+        },
+        "C": {
+          "en": "6",
+          "hi": "6"
+        },
+        "D": {
+          "en": "7",
+          "hi": "7"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following is a fundamental limitation of dimensional analysis according to NCERT?",
+        "hi": "NCERT के अनुसार विमीय विश्लेषण की निम्नलिखित में से कौन सी एक मूलभूत सीमा है?"
+      },
+      "options": {
+        "A": {
+          "en": "It cannot determine the value of dimensionless proportionality constants.",
+          "hi": "यह विमाहीन समानुपाती नियतांकों का मान निर्धारित नहीं कर सकता।"
+        },
+        "B": {
+          "en": "It cannot verify the correctness of a formula involving powers of mass, length, and time.",
+          "hi": "यह द्रव्यमान, लंबाई और समय की घातों वाले सूत्र की सत्यता की पुष्टि नहीं कर सकता।"
+        },
+        "C": {
+          "en": "It cannot be used to convert units from one system to another.",
+          "hi": "इसका उपयोग मात्रकों को एक पद्धति से दूसरी पद्धति में बदलने के लिए नहीं किया जा सकता।"
+        },
+        "D": {
+          "en": "It cannot determine dimensions of derived physical quantities.",
+          "hi": "यह व्युत्पन्न भौतिक राशियों की विमाएं निर्धारित नहीं कर सकता।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "Errors that tend to occur in one direction, either consistently positive or consistently negative, are classified in NCERT as:",
+        "hi": "वे त्रुटियाँ जो एक ही दिशा में प्रवृत्त होती हैं, या तो लगातार धनात्मक या लगातार ऋणात्मक, उन्हें NCERT में किस रूप में वर्गीकृत किया गया है?"
+      },
+      "options": {
+        "A": {
+          "en": "Random errors",
+          "hi": "यादृच्छिक त्रुटियाँ"
+        },
+        "B": {
+          "en": "Systematic errors",
+          "hi": "क्रमबद्ध त्रुटियाँ"
+        },
+        "C": {
+          "en": "Least count errors only",
+          "hi": "केवल अल्पतमांक त्रुटियाँ"
+        },
+        "D": {
+          "en": "Gross human observational mistakes",
+          "hi": "सकल मानवीय प्रेक्षणात्मक गलतियाँ"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Formula-based",
+      "question": {
+        "en": "A physical quantity is given by X = A² B / C. If the percentage errors in measuring A, B, and C are 1%, 2%, and 3% respectively, use the fractional error formula (ΔX/X = 2(ΔA/A) + ΔB/B + ΔC/C) to calculate the maximum percentage error in X.",
+        "hi": "एक भौतिक राशि X = A² B / C द्वारा दी जाती है। यदि A, B और C के मापन में प्रतिशत त्रुटियाँ क्रमशः 1%, 2% और 3% हैं, तो भिन्नात्मक त्रुटि सूत्र (ΔX/X = 2(ΔA/A) + ΔB/B + ΔC/C) का उपयोग करके X में अधिकतम प्रतिशत त्रुटि की गणना कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "4%",
+          "hi": "4%"
+        },
+        "B": {
+          "en": "6%",
+          "hi": "6%"
+        },
+        "C": {
+          "en": "7%",
+          "hi": "7%"
+        },
+        "D": {
+          "en": "9%",
+          "hi": "9%"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Formula-based",
+      "question": {
+        "en": "In a Vernier Calliper, 1 main scale division (1 MSD) equals 1 mm, and 10 Vernier scale divisions coincide with 9 main scale divisions (10 VSD = 9 MSD). Using the formula Least Count (LC) = 1 MSD - 1 VSD, calculate the least count of the instrument.",
+        "hi": "एक वर्नियर कैलिपर्स में, 1 मुख्य पैमाना प्रभाग (1 MSD) 1 mm के बराबर है, और 10 वर्नियर पैमाना प्रभाग 9 मुख्य पैमाना प्रभागों के संपाती हैं (10 VSD = 9 MSD)। अल्पतमांक सूत्र (LC) = 1 MSD - 1 VSD का उपयोग करके उपकरण का अल्पतमांक ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "0.01 mm",
+          "hi": "0.01 mm"
+        },
+        "B": {
+          "en": "0.1 mm",
+          "hi": "0.1 mm"
+        },
+        "C": {
+          "en": "0.5 mm",
+          "hi": "0.5 mm"
+        },
+        "D": {
+          "en": "0.9 mm",
+          "hi": "0.9 mm"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "A screw gauge has a pitch of p = 0.5 mm and contains N = 50 divisions on its circular scale. Using the primary formula Least Count (LC) = Pitch / N, calculate the least count of this screw gauge.",
+        "hi": "एक स्क्रू गेज का चूड़ी अंतराल p = 0.5 mm है और इसके वृत्ताकार पैमाने पर N = 50 प्रभाग हैं। मूल सूत्र अल्पतमांक (LC) = चूड़ी अंतराल / N का उपयोग करके इस स्क्रू गेज का अल्पतमांक ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "0.001 mm",
+          "hi": "0.001 mm"
+        },
+        "B": {
+          "en": "0.01 mm",
+          "hi": "0.01 mm"
+        },
+        "C": {
+          "en": "0.05 mm",
+          "hi": "0.05 mm"
+        },
+        "D": {
+          "en": "0.1 mm",
+          "hi": "0.1 mm"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "The period of oscillation of a simple pendulum is T = 2π √(L/g). Measured values are L = 20.0 cm known to 1 mm accuracy and time for 100 oscillations is t = 90 s measured with a stop watch of 1 s resolution. Using the relative error relation Δg/g = ΔL/L + 2(ΔT/T), calculate the percentage error in the determination of g.",
+        "hi": "एक सरल लोलक का दोलनकाल T = 2π √(L/g) है। मापे गए मान L = 20.0 cm (1 mm परिशुद्धता तक) हैं और 100 दोलनों का समय t = 90 s (1 s विभेदन वाली स्टॉपवॉच से) है। आपेक्षिक त्रुटि संबंध Δg/g = ΔL/L + 2(ΔT/T) का उपयोग करके g के निर्धारण में प्रतिशत त्रुटि की गणना कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "1.5%",
+          "hi": "1.5%"
+        },
+        "B": {
+          "en": "2.7%",
+          "hi": "2.7%"
+        },
+        "C": {
+          "en": "3.5%",
+          "hi": "3.5%"
+        },
+        "D": {
+          "en": "5.0%",
+          "hi": "5.0%"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Image-based",
+      "image_reference": "NCERT Physics Class XI, Section 1.5 & Practical Guide: Diagram of a Vernier Calliper when both jaws are in contact with no object between them, where the zero mark of the Vernier scale lies to the right of the zero mark of the main scale by 3 divisions (Least Count = 0.1 mm).",
+      "question": {
+        "en": "In the described zero-error diagram where the Vernier zero mark lies to the right of the main scale zero mark by 3 divisions, what is the zero error and the corresponding zero correction to be applied to any subsequent measurement?",
+        "hi": "वर्णित शून्य त्रुटि आरेख में जहाँ वर्नियर का शून्य चिह्न मुख्य पैमाने के शून्य चिह्न के दाईं ओर 3 प्रभाग आगे है, शून्य त्रुटि और किसी आगामी मापन पर लागू होने वाला संगत शून्य संशोधन क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Zero error = +0.3 mm, Zero correction = -0.3 mm",
+          "hi": "शून्य त्रुटि = +0.3 mm, शून्य संशोधन = -0.3 mm"
+        },
+        "B": {
+          "en": "Zero error = -0.3 mm, Zero correction = +0.3 mm",
+          "hi": "शून्य त्रुटि = -0.3 mm, शून्य संशोधन = +0.3 mm"
+        },
+        "C": {
+          "en": "Zero error = +0.03 mm, Zero correction = -0.03 mm",
+          "hi": "शून्य त्रुटि = +0.03 mm, शून्य संशोधन = -0.03 mm"
+        },
+        "D": {
+          "en": "Zero error = 0, no correction required",
+          "hi": "शून्य त्रुटि = 0, किसी संशोधन की आवश्यकता नहीं"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Image-based",
+      "image_reference": "NCERT Laboratory Manual & Textbook: Screw gauge reading diagram showing Main Scale Reading (MSR) = 3.0 mm and Circular Scale division coinciding with reference baseline = 24th division (Least count = 0.01 mm, zero error = 0).",
+      "question": {
+        "en": "Based on the described screw gauge reading diagram (MSR = 3.0 mm, circular division = 24, LC = 0.01 mm), what is the measured diameter of the wire using the formula Total Reading = MSR + (Circular Division × LC)?",
+        "hi": "वर्णित स्क्रू गेज पाठ्यांक आरेख (MSR = 3.0 mm, वृत्ताकार प्रभाग = 24, LC = 0.01 mm) के आधार पर, कुल पाठ्यांक = MSR + (वृत्ताकार प्रभाग × LC) सूत्र का उपयोग करते हुए तार का मापा गया व्यास क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "3.024 mm",
+          "hi": "3.024 mm"
+        },
+        "B": {
+          "en": "3.24 mm",
+          "hi": "3.24 mm"
+        },
+        "C": {
+          "en": "3.48 mm",
+          "hi": "3.48 mm"
+        },
+        "D": {
+          "en": "5.40 mm",
+          "hi": "5.40 mm"
+        }
+      }
+    }
+  ]
+}

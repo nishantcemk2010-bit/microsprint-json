@@ -1,0 +1,411 @@
+{
+  "test_metadata": {
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "subject": "chemistry",
+    "level": "L1_NCERT_Grounding",
+    "tier": "⭐ IMPORTANT",
+    "target_exam": "JEE Main / JEE Advanced / NEET",
+    "total_questions": 15,
+    "distribution": {
+      "Theory": 6,
+      "Formula": 6,
+      "Image": 3
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "Why does molality (m) remain independent of temperature, whereas molarity (M) changes with temperature?",
+        "hi": "मोललता (m) तापमान से अप्रभावित क्यों रहती है, जबकि मोलरता (M) तापमान के साथ बदल जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Molality involves mass of solvent which does not change with temperature, while molarity involves volume of solution which expands or contracts.",
+          "hi": "मोललता में विलायक का द्रव्यमान शामिल होता है जो तापमान के साथ नहीं बदलता, जबकि मोलरता में विलयन का आयतन शामिल होता है जो फैलता या सिकुड़ता है।"
+        },
+        "B": {
+          "en": "Molarity depends on the mass of solute while molality depends on volume.",
+          "hi": "मोलरता विलेय के द्रव्यमान पर निर्भर करती है जबकि मोललता आयतन पर निर्भर करती है।"
+        },
+        "C": {
+          "en": "Both molality and molarity are temperature independent according to NCERT.",
+          "hi": "NCERT के अनुसार मोललता और मोलरता दोनों तापमान से स्वतंत्र हैं।"
+        },
+        "D": {
+          "en": "Molality is defined only for ideal gases where volume is constant.",
+          "hi": "मोललता केवल आदर्श गैसों के लिए परिभाषित है जहाँ आयतन स्थिर होता है।"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "Two elements X and Y combine to form two different compounds XY and XY₂. The masses of Y that combine with a fixed mass of X are in the ratio 1:2. Which fundamental law of chemical combination does this illustrate?",
+        "hi": "दो तत्व X और Y संयोग करके दो भिन्न यौगिक XY और XY₂ बनाते हैं। X के एक निश्चित द्रव्यमान के साथ संयोग करने वाले Y के द्रव्यमान 1:2 के अनुपात में हैं। यह रासायनिक संयोग के किस मूलभूत नियम को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Law of Definite Proportions",
+          "hi": "स्थिर अनुपात का नियम"
+        },
+        "B": {
+          "en": "Law of Multiple Proportions",
+          "hi": "गुणित अनुपात का नियम"
+        },
+        "C": {
+          "en": "Law of Conservation of Mass",
+          "hi": "द्रव्यमान संरक्षण का नियम"
+        },
+        "D": {
+          "en": "Gay-Lussac's Law of Gaseous Volumes",
+          "hi": "गे-लुसाक का गैसीय आयतन का नियम"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "In a stoichiometric reaction, what defines the 'limiting reagent' according to NCERT fundamentals?",
+        "hi": "रससमीकरणमितीय (स्टॉइकियोमीट्रिक) अभिक्रिया में, NCERT के मूलभूत सिद्धांतों के अनुसार 'सीमांत अभिकर्मक' (limiting reagent) को क्या परिभाषित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The reactant present in the smallest physical mass in grams.",
+          "hi": "वह अभिकारक जो ग्राम में सबसे कम भौतिक द्रव्यमान में उपस्थित होता है।"
+        },
+        "B": {
+          "en": "The reactant that gets completely consumed first and limits the maximum amount of product formed.",
+          "hi": "वह अभिकारक जो सबसे पहले पूरी तरह समाप्त हो जाता है और बनने वाले उत्पाद की अधिकतम मात्रा को सीमित करता है।"
+        },
+        "C": {
+          "en": "The reactant that has the highest stoichiometric coefficient.",
+          "hi": "वह अभिकारक जिसका रससमीकरणमितीय गुणांक सबसे अधिक होता है।"
+        },
+        "D": {
+          "en": "The reactant that remains unreacted at the end of the reaction.",
+          "hi": "वह अभिकारक जो अभिक्रिया के अंत में बिना क्रिया किए शेष रह जाता है।"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following pairs of compounds have the same empirical formula?",
+        "hi": "निम्नलिखित में से किस यौगिक युग्म का मूलानुपाती सूत्र (empirical formula) समान है?"
+      },
+      "options": {
+        "A": {
+          "en": "CH₄ and C₂H₆",
+          "hi": "CH₄ और C₂H₆"
+        },
+        "B": {
+          "en": "C₂H₂ (ethyne) and C₆H₆ (benzene)",
+          "hi": "C₂H₂ (एथाइन) और C₆H₆ (बेंजीन)"
+        },
+        "C": {
+          "en": "CO and CO₂",
+          "hi": "CO और CO₂"
+        },
+        "D": {
+          "en": "H₂O and H₂O₂",
+          "hi": "H₂O और H₂O₂"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to Avogadro's Law, equal volumes of all gases under the same conditions of temperature and pressure contain:",
+        "hi": "आवोगाद्रो के नियम के अनुसार, समान ताप और दाब की परिस्थितियों में सभी गैसों के समान आयतन में होते हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Equal mass",
+          "hi": "समान द्रव्यमान"
+        },
+        "B": {
+          "en": "Equal number of molecules",
+          "hi": "अणुओं की समान संख्या"
+        },
+        "C": {
+          "en": "Equal number of atoms",
+          "hi": "परमाणुओं की समान संख्या"
+        },
+        "D": {
+          "en": "Equal density",
+          "hi": "समान घनत्व"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Theory-based",
+      "question": {
+        "en": "The sum of the mole fractions of all components in any solution is always strictly equal to:",
+        "hi": "किसी भी विलयन में सभी घटकों के मोल प्रभाज (mole fraction) का योग हमेशा किसके बराबर होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "0",
+          "hi": "0"
+        },
+        "B": {
+          "en": "1",
+          "hi": "1"
+        },
+        "C": {
+          "en": "100",
+          "hi": "100"
+        },
+        "D": {
+          "en": "Molar mass of the solvent",
+          "hi": "विलायक का मोलर द्रव्यमान"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "A sample contains m = 36.0 g of glucose (C₆H₁₂O₆, molar mass M = 180.0 g/mol). Using the primary formula n = m / M, calculate the number of moles of glucose present.",
+        "hi": "एक नमूने में m = 36.0 g ग्लूकोज (C₆H₁₂O₆, मोलर द्रव्यमान M = 180.0 g/mol) है। मूल सूत्र n = m / M का उपयोग करके उपस्थित ग्लूकोज के मोलों की संख्या ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "0.1 mol",
+          "hi": "0.1 mol"
+        },
+        "B": {
+          "en": "0.2 mol",
+          "hi": "0.2 mol"
+        },
+        "C": {
+          "en": "0.5 mol",
+          "hi": "0.5 mol"
+        },
+        "D": {
+          "en": "2.0 mol",
+          "hi": "2.0 mol"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "A chemist dissolves m = 4.0 g of NaOH (molar mass M = 40.0 g/mol) in water to make V = 250 mL of solution. Using the formula Molarity = (moles of solute) / (Volume in Liters), calculate the molarity (M) of the solution.",
+        "hi": "एक रसायनज्ञ 250 mL विलयन बनाने के लिए m = 4.0 g NaOH (मोलर द्रव्यमान M = 40.0 g/mol) को जल में घोलता है। सूत्र मोलरता = (विलेय के मोल) / (लीटर में आयतन) का उपयोग करके विलयन की मोलरता (M) ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "0.1 M",
+          "hi": "0.1 M"
+        },
+        "B": {
+          "en": "0.2 M",
+          "hi": "0.2 M"
+        },
+        "C": {
+          "en": "0.4 M",
+          "hi": "0.4 M"
+        },
+        "D": {
+          "en": "1.0 M",
+          "hi": "1.0 M"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Formula-based",
+      "question": {
+        "en": "A solution contains 18 g of glucose (molar mass = 180 g/mol) dissolved in 90 g of water (H₂O, molar mass = 18 g/mol). Using the mole fraction formula x_glucose = n_glucose / (n_glucose + n_water), calculate the mole fraction of glucose.",
+        "hi": "एक विलयन में 18 g ग्लूकोज (मोलर द्रव्यमान = 180 g/mol) 90 g जल (H₂O, मोलर द्रव्यमान = 18 g/mol) में घुला है। मोल प्रभाज सूत्र x_ग्लूकोज = n_ग्लूकोज / (n_ग्लूकोज + n_जल) का उपयोग करके ग्लूकोज का मोल प्रभाज ज्ञात कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "0.0196 (approx 0.02)",
+          "hi": "0.0196 (लगभग 0.02)"
+        },
+        "B": {
+          "en": "0.100",
+          "hi": "0.100"
+        },
+        "C": {
+          "en": "0.166",
+          "hi": "0.166"
+        },
+        "D": {
+          "en": "0.200",
+          "hi": "0.200"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Formula-based",
+      "question": {
+        "en": "In the reaction 2H₂ + O₂ → 2H₂O, 4.0 g of H₂ (molar mass = 2.0 g/mol) reacts with 32.0 g of O₂ (molar mass = 32.0 g/mol). Using stoichiometric mole-mole relationships, calculate the maximum mass of water (H₂O, molar mass = 18.0 g/mol) formed.",
+        "hi": "अभिक्रिया 2H₂ + O₂ → 2H₂O में, 4.0 g H₂ (मोलर द्रव्यमान = 2.0 g/mol) 32.0 g O₂ (मोलर द्रव्यमान = 32.0 g/mol) के साथ क्रिया करता है। रससमीकरणमितीय मोल-मोल संबंधों का उपयोग करके बनने वाले जल (H₂O, मोलर द्रव्यमान = 18.0 g/mol) का अधिकतम द्रव्यमान परिकलित कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "18.0 g",
+          "hi": "18.0 g"
+        },
+        "B": {
+          "en": "36.0 g",
+          "hi": "36.0 g"
+        },
+        "C": {
+          "en": "72.0 g",
+          "hi": "72.0 g"
+        },
+        "D": {
+          "en": "4.0 g",
+          "hi": "4.0 g"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "category": "Formula-based",
+      "question": {
+        "en": "An organic compound contains 40.0% Carbon, 6.7% Hydrogen, and 53.3% Oxygen by mass. If atomic masses are C = 12, H = 1, O = 16, what is the empirical formula of the compound?",
+        "hi": "एक कार्बनिक यौगिक में द्रव्यमान अनुसार 40.0% कार्बन, 6.7% हाइड्रोजन और 53.3% ऑक्सीजन है। यदि परमाणु द्रव्यमान C = 12, H = 1, O = 16 हैं, तो यौगिक का मूलानुपाती सूत्र (empirical formula) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "CHO",
+          "hi": "CHO"
+        },
+        "B": {
+          "en": "CH₂O",
+          "hi": "CH₂O"
+        },
+        "C": {
+          "en": "C₂H₄O",
+          "hi": "C₂H₄O"
+        },
+        "D": {
+          "en": "CH₄O",
+          "hi": "CH₄O"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "category": "Formula-based",
+      "question": {
+        "en": "What volume (V₁) of concentrated 10.0 M HCl solution is required to prepare V₂ = 500 mL of a diluted 0.50 M HCl solution using the dilution equation M₁V₁ = M₂V₂?",
+        "hi": "तनुकरण समीकरण M₁V₁ = M₂V₂ का उपयोग करके तनु 0.50 M HCl के V₂ = 500 mL विलयन को तैयार करने के लिए सांद्र 10.0 M HCl विलयन के कितने आयतन (V₁) की आवश्यकता होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "10 mL",
+          "hi": "10 mL"
+        },
+        "B": {
+          "en": "25 mL",
+          "hi": "25 mL"
+        },
+        "C": {
+          "en": "50 mL",
+          "hi": "50 mL"
+        },
+        "D": {
+          "en": "100 mL",
+          "hi": "100 mL"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "Image-based",
+      "image_reference": "NCERT Chemistry Class XI, Figure 1.8: Combustion analysis apparatus for determination of empirical formula, consisting of a combustion tube heated in a furnace, connected sequentially to an absorption U-tube containing anhydrous calcium chloride (CaCl₂) and a second U-tube containing potassium hydroxide (KOH) solution.",
+      "question": {
+        "en": "In the described Liebig's combustion analysis apparatus, which specific products of combustion are absorbed respectively by anhydrous CaCl₂ and by KOH solution?",
+        "hi": "लीबिग के वर्णित दहन विश्लेषण उपकरण में, निर्जल CaCl₂ और KOH विलयन द्वारा क्रमशः दहन के कौन से विशिष्ट उत्पाद अवशोषित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Anhydrous CaCl₂ absorbs CO₂, and KOH absorbs H₂O.",
+          "hi": "निर्जल CaCl₂ CO₂ को अवशोषित करता है, और KOH H₂O को अवशोषित करता है।"
+        },
+        "B": {
+          "en": "Anhydrous CaCl₂ absorbs H₂O, and KOH absorbs CO₂.",
+          "hi": "निर्जल CaCl₂ H₂O को अवशोषित करता है, और KOH CO₂ को अवशोषित करता है।"
+        },
+        "C": {
+          "en": "Both U-tubes absorb unreacted oxygen gas.",
+          "hi": "दोनों U-नलियाँ अक्रियाशील ऑक्सीजन गैस को अवशोषित करती हैं।"
+        },
+        "D": {
+          "en": "Anhydrous CaCl₂ absorbs N₂, and KOH absorbs H₂.",
+          "hi": "निर्जल CaCl₂ N₂ को अवशोषित करता है, और KOH H₂ को अवशोषित करता है।"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "category": "Image-based",
+      "image_reference": "NCERT Chemistry Class XI, Section 1.10: Diagram of a standard volumetric measuring flask (1.0 L capacity) showing the etched circular calibration line on the narrow neck and the correct eye level alignment for reading the liquid meniscus.",
+      "question": {
+        "en": "When preparing a standard aqueous solution in the calibrated volumetric flask described in NCERT, at which point should the water level be aligned with the calibration mark at eye level?",
+        "hi": "NCERT में वर्णित अंशांकित मापक फ्लास्क में एक मानक जलीय विलयन तैयार करते समय, आँख के स्तर पर जल स्तर को अंशांकन चिह्न के साथ किस बिंदु पर संरेखित किया जाना चाहिए?"
+      },
+      "options": {
+        "A": {
+          "en": "The upper edge of the meniscus should touch the mark.",
+          "hi": "मेनिस्कस का ऊपरी किनारा चिह्न को छूना चाहिए।"
+        },
+        "B": {
+          "en": "The lowest point of the concave meniscus should coincide with the calibration mark.",
+          "hi": "अवतल मेनिस्कस का सबसे निचला बिंदु अंशांकन चिह्न के संपाती होना चाहिए।"
+        },
+        "C": {
+          "en": "Any point midway between top and bottom meniscus.",
+          "hi": "शीर्ष और तल मेनिस्कस के बीच का कोई भी मध्य बिंदु।"
+        },
+        "D": {
+          "en": "1 cm above the etched mark to allow for evaporation.",
+          "hi": "वाष्पीकरण को ध्यान में रखते हुए उत्कीर्ण चिह्न से 1 cm ऊपर।"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "category": "Image-based",
+      "image_reference": "NCERT Chemistry Class XI, Section 1.9 & Figure: Schematic molecular representation of reaction stoichiometry where 2 volumes (each box containing 4 H₂ diatomic molecules) combine with 1 volume (box containing 4 O₂ molecules) to yield 2 volumes of water vapor (each box containing 4 H₂O molecules).",
+      "question": {
+        "en": "According to the molecular particle box diagram illustrating Gay-Lussac's and Avogadro's laws for 2H₂ + O₂ → 2H₂O, if 100 mL of H₂ gas reacts completely with 50 mL of O₂ gas at constant temperature and pressure, what is the volume of water vapor produced?",
+        "hi": "2H₂ + O₂ → 2H₂O के लिए गे-लुसाक और आवोगाद्रो के नियमों को दर्शाने वाले आणविक कण बॉक्स आरेख के अनुसार, यदि स्थिर ताप और दाब पर 100 mL H₂ गैस 50 mL O₂ गैस के साथ पूर्णतः क्रिया करती है, तो बनने वाले जलवाष्प का आयतन क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "50 mL",
+          "hi": "50 mL"
+        },
+        "B": {
+          "en": "100 mL",
+          "hi": "100 mL"
+        },
+        "C": {
+          "en": "150 mL",
+          "hi": "150 mL"
+        },
+        "D": {
+          "en": "200 mL",
+          "hi": "200 mL"
+        }
+      }
+    }
+  ]
+}

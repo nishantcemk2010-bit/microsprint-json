@@ -1,0 +1,411 @@
+{
+  "test_metadata": {
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "subject": "biology",
+    "level": "L1_NCERT_Grounding",
+    "tier": "⭐ IMPORTANT",
+    "target_exam": "NEET UG",
+    "total_questions": 15,
+    "distribution": {
+      "Theory": 6,
+      "Formula": 6,
+      "Image": 3
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following was NOT among the main criteria used by R.H. Whittaker (1969) for the Five Kingdom Classification?",
+        "hi": "निम्नलिखित में से कौन सा आर.एच. व्हिटेकर (1969) द्वारा पाँच जगत वर्गीकरण के लिए उपयोग किए गए मुख्य मानदंडों में शामिल नहीं था?"
+      },
+      "options": {
+        "A": {
+          "en": "Cell structure and thallus organisation",
+          "hi": "कोशिका संरचना और थैलस (कायिक) संगठन"
+        },
+        "B": {
+          "en": "Mode of nutrition and reproduction",
+          "hi": "पोषण की विधि और जनन"
+        },
+        "C": {
+          "en": "Phylogenetic relationships",
+          "hi": "जातिवृत्तीय (विकासवादी) संबंध"
+        },
+        "D": {
+          "en": "Presence or absence of blood vascular system",
+          "hi": "रक्त संवहनी तंत्र की उपस्थिति या अनुपस्थिति"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "Why are Archaebacteria able to survive in the most extreme, harsh habitats such as extreme salty areas (halophiles) and hot springs (thermoacidophiles)?",
+        "hi": "आद्यजीवाणु (Archaebacteria) अत्यंत विषम और कठोर आवासों जैसे अत्यंत लवणीय क्षेत्रों (हेलोफाइल्स) और गर्म झरनों (थर्मोएसिडोफाइल्स) में जीवित रहने में सक्षम क्यों होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Due to a unique and different cell wall structure and branched-chain lipid membrane",
+          "hi": "एक अद्वितीय और भिन्न कोशिका भित्ति संरचना तथा शाखित-श्रृंखला लिपिड झिल्ली के कारण"
+        },
+        "B": {
+          "en": "Because they possess double-layered nuclear membrane",
+          "hi": "क्योंकि उनके पास दोहरी परत वाली केंद्रक झिल्ली होती है"
+        },
+        "C": {
+          "en": "Due to the presence of 80S ribosomes in their cytoplasm",
+          "hi": "उनके कोशिकाद्रव्य में 80S राइबोसोम की उपस्थिति के कारण"
+        },
+        "D": {
+          "en": "Because they reproduce exclusively by sexual conjugation",
+          "hi": "क्योंकि वे विशेष रूप से लैंगिक संयुग्मन द्वारा जनन करते हैं"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "The cell walls of diatoms are embedded with silica and form two thin overlapping shells that fit together like a soap box. Because this wall is indestructible, their accumulation over billions of years forms:",
+        "hi": "डायटम की कोशिका भित्ति सिलिका से युक्त होती है और साबुनदानी की तरह आपस में जुड़ने वाले दो पतले अतिव्यापी कवच बनाती है। क्योंकि यह भित्ति अविनाशी है, अतः अरबों वर्षों में इनका संचय क्या बनाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Limestone reefs",
+          "hi": "चूना पत्थर की चट्टानें"
+        },
+        "B": {
+          "en": "Diatomaceous earth",
+          "hi": "डायटमी मृदा (Diatomaceous earth)"
+        },
+        "C": {
+          "en": "Silica gel reserves",
+          "hi": "सिलिका जेल भंडार"
+        },
+        "D": {
+          "en": "Coral reefs",
+          "hi": "प्रवाल भित्तियाँ"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which class of fungi is commonly known as 'imperfect fungi' because only their asexual or vegetative phases are known, and sexual stages are either absent or not yet discovered?",
+        "hi": "कवकों के किस वर्ग को आमतौर पर 'अपूर्ण कवक' (imperfect fungi) के रूप में जाना जाता है क्योंकि केवल उनकी अलैंगिक या कायिक प्रावस्थाएँ ही ज्ञात हैं, और लैंगिक प्रावस्थाएँ या तो अनुपस्थित हैं या अभी तक खोजी नहीं गई हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Phycomycetes",
+          "hi": "फाइकोमाइसिटीज"
+        },
+        "B": {
+          "en": "Ascomycetes",
+          "hi": "ऐस्कोमाइसिटीज"
+        },
+        "C": {
+          "en": "Basidiomycetes",
+          "hi": "बेसिडियोमाइसिटीज"
+        },
+        "D": {
+          "en": "Deuteromycetes",
+          "hi": "ड्यूटेरोमाइसिटीज"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "Theory-based",
+      "question": {
+        "en": "In 1971, T.O. Diener discovered a new infectious agent that caused potato spindle tuber disease. How does a viroid differ from a virus according to NCERT?",
+        "hi": "1971 में टी.ओ. डाइनर ने एक नए संक्रामक कारक की खोज की जिसने आलू में 'स्पिंडल ट्यूबर' रोग उत्पन्न किया। NCERT के अनुसार एक वाइरॉइड (viroid) विषाणु (virus) से किस प्रकार भिन्न होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A viroid contains double-stranded DNA enclosed in a thick protein coat.",
+          "hi": "वाइरॉइड में एक मोटी प्रोटीन परत में बंद द्विरज्जुकी DNA होता है।"
+        },
+        "B": {
+          "en": "A viroid consists of free, low molecular weight RNA lacking any protein coat.",
+          "hi": "वाइरॉइड में बिना किसी प्रोटीन आवरण के मुक्त, कम आणविक भार वाला RNA होता है।"
+        },
+        "C": {
+          "en": "A viroid contains abnormally folded infectious protein with no nucleic acid.",
+          "hi": "वाइरॉइड में बिना किसी न्यूक्लिक अम्ल के असामान्य रूप से मुड़ी हुई संक्रामक प्रोटीन होती है।"
+        },
+        "D": {
+          "en": "A viroid is much larger than a virus and possesses its own metabolic machinery.",
+          "hi": "वाइरॉइड विषाणु से बहुत बड़ा होता है और इसकी अपनी उपापचयी प्रणाली होती है।"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Theory-based",
+      "question": {
+        "en": "Lichens are widely recognized as very good indicators of environmental pollution because:",
+        "hi": "लाइकेन (Lichens) को पर्यावरणीय प्रदूषण के बहुत अच्छे संकेतक के रूप में व्यापक रूप से पहचाना जाता है क्योंकि:"
+      },
+      "options": {
+        "A": {
+          "en": "They thrive and produce colorful blooms in water bodies with high organic pollutants.",
+          "hi": "वे उच्च कार्बनिक प्रदूषकों वाले जलाशयों में पनपते हैं और रंगीन प्रस्फुटन उत्पन्न करते हैं।"
+        },
+        "B": {
+          "en": "They are extremely sensitive to sulphur dioxide (SO₂) and do not grow in polluted areas.",
+          "hi": "वे सल्फर डाइऑक्साइड (SO₂) के प्रति अत्यधिक संवेदनशील होते हैं और प्रदूषित क्षेत्रों में नहीं उगते हैं।"
+        },
+        "C": {
+          "en": "They degrade toxic heavy metal waste into harmless organic compounds.",
+          "hi": "वे जहरीले भारी धातु अपशिष्ट को हानिरहित कार्बनिक यौगिकों में विघटित करते हैं।"
+        },
+        "D": {
+          "en": "They absorb carbon monoxide and release methane into the atmosphere.",
+          "hi": "वे कार्बन मोनोऑक्साइड को अवशोषित करते हैं और वायुमंडल में मीथेन छोड़ते हैं।"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "Which of the following organisms completely lacks a cell wall, represents the smallest known living cells, and can survive entirely in the absence of oxygen according to NCERT?",
+        "hi": "NCERT के अनुसार निम्नलिखित में से किस जीव में कोशिका भित्ति का पूर्णतः अभाव होता है, यह सबसे छोटी ज्ञात जीवित कोशिका को दर्शाता है, और ऑक्सीजन की अनुपस्थिति में भी पूरी तरह जीवित रह सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Nostoc",
+          "hi": "नोस्टॉक (Nostoc)"
+        },
+        "B": {
+          "en": "Mycoplasma",
+          "hi": "माइकोप्लाज्मा (Mycoplasma)"
+        },
+        "C": {
+          "en": "Methanobacterium",
+          "hi": "मिथेनोबैक्टीरियम"
+        },
+        "D": {
+          "en": "Euglena",
+          "hi": "यूग्लीना (Euglena)"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "Under favorable environmental conditions, slime moulds form an aggregation that may grow and spread over several feet. What is this vegetative aggregation termed in NCERT?",
+        "hi": "अनुकूल पर्यावरणीय परिस्थितियों में, अवपंक कवक (Slime moulds) एक समूह बनाते हैं जो कई फीट तक बढ़ और फैल सकता है। NCERT में इस कायिक समूह को क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Protonema",
+          "hi": "प्रोटोनीमा"
+        },
+        "B": {
+          "en": "Plasmodium",
+          "hi": "प्लाज्मोडियम (Plasmodium)"
+        },
+        "C": {
+          "en": "Syncytium",
+          "hi": "सिनसीशियम"
+        },
+        "D": {
+          "en": "Coenocyte",
+          "hi": "सीनोसाइट"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "Formula-based",
+      "question": {
+        "en": "A dinoflagellate undergoes rapid multiplication and causes the phenomenon known as 'red tide' in the sea, producing toxins that can kill marine fishes. Identify this organism from NCERT:",
+        "hi": "एक डाइनोफ्लैजलेट तेजी से गुणन करता है और समुद्र में 'लाल तरंगें' (red tide) नामक परिघटना का कारण बनता है, जिससे ऐसे विष निकलते हैं जो समुद्री मछलियों को मार सकते हैं। NCERT के अनुसार इस जीव को पहचानिए:"
+      },
+      "options": {
+        "A": {
+          "en": "Gonyaulax",
+          "hi": "गोन्याउलैक्स (Gonyaulax)"
+        },
+        "B": {
+          "en": "Paramecium",
+          "hi": "पैरामीशियम"
+        },
+        "C": {
+          "en": "Amoeba",
+          "hi": "अमीबा"
+        },
+        "D": {
+          "en": "Trypanosoma",
+          "hi": "ट्रिपैनोसोमा"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "category": "Formula-based",
+      "question": {
+        "en": "Match the fungal genera with their respective classes according to NCERT: (1) Rhizopus, (2) Aspergillus/Neurospora, (3) Agaricus/Puccinia, (4) Alternaria/Trichoderma.",
+        "hi": "NCERT के अनुसार कवक वंशों को उनके संबंधित वर्गों से सुमेलित कीजिए: (1) राइजोपस, (2) एस्परजिलस/न्यूरोस्पोरा, (3) एगेरिकस/पक्सिनिया, (4) अल्टरनेरिया/ट्राइकोडर्मा।"
+      },
+      "options": {
+        "A": {
+          "en": "1-Phycomycetes, 2-Ascomycetes, 3-Basidiomycetes, 4-Deuteromycetes",
+          "hi": "1-फाइकोमाइसिटीज, 2-ऐस्कोमाइसिटीज, 3-बेसिडियोमाइसिटीज, 4-ड्यूटेरोमाइसिटीज"
+        },
+        "B": {
+          "en": "1-Ascomycetes, 2-Phycomycetes, 3-Deuteromycetes, 4-Basidiomycetes",
+          "hi": "1-ऐस्कोमाइसिटीज, 2-फाइकोमाइसिटीज, 3-ड्यूटेरोमाइसिटीज, 4-बेसिडियोमाइसिटीज"
+        },
+        "C": {
+          "en": "1-Basidiomycetes, 2-Deuteromycetes, 3-Ascomycetes, 4-Phycomycetes",
+          "hi": "1-बेसिडियोमाइसिटीज, 2-ड्यूटेरोमाइसिटीज, 3-ऐस्कोमाइसिटीज, 4-फाइकोमाइसिटीज"
+        },
+        "D": {
+          "en": "1-Deuteromycetes, 2-Basidiomycetes, 3-Phycomycetes, 4-Ascomycetes",
+          "hi": "1-ड्यूटेरोमाइसिटीज, 2-बेसिडियोमाइसिटीज, 3-फाइकोमाइसिटीज, 4-ऐस्कोमाइसिटीज"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "category": "Formula-based",
+      "question": {
+        "en": "According to NCERT generalizations regarding the genetic material of viruses, which type of nucleic acid is typically found in bacteriophages (viruses that infect bacteria)?",
+        "hi": "विषाणुओं के आनुवंशिक पदार्थ के संबंध में NCERT के सामान्यीकरण के अनुसार, जीवाणुभोजी (बैक्टीरियोफेज - जीवाणुओं को संक्रमित करने वाले विषाणु) में आमतौर पर किस प्रकार का न्यूक्लिक अम्ल पाया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Single-stranded RNA",
+          "hi": "एकल-रज्जुकी RNA (ssRNA)"
+        },
+        "B": {
+          "en": "Double-stranded DNA",
+          "hi": "द्वि-रज्जुकी DNA (dsDNA)"
+        },
+        "C": {
+          "en": "Single-stranded DNA only",
+          "hi": "केवल एकल-रज्जुकी DNA"
+        },
+        "D": {
+          "en": "Equal mixture of DNA and RNA in the same capsid",
+          "hi": "एक ही कैप्सिड में DNA और RNA का समान मिश्रण"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "category": "Formula-based",
+      "question": {
+        "en": "Who among the following scientists demonstrated that the extract of the infected plants of tobacco could cause infection in healthy plants and named the infectious fluid 'Contagium vivum fluidum' (infectious living fluid) in 1898?",
+        "hi": "निम्नलिखित में से किस वैज्ञानिक ने 1898 में यह प्रदर्शित किया कि तम्बाकू के संक्रमित पौधों का रस स्वस्थ पौधों में संक्रमण उत्पन्न कर सकता है और इस संक्रामक द्रव को 'Contagium vivum fluidum' (संक्रामक जीवित द्रव) नाम दिया?"
+      },
+      "options": {
+        "A": {
+          "en": "Dmitri Ivanovsky (1892)",
+          "hi": "दिमित्री इवानोवस्की (1892)"
+        },
+        "B": {
+          "en": "M.W. Beijerinck (1898)",
+          "hi": "एम.डब्ल्यू. बेइजेरिंक (1898)"
+        },
+        "C": {
+          "en": "W.M. Stanley (1935)",
+          "hi": "डब्ल्यू.एम. स्टेनली (1935)"
+        },
+        "D": {
+          "en": "Robert Hooke (1665)",
+          "hi": "रॉबर्ट हुक (1665)"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Figure 2.2: Diagrammatic representation of a filamentous blue-green alga (Nostoc) showing vegetative bead-like cells enclosed by an outer mucilaginous sheath, with an enlarged, thick-walled specialized cell designated for atmospheric nitrogen fixation.",
+      "question": {
+        "en": "In the NCERT diagram of the filamentous cyanobacterium Nostoc, what is the specialized thick-walled cell designated for fixing atmospheric nitrogen called?",
+        "hi": "तंतुमय सायनोबैक्टीरिया नोस्टॉक (Nostoc) के NCERT आरेख में, वायुमंडलीय नाइट्रोजन के स्थिरीकरण के लिए निर्दिष्ट मोटी भित्ति वाली विशेष कोशिका को क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Akinete",
+          "hi": "अकाइनीट"
+        },
+        "B": {
+          "en": "Heterocyst",
+          "hi": "हेटरोसिस्ट (Heterocyst)"
+        },
+        "C": {
+          "en": "Hormogonium",
+          "hi": "हार्मोपगोनियम"
+        },
+        "D": {
+          "en": "Endospore",
+          "hi": "अंतःबीजाणु"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Figure 2.4: Structural diagram of a T4 Bacteriophage virus showing the polyhedral Head at the top, a Collar, an elongated helical central Sheath, and basal Tail Fibers.",
+      "question": {
+        "en": "In the structural diagram of a bacteriophage virus illustrated in NCERT, where is the double-stranded viral genetic material (DNA) housed?",
+        "hi": "NCERT में चित्रित बैक्टीरियोफेज विषाणु के संरचनात्मक आरेख में, दोहरा रज्जुकी वायरल आनुवंशिक पदार्थ (DNA) कहाँ स्थित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Inside the polyhedral proteinaceous Head (Capsid)",
+          "hi": "बहुफलकीय प्रोटीनयुक्त सिर (कैप्सिड) के अंदर"
+        },
+        "B": {
+          "en": "Within the hollow core of the tail fibers",
+          "hi": "पूँछ के तंतुओं के खोखले केंद्र के भीतर"
+        },
+        "C": {
+          "en": "In the ring-like Collar region",
+          "hi": "छल्लेदार कॉलर क्षेत्र में"
+        },
+        "D": {
+          "en": "On the exterior lipid envelope surrounding tail fibers",
+          "hi": "पूँछ के तंतुओं को घेरने वाले बाहरी लिपिड आवरण पर"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Figure 2.4 (a): Schematic illustration of Tobacco Mosaic Virus (TMV) showing a single stranded helical RNA core surrounded by geometrically arranged protein subunits forming the capsid.",
+      "question": {
+        "en": "In the structural diagram of the Tobacco Mosaic Virus (TMV), what are the small individual protein subunits that make up the protective capsid called?",
+        "hi": "तम्बाकू मोज़ेक वायरस (TMV) के संरचनात्मक आरेख में, सुरक्षात्मक कैप्सिड बनाने वाली छोटी व्यक्तिगत प्रोटीन उप-इकाइयों को क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Viroids",
+          "hi": "वाइरॉइड"
+        },
+        "B": {
+          "en": "Capsomeres",
+          "hi": "कैप्सोमियर (Capsomeres)"
+        },
+        "C": {
+          "en": "Prions",
+          "hi": "प्रायॉन"
+        },
+        "D": {
+          "en": "Peptidoglycans",
+          "hi": "पेप्टिडोग्लाइकेन्स"
+        }
+      }
+    }
+  ]
+}
