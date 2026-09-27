@@ -1,0 +1,342 @@
+{
+  "test_metadata": {
+    "chapter": "Sets",
+    "chapter_number": 1,
+    "subject": "mathematics",
+    "level": "L1_NCERT_Grounding",
+    "tier": "📘 USUAL",
+    "target_exam": "JEE Main",
+    "total_questions": 10,
+    "distribution": {
+      "Theory": 4,
+      "Formula": 4,
+      "Image": 2
+    }
+  },
+  "answer_key": {
+    "1": "B",
+    "2": "B",
+    "3": "B",
+    "4": "D",
+    "5": "B",
+    "6": "A",
+    "7": "B",
+    "8": "A",
+    "9": "B",
+    "10": "B"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the NCERT definition of a set as a 'well-defined collection of objects', which of the following is a genuine mathematical set?",
+        "hi": "वस्तुओं के 'सुपरिभाषित संग्रह' के रूप में समुच्चय (set) की NCERT परिभाषा के अनुसार, निम्नलिखित में से कौन सा एक वास्तविक गणितीय समुच्चय है?"
+      },
+      "options": {
+        "A": {
+          "en": "The collection of five most talented mathematicians in India.",
+          "hi": "भारत के पाँच सबसे प्रतिभाशाली गणितज्ञों का संग्रह।"
+        },
+        "B": {
+          "en": "The collection of all prime numbers less than 30.",
+          "hi": "30 से छोटी सभी अभाज्य संख्याओं का संग्रह।"
+        },
+        "C": {
+          "en": "The collection of all difficult questions in Class 11 mathematics.",
+          "hi": "कक्षा 11 के गणित के सभी कठिन प्रश्नों का संग्रह।"
+        },
+        "D": {
+          "en": "The collection of most dangerous animals in the world.",
+          "hi": "विश्व के सबसे खतरनाक जानवरों का संग्रह।"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "A set must be a well-defined collection such that it is possible to definitively decide whether any given object belongs to the collection or not. 'Talented', 'difficult', and 'dangerous' are subjective criteria that vary from person to person. However, 'prime numbers less than 30' ({2, 3, 5, 7, 11, 13, 17, 19, 23, 29}) is unambiguously defined and forms a true set (Option B).",
+        "hi": "एक समुच्चय वस्तुओं का एक ऐसा 'सुपरिभाषित संग्रह' होना चाहिए जिससे यह निश्चित रूप से तय किया जा सके कि कोई दी गई वस्तु उस संग्रह में है या नहीं। 'प्रतिभाशाली', 'कठिन' और 'खतरनाक' व्यक्तिपरक शब्द हैं जो व्यक्ति दर व्यक्ति बदलते हैं। परंतु '30 से छोटी अभाज्य संख्याएँ' ({2, 3, 5, 7, 11, 13, 17, 19, 23, 29}) स्पष्ट रूप से परिभाषित हैं और एक वास्तविक समुच्चय बनाती हैं (विकल्प B)।"
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following statements regarding the empty set (denoted by ∅ or {}) is CORRECT according to NCERT?",
+        "hi": "रिक्त समुच्चय (∅ या {} द्वारा निरूपित) के संबंध में NCERT के अनुसार निम्नलिखित में से कौन सा कथन सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "The set {∅} is an empty set with cardinal number 0.",
+          "hi": "समुच्चय {∅} एक रिक्त समुच्चय है जिसकी गणन संख्या 0 है।"
+        },
+        "B": {
+          "en": "The empty set ∅ is a subset of every set.",
+          "hi": "रिक्त समुच्चय ∅ प्रत्येक समुच्चय का उपसमुच्चय होता है।"
+        },
+        "C": {
+          "en": "The empty set contains one element called zero.",
+          "hi": "रिक्त समुच्चय में शून्य नामक एक अवयव होता है।"
+        },
+        "D": {
+          "en": "The power set of an empty set is also an empty set, P(∅) = ∅.",
+          "hi": "रिक्त समुच्चय का घात समुच्चय भी एक रिक्त समुच्चय होता है, P(∅) = ∅।"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "According to fundamental set theory in NCERT: 1. The empty set ∅ is a subset of every set (∅ ⊆ A for any set A). 2. {∅} is NOT empty; it is a singleton set containing the element ∅, so n({∅}) = 1. 3. ∅ contains no elements at all (not even 0). 4. P(∅) = {∅}, which has 2^0 = 1 element, not ∅. Hence B is the correct statement.",
+        "hi": "NCERT के मूलभूत समुच्चय सिद्धांत के अनुसार: 1. रिक्त समुच्चय ∅ प्रत्येक समुच्चय का उपसमुच्चय होता है (किसी भी समुच्चय A के लिए ∅ ⊆ A)। 2. {∅} रिक्त नहीं है; यह एक एकल समुच्चय है जिसमें अवयव ∅ है, अतः n({∅}) = 1। 3. ∅ में कोई अवयव नहीं होता (शून्य भी नहीं)। 4. P(∅) = {∅} जिसमें 2^0 = 1 अवयव होता है। अतः कथन B सही है।"
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "Which of the following identities correctly states De Morgan's Law for the complement of the union of two sets A and B?",
+        "hi": "निम्नलिखित में से कौन सा सर्वसमिका दो समुच्चयों A और B के संघ (union) के पूरक के लिए डी मॉर्गन के नियम को सही रूप से व्यक्त करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "(A ∪ B)' = A' ∪ B'",
+          "hi": "(A ∪ B)' = A' ∪ B'"
+        },
+        "B": {
+          "en": "(A ∪ B)' = A' ∩ B'",
+          "hi": "(A ∪ B)' = A' ∩ B'"
+        },
+        "C": {
+          "en": "(A ∪ B)' = A ∩ B",
+          "hi": "(A ∪ B)' = A ∩ B"
+        },
+        "D": {
+          "en": "(A ∩ B)' = A' ∩ B'",
+          "hi": "(A ∩ B)' = A' ∩ B'"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "De Morgan's Laws in NCERT Section 1.5 state:\n(i) (A ∪ B)' = A' ∩ B' (The complement of the union of two sets is the intersection of their complements).\n(ii) (A ∩ B)' = A' ∪ B' (The complement of the intersection is the union of their complements).\nHence, Option B is correct.",
+        "hi": "NCERT खंड 1.5 में डी मॉर्गन के नियम:\n(i) (A ∪ B)' = A' ∩ B' (दो समुच्चयों के संघ का पूरक उनके पूरकों का सर्वनिष्ठ होता है)।\n(ii) (A ∩ B)' = A' ∪ B' (सर्वनिष्ठ का पूरक उनके पूरकों का संघ होता है)।\nअतः विकल्प B सही है।"
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "If set A is a subset of universal set U, which of the following operations is FALSE according to the laws of complements in NCERT?",
+        "hi": "यदि समुच्चय A सार्वत्रिक समुच्चय U का एक उपसमुच्चय है, तो NCERT में पूरक के नियमों के अनुसार निम्नलिखित में से कौन सी संक्रिया गलत है?"
+      },
+      "options": {
+        "A": {
+          "en": "A ∪ A' = U",
+          "hi": "A ∪ A' = U"
+        },
+        "B": {
+          "en": "A ∩ A' = ∅",
+          "hi": "A ∩ A' = ∅"
+        },
+        "C": {
+          "en": "(A')' = A",
+          "hi": "(A')' = A"
+        },
+        "D": {
+          "en": "U' = U",
+          "hi": "U' = U"
+        }
+      },
+      "correct_option": "D",
+      "solution": {
+        "en": "According to the Law of Empty Set and Universal Set in NCERT:\nU' = ∅ (the complement of universal set is the empty set) and ∅' = U.\nTherefore, the statement U' = U is completely FALSE. Operations A, B, and C are all valid fundamental complement laws.",
+        "hi": "NCERT में रिक्त समुच्चय और सार्वत्रिक समुच्चय के नियम के अनुसार:\nU' = ∅ (सार्वत्रिक समुच्चय का पूरक रिक्त समुच्चय होता है) तथा ∅' = U होता है।\nअतः U' = U कथन पूर्णतः गलत है। विकल्प A, B और C सभी मान्य पूरक नियम हैं।"
+      }
+    },
+    {
+      "id": 5,
+      "category": "Formula-based",
+      "question": {
+        "en": "If X and Y are two sets such that n(X) = 28, n(Y) = 32, and n(X ∪ Y) = 50, use the primary formula n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y) to calculate n(X ∩ Y).",
+        "hi": "यदि X और Y दो ऐसे समुच्चय हैं कि n(X) = 28, n(Y) = 32, और n(X ∪ Y) = 50 है, तो n(X ∩ Y) की गणना के लिए मूल सूत्र n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y) का उपयोग कीजिए।"
+      },
+      "options": {
+        "A": {
+          "en": "8",
+          "hi": "8"
+        },
+        "B": {
+          "en": "10",
+          "hi": "10"
+        },
+        "C": {
+          "en": "12",
+          "hi": "12"
+        },
+        "D": {
+          "en": "15",
+          "hi": "15"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "Primary formula: n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y).\nRearranging for n(X ∩ Y):\nn(X ∩ Y) = n(X) + n(Y) - n(X ∪ Y)\nn(X ∩ Y) = 28 + 32 - 50 = 60 - 50 = 10 (Option B).",
+        "hi": "प्राथमिक सूत्र: n(X ∪ Y) = n(X) + n(Y) - n(X ∩ Y).\nn(X ∩ Y) के लिए पुनर्व्यवस्थित करने पर:\nn(X ∩ Y) = n(X) + n(Y) - n(X ∪ Y)\nn(X ∩ Y) = 28 + 32 - 50 = 60 - 50 = 10 (विकल्प B)।"
+      }
+    },
+    {
+      "id": 6,
+      "category": "Formula-based",
+      "question": {
+        "en": "A set A has n = 5 elements. Using the formula for the cardinality of a power set n(P(A)) = 2^n, how many elements are in the power set P(A), and how many of them are proper subsets?",
+        "hi": "एक समुच्चय A में n = 5 अवयव हैं। घात समुच्चय की गणन संख्या के सूत्र n(P(A)) = 2^n का उपयोग करते हुए, घात समुच्चय P(A) में कितने अवयव हैं, और उनमें से कितने उचित उपसमुच्चय (proper subsets) हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Total subsets = 32, Proper subsets = 31",
+          "hi": "कुल उपसमुच्चय = 32, उचित उपसमुच्चय = 31"
+        },
+        "B": {
+          "en": "Total subsets = 25, Proper subsets = 24",
+          "hi": "कुल उपसमुच्चय = 25, उचित उपसमुच्चय = 24"
+        },
+        "C": {
+          "en": "Total subsets = 64, Proper subsets = 63",
+          "hi": "कुल उपसमुच्चय = 64, उचित उपसमुच्चय = 63"
+        },
+        "D": {
+          "en": "Total subsets = 10, Proper subsets = 9",
+          "hi": "कुल उपसमुच्चय = 10, उचित उपसमुच्चय = 9"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "Formula for number of subsets in power set: n(P(A)) = 2^n = 2^5 = 32.\nThe number of proper subsets is always total subsets minus the set itself (A ⊂ A is not proper): Proper subsets = 2^n - 1 = 32 - 1 = 31 (Option A).",
+        "hi": "घात समुच्चय में उपसमुच्चयों की संख्या का सूत्र: n(P(A)) = 2^n = 2^5 = 32.\nउचित उपसमुच्चयों की संख्या हमेशा कुल उपसमुच्चयों में से स्वयं उस समुच्चय को घटाने पर मिलती है: उचित उपसमुच्चय = 2^n - 1 = 32 - 1 = 31 (विकल्प A)।"
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "In a school survey of 400 students, 100 students like apples, 150 like bananas, and 75 like both apples and bananas. Using the formula n(A ∪ B) = n(A) + n(B) - n(A ∩ B), how many students like neither apples nor bananas?",
+        "hi": "400 छात्रों के एक स्कूल सर्वेक्षण में, 100 छात्र सेब पसंद करते हैं, 150 केले पसंद करते हैं, और 75 सेब और केले दोनों पसंद करते हैं। सूत्र n(A ∪ B) = n(A) + n(B) - n(A ∩ B) का उपयोग करते हुए, कितने छात्र न तो सेब और न ही केले पसंद करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "175",
+          "hi": "175"
+        },
+        "B": {
+          "en": "225",
+          "hi": "225"
+        },
+        "C": {
+          "en": "250",
+          "hi": "250"
+        },
+        "D": {
+          "en": "325",
+          "hi": "325"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "Given: Universal set n(U) = 400, n(A) = 100, n(B) = 150, n(A ∩ B) = 75.\nStudents who like either apples or bananas: n(A ∪ B) = 100 + 150 - 75 = 175.\nStudents who like neither = n((A ∪ B)') = n(U) - n(A ∪ B) = 400 - 175 = 225 (Option B).",
+        "hi": "दिया है: सार्वत्रिक समुच्चय n(U) = 400, n(A) = 100, n(B) = 150, n(A ∩ B) = 75.\nकम से कम एक फल पसंद करने वाले छात्र: n(A ∪ B) = 100 + 150 - 75 = 175.\nकोई भी फल न पसंद करने वाले छात्र = n((A ∪ B)') = n(U) - n(A ∪ B) = 400 - 175 = 225 (विकल्प B)।"
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "Let A = {x : x is a natural number and 2 < x ≤ 7} and B = {x : x is an even natural number and x < 10}. Using the difference set formula A - B = {x : x ∈ A and x ∉ B}, what is the set A - B?",
+        "hi": "मान लीजिए A = {x : x एक प्राकृतिक संख्या है और 2 < x ≤ 7} और B = {x : x एक सम प्राकृतिक संख्या है और x < 10}। अंतर समुच्चय सूत्र A - B = {x : x ∈ A और x ∉ B} का उपयोग करके समुच्चय A - B क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "{3, 5, 7}",
+          "hi": "{3, 5, 7}"
+        },
+        "B": {
+          "en": "{4, 6}",
+          "hi": "{4, 6}"
+        },
+        "C": {
+          "en": "{2, 4, 6, 8}",
+          "hi": "{2, 4, 6, 8}"
+        },
+        "D": {
+          "en": "{3, 5}",
+          "hi": "{3, 5}"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "Listing elements in roster form:\nA = {3, 4, 5, 6, 7}\nB = {2, 4, 6, 8}\nThe difference A - B contains elements belonging to A but not in B.\nRemoving common elements {4, 6} from A leaves: A - B = {3, 5, 7} (Option A).",
+        "hi": "रोस्टर रूप में अवयव लिखने पर:\nA = {3, 4, 5, 6, 7}\nB = {2, 4, 6, 8}\nअंतर A - B में वे अवयव होते हैं जो A में हैं परंतु B में नहीं हैं।\nA में से उभयनिष्ठ अवयव {4, 6} हटाने पर: A - B = {3, 5, 7} (विकल्प A)।"
+      }
+    },
+    {
+      "id": 9,
+      "category": "Image-based",
+      "image_reference": "NCERT Mathematics Class XI, Figure 1.5: Venn diagram representation inside a universal rectangle U containing two intersecting circles A and B, where ONLY the non-overlapping portion of circle A (the crescent-shaped region belonging to A but strictly outside B) is shaded.",
+      "question": {
+        "en": "In the described Venn diagram where only the portion of circle A outside circle B is shaded, which set-theoretic operation does the shaded region represent?",
+        "hi": "वर्णित वेन आरेख में जहाँ केवल वृत्त B के बाहर स्थित वृत्त A का भाग छायांकित है, छायांकित क्षेत्र किस समुच्चय-सैद्धांतिक संक्रिया को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A ∩ B",
+          "hi": "A ∩ B"
+        },
+        "B": {
+          "en": "A - B (or A ∩ B')",
+          "hi": "A - B (या A ∩ B')"
+        },
+        "C": {
+          "en": "B - A (or B ∩ A')",
+          "hi": "B - A (या B ∩ A')"
+        },
+        "D": {
+          "en": "(A ∪ B)'",
+          "hi": "(A ∪ B)'"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "NCERT Figure 1.5 explicitly illustrates that the portion of circle A that does not intersect with B represents the difference set A - B, which is equivalent to A ∩ B' (elements belonging to A and not to B).",
+        "hi": "NCERT चित्र 1.5 स्पष्ट रूप से दर्शाता है कि वृत्त A का वह भाग जो B के साथ परस्पर व्यापी नहीं है, अंतर समुच्चय A - B को निरूपित करता है, जो A ∩ B' (वे अवयव जो A में हैं परंतु B में नहीं हैं) के तुल्य है।"
+      }
+    },
+    {
+      "id": 10,
+      "category": "Image-based",
+      "image_reference": "NCERT Mathematics Class XI, Section 1.7: Venn diagram depicting three mutually intersecting sets A, B, and C within universal rectangle U, with the central common region where all three circles overlap (the tri-intersection region) distinctly shaded.",
+      "question": {
+        "en": "In the described three-set Venn diagram, what algebraic notation represents the shaded region where all three sets A, B, and C simultaneously overlap?",
+        "hi": "वर्णित तीन-समुच्चय वेन आरेख में, कौन सा बीजीय संकेतन उस छायांकित क्षेत्र को दर्शाता है जहाँ तीनों समुच्चय A, B और C एक साथ परस्पर व्यापी होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "A ∪ B ∪ C",
+          "hi": "A ∪ B ∪ C"
+        },
+        "B": {
+          "en": "A ∩ B ∩ C",
+          "hi": "A ∩ B ∩ C"
+        },
+        "C": {
+          "en": "(A ∪ B) ∩ C'",
+          "hi": "(A ∪ B) ∩ C'"
+        },
+        "D": {
+          "en": "(A ∩ B) ∪ C",
+          "hi": "(A ∩ B) ∪ C"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "The central overlapping region belongs to all three sets A, B, and C simultaneously. In set theory, simultaneous membership in multiple sets is denoted by the intersection operator (∩), giving A ∩ B ∩ C (Option B).",
+        "hi": "केंद्रीय परस्पर व्यापी क्षेत्र एक साथ तीनों समुच्चयों A, B और C में आता है। समुच्चय सिद्धांत में, एक साथ कई समुच्चयों की सदस्यता को सर्वनिष्ठ संक्रिया (∩) द्वारा दर्शाया जाता है, जिससे A ∩ B ∩ C प्राप्त होता है (विकल्प B)।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "test_metadata": {
+    "chapter": "The Living World",
+    "chapter_number": 1,
+    "subject": "biology",
+    "level": "L1_NCERT_Grounding",
+    "tier": "📘 USUAL",
+    "target_exam": "NEET UG",
+    "total_questions": 10,
+    "distribution": {
+      "Theory": 4,
+      "Formula": 4,
+      "Image": 2
+    }
+  },
+  "answer_key": {
+    "1": "C",
+    "2": "D",
+    "3": "A",
+    "4": "A",
+    "5": "A",
+    "6": "A",
+    "7": "A",
+    "8": "A",
+    "9": "B",
+    "10": "C"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to NCERT, which of the following is considered a strictly 'defining property' of all living organisms without any exception?",
+        "hi": "NCERT के अनुसार, निम्नलिखित में से किसे बिना किसी अपवाद के सभी सजीवों का एक निश्चित 'परिभाषिक लक्षण' (defining property) माना जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Growth",
+          "hi": "वृद्धि"
+        },
+        "B": {
+          "en": "Reproduction",
+          "hi": "जनन"
+        },
+        "C": {
+          "en": "Cellular organisation and consciousness",
+          "hi": "कोशिकीय संगठन और चेतना (संवेदना)"
+        },
+        "D": {
+          "en": "Increase in body mass",
+          "hi": "शरीर के द्रव्यमान में वृद्धि"
+        }
+      },
+      "correct_option": "C",
+      "solution": {
+        "en": "NCERT Section 1.1 emphasizes: 1. Growth is exhibited by non-living objects as well (e.g., mountains, sand dunes grow by external accumulation of matter). 2. Reproduction is absent in many living organisms (e.g., mules, sterile worker bees, infertile human couples). Therefore, growth and reproduction are not all-inclusive defining properties. However, cellular organisation and consciousness (awareness of surroundings and responding to environmental stimuli) are present in ALL living organisms without exception, making them defining properties (Option C).",
+        "hi": "NCERT खंड 1.1 के अनुसार: 1. वृद्धि निर्जीव वस्तुओं द्वारा भी प्रदर्शित की जाती है (जैसे पहाड़, रेत के टीले बाहरी संचय से बढ़ते हैं)। 2. जनन कई जीवित जीवों में अनुपस्थित होता है (जैसे खच्चर, बंध्य श्रमिक मधुमक्खियां, बांझ मानव युगल)। अतः वृद्धि और जनन सर्व-समावेशी परिभाषिक लक्षण नहीं हैं। परंतु कोशिकीय संगठन और चेतना (पर्यावरण के प्रति संवेदनशीलता) बिना किसी अपवाद के सभी सजीवों में पाई जाती है, अतः ये परिभाषिक लक्षण हैं (विकल्प C)।"
+      }
+    },
+    {
+      "id": 2,
+      "category": "Theory-based",
+      "question": {
+        "en": "According to the universal rules of binomial nomenclature established by Carolus Linnaeus, which of the following statements is INCORRECT?",
+        "hi": "कैरोलस लिनियस द्वारा स्थापित द्विपद नामकरण के सार्वभौमिक नियमों के अनुसार, निम्नलिखित में से कौन सा कथन गलत है?"
+      },
+      "options": {
+        "A": {
+          "en": "Biological names are generally in Latin and written in italics.",
+          "hi": "जैविक नाम प्रायः लैटिन भाषा में होते हैं और तिरछे (italics) अक्षरों में लिखे जाते हैं।"
+        },
+        "B": {
+          "en": "The first word represents the genus while the second word denotes the specific epithet.",
+          "hi": "पहला शब्द वंश (genus) को और दूसरा शब्द जाति संकेत-पद (specific epithet) को दर्शाता है।"
+        },
+        "C": {
+          "en": "Both words in a biological name, when handwritten, are separately underlined.",
+          "hi": "जैविक नाम के दोनों शब्दों को, जब हाथ से लिखा जाता है, तो अलग-अलग रेखांकित किया जाता है।"
+        },
+        "D": {
+          "en": "The specific epithet starts with a capital letter while the genus starts with a small letter.",
+          "hi": "जाति संकेत-पद बड़े (capital) अक्षर से और वंश छोटे (small) अक्षर से शुरू होता है।"
+        }
+      },
+      "correct_option": "D",
+      "solution": {
+        "en": "Rule 4 of binomial nomenclature explicitly dictates that the genus begins with a CAPITAL letter (e.g., Mangifera), while the specific epithet starts with a SMALL letter (e.g., indica). Therefore, statement D reverses the rule and is incorrect.",
+        "hi": "द्विपद नामकरण का चौथा नियम स्पष्ट रूप से कहता है कि वंश का पहला अक्षर बड़ा (CAPITAL) होता है (जैसे Mangifera), जबकि जाति संकेत-पद का पहला अक्षर छोटा (small) होता है (जैसे indica)। अतः कथन D नियम के विपरीत है और गलत है।"
+      }
+    },
+    {
+      "id": 3,
+      "category": "Theory-based",
+      "question": {
+        "en": "As we navigate from Species to Kingdom in a taxonomic hierarchy, what happens to the number of common characteristics shared among organisms?",
+        "hi": "वर्गिकी पदानुक्रम में जब हम जाति (Species) से जगत (Kingdom) की ओर ऊपर जाते हैं, तो जीवों के बीच साझा किए जाने वाले उभयनिष्ठ लक्षणों की संख्या पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The number of common characteristics progressively decreases.",
+          "hi": "उभयनिष्ठ लक्षणों की संख्या उत्तरोत्तर घटती जाती है।"
+        },
+        "B": {
+          "en": "The number of common characteristics progressively increases.",
+          "hi": "उभयनिष्ठ लक्षणों की संख्या उत्तरोत्तर बढ़ती जाती है।"
+        },
+        "C": {
+          "en": "The number of common characteristics remains completely unchanged.",
+          "hi": "उभयनिष्ठ लक्षणों की संख्या पूरी तरह अपरिवर्तित रहती है।"
+        },
+        "D": {
+          "en": "It first decreases and then increases at the level of Class.",
+          "hi": "यह पहले घटती है और फिर वर्ग (Class) के स्तर पर बढ़ती है।"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "NCERT Section 1.3 states: Lower the taxa, more are the characteristics that the members within the taxon share. Higher the category, greater is the difficulty of determining the relationship to other taxa at the same level. Hence, as we go from species to kingdom, the number of common characteristics decreases (Option A).",
+        "hi": "NCERT खंड 1.3 के अनुसार: संवर्ग जितना नीचे होता है, उसके सदस्यों के बीच उभयनिष्ठ लक्षण उतने ही अधिक होते हैं। उच्च संवर्ग में जाने पर उभयनिष्ठ लक्षणों की संख्या घटती जाती है और जटिलता बढ़ती जाती है (विकल्प A)।"
+      }
+    },
+    {
+      "id": 4,
+      "category": "Theory-based",
+      "question": {
+        "en": "What do the international standard abbreviations ICBN and ICZN stand for in biological nomenclature?",
+        "hi": "जैविक नामकरण में अंतरराष्ट्रीय मानक संक्षिप्त नाम ICBN और ICZN का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "International Code for Botanical Nomenclature and International Code of Zoological Nomenclature",
+          "hi": "इंटरनेशनल कोड फॉर बॉटनिकल नोमेनक्लेचर और इंटरनेशनल कोड ऑफ जूलॉजिकल नोमेनक्लेचर"
+        },
+        "B": {
+          "en": "Indian Code of Botanical Names and Indian Code of Zoological Names",
+          "hi": "इंडियन कोड ऑफ बॉटनिकल नेम्स और इंडियन कोड ऑफ जूलॉजिकल नेम्स"
+        },
+        "C": {
+          "en": "International Council of Biological Nomenclature and International Council of Zoological Nomenclature",
+          "hi": "इंटरनेशनल काउंसिल ऑफ बायोलॉजिकल नोमेनक्लेचर और इंटरनेशनल काउंसिल ऑफ जूलॉजिकल नोमेनक्लेचर"
+        },
+        "D": {
+          "en": "International Center of Botanical Nomenclature and International Center of Zoological Nomenclature",
+          "hi": "इंटरनेशनल सेंटर ऑफ बॉटनिकल नोमेनक्लेचर और इंटरनेशनल सेंटर ऑफ जूलॉजिकल नोमेनक्लेचर"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "For plants, scientific naming principles and criteria are provided in the International Code for Botanical Nomenclature (ICBN). Animal taxonomists have evolved the International Code of Zoological Nomenclature (ICZN).",
+        "hi": "पादपों के लिए वैज्ञानिक नामकरण के नियम 'इंटरनेशनल कोड फॉर बॉटनिकल नोमेनक्लेचर' (ICBN) में दिए गए हैं। प्राणियों के लिए प्राणीविदों ने 'इंटरनेशनल कोड ऑफ जूलॉजिकल नोमेनक्लेचर' (ICZN) बनाया है (विकल्प A)।"
+      }
+    },
+    {
+      "id": 5,
+      "category": "Formula-based",
+      "question": {
+        "en": "In the correctly written scientific name Mangifera indica Linn., what does the word 'Linn.' signify at the end of the binomial designation?",
+        "hi": "सही ढंग से लिखे गए वैज्ञानिक नाम Mangifera indica Linn. में द्विपद नाम के अंत में 'Linn.' शब्द क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "It indicates that the plant was first described by Carolus Linnaeus.",
+          "hi": "यह दर्शाता है कि इस पादप का सबसे पहले वर्णन कैरोलस लिनियस द्वारा किया गया था।"
+        },
+        "B": {
+          "en": "It indicates the sub-variety of the mango fruit.",
+          "hi": "यह आम के फल की उप-किस्म को दर्शाता है।"
+        },
+        "C": {
+          "en": "It represents the language in which the plant is found locally.",
+          "hi": "यह उस भाषा को दर्शाता है जिसमें यह पादप स्थानीय रूप से पाया जाता है।"
+        },
+        "D": {
+          "en": "It denotes that the species is extinct in nature.",
+          "hi": "यह दर्शाता है कि यह प्रजाति प्रकृति में विलुप्त हो चुकी है।"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "NCERT Section 1.2: Name of the author appears after the specific epithet (i.e. at the end of the biological name) and is written in an abbreviated form, e.g., Mangifera indica Linn. It indicates that this species was first described by Linnaeus.",
+        "hi": "NCERT खंड 1.2: जाति संकेत-पद के बाद (अर्थात जैविक नाम के अंत में) लेखक का नाम संक्षिप्त रूप में लिखा जाता है, जैसे Mangifera indica Linn.। इसका अर्थ है कि इस प्रजाति का पहली बार वर्णन लिनियस द्वारा किया गया था (विकल्प A)।"
+      }
+    },
+    {
+      "id": 6,
+      "category": "Formula-based",
+      "question": {
+        "en": "Which of the following represents the correct taxonomic classification of Man (Homo sapiens) in ascending order from Family to Phylum according to NCERT Table 1.1?",
+        "hi": "NCERT तालिका 1.1 के अनुसार कुल (Family) से संघ (Phylum) तक बढ़ते क्रम में मानव (Homo sapiens) का सही वर्गिकी वर्गीकरण निम्नलिखित में से कौन सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hominidae → Primata → Mammalia → Chordata",
+          "hi": "होमिनिडी (Hominidae) → प्राइमाटा (Primata) → मैमेलिया (Mammalia) → कॉर्डेटा (Chordata)"
+        },
+        "B": {
+          "en": "Primata → Hominidae → Mammalia → Chordata",
+          "hi": "प्राइमाटा → होमिनिडी → मैमेलिया → कॉर्डेटा"
+        },
+        "C": {
+          "en": "Hominidae → Mammalia → Primata → Chordata",
+          "hi": "होमिनिडी → मैमेलिया → प्राइमाटा → कॉर्डेटा"
+        },
+        "D": {
+          "en": "Chordata → Mammalia → Primata → Hominidae",
+          "hi": "कॉर्डेटा → मैमेलिया → प्राइमाटा → होमिनिडी"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "According to NCERT Table 1.1 (Organisms with their Taxonomic Categories):\nCommon Name: Man\nBiological Name: Homo sapiens\nGenus: Homo\nFamily: Hominidae\nOrder: Primata\nClass: Mammalia\nPhylum: Chordata.\nAscending sequence: Hominidae → Primata → Mammalia → Chordata (Option A).",
+        "hi": "NCERT तालिका 1.1 के अनुसार मानव का वर्गीकरण:\nजैविक नाम: होमो सेपियन्स\nवंश: होमो\nकुल: होमिनिडी (Hominidae)\nगण: प्राइमाटा (Primata)\nवर्ग: मैमेलिया (Mammalia)\nसंघ: कॉर्डेटा (Chordata)।\nआरोही क्रम: होमिनिडी → प्राइमाटा → मैमेलिया → कॉर्डेटा (विकल्प A)।"
+      }
+    },
+    {
+      "id": 7,
+      "category": "Formula-based",
+      "question": {
+        "en": "According to NCERT Table 1.1, which Family and Order does the common Housefly (Musca domestica) belong to?",
+        "hi": "NCERT तालिका 1.1 के अनुसार, घरेलू मक्खी (Musca domestica) किस कुल (Family) और गण (Order) से संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Family: Muscidae, Order: Diptera",
+          "hi": "कुल: मसीडी (Muscidae), गण: डिप्टेरा (Diptera)"
+        },
+        "B": {
+          "en": "Family: Diptera, Order: Muscidae",
+          "hi": "कुल: डिप्टेरा, गण: मसीडी"
+        },
+        "C": {
+          "en": "Family: Arthropoda, Order: Insecta",
+          "hi": "कुल: आर्थ्रोपोडा, गण: इन्सेक्टा"
+        },
+        "D": {
+          "en": "Family: Hominidae, Order: Diptera",
+          "hi": "कुल: होमिनिडी, गण: डिप्टेरा"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "From NCERT Table 1.1:\nCommon Name: Housefly\nBiological Name: Musca domestica\nGenus: Musca\nFamily: Muscidae\nOrder: Diptera\nClass: Insecta\nPhylum: Arthropoda.\nHence, Family is Muscidae and Order is Diptera (Option A).",
+        "hi": "NCERT तालिका 1.1 के अनुसार घरेलू मक्खी (Musca domestica):\nवंश: मस्का (Musca)\nकुल: मसीडी (Muscidae)\nगण: डिप्टेरा (Diptera)\nवर्ग: इन्सेक्टा (Insecta)\nसंघ: आर्थ्रोपोडा (Arthropoda)।\nअतः कुल मसीडी और गण डिप्टेरा है (विकल्प A)।"
+      }
+    },
+    {
+      "id": 8,
+      "category": "Formula-based",
+      "question": {
+        "en": "Which of the following correctly pairs related Genera with their common Family according to NCERT examples?",
+        "hi": "NCERT के उदाहरणों के अनुसार निम्नलिखित में से कौन सा संबंधित वंशों (Genera) को उनके उभयनिष्ठ कुल (Family) के साथ सही रूप से सुमेलित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Genera Solanum, Petunia, and Datura are placed in Family Solanaceae.",
+          "hi": "वंश सोलेनम (Solanum), पिटूनिया (Petunia) और धतूरा (Datura) कुल सोलेनेसी (Solanaceae) में रखे गए हैं।"
+        },
+        "B": {
+          "en": "Genera Panthera and Felis are placed in Family Canidae.",
+          "hi": "वंश पैंथेरा और फेलिस कुल कैनिडी (Canidae) में रखे गए हैं।"
+        },
+        "C": {
+          "en": "Genera Homo and Musca are placed in Family Muscidae.",
+          "hi": "वंश होमो और मस्का कुल मसीडी में रखे गए हैं।"
+        },
+        "D": {
+          "en": "Genera Mangifera and Triticum are placed in Family Poaceae.",
+          "hi": "वंश मैंजीफेरा और ट्रिटिकम कुल पोएसी में रखे गए हैं।"
+        }
+      },
+      "correct_option": "A",
+      "solution": {
+        "en": "NCERT Section 1.3.3: Families are characterized on the basis of both vegetative and reproductive features of plant species. For example, three different genera Solanum, Petunia, and Datura are placed in the family Solanaceae. (Panthera and Felis are placed in Felidae, not Canidae; Dogs belong to Canidae).",
+        "hi": "NCERT खंड 1.3.3: कुल का वर्गीकरण पादपों के कायिक तथा जनन दोनों लक्षणों के आधार पर किया जाता है। उदाहरण के लिए तीन विभिन्न वंश सोलेनम, पिटूनिया और धतूरा को सोलेनेसी कुल में रखा गया है (पैंथेरा और फेलिस फेलिडी कुल में आते हैं, कैनिडी में नहीं)। अतः विकल्प A सही है।"
+      }
+    },
+    {
+      "id": 9,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Figure 1.1: Taxonomic categories showing hierarchical arrangement in ascending order depicted as stepping blocks: Species → Genus → Family → [ ? ] → Class → Division/Phylum → Kingdom.",
+      "question": {
+        "en": "In the taxonomic hierarchy stepping ladder diagram in NCERT, which obligatory category occupies the bracketed position [ ? ] between Family and Class?",
+        "hi": "NCERT में वर्गिकी पदानुक्रम सीढ़ी आरेख में, कुल (Family) और वर्ग (Class) के बीच कोष्ठक वाली स्थिति [ ? ] में कौन सा अनिवार्य संवर्ग आता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cohort",
+          "hi": "कोहॉर्ट"
+        },
+        "B": {
+          "en": "Order (गण)",
+          "hi": "गण (Order)"
+        },
+        "C": {
+          "en": "Tribe",
+          "hi": "ट्राइब"
+        },
+        "D": {
+          "en": "Subfamily",
+          "hi": "उपकुल"
+        }
+      },
+      "correct_option": "B",
+      "solution": {
+        "en": "NCERT Figure 1.1 displays the 7 obligatory categories in ascending hierarchy: Species → Genus → Family → Order → Class → Phylum/Division → Kingdom. The category directly linking Family to Class is Order (Option B).",
+        "hi": "NCERT चित्र 1.1 में आरोही क्रम में 7 अनिवार्य संवर्ग दर्शाए गए हैं: जाति → वंश → कुल → गण (Order) → वर्ग → संघ/भाग → जगत। कुल और वर्ग को जोड़ने वाला संवर्ग 'गण' (Order) है (विकल्प B)।"
+      }
+    },
+    {
+      "id": 10,
+      "category": "Image-based",
+      "image_reference": "NCERT Biology Class XI, Section 1.4: Diagrammatic illustration of a standard Herbarium Sheet (measuring standard 41 cm × 29 cm) showing a pressed and dried plant specimen affixed in the center, with a standard informational label affixed at the lower right-hand corner.",
+      "question": {
+        "en": "According to NCERT, which piece of information is NOT typically recorded on the label pasted at the lower right-hand corner of a standard herbarium sheet?",
+        "hi": "NCERT के अनुसार, एक मानक हर्बेरियम शीट के निचले दाएँ कोने पर चिपकाए गए लेबल पर आमतौर पर कौन सी जानकारी दर्ज नहीं की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Date and place of collection",
+          "hi": "एकत्र करने की तिथि और स्थान"
+        },
+        "B": {
+          "en": "English, local, and botanical names along with Family and Collector's name",
+          "hi": "अंग्रेजी, स्थानीय और वानस्पतिक नाम तथा कुल और संग्रहकर्ता का नाम"
+        },
+        "C": {
+          "en": "Height of the living tree in meters and exact root depth",
+          "hi": "जीवित वृक्ष की मीटर में ऊंचाई और सटीक जड़ की गहराई"
+        },
+        "D": {
+          "en": "Family of the plant specimen",
+          "hi": "पादप नमूने का कुल"
+        }
+      },
+      "correct_option": "C",
+      "solution": {
+        "en": "NCERT Section 1.4.1 explicitly lists the information carried by herbarium labels: date and place of collection, English, local and botanical names, family, collector's name, etc. Tree height in meters and root depth are ecological field observations not standardly recorded on herbarium labels (Option C).",
+        "hi": "NCERT खंड 1.4.1 के अनुसार हर्बेरियम लेबल पर दर्ज जानकारी में: एकत्र करने की तिथि और स्थान, अंग्रेजी, स्थानीय और वानस्पतिक नाम, कुल, संग्रहकर्ता का नाम आदि शामिल हैं। वृक्ष की ऊंचाई और जड़ की गहराई हर्बेरियम शीट के मानक लेबल पर दर्ज नहीं की जाती (विकल्प C)।"
+      }
+    }
+  ]
+}
