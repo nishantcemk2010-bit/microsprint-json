@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc04_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Dalton's Law of Partial Pressures applies strictly to a mixture of gases that are:",
+        "hi": "डाल्टन का आंशिक दाब का नियम कड़ाई से किन गैसों के मिश्रण पर लागू होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Non-reacting with each other chemically under the given conditions",
+          "hi": "दी गई परिस्थितियों में रासायनिक रूप से एक दूसरे से अभिक्रिया न करने वाली"
+        },
+        "B": {
+          "en": "Capable of reacting vigorously with each other",
+          "hi": "एक दूसरे के साथ तीव्रता से अभिक्रिया करने में सक्षम"
+        },
+        "C": {
+          "en": "Present strictly in 1:1 stoichiometric ratio",
+          "hi": "कड़ाई से 1:1 रससमीकरणमितीय अनुपात में उपस्थित"
+        },
+        "D": {
+          "en": "At their respective boiling points",
+          "hi": "अपने संबंधित क्वथनांकों पर उपस्थित"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q02",
+      "category": "Theory",
+      "question": {
+        "en": "When a gas is collected over liquid water, it is saturated with water vapour. The pressure of pure dry gas is calculated as:",
+        "hi": "जब किसी गैस को जल के ऊपर एकत्र किया जाता है, तो वह जलवाष्प से संतृप्त हो जाती है। शुद्ध शुष्क गैस के दाब की गणना कैसे की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "P_dry gas = P_total - Aqueous Tension",
+          "hi": "P_शुष्क गैस = P_कुल - जलीय तनाव (Aqueous Tension)"
+        },
+        "B": {
+          "en": "P_dry gas = P_total + Aqueous Tension",
+          "hi": "P_शुष्क गैस = P_कुल + जलीय तनाव"
+        },
+        "C": {
+          "en": "P_dry gas = P_total × Aqueous Tension",
+          "hi": "P_शुष्क गैस = P_कुल × जलीय तनाव"
+        },
+        "D": {
+          "en": "P_dry gas = P_total / Aqueous Tension",
+          "hi": "P_शुष्क गैस = P_कुल / जलीय तनाव"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q03",
+      "category": "Theory",
+      "question": {
+        "en": "The partial pressure (p_i) of a gas in a non-reacting mixture is directly proportional to its:",
+        "hi": "अक्रियाशील मिश्रण में किसी गैस का आंशिक दाब (p_i) किसके सीधे समानुपाती होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Mole fraction (x_i) in the mixture (p_i = x_i · P_total)",
+          "hi": "मिश्रण में इसके मोल अंश (x_i) के (p_i = x_i · P_total)"
+        },
+        "B": {
+          "en": "Mass fraction in grams",
+          "hi": "ग्राम में द्रव्यमान अंश के"
+        },
+        "C": {
+          "en": "Square of its molar mass",
+          "hi": "इसके मोलर द्रव्यमान के वर्ग के"
+        },
+        "D": {
+          "en": "Inverse of its volume",
+          "hi": "इसके आयतन के व्युत्क्रम के"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Graham's Law of Diffusion states that under identical conditions of temperature and pressure, the rates of diffusion of gases are:",
+        "hi": "ग्राहम का विसरण का नियम बताता है कि तापमान और दाब की समान परिस्थितियों में, गैसों के विसरण की दरें:"
+      },
+      "options": {
+        "A": {
+          "en": "Inversely proportional to the square root of their molar masses or densities",
+          "hi": "उनके मोलर द्रव्यमान या घनत्व के वर्गमूल के व्युत्क्रमानुपाती होती हैं"
+        },
+        "B": {
+          "en": "Directly proportional to their molar masses",
+          "hi": "उनके मोलर द्रव्यमान के सीधे समानुपाती होती हैं"
+        },
+        "C": {
+          "en": "Directly proportional to the square of their densities",
+          "hi": "उनके घनत्व के वर्ग के सीधे समानुपाती होती हैं"
+        },
+        "D": {
+          "en": "Independent of the identity of the gas",
+          "hi": "गैस की प्रकृति से स्वतंत्र होती हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the difference between diffusion and effusion of a gas?",
+        "hi": "गैस के विसरण (Diffusion) और निस्सरण (Effusion) के बीच क्या अंतर है?"
+      },
+      "options": {
+        "A": {
+          "en": "Diffusion is spontaneous mixing across space, whereas effusion is escape of gas through a tiny pinhole into vacuum",
+          "hi": "विसरण खाली स्थान में स्वतः मिश्रण है, जबकि निस्सरण एक सूक्ष्म छिद्र के माध्यम से निर्वात में गैस का पलायन है"
+        },
+        "B": {
+          "en": "Effusion occurs only at absolute zero",
+          "hi": "निस्सरण केवल परम शून्य पर होता है"
+        },
+        "C": {
+          "en": "Diffusion obeys Graham's law but effusion does not",
+          "hi": "विसरण ग्राहम के नियम का पालन करता है लेकिन निस्सरण नहीं"
+        },
+        "D": {
+          "en": "Effusion is exclusively exhibited by liquids",
+          "hi": "निस्सरण केवल द्रवों द्वारा प्रदर्शित किया जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q06",
+      "category": "Theory",
+      "question": {
+        "en": "To which of the following gaseous mixtures can Dalton's Law of Partial Pressures NOT be applied at room temperature?",
+        "hi": "कमरे के तापमान पर निम्नलिखित में से किस गैसीय मिश्रण पर डाल्टन का आंशिक दाब का नियम लागू नहीं किया जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "NH₃(g) and HCl(g)",
+          "hi": "NH₃(g) और HCl(g)"
+        },
+        "B": {
+          "en": "N₂(g) and O₂(g)",
+          "hi": "N₂(g) और O₂(g)"
+        },
+        "C": {
+          "en": "H₂(g) and He(g)",
+          "hi": "H₂(g) और He(g)"
+        },
+        "D": {
+          "en": "CO₂(g) and N₂(g)",
+          "hi": "CO₂(g) और N₂(g)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q07",
+      "category": "Formula",
+      "question": {
+        "en": "A mixture of 8.0 g of oxygen (O₂, M=32) and 14.0 g of nitrogen (N₂, M=28) is kept in a vessel at a total pressure of 10.0 atm. What is the partial pressure of oxygen?",
+        "hi": "10.0 atm के कुल दाब पर एक पात्र में 8.0 g ऑक्सीजन (O₂, M=32) और 14.0 g नाइट्रोजन (N₂, M=28) का मिश्रण रखा गया है। ऑक्सीजन का आंशिक दाब क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "3.33 atm",
+          "hi": "3.33 atm"
+        },
+        "B": {
+          "en": "6.67 atm",
+          "hi": "6.67 atm"
+        },
+        "C": {
+          "en": "5.00 atm",
+          "hi": "5.00 atm"
+        },
+        "D": {
+          "en": "2.50 atm",
+          "hi": "2.50 atm"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q08",
+      "category": "Formula",
+      "question": {
+        "en": "How many times faster does hydrogen gas (H₂, M=2 g/mol) diffuse compared to oxygen gas (O₂, M=32 g/mol) under identical conditions?",
+        "hi": "समान परिस्थितियों में हाइड्रोजन गैस (H₂, M=2 g/mol) ऑक्सीजन गैस (O₂, M=32 g/mol) की तुलना में कितने गुना तेजी से विसरित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "4 times faster",
+          "hi": "4 गुना तेजी से"
+        },
+        "B": {
+          "en": "16 times faster",
+          "hi": "16 गुना तेजी से"
+        },
+        "C": {
+          "en": "2 times faster",
+          "hi": "2 गुना तेजी से"
+        },
+        "D": {
+          "en": "8 times faster",
+          "hi": "8 गुना तेजी से"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q09",
+      "category": "Formula",
+      "question": {
+        "en": "If 50 mL of gas A effuses through a pinhole in 20 seconds, and 50 mL of gas B effuses in 40 seconds under identical conditions, what is the ratio of their molar masses (M_B / M_A)?",
+        "hi": "यदि गैस A का 50 mL समान परिस्थितियों में 20 सेकंड में एक सूक्ष्म छिद्र से निस्सरित होता है, और गैस B का 50 mL 40 सेकंड में निस्सरित होता है, तो उनके मोलर द्रव्यमानों का अनुपात (M_B / M_A) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "4 : 1",
+          "hi": "4 : 1"
+        },
+        "B": {
+          "en": "2 : 1",
+          "hi": "2 : 1"
+        },
+        "C": {
+          "en": "1 : 4",
+          "hi": "1 : 4"
+        },
+        "D": {
+          "en": "16 : 1",
+          "hi": "16 : 1"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q10",
+      "category": "Formula",
+      "question": {
+        "en": "A moist gas is collected over water at 25 °C and a barometric pressure of 755 mm Hg. If the aqueous tension of water at 25 °C is 23.8 mm Hg, what is the actual pressure of the dry gas?",
+        "hi": "25 °C पर 755 mm Hg के बैरोमीटर दाब पर जल के ऊपर एक नम गैस एकत्र की जाती है। यदि 25 °C पर जल का जलीय तनाव 23.8 mm Hg है, तो शुष्क गैस का वास्तविक दाब क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "731.2 mm Hg",
+          "hi": "731.2 mm Hg"
+        },
+        "B": {
+          "en": "778.8 mm Hg",
+          "hi": "778.8 mm Hg"
+        },
+        "C": {
+          "en": "755.0 mm Hg",
+          "hi": "755.0 mm Hg"
+        },
+        "D": {
+          "en": "700.0 mm Hg",
+          "hi": "700.0 mm Hg"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q11",
+      "category": "Formula",
+      "question": {
+        "en": "An unknown gas X effuses 0.5 times as fast as methane (CH₄, M=16 g/mol) under identical conditions. What is the molar mass of gas X?",
+        "hi": "समान परिस्थितियों में एक अज्ञात गैस X मीथेन (CH₄, M=16 g/mol) की तुलना में 0.5 गुना गति से निस्सरित होती है। गैस X का मोलर द्रव्यमान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "64 g/mol",
+          "hi": "64 g/mol"
+        },
+        "B": {
+          "en": "32 g/mol",
+          "hi": "32 g/mol"
+        },
+        "C": {
+          "en": "8 g/mol",
+          "hi": "8 g/mol"
+        },
+        "D": {
+          "en": "128 g/mol",
+          "hi": "128 g/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q12",
+      "category": "Formula",
+      "question": {
+        "en": "In a 10 L closed vessel, 2 moles of gas A, 3 moles of gas B, and 5 moles of gas C are mixed at 300 K. If the total pressure is 20 bar, what is the partial pressure of gas B?",
+        "hi": "10 L के बंद पात्र में 300 K पर 2 मोल गैस A, 3 मोल गैस B और 5 मोल गैस C मिलाए जाते हैं। यदि कुल दाब 20 बार है, तो गैस B का आंशिक दाब क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "6 bar",
+          "hi": "6 bar"
+        },
+        "B": {
+          "en": "4 bar",
+          "hi": "4 bar"
+        },
+        "C": {
+          "en": "10 bar",
+          "hi": "10 bar"
+        },
+        "D": {
+          "en": "3 bar",
+          "hi": "3 bar"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "A glass tube of 100 cm length is fitted with cotton plugs soaked in NH₃(aq) at one end and concentrated HCl(aq) at the other end simultaneously. At what approximate distance from the NH₃ end will the white ring of NH₄Cl first form?",
+        "hi": "100 cm लंबी एक कांच की नली के एक सिरे पर NH₃(aq) और दूसरे सिरे पर सांद्र HCl(aq) में भीगे रुई के फाहे एक साथ लगाए जाते हैं। NH₃ वाले सिरे से लगभग कितनी दूरी पर NH₄Cl का सफेद छल्ला सबसे पहले बनेगा?"
+      },
+      "options": {
+        "A": {
+          "en": "59.5 cm from the NH₃ end (closer to the HCl end)",
+          "hi": "NH₃ सिरे से 59.5 cm (HCl सिरे के अधिक निकट)"
+        },
+        "B": {
+          "en": "50.0 cm exactly at the midpoint",
+          "hi": "ठीक मध्य बिंदु पर 50.0 cm"
+        },
+        "C": {
+          "en": "40.5 cm from the NH₃ end",
+          "hi": "NH₃ सिरे से 40.5 cm"
+        },
+        "D": {
+          "en": "20.0 cm from the NH₃ end",
+          "hi": "NH₃ सिरे से 20.0 cm"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table of gas effusion rates through a porous barrier:\n| Gas | Molar Mass (g/mol) | Relative Rate of Effusion |\n| :--- | :--- | :--- |\n| H₂ | 2 | 4.0 |\n| CH₄ | 16 | 1.414 |\n| O₂ | 32 | 1.0 |\n| SO₂ | 64 | 0.707 |\nWhat general relationship between molar mass and effusion rate is confirmed by these data?",
+        "hi": "एक सरंध्र विभाजक के माध्यम से गैस निस्सरण दरों की तालिका की जाँच करें:\n| गैस | मोलर द्रव्यमान (g/mol) | निस्सरण की आपेक्षिक दर |\n| :--- | :--- | :--- |\n| H₂ | 2 | 4.0 |\n| CH₄ | 16 | 1.414 |\n| O₂ | 32 | 1.0 |\n| SO₂ | 64 | 0.707 |\nइन आंकड़ों से मोलर द्रव्यमान और निस्सरण दर के बीच किस सामान्य संबंध की पुष्टि होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Rate is inversely proportional to the square root of molar mass (Graham's Law)",
+          "hi": "दर मोलर द्रव्यमान के वर्गमूल के व्युत्क्रमानुपाती होती है (ग्राहम का नियम)"
+        },
+        "B": {
+          "en": "Rate is directly proportional to molar mass",
+          "hi": "दर मोलर द्रव्यमान के सीधे समानुपाती होती है"
+        },
+        "C": {
+          "en": "Rate is inversely proportional to molar mass squared",
+          "hi": "दर मोलर द्रव्यमान के वर्ग के व्युत्क्रमानुपाती होती है"
+        },
+        "D": {
+          "en": "Molar mass has no effect on effusion",
+          "hi": "मोलर द्रव्यमान का निस्सरण पर कोई प्रभाव नहीं पड़ता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc04_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "If equal masses of helium (He, M=4) and methane (CH₄, M=16) are enclosed in a container, what is the ratio of partial pressure of helium to that of methane (p_He / p_CH₄)?",
+        "hi": "यदि एक पात्र में हीलियम (He, M=4) और मीथेन (CH₄, M=16) के समान द्रव्यमान बंद हैं, तो हीलियम और मीथेन के आंशिक दाब का अनुपात (p_He / p_CH₄) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "4 : 1",
+          "hi": "4 : 1"
+        },
+        "B": {
+          "en": "1 : 4",
+          "hi": "1 : 4"
+        },
+        "C": {
+          "en": "2 : 1",
+          "hi": "2 : 1"
+        },
+        "D": {
+          "en": "1 : 1",
+          "hi": "1 : 1"
+        }
+      }
+    }
+  ]
+}

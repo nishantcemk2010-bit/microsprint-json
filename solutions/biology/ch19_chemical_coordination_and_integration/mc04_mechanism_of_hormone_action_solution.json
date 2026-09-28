@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch19_mc04_q01",
+      "category": "theory",
+      "question": {
+        "en": "Hormones produce their biochemical and physiological effects on target tissues exclusively by binding to:",
+        "hi": "हार्मोन लक्ष्य ऊतकों पर अपने जैव रासायनिक और शारीरिक प्रभाव विशेष रूप से किससे जुड़कर उत्पन्न करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Specific protein molecules called hormone receptors located only in target tissues",
+          "hi": "हार्मोन ग्राही (रिसेप्टर्स) नामक विशिष्ट प्रोटीन अणुओं से, जो केवल लक्ष्य ऊतकों में स्थित होते हैं"
+        },
+        "B": {
+          "en": "Phospholipid heads of the outer cell membrane non-specifically",
+          "hi": "बाहरी कोशिका झिल्ली के फॉस्फोलिपिड सिरों से गैर-विशिष्ट रूप से"
+        },
+        "C": {
+          "en": "Histone octamers located around chromosomal DNA directly",
+          "hi": "गुणसूत्रीय डीएनए के चारों ओर स्थित हिस्टोन अष्टकों से सीधे"
+        },
+        "D": {
+          "en": "Mitochondrial ATP synthase complexes to accelerate ATP generation",
+          "hi": "ATP उत्पादन को तेज करने के लिए माइटोकॉन्ड्रियल ATP सिंथेज सम्मिश्र से"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Hormones produce their effects on target tissues by binding to specific proteins called hormone receptors located in the target tissues only. Each receptor is specific to only one hormone.",
+        "hi": "हार्मोन केवल लक्ष्य ऊतकों में स्थित विशिष्ट प्रोटीन अणुओं, जिन्हें हार्मोन ग्राही (रिसेप्टर्स) कहा जाता है, से जुड़कर अपना प्रभाव उत्पन्न करते हैं। प्रत्येक ग्राही केवल एक हार्मोन के लिए विशिष्ट होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following groups contains hormones that are chemically classified as STEROIDS?",
+        "hi": "निम्नलिखित में से किस समूह में रासायनिक रूप से स्टेरॉयड के रूप में वर्गीकृत हार्मोन शामिल हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Insulin, Glucagon, Oxytocin, Vasopressin",
+          "hi": "इंसुलिन, ग्लूकागॉन, ऑक्सीटोसिन, वैसोप्रेसिन"
+        },
+        "B": {
+          "en": "Epinephrine, Norepinephrine, Melatonin",
+          "hi": "एपिनेफ्रीन, नॉरएपिनेफ्रीन, मेलाटोनिन"
+        },
+        "C": {
+          "en": "Cortisol, Testosterone, Estradiol, Progesterone",
+          "hi": "कोर्टिसोल, टेस्टोस्टेरोन, एस्ट्राडियोल, प्रोजेस्टेरोन"
+        },
+        "D": {
+          "en": "Thyroxine, Triiodothyronine, Calcitonin",
+          "hi": "थायरॉक्सिन, ट्राईआयोडोथायरोनिन, कैल्सीटोनिन"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Steroid hormones are derived from cholesterol and include Cortisol, Testosterone, Estradiol, Progesterone, and Aldosterone. Insulin and glucagon are peptide/protein hormones. Epinephrine is an amino-acid derivative.",
+        "hi": "स्टेरॉयड हार्मोन कोलेस्ट्रॉल से व्युत्पन्न होते हैं और इनमें कोर्टिसोल, टेस्टोस्टेरोन, एस्ट्राडियोल, प्रोजेस्टेरोन और एल्डोस्टेरोन शामिल हैं। इंसुलिन और ग्लूकागॉन पेप्टाइड/प्रोटीन हार्मोन हैं। एपिनेफ्रीन एक अमीनो-अम्ल व्युत्पन्न है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q03",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following hormones is an amino acid derivative derived from the amino acid tyrosine?",
+        "hi": "निम्नलिखित में से कौन सा हार्मोन टाइरोसिन अमीनो अम्ल से व्युत्पन्न एक अमीनो अम्ल व्युत्पन्न है?"
+      },
+      "options": {
+        "A": {
+          "en": "Growth Hormone",
+          "hi": "वृद्धि हार्मोन"
+        },
+        "B": {
+          "en": "Epinephrine (Adrenaline)",
+          "hi": "एपिनेफ्रीन (एड्रिनेलिन)"
+        },
+        "C": {
+          "en": "Prolactin",
+          "hi": "प्रोलैक्टिन"
+        },
+        "D": {
+          "en": "Parathyroid Hormone",
+          "hi": "पैराथायरॉयड हार्मोन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Epinephrine and norepinephrine are catecholamines synthesized by the adrenal medulla that are amino acid derivatives (specifically derived from Tyrosine).",
+        "hi": "एपिनेफ्रीन और नॉरएपिनेफ्रीन एड्रिनल मेडुला द्वारा संश्लेषित कैटेकोलामाइन हैं जो अमीनो अम्ल व्युत्पन्न हैं (विशेष रूप से टाइरोसिन से व्युत्पन्न)।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q04",
+      "category": "theory",
+      "question": {
+        "en": "Receptors present on the cell surface of the target cell are termed membrane-bound receptors, whereas those located inside the target cell are termed intracellular receptors. Intracellular receptors are predominantly:",
+        "hi": "लक्ष्य कोशिका की कोशिका सतह पर मौजूद ग्राहियों को झिल्ली-बद्ध ग्राही कहा जाता है, जबकि लक्ष्य कोशिका के अंदर स्थित ग्राहियों को अंतःकोशिकीय ग्राही कहा जाता है। अंतःकोशिकीय ग्राही मुख्य रूप से कहाँ पाए जाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Anchored exclusively within the Golgi lumen",
+          "hi": "विशेष रूप से गॉल्जी ल्यूमेन के भीतर स्थित"
+        },
+        "B": {
+          "en": "Embedded inside the inner mitochondrial cristae",
+          "hi": "माइटोकॉन्ड्रिया की आंतरिक क्रिस्टी में धंसे हुए"
+        },
+        "C": {
+          "en": "Bound to ribosomal subunits in the nucleolus",
+          "hi": "केंद्रिक में राइबोसोमल उप-इकाइयों से बंधे हुए"
+        },
+        "D": {
+          "en": "Nuclear receptors present in the nucleus",
+          "hi": "केंद्रक में उपस्थित केंद्रकीय ग्राही (न्यूक्लियर रिसेप्टर्स)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Intracellular receptors are mostly nuclear receptors (present in the nucleus) where the hormone-receptor complex regulates gene expression by interacting with the chromosome/DNA.",
+        "hi": "अंतःकोशिकीय ग्राही अधिकतर केंद्रकीय ग्राही (nuclear receptors) होते हैं जो केंद्रक में मौजूद होते हैं, जहाँ हार्मोन-ग्राही सम्मिश्र गुणसूत्र/डीएनए के साथ परस्पर क्रिया करके जीन अभिव्यक्ति का नियमन करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q05",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following molecules acts as an intracellular second messenger in the signaling pathway of peptide hormones?",
+        "hi": "पेप्टाइड हार्मोनों के संकेतन मार्ग में निम्नलिखित में से कौन सा अणु अंतःकोशिकीय द्वितीयक संदेशवाहक (second messenger) के रूप में कार्य करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyclic AMP (cAMP), IP3, DAG, and Ca2+",
+          "hi": "साइक्लिक AMP (cAMP), IP3, DAG और Ca2+"
+        },
+        "B": {
+          "en": "Glucose, Glycogen, and Triglycerides",
+          "hi": "ग्लूकोज, ग्लाइकोजन और ट्राइग्लिसराइड्स"
+        },
+        "C": {
+          "en": "Ribosomal RNA and transfer RNA",
+          "hi": "राइबोसोमल आरएनए और ट्रांसफर आरएनए"
+        },
+        "D": {
+          "en": "Hemoglobin and Myoglobin",
+          "hi": "हीमोग्लोबिन और मायोग्लोबिन"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Hormones which interact with membrane-bound receptors do not enter the target cell, but generate second messengers (e.g., cyclic AMP, IP3, DAG, Ca2+) which in turn regulate cellular metabolism.",
+        "hi": "जो हार्मोन झिल्ली-बद्ध ग्राहियों के साथ क्रिया करते हैं वे लक्ष्य कोशिका में प्रवेश नहीं करते, बल्कि द्वितीयक संदेशवाहक (जैसे cyclic AMP, IP3, DAG, Ca2+) उत्पन्न करते हैं जो कोशिकीय उपापचय का नियमन करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q06",
+      "category": "theory",
+      "question": {
+        "en": "How do lipid-soluble hormones such as steroid hormones and iodothyronines primarily regulate physiological functions?",
+        "hi": "लिपिड-घुलनशील हार्मोन जैसे स्टेरॉयड हार्मोन और आयोडोथायरोनिन मुख्य रूप से शारीरिक कार्यों का नियमन किस प्रकार करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "By opening ligand-gated sodium channels in the plasma membrane within milliseconds",
+          "hi": "मिलीसेकंड के भीतर प्लाज्मा झिल्ली में लिगैंड-गेटेड सोडियम चैनलों को खोलकर"
+        },
+        "B": {
+          "en": "By generating cyclic GMP and phosphorylating extracellular structural proteins",
+          "hi": "साइक्लिक GMP उत्पन्न करके और बाह्यकोशिकीय संरचनात्मक प्रोटीनों का फॉस्फोराइलेशन करके"
+        },
+        "C": {
+          "en": "By interacting with intracellular receptors to regulate gene expression and chromosome function",
+          "hi": "जीन अभिव्यक्ति और गुणसूत्र कार्यप्रणाली को विनियमित करने के लिए अंतःकोशिकीय ग्राहियों के साथ परस्पर क्रिया करके"
+        },
+        "D": {
+          "en": "By binding directly to lysosomes and releasing proteolytic enzymes into cytoplasm",
+          "hi": "लाइसोसोम से सीधे जुड़कर और कोशिका द्रव्य में प्रोटीयोलिटिक एंजाइमों को मुक्त करके"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Hormones which interact with intracellular receptors (e.g., steroid hormones, iodothyronines) mostly regulate gene expression or chromosome function by the interaction of hormone-receptor complex with the genome. Cumulative biochemical actions result in physiological and developmental effects.",
+        "hi": "हार्मोन जो अंतःकोशिकीय ग्राहियों (जैसे स्टेरॉयड हार्मोन, आयोडोथायरोनिन) के साथ क्रिया करते हैं, वे जीनोम के साथ हार्मोन-ग्राही सम्मिश्र की परस्पर क्रिया द्वारा मुख्य रूप से जीन अभिव्यक्ति या गुणसूत्र कार्य का नियमन करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q07",
+      "category": "formula",
+      "question": {
+        "en": "Compare the mechanism of Follicle Stimulating Hormone (FSH) with that of Estrogen on ovarian tissue:\nI. FSH binds to a membrane-bound receptor and generates cyclic AMP.\nII. Estrogen enters the target cell and binds to an intracellular nuclear receptor.\nIII. Both FSH and Estrogen diffuse across the cell membrane without requiring receptors.\nWhich of the above statements are correct?",
+        "hi": "अंडाशयी ऊतक पर पुटिका प्रेरक हार्मोन (FSH) और एस्ट्रोजन की क्रियाविधि की तुलना कीजिए:\nI. FSH एक झिल्ली-बद्ध ग्राही से जुड़ता है और साइक्लिक AMP उत्पन्न करता है।\nII. एस्ट्रोजन लक्ष्य कोशिका में प्रवेश करता है और एक अंतःकोशिकीय केंद्रकीय ग्राही से जुड़ता है।\nIII. FSH और एस्ट्रोजन दोनों बिना किसी ग्राही के कोशिका झिल्ली से विसरित होते हैं।\nउपरोक्त में से कौन से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I and III only",
+          "hi": "केवल I और III"
+        },
+        "B": {
+          "en": "I and II only",
+          "hi": "केवल I और II"
+        },
+        "C": {
+          "en": "II and III only",
+          "hi": "केवल II और III"
+        },
+        "D": {
+          "en": "I, II, and III",
+          "hi": "I, II, और III सभी"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "FSH is a peptide/protein hormone that cannot cross the lipid bilayer, so it binds membrane-bound receptors and generates second messengers like cAMP. Estrogen is a steroid hormone that passes through the cell membrane and binds intracellular nuclear receptors to regulate gene expression. Statement III is false.",
+        "hi": "FSH एक पेप्टाइड/प्रोटीन हार्मोन है जो लिपिड द्विपरत को पार नहीं कर सकता, इसलिए यह झिल्ली-बद्ध ग्राहियों से जुड़कर cAMP जैसे द्वितीयक संदेशवाहक बनाता है। एस्ट्रोजन एक स्टेरॉयड हार्मोन है जो कोशिका झिल्ली को पार कर अंतःकोशिकीय केंद्रकीय ग्राहियों से जुड़ता है। कथन III गलत है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q08",
+      "category": "formula",
+      "question": {
+        "en": "In the cyclic AMP (cAMP) second-messenger cascade initiated by adrenaline, what is the sequential order of activation?",
+        "hi": "एड्रिनेलिन द्वारा शुरू किए गए साइक्लिक AMP (cAMP) द्वितीयक संदेशवाहक सोपान में सक्रियण का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hormone binding -> Protein kinase A -> Adenylyl cyclase -> cAMP generation",
+          "hi": "हार्मोन बंधन -> प्रोटीन काइनेज A -> एडेनिलिल साइक्लेज -> cAMP निर्माण"
+        },
+        "B": {
+          "en": "cAMP generation -> Hormone binding -> DNA transcription -> Protein kinase activation",
+          "hi": "cAMP निर्माण -> हार्मोन बंधन -> डीएनए अनुलेखन -> प्रोटीन काइनेज सक्रियण"
+        },
+        "C": {
+          "en": "Phospholipase C activation -> IP3 -> Calcium release -> Adenylyl cyclase",
+          "hi": "फॉस्फोलिपैस C सक्रियण -> IP3 -> कैल्शियम विमोचन -> एडेनिलिल साइक्लेज"
+        },
+        "D": {
+          "en": "Hormone binds membrane receptor -> G-protein activates Adenylyl cyclase -> ATP converted to cAMP -> Activation of Protein Kinase",
+          "hi": "हार्मोन झिल्ली ग्राही से जुड़ता है -> G-प्रोटीन एडेनिलिल साइक्लेज को सक्रिय करता है -> ATP, cAMP में परिवर्तित होता है -> प्रोटीन काइनेज का सक्रियण"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The correct cascade sequence is: Hormone binds to membrane-bound receptor -> activates G-protein -> activates membrane-bound adenylyl cyclase -> converts ATP into cAMP (second messenger) -> cAMP activates Protein Kinase enzymes -> enzyme phosphorylation cascade -> physiological response.",
+        "hi": "सही क्रम है: हार्मोन झिल्ली-बद्ध ग्राही से जुड़ता है -> G-प्रोटीन को सक्रिय करता है -> एडेनिलिल साइक्लेज सक्रिय होकर ATP को cAMP (द्वितीयक संदेशवाहक) में बदलता है -> cAMP प्रोटीन काइनेज को सक्रिय करता है -> एंजाइम फॉस्फोराइलेशन सोपान -> शारीरिक अनुक्रिया।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following statements explains why steroid hormones have a slower onset but longer duration of action compared to peptide hormones?",
+        "hi": "निम्नलिखित में से कौन सा कथन यह स्पष्ट करता है कि पेप्टाइड हार्मोनों की तुलना में स्टेरॉयड हार्मोनों की क्रिया धीमी लेकिन दीर्घकालिक क्यों होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Steroid hormones act by modulating gene transcription and protein synthesis, which takes time to manifest",
+          "hi": "स्टेरॉयड हार्मोन जीन अनुलेखन और प्रोटीन संश्लेषण को संशोधित करके कार्य करते हैं, जिसे प्रकट होने में समय लगता है"
+        },
+        "B": {
+          "en": "Steroid hormones are rapidly degraded in extracellular fluid before reaching target cells",
+          "hi": "स्टेरॉयड हार्मोन लक्ष्य कोशिकाओं तक पहुँचने से पहले बाह्यकोशिकीय द्रव में तेजी से नष्ट हो जाते हैं"
+        },
+        "C": {
+          "en": "Steroids do not interact with specific receptors and operate via bulk fluid endocytosis",
+          "hi": "स्टेरॉयड विशिष्ट ग्राहियों के साथ अंतःक्रिया नहीं करते और तरल अंतःकोशिकता द्वारा कार्य करते हैं"
+        },
+        "D": {
+          "en": "Peptide hormones directly bind to nuclear chromosomes to halt cell division immediately",
+          "hi": "पेप्टाइड हार्मोन कोशिका विभाजन को तुरंत रोकने के लिए सीधे केंद्रकीय गुणसूत्रों से जुड़ते हैं"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Steroid hormones bind intracellular receptors and regulate gene expression at the DNA level. The transcription of mRNA and subsequent translation into new proteins requires time (slower onset), but the newly synthesized proteins have prolonged regulatory effects (longer duration).",
+        "hi": "स्टेरॉयड हार्मोन अंतःकोशिकीय ग्राहियों से जुड़ते हैं और डीएनए स्तर पर जीन अभिव्यक्ति को नियंत्रित करते हैं। mRNA के अनुलेखन और उसके बाद नए प्रोटीनों में अनुवाद में समय लगता है (धीमी शुरुआत), लेकिन नव-संश्लेषित प्रोटीनों का प्रभाव लंबे समय तक बना रहता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q10",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following pairs includes a PRIMARY messenger and a SECONDARY messenger respectively?",
+        "hi": "निम्नलिखित में से किस युग्म में क्रमशः एक प्राथमिक संदेशवाहक और एक द्वितीयक संदेशवाहक शामिल हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "cAMP and IP3",
+          "hi": "cAMP और IP3"
+        },
+        "B": {
+          "en": "Calcium ions and Diacylglycerol (DAG)",
+          "hi": "कैल्शियम आयन और डायसिलग्लिसरॉल (DAG)"
+        },
+        "C": {
+          "en": "Adrenaline and cyclic AMP (cAMP)",
+          "hi": "एड्रिनेलिन और साइक्लिक AMP (cAMP)"
+        },
+        "D": {
+          "en": "Insulin and Glucagon",
+          "hi": "इंसुलिन और ग्लूकागॉन"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "The hormone itself (such as Adrenaline, Glucagon, or TSH) is the primary (first) messenger. The intracellular signaling molecules generated in response to receptor binding (such as cAMP, IP3, DAG, or Ca2+) are secondary messengers.",
+        "hi": "हार्मोन स्वयं (जैसे एड्रिनेलिन, ग्लूकागॉन, या TSH) प्राथमिक संदेशवाहक होता है। ग्राही बंधन के प्रत्युत्तर में उत्पन्न अंतःकोशिकीय संकेतन अणु (जैसे cAMP, IP3, DAG, या Ca2+) द्वितीयक संदेशवाहक होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q11",
+      "category": "formula",
+      "question": {
+        "en": "Why can steroid hormones and iodothyronines readily cross the plasma membrane of target cells, whereas peptide hormones cannot?",
+        "hi": "स्टेरॉयड हार्मोन और आयोडोथायरोनिन लक्ष्य कोशिकाओं की प्लाज्मा झिल्ली को आसानी से क्यों पार कर सकते हैं, जबकि पेप्टाइड हार्मोन नहीं कर सकते?"
+      },
+      "options": {
+        "A": {
+          "en": "Peptide hormones are lipophilic, while steroids are large polar hydrophilic polymers",
+          "hi": "पेप्टाइड हार्मोन लिपिड-स्नेही होते हैं, जबकि स्टेरॉयड बड़े ध्रुवीय जल-स्नेही बहुलक होते हैं"
+        },
+        "B": {
+          "en": "Steroids and iodothyronines are lipid-soluble (lipophilic) and diffuse through the lipid bilayer",
+          "hi": "स्टेरॉयड और आयोडोथायरोनिन वसा-घुलनशील (लिपोफिलिक) होते हैं और लिपिड द्विपरत से विसरित हो जाते हैं"
+        },
+        "C": {
+          "en": "Peptide hormones are actively pumped out of target cells by ABC transporters",
+          "hi": "पेप्टाइड हार्मोनों को ABC ट्रांसपोर्टर्स द्वारा लक्ष्य कोशिकाओं से सक्रिय रूप से बाहर निकाल दिया जाता है"
+        },
+        "D": {
+          "en": "Steroid hormones are engulfed exclusively through pinocytosis into the nucleus",
+          "hi": "स्टेरॉयड हार्मोन विशेष रूप से पिनोसाइटोसिस द्वारा केंद्रक में प्रवेश कराए जाते हैं"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The cell membrane has a hydrophobic interior composed of phospholipid fatty acid tails. Steroid hormones and thyroid hormones are non-polar and lipid-soluble, allowing them to freely diffuse across the lipid bilayer. Peptide hormones are water-soluble and polar, preventing them from crossing the hydrophobic core.",
+        "hi": "कोशिका झिल्ली का आंतरिक भाग फॉस्फोलिपिड वसीय अम्ल पुच्छों से बना जल-विरोधी होता है। स्टेरॉयड और थायरॉयड हार्मोन अध्रुवीय और वसा-घुलनशील होते हैं, जिससे वे लिपिड द्विपरत को आसानी से पार कर जाते हैं। पेप्टाइड हार्मोन जल-घुलनशील और ध्रुवीय होते हैं, जो इसे पार नहीं कर सकते।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q12",
+      "category": "formula",
+      "question": {
+        "en": "Signal amplification during the action of water-soluble hormones is best demonstrated by which phenomenon?",
+        "hi": "जल-घुलनशील हार्मोनों की क्रिया के दौरान संकेत प्रवर्धन (सिग्नल एम्प्लीफिकेशन) को किस घटना द्वारा सर्वोत्तम रूप से प्रदर्शित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A single steroid molecule synthesizes multiple copies of homologous chromosomes",
+          "hi": "एक एकल स्टेरॉयड अणु समजात गुणसूत्रों की कई प्रतियों का संश्लेषण करता है"
+        },
+        "B": {
+          "en": "A single hormone molecule directly mutates target DNA to increase transcription",
+          "hi": "एक एकल हार्मोन अणु अनुलेखन बढ़ाने के लिए लक्ष्य डीएनए को सीधे उत्परिवर्तित करता है"
+        },
+        "C": {
+          "en": "Destruction of thousands of second messengers by phosphodiesterase enzymes",
+          "hi": "फॉस्फोडाइएस्टरेज एंजाइमों द्वारा हजारों द्वितीयक संदेशवाहकों का विनाश"
+        },
+        "D": {
+          "en": "Binding of a single hormone molecule activates multiple G-proteins and adenylyl cyclases, generating thousands of cAMP molecules and activating numerous enzymes",
+          "hi": "एक एकल हार्मोन अणु का बंधन कई G-प्रोटीनों और एडेनिलिल साइक्लेज को सक्रिय करता है, जिससे हजारों cAMP अणु उत्पन्न होते हैं और अनगिनत एंजाइम सक्रिय होते हैं"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Signal amplification occurs through the enzymatic cascade: one hormone-receptor complex can activate many G-proteins, each activating adenylyl cyclase to form thousands of cAMP molecules, each activating protein kinases that phosphorylate numerous target enzymes.",
+        "hi": "संकेत प्रवर्धन एंजाइमी सोपान के माध्यम से होता है: एक एकल हार्मोन-ग्राही सम्मिश्र कई G-प्रोटीनों को सक्रिय कर सकता है, जिनमें से प्रत्येक एडेनिलिल साइक्लेज को सक्रिय करके हजारों cAMP अणु बनाता है, और वे आगे कई एंजाइमों को सक्रिय करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the hormones in Column I with their chemical classification in Column II:\n\nColumn I:\na. Insulin\nb. Cortisol\nc. Thyroxine (T4)\nd. Epinephrine\n\nColumn II:\n1. Amino-acid derivative\n2. Iodothyronine\n3. Steroid\n4. Peptide / Protein hormone",
+        "hi": "स्तंभ I में दिए गए हार्मोनों का स्तंभ II में उनके रासायनिक वर्गीकरण से मिलान कीजिए:\n\nस्तंभ I:\na. इंसुलिन\nb. कोर्टिसोल\nc. थायरॉक्सिन (T4)\nd. एपिनेफ्रीन\n\nस्तंभ II:\n1. अमीनो-अम्ल व्युत्पन्न\n2. आयोडोथायरोनिन\n3. स्टेरॉयड\n4. पेप्टाइड / प्रोटीन हार्मोन"
+      },
+      "options": {
+        "A": {
+          "en": "a-4, b-3, c-2, d-1",
+          "hi": "a-4, b-3, c-2, d-1"
+        },
+        "B": {
+          "en": "a-3, b-4, c-2, d-1",
+          "hi": "a-3, b-4, c-2, d-1"
+        },
+        "C": {
+          "en": "a-4, b-1, c-2, d-3",
+          "hi": "a-4, b-1, c-2, d-3"
+        },
+        "D": {
+          "en": "a-1, b-3, c-2, d-4",
+          "hi": "a-1, b-3, c-2, d-4"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Correct match: Insulin is a peptide/protein hormone (a-4); Cortisol is a steroid hormone (b-3); Thyroxine is an iodothyronine (c-2); Epinephrine is an amino-acid derivative (d-1).",
+        "hi": "सही मिलान: इंसुलिन एक पेप्टाइड/प्रोटीन हार्मोन है (a-4); कोर्टिसोल एक स्टेरॉयड हार्मोन है (b-3); थायरॉक्सिन एक आयोडोथायरोनिन है (c-2); एपिनेफ्रीन एक अमीनो-अम्ल व्युत्पन्न है (d-1)।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match each hormone in Column I with its primary mechanism of action in Column II:\n\nColumn I:\na. FSH\nb. Estrogen\nc. Glucagon\nd. Progesterone\n\nColumn II:\n1. Intracellular receptor -> Hormone-receptor complex binds genome -> Regulates gene expression\n2. Membrane-bound receptor -> Generation of cAMP second messenger -> Activates cellular kinases\n3. Membrane-bound receptor -> Activates adenylyl cyclase on hepatocyte membrane -> Glycogenolysis\n4. Intracellular nuclear receptor -> Modulates mRNA synthesis for tissue differentiation",
+        "hi": "स्तंभ I में प्रत्येक हार्मोन का स्तंभ II में उसकी प्राथमिक क्रियाविधि से मिलान कीजिए:\n\nस्तंभ I:\na. FSH\nb. एस्ट्रोजन\nc. ग्लूकागॉन\nd. प्रोजेस्टेरोन\n\nस्तंभ II:\n1. अंतःकोशिकीय ग्राही -> हार्मोन-ग्राही सम्मिश्र जीनोम से जुड़ता है -> जीन अभिव्यक्ति का नियमन करता है\n2. झिल्ली-बद्ध ग्राही -> cAMP द्वितीयक संदेशवाहक का निर्माण -> कोशिकीय काइनेज सक्रियण\n3. झिल्ली-बद्ध ग्राही -> यकृताणु झिल्ली पर एडेनिलिल साइक्लेज का सक्रियण -> ग्लाइकोजनोलिसिस\n4. अंतःकोशिकीय केंद्रकीय ग्राही -> ऊतक विभेदन हेतु mRNA संश्लेषण का संशोधन"
+      },
+      "options": {
+        "A": {
+          "en": "a-1, b-2, c-4, d-3",
+          "hi": "a-1, b-2, c-4, d-3"
+        },
+        "B": {
+          "en": "a-3, b-1, c-2, d-4",
+          "hi": "a-3, b-1, c-2, d-4"
+        },
+        "C": {
+          "en": "a-2, b-1, c-3, d-4",
+          "hi": "a-2, b-1, c-3, d-4"
+        },
+        "D": {
+          "en": "a-4, b-3, c-2, d-1",
+          "hi": "a-4, b-3, c-2, d-1"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "FSH uses membrane-bound receptors and cAMP (a-2). Estrogen enters cells and binds intracellular nuclear receptors to regulate gene expression (b-1). Glucagon acts on liver cell membranes via membrane receptors to stimulate glycogenolysis (c-3). Progesterone binds intracellular nuclear receptors to modulate pregnancy-related mRNA expression (d-4).",
+        "hi": "FSH झिल्ली-बद्ध ग्राही और cAMP का उपयोग करता है (a-2)। एस्ट्रोजन कोशिकाओं में प्रवेश कर अंतःकोशिकीय केंद्रकीय ग्राही से जुड़कर जीन अभिव्यक्ति का नियमन करता है (b-1)। ग्लूकागॉन यकृत कोशिका झिल्ली पर झिल्ली ग्राहियों के माध्यम से कार्य करता है (c-3)। प्रोजेस्टेरोन सगर्भता संबंधी mRNA अभिव्यक्ति हेतु अंतःकोशिकीय केंद्रकीय ग्राही से जुड़ता है (d-4)।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc04_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In the NCERT diagrammatic representation of the mechanism of hormone action for protein hormones (e.g., FSH), arrange the steps in the correct chronological sequence:\n1. Biochemical responses inside the target cell\n2. Generation of second messenger (e.g., cyclic AMP or Ca2+)\n3. Hormone binds to membrane-bound receptor on ovarian cell membrane\n4. Physiological responses (e.g., ovarian growth)",
+        "hi": "प्रोटीन हार्मोनों (जैसे FSH) के लिए हार्मोन क्रियाविधि के NCERT आरेखीय निरूपण में, चरणों को सही कालानुक्रमिक क्रम में व्यवस्थित कीजिए:\n1. लक्ष्य कोशिका के अंदर जैव रासायनिक अनुक्रियाएं\n2. द्वितीयक संदेशवाहक (जैसे cyclic AMP या Ca2+) का निर्माण\n3. अंडाशयी कोशिका झिल्ली पर झिल्ली-बद्ध ग्राही से हार्मोन का जुड़ना\n4. शारीरिक अनुक्रियाएं (जैसे अंडाशयी वृद्धि)"
+      },
+      "options": {
+        "A": {
+          "en": "3 -> 1 -> 2 -> 4",
+          "hi": "3 -> 1 -> 2 -> 4"
+        },
+        "B": {
+          "en": "3 -> 2 -> 1 -> 4",
+          "hi": "3 -> 2 -> 1 -> 4"
+        },
+        "C": {
+          "en": "2 -> 3 -> 1 -> 4",
+          "hi": "2 -> 3 -> 1 -> 4"
+        },
+        "D": {
+          "en": "1 -> 2 -> 3 -> 4",
+          "hi": "1 -> 2 -> 3 -> 4"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "According to the NCERT diagram: Step 3 (Hormone binds to membrane receptor) -> Step 2 (Generation of second messenger like cAMP or Ca2+) -> Step 1 (Biochemical responses) -> Step 4 (Physiological responses, e.g., ovarian growth).",
+        "hi": "NCERT आरेख के अनुसार: चरण 3 (हार्मोन झिल्ली ग्राही से जुड़ता है) -> चरण 2 (द्वितीयक संदेशवाहक जैसे cAMP या Ca2+ का निर्माण) -> चरण 1 (जैव रासायनिक अनुक्रियाएं) -> चरण 4 (शारीरिक अनुक्रियाएं, जैसे अंडाशयी वृद्धि)।"
+      }
+    }
+  ]
+}

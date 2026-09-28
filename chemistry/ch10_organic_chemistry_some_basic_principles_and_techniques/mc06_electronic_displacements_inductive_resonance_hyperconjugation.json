@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc06_q01",
+      "category": "Theory",
+      "question": {
+        "en": "The Inductive Effect (-I / +I) in a covalent bond is defined as:",
+        "hi": "एक सहसंयोजक बंध में प्रेरणिक प्रभाव (-I / +I) को किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Permanent polarization of a σ bond caused by electronegativity differences between bonded atoms, which diminishes rapidly along the carbon chain and becomes negligible after ~3 carbons",
+          "hi": "परमाणुओं के मध्य ऋणविद्युतता अंतर के कारण σ बंध का स्थायी ध्रुवीकरण, जो कार्बन श्रृंखला के साथ तेजी से घटता है और ~3 कार्बनों के बाद नगण्य हो जाता है"
+        },
+        "B": {
+          "en": "Temporary complete transfer of π electrons triggered by an attacking reagent",
+          "hi": "आक्रमणकारी अभिकर्मक द्वारा π इलेक्ट्रॉनों का अस्थायी पूर्ण स्थानांतरण"
+        },
+        "C": {
+          "en": "Delocalization of electrons through parallel p-orbitals across the entire molecule",
+          "hi": "समानांतर p-कक्षकों द्वारा इलेक्ट्रॉनों का विस्थानीकरण"
+        },
+        "D": {
+          "en": "Spontaneous emission of beta radiation from the carbon backbone",
+          "hi": "कार्बन कंकाल से बीटा विकिरण का स्वतः उत्सर्जन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following electronic displacement effects is a TEMPORARY effect that occurs ONLY in the presence of an attacking reagent?",
+        "hi": "निम्नलिखित में से कौन-सा इलेक्ट्रॉनिक विस्थापन प्रभाव एक अस्थायी प्रभाव है जो केवल आक्रमणकारी अभिकर्मक की उपस्थिति में होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Electromeric effect (E effect)",
+          "hi": "इलेक्ट्रोमेरी प्रभाव (E effect)"
+        },
+        "B": {
+          "en": "Inductive effect (I effect)",
+          "hi": "प्रेरणिक प्रभाव (I effect)"
+        },
+        "C": {
+          "en": "Resonance / Mesomeric effect (R / M effect)",
+          "hi": "अनुनाद / मेसोमेरी प्रभाव (R / M effect)"
+        },
+        "D": {
+          "en": "Hyperconjugation (no-bond resonance)",
+          "hi": "अतिसंयुग्मन (Hyperconjugation)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What is the physical basis of the Resonance (Mesomeric) Effect in conjugated systems?",
+        "hi": "संयुग्मित तंत्रों में अनुनाद (मेसोमेरी) प्रभाव का भौतिक आधार क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Delocalization of π electrons or lone pairs through continuous lateral overlap of parallel p-orbitals across alternating single and multiple bonds",
+          "hi": "एकांतर एकल व बहुबंधों में समानांतर p-कक्षकों के पार्श्व अतिव्यापन द्वारा π इलेक्ट्रॉनों अथवा एकाकी युग्मों का विस्थानीकरण"
+        },
+        "B": {
+          "en": "Vibration of nuclear masses within the crystal lattice",
+          "hi": "क्रिस्टल जालक में नाभिकीय द्रव्यमानों का कंपन"
+        },
+        "C": {
+          "en": "Transfer of electrons through empty space outside the molecule",
+          "hi": "अणु के बाहर रिक्त स्थान में इलेक्ट्रॉनों का गमन"
+        },
+        "D": {
+          "en": "Permanent change in molecular mass of the atoms",
+          "hi": "परमाणुओं के अणुभार में स्थायी परिवर्तन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What is Hyperconjugation (also known as Baker-Nathan effect or 'no-bond resonance')?",
+        "hi": "अतिसंयुग्मन (Hyperconjugation, बेकर-नाथन प्रभाव या 'अनाबंध अनुनाद') क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Delocalization of σ electrons of an adjacent C-H bond into an adjacent empty, partially filled, or π unhybridised p-orbital (σ-p or σ-π* conjugation)",
+          "hi": "निकटवर्ती C-H बंध के σ इलेक्ट्रॉनों का पास स्थित रिक्त, आंशिक भरे अथवा π असंकरित p-कक्षक में विस्थानीकरण (σ-p अथवा σ-π* संयुग्मन)"
+        },
+        "B": {
+          "en": "Formation of a covalent quadruple bond between two carbon atoms",
+          "hi": "दो कार्बन परमाणुओं के बीच चतुर्थ बंध बनना"
+        },
+        "C": {
+          "en": "Permanent destruction of the sigma framework",
+          "hi": "सिग्मा कंकाल का स्थायी विनाश"
+        },
+        "D": {
+          "en": "Exchange of protons between different molecules",
+          "hi": "भिन्न अणुओं के बीच प्रोटॉन का विनिमय"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following groups exhibits a positive resonance (+R / +M) effect?",
+        "hi": "निम्नलिखित में से कौन-सा समूह धनात्मक अनुनाद (+R / +M) प्रभाव प्रदर्शित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "-OH, -NH2, -OCH3, and -Cl (groups possessing unshared lone pairs on the directly attached atom)",
+          "hi": "-OH, -NH2, -OCH3, तथा -Cl (सीधे जुड़े परमाणु पर एकाकी युग्म रखने वाले समूह)"
+        },
+        "B": {
+          "en": "-NO2, -CN, -COOH, and -CHO",
+          "hi": "-NO2, -CN, -COOH, तथा -CHO"
+        },
+        "C": {
+          "en": "-SO3H and -COCl",
+          "hi": "-SO3H तथा -COCl"
+        },
+        "D": {
+          "en": "-CCl3 and -CF3",
+          "hi": "-CCl3 तथा -CF3"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q06",
+      "category": "Theory",
+      "question": {
+        "en": "Why are chloroacetic acids significantly stronger acids than acetic acid (Ka of CCl3COOH >> CHCl2COOH >> CH2ClCOOH >> CH3COOH)?",
+        "hi": "क्लोरोएसिटिक अम्ल, एसिटिक अम्ल की तुलना में अत्यधिक प्रबल अम्ल क्यों होते हैं (CCl3COOH >> CHCl2COOH >> CH2ClCOOH >> CH3COOH)?"
+      },
+      "options": {
+        "A": {
+          "en": "The powerful electron-withdrawing inductive effect (-I) of chlorine atoms disperses negative charge on the carboxylate anion, stabilizing the conjugate base",
+          "hi": "क्लोरीन परमाणुओं का प्रबल इलेक्ट्रॉन-आकर्षी प्रेरणिक प्रभाव (-I) कार्बोक्सिलेट ऋणायन पर ऋणावेश को फैलाकर संयुग्मी क्षार को अत्यधिक स्थायी बनाता है"
+        },
+        "B": {
+          "en": "Chlorine atoms donate protons directly into water",
+          "hi": "क्लोरीन परमाणु सीधे जल में प्रोटॉन दान करते हैं"
+        },
+        "C": {
+          "en": "Chlorine forms covalent triple bonds with carbon",
+          "hi": "क्लोरीन कार्बन से त्रिबंध बनाता है"
+        },
+        "D": {
+          "en": "Trichloroacetic acid is an ionic crystal at room temperature",
+          "hi": "ट्राइक्लोरोएसिटिक अम्ल कमरे के ताप पर आयनिक क्रिस्टल है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q07",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following represents the correct decreasing order of electron-withdrawing (-I) inductive power?",
+        "hi": "इलेक्ट्रॉन-आकर्षी (-I) प्रेरणिक क्षमता का सही घटता क्रम कौन-सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "-NO2 > -CN > -COOH > -F > -Cl > -Br > -I > -OH > -C6H5 > -H",
+          "hi": "-NO2 > -CN > -COOH > -F > -Cl > -Br > -I > -OH > -C6H5 > -H"
+        },
+        "B": {
+          "en": "-H > -C6H5 > -OH > -I > -Cl > -NO2",
+          "hi": "-H > -C6H5 > -OH > -I > -Cl > -NO2"
+        },
+        "C": {
+          "en": "-F > -NO2 > -CN > -COOH > -Cl",
+          "hi": "-F > -NO2 > -CN > -COOH > -Cl"
+        },
+        "D": {
+          "en": "-Cl > -F > -Br > -I > -NO2",
+          "hi": "-Cl > -F > -Br > -I > -NO2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q08",
+      "category": "Trend",
+      "question": {
+        "en": "What is the correct order of stability for the following alkenes based on hyperconjugation:\n1) 2,3-Dimethylbut-2-ene [(CH3)2C=C(CH3)2]\n2) 2-Methylbut-2-ene [(CH3)2C=CH-CH3]\n3) But-2-ene [CH3-CH=CH-CH3]\n4) Ethene [H2C=CH2]?",
+        "hi": "अतिसंयुग्मन के आधार पर निम्नलिखित एल्कीनों के स्थायित्व का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "1 (12 α-H) > 2 (9 α-H) > 3 (6 α-H) > 4 (0 α-H)",
+          "hi": "1 (12 α-H) > 2 (9 α-H) > 3 (6 α-H) > 4 (0 α-H)"
+        },
+        "B": {
+          "en": "4 > 3 > 2 > 1",
+          "hi": "4 > 3 > 2 > 1"
+        },
+        "C": {
+          "en": "3 > 2 > 1 > 4",
+          "hi": "3 > 2 > 1 > 4"
+        },
+        "D": {
+          "en": "2 > 1 > 3 > 4",
+          "hi": "2 > 1 > 3 > 4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q09",
+      "category": "Trend",
+      "question": {
+        "en": "Why is phenol (C6H5OH) significantly more acidic than ethanol (C2H5OH)?",
+        "hi": "फीनॉल (C6H5OH), एथेनॉल (C2H5OH) की तुलना में अत्यधिक अम्लीय क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The phenoxide anion formed by losing H+ is strongly stabilized by resonance delocalization of negative charge over the benzene ring, whereas ethoxide anion cannot delocalize charge",
+          "hi": "H+ त्यागने पर बनने वाला फीनॉक्साइड आयन बेंजीन वलय पर अनुनाद द्वारा ऋणावेश के विस्थानीकरण से अत्यधिक स्थायी होता है, जबकि एथॉक्साइड में कोई अनुनाद नहीं होता"
+        },
+        "B": {
+          "en": "Phenol has a higher boiling point",
+          "hi": "फीनॉल का क्वथनांक उच्च होता है"
+        },
+        "C": {
+          "en": "Ethanol is an ionic salt",
+          "hi": "एथेनॉल एक आयनिक लवण है"
+        },
+        "D": {
+          "en": "Phenol contains no carbon-hydrogen bonds",
+          "hi": "फीनॉल में कोई C-H बंध नहीं होते"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q10",
+      "category": "Trend",
+      "question": {
+        "en": "What is the correct order of basic strength among methyl-substituted amines in AQUEOUS medium?",
+        "hi": "जलीय माध्यम में मेथिल प्रतिस्थापित एमीनों के क्षारीय सामर्थ्य का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "(CH3)2NH (2°) > CH3NH2 (1°) > (CH3)3N (3°) > NH3",
+          "hi": "(CH3)2NH (2°) > CH3NH2 (1°) > (CH3)3N (3°) > NH3"
+        },
+        "B": {
+          "en": "(CH3)3N (3°) > (CH3)2NH (2°) > CH3NH2 (1°) > NH3",
+          "hi": "(CH3)3N (3°) > (CH3)2NH (2°) > CH3NH2 (1°) > NH3"
+        },
+        "C": {
+          "en": "CH3NH2 (1°) > (CH3)2NH (2°) > (CH3)3N (3°) > NH3",
+          "hi": "CH3NH2 (1°) > (CH3)2NH (2°) > (CH3)3N (3°) > NH3"
+        },
+        "D": {
+          "en": "NH3 > CH3NH2 > (CH3)2NH > (CH3)3N",
+          "hi": "NH3 > CH3NH2 > (CH3)2NH > (CH3)3N"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following resonance structures contributes the MOST to the actual resonance hybrid of the molecule?",
+        "hi": "निम्नलिखित में से कौन-सी अनुनादी संरचना अणु के वास्तविक अनुनाद संकर में सर्वाधिक योगदान देती है?"
+      },
+      "options": {
+        "A": {
+          "en": "A structure with complete octets on all atoms, maximum number of covalent bonds, and minimal charge separation",
+          "hi": "वह संरचना जिसमें सभी परमाणुओं का अष्टक पूर्ण हो, सहसंयोजक बंधों की संख्या अधिकतम हो तथा आवेश पृथक्करण न्यूनतम हो"
+        },
+        "B": {
+          "en": "A structure with formal positive charge on the most electronegative atom",
+          "hi": "सर्वाधिक ऋणविद्युती परमाणु पर धनावेश वाली संरचना"
+        },
+        "C": {
+          "en": "A structure with the fewest number of covalent bonds",
+          "hi": "न्यूनतम बंधों वाली संरचना"
+        },
+        "D": {
+          "en": "A structure violating the Lewis octet rule for second-period elements",
+          "hi": "द्वितीय आवर्त तत्वों के लिए अष्टक नियम का उल्लंघन करने वाली संरचना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q12",
+      "category": "Trend",
+      "question": {
+        "en": "Compare the acid strength of o-nitrophenol, m-nitrophenol, p-nitrophenol, and phenol. Which is the STRONGEST acid?",
+        "hi": "o-नाइट्रोफीनॉल, m-नाइट्रोफीनॉल, p-नाइट्रोफीनॉल तथा फीनॉल में से सर्वाधिक प्रबल अम्ल कौन-सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "p-Nitrophenol (followed closely by o-nitrophenol; both are much stronger than m-nitrophenol and phenol)",
+          "hi": "p-नाइट्रोफीनॉल (इसके निकट o-नाइट्रोफीनॉल; दोनों m-नाइट्रोफीनॉल तथा फीनॉल से बहुत अधिक प्रबल हैं)"
+        },
+        "B": {
+          "en": "Phenol",
+          "hi": "फीनॉल"
+        },
+        "C": {
+          "en": "m-Nitrophenol",
+          "hi": "m-नाइट्रोफीनॉल"
+        },
+        "D": {
+          "en": "All four have identical pKa",
+          "hi": "सभी चारों का pKa समान होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The diagram illustrates hyperconjugation in the ethyl carbocation (CH3-CH2^+):\n     H    H\n     |    |\n H - C -- C^+   <===>   H - C = C   H^+\n     |    |                 |   | \\\n     H    H                 H   H  H\nHow many hyperconjugative structures (no-bond resonance forms) can be drawn for the tert-butyl carbocation, (CH3)3C^+?",
+        "hi": "एथिल कार्बधनायन में अतिसंयुग्मन का आरेख देखिए।\ntert-ब्यूटिल कार्बधनायन ((CH3)3C^+) के लिए कुल कितने अतिसंयुग्मी संरचनाएं (अनाबंध अनुनादी रूप) खींची जा सकती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "9 hyperconjugative structures (due to 9 equivalent α-hydrogen atoms)",
+          "hi": "9 अतिसंयुग्मी संरचनाएं (9 समतुल्य α-हाइड्रोजन परमाणुओं के कारण)"
+        },
+        "B": {
+          "en": "3 structures",
+          "hi": "3 संरचनाएं"
+        },
+        "C": {
+          "en": "6 structures",
+          "hi": "6 संरचनाएं"
+        },
+        "D": {
+          "en": "1 structure",
+          "hi": "1 संरचना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table comparing the four fundamental electronic effects:\n| Effect | Nature | Operating Bonds | Distance Dependence |\n|---|---|---|---|\n| Inductive (I) | Permanent | σ bonds only | Diminishes sharply with distance |\n| Electromeric (E) | Temporary | π bonds | Reagent dependent |\n| Resonance (R) | Permanent | π bonds / lone pairs | Little or no distance attenuation |\n| Hyperconjugation | Permanent | X | Depends on number of α-hydrogens |\nWhat bonds X are involved in hyperconjugation?",
+        "hi": "चारों मूलभूत इलेक्ट्रॉनिक प्रभावों की तुलनात्मक तालिका का अवलोकन कीजिए:\nअतिसंयुग्मन में कौन-से बंध X भाग लेते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "C-H σ bonds overlapping with adjacent p or π* orbitals (σ-p or σ-π*)",
+          "hi": "C-H σ बंध जो निकटवर्ती p अथवा π* कक्षकों से अतिव्यापन करते हैं (σ-p या σ-π*)"
+        },
+        "B": {
+          "en": "Ionic bonds with solvent dipoles",
+          "hi": "विलायक द्विध्रुवों के साथ आयनिक बंध"
+        },
+        "C": {
+          "en": "Coordinate covalent bonds only",
+          "hi": "केवल उपसहसंयोजक बंध"
+        },
+        "D": {
+          "en": "Hydrogen bonds between molecules",
+          "hi": "अणुओं के मध्य हाइड्रोजन बंध"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc06_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A plot of the heat of hydrogenation (ΔH_hydrog, kJ/mol) for isomeric butenes shows:\nBut-1-ene (2 α-H): -127 kJ/mol\ncis-But-2-ene (6 α-H): -120 kJ/mol\ntrans-But-2-ene (6 α-H, trans): -115 kJ/mol\n2-Methylpropene (6 α-H, geminal): -119 kJ/mol\nWhat does a lower absolute magnitude of heat of hydrogenation indicate about the stability of the alkene?",
+        "hi": "समावयवी ब्यूटीनों के हाइड्रोजनीकरण ऊष्मा के आरेख में हाइड्रोजनीकरण ऊष्मा का कम निरपेक्ष मान एल्कीन के स्थायित्व के बारे में क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Lower heat of hydrogenation indicates higher thermodynamic stability (more stable alkene has lower ground-state energy)",
+          "hi": "कम हाइड्रोजनीकरण ऊष्मा उच्च ऊष्मागतिक स्थायित्व को दर्शाती है (अधिक स्थायी एल्कीन की मूल अवस्था ऊर्जा कम होती है)"
+        },
+        "B": {
+          "en": "Lower heat indicates the alkene is unstable and explosive",
+          "hi": "कम ऊष्मा दर्शाती है कि एल्कीन अस्थिर है"
+        },
+        "C": {
+          "en": "Heat of hydrogenation is independent of stability",
+          "hi": "हाइड्रोजनीकरण ऊष्मा स्थायित्व से स्वतंत्र है"
+        },
+        "D": {
+          "en": "Lower heat means the alkene has higher molecular weight",
+          "hi": "कम ऊष्मा का अर्थ उच्च अणुभार है"
+        }
+      }
+    }
+  ]
+}

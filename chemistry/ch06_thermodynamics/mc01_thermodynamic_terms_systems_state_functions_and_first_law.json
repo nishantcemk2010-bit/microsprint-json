@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc01_q01",
+      "category": "Theory",
+      "question": {
+        "en": "A system that can exchange both matter and energy with its surroundings is classified as:",
+        "hi": "एक ऐसा निकाय जो अपने परिवेश के साथ द्रव्य और ऊर्जा दोनों का आदान-प्रदान कर सकता है, क्या कहलाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "An open system",
+          "hi": "एक खुला निकाय (Open system)"
+        },
+        "B": {
+          "en": "A closed system",
+          "hi": "एक बंद निकाय (Closed system)"
+        },
+        "C": {
+          "en": "An isolated system",
+          "hi": "एक विलगित निकाय (Isolated system)"
+        },
+        "D": {
+          "en": "An adiabatic system",
+          "hi": "एक रुद्धोष्म निकाय (Adiabatic system)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following thermodynamic quantities is a PATH FUNCTION rather than a state function?",
+        "hi": "निम्नलिखित में से कौन सी ऊष्मागतिक राशि अवस्था फलन के बजाय एक पथ फलन (Path function) है?"
+      },
+      "options": {
+        "A": {
+          "en": "Work (w) and Heat (q)",
+          "hi": "कार्य (w) और ऊष्मा (q)"
+        },
+        "B": {
+          "en": "Internal energy (U)",
+          "hi": "आंतरिक ऊर्जा (U)"
+        },
+        "C": {
+          "en": "Enthalpy (H)",
+          "hi": "एन्थैल्पी (H)"
+        },
+        "D": {
+          "en": "Gibbs free energy (G)",
+          "hi": "गिब्स मुक्त ऊर्जा (G)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q03",
+      "category": "Theory",
+      "question": {
+        "en": "According to the IUPAC convention, what are the algebraic signs for heat absorbed by the system and work done ON the system?",
+        "hi": "IUPAC परिपाटी के अनुसार, निकाय द्वारा अवशोषित ऊष्मा और निकाय पर किए गए कार्य के लिए बीजगणितीय चिह्न क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Heat absorbed: q > 0 (positive); Work on system: w > 0 (positive)",
+          "hi": "अवशोषित ऊष्मा: q > 0 (धनात्मक); निकाय पर कार्य: w > 0 (धनात्मक)"
+        },
+        "B": {
+          "en": "Heat absorbed: q < 0 (negative); Work on system: w > 0 (positive)",
+          "hi": "अवशोषित ऊष्मा: q < 0 (ऋणात्मक); निकाय पर कार्य: w > 0 (धनात्मक)"
+        },
+        "C": {
+          "en": "Heat absorbed: q > 0 (positive); Work on system: w < 0 (negative)",
+          "hi": "अवशोषित ऊष्मा: q > 0 (धनात्मक); निकाय पर कार्य: w < 0 (ऋणात्मक)"
+        },
+        "D": {
+          "en": "Both are negative by definition",
+          "hi": "परिभाषा के अनुसार दोनों ऋणात्मक हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q04",
+      "category": "Theory",
+      "question": {
+        "en": "The First Law of Thermodynamics is essentially the law of conservation of energy. Its mathematical formulation is:",
+        "hi": "ऊष्मागतिकी का प्रथम नियम मूलतः ऊर्जा संरक्षण का नियम है। इसका गणितीय रूप क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔU = q + w",
+          "hi": "ΔU = q + w"
+        },
+        "B": {
+          "en": "ΔU = q - w (in IUPAC)",
+          "hi": "ΔU = q - w (IUPAC में)"
+        },
+        "C": {
+          "en": "ΔH = q + w",
+          "hi": "ΔH = q + w"
+        },
+        "D": {
+          "en": "ΔU = q · w",
+          "hi": "ΔU = q · w"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q05",
+      "category": "Formula",
+      "question": {
+        "en": "In an adiabatic process, there is no exchange of heat between the system and its surroundings (q = 0). The change in internal energy is equal to:",
+        "hi": "एक रुद्धोष्म प्रक्रम में, निकाय और उसके परिवेश के बीच ऊष्मा का कोई आदान-प्रदान नहीं होता (q = 0)। आंतरिक ऊर्जा में परिवर्तन किसके बराबर होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔU = w_ad (adiabatic work)",
+          "hi": "ΔU = w_ad (रुद्धोष्म कार्य)"
+        },
+        "B": {
+          "en": "ΔU = 0",
+          "hi": "ΔU = 0"
+        },
+        "C": {
+          "en": "ΔU = q_p",
+          "hi": "ΔU = q_p"
+        },
+        "D": {
+          "en": "ΔU = -PΔV",
+          "hi": "ΔU = -PΔV"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q06",
+      "category": "Formula",
+      "question": {
+        "en": "For an ideal gas undergoing an isothermal process, what is the change in internal energy (ΔU)?",
+        "hi": "समतापीय प्रक्रम से गुजरने वाली एक आदर्श गैस के लिए, आंतरिक ऊर्जा में परिवर्तन (ΔU) क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔU = 0",
+          "hi": "ΔU = 0"
+        },
+        "B": {
+          "en": "ΔU = w",
+          "hi": "ΔU = w"
+        },
+        "C": {
+          "en": "ΔU = q",
+          "hi": "ΔU = q"
+        },
+        "D": {
+          "en": "ΔU = nRT",
+          "hi": "ΔU = nRT"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q07",
+      "category": "Formula",
+      "question": {
+        "en": "A system absorbs 701 J of heat and does 394 J of work on the surroundings. What is the net change in internal energy (ΔU) of the system?",
+        "hi": "एक निकाय 701 J ऊष्मा अवशोषित करता है और परिवेश पर 394 J कार्य करता है। निकाय की आंतरिक ऊर्जा में शुद्ध परिवर्तन (ΔU) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+307 J",
+          "hi": "+307 J"
+        },
+        "B": {
+          "en": "-307 J",
+          "hi": "-307 J"
+        },
+        "C": {
+          "en": "+1095 J",
+          "hi": "+1095 J"
+        },
+        "D": {
+          "en": "-1095 J",
+          "hi": "-1095 J"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q08",
+      "category": "Formula",
+      "question": {
+        "en": "In a cyclic process where a system returns to its initial state, what is the net change in any state function (such as ΔU or ΔH)?",
+        "hi": "एक चक्रीय प्रक्रम में जहाँ निकाय अपनी प्रारंभिक अवस्था में लौट आता है, किसी भी अवस्था फलन (जैसे ΔU या ΔH) में शुद्ध परिवर्तन क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Zero (ΔU_cycle = 0, ΔH_cycle = 0)",
+          "hi": "शून्य (ΔU_चक्रीय = 0, ΔH_चक्रीय = 0)"
+        },
+        "B": {
+          "en": "Always positive",
+          "hi": "सदैव धनात्मक"
+        },
+        "C": {
+          "en": "Equal to total work done",
+          "hi": "किए गए कुल कार्य के बराबर"
+        },
+        "D": {
+          "en": "Equal to total heat absorbed",
+          "hi": "अवशोषित कुल ऊष्मा के बराबर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q09",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Match the thermodynamic processes in Column I with their defining conditions in Column II:\n| Column I (Process) | Column II (Condition) |\n| :--- | :--- |\n| 1. Isothermal | P. q = 0 |\n| 2. Isobaric | Q. ΔT = 0 |\n| 3. Adiabatic | R. ΔP = 0 |\nWhich matching is correct?",
+        "hi": "कॉलम I के ऊष्मागतिक प्रक्रमों का कॉलम II की परिभाषित शर्तों से मिलान करें:\n| कॉलम I (प्रक्रम) | कॉलम II (शर्त) |\n| :--- | :--- |\n| 1. समतापीय | P. q = 0 |\n| 2. समदाबी | Q. ΔT = 0 |\n| 3. रुद्धोष्म | R. ΔP = 0 |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        },
+        "D": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc01_q10",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Classify the following properties into Intensive (I) and Extensive (E):\n1. Mass\n2. Density\n3. Temperature\n4. Enthalpy",
+        "hi": "निम्नलिखित गुणों को गहन (Intensive - I) और विस्तीर्ण (Extensive - E) में वर्गीकृत करें:\n1. द्रव्यमान\n2. घनत्व\n3. तापमान\n4. एन्थैल्पी"
+      },
+      "options": {
+        "A": {
+          "en": "1-E, 2-I, 3-I, 4-E",
+          "hi": "1-E, 2-I, 3-I, 4-E"
+        },
+        "B": {
+          "en": "1-I, 2-E, 3-E, 4-I",
+          "hi": "1-I, 2-E, 3-E, 4-I"
+        },
+        "C": {
+          "en": "1-E, 2-E, 3-I, 4-I",
+          "hi": "1-E, 2-E, 3-I, 4-I"
+        },
+        "D": {
+          "en": "1-I, 2-I, 3-E, 4-E",
+          "hi": "1-I, 2-I, 3-E, 4-E"
+        }
+      }
+    }
+  ]
+}

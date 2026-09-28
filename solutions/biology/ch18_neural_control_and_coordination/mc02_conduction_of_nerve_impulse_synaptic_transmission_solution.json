@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch18_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "During the resting state (polarized phase) of an axonal membrane, which of the following permeability conditions correctly prevails?",
+        "hi": "एक्सॉन झिल्ली की विश्राम अवस्था (ध्रुवित प्रावस्था) के दौरान, निम्नलिखित में से कौन सी पारगम्यता स्थिति सही ढंग से बनी रहती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Equally permeable to both Na+ and K+ ions, and highly permeable to negative proteins",
+          "hi": "Na+ और K+ दोनों आयनों के लिए समान रूप से पारगम्य, और ऋणावेशित प्रोटीनों के लिए अत्यधिक पारगम्य"
+        },
+        "B": {
+          "en": "Highly permeable to Na+ ions and completely impermeable to K+ ions",
+          "hi": "Na+ आयनों के लिए अत्यधिक पारगम्य और K+ आयनों के लिए पूरी तरह से अपारगम्य"
+        },
+        "C": {
+          "en": "Comparatively more permeable to K+ ions and nearly impermeable to Na+ ions and negatively charged proteins",
+          "hi": "K+ आयनों के लिए तुलनात्मक रूप से अधिक पारगम्य और Na+ आयनों तथा ऋणावेशित प्रोटीनों के लिए लगभग अपारगम्य"
+        },
+        "D": {
+          "en": "Impermeable to all ions, preventing any passive leak across the axolemma",
+          "hi": "सभी आयनों के लिए अपारगम्य, जिससे एक्सोलेमा के आर-पार कोई भी निष्क्रिय रिसाव नहीं होता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "When a neuron is not conducting any impulse (resting state), the axonal membrane is comparatively more permeable to potassium ions (K+) and nearly impermeable to sodium ions (Na+). Similarly, the membrane is impermeable to negatively charged proteins present in the axoplasm, leading to high K+ and negative proteins inside and high Na+ outside.",
+        "hi": "जब न्यूरॉन किसी आवेग का संचरण नहीं कर रहा होता है (विश्राम अवस्था), तो एक्सॉन झिल्ली पोटेशियम आयनों (K+) के लिए तुलनात्मक रूप से अधिक पारगम्य और सोडियम आयनों (Na+) के लिए लगभग अपारगम्य होती है। इसी प्रकार, झिल्ली एक्सोप्लाज्म में मौजूद ऋणावेशित प्रोटीनों के लिए भी अपारगम्य होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "The resting membrane potential (approximately -70 mV) across the axolemma is actively maintained by the sodium-potassium pump. This pump operates by:",
+        "hi": "एक्सोलेमा के आर-पार विश्राम झिल्ली विभव (लगभग -70 mV) सोडियम-पोटेशियम पंप द्वारा सक्रिय रूप से बनाए रखा जाता है। यह पंप किस प्रकार कार्य करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Transporting 2 Na+ outwards and 3 K+ inwards down their concentration gradients",
+          "hi": "सांद्रता प्रवणता के अनुकूल 2 Na+ बाहर और 3 K+ अंदर की ओर परिवहन करके"
+        },
+        "B": {
+          "en": "Transporting 3 Na+ outwards for every 2 K+ transported inwards into the cell, utilizing ATP",
+          "hi": "ATP का उपयोग करके, कोशिका के अंदर लाए जाने वाले प्रत्येक 2 K+ के बदले 3 Na+ को बाहर की ओर परिवहन करके"
+        },
+        "C": {
+          "en": "Pumping 3 K+ outwards and 2 Na+ inwards against their concentration gradients",
+          "hi": "सांद्रता प्रवणता के विपरीत 3 K+ बाहर और 2 Na+ अंदर की ओर पंप करके"
+        },
+        "D": {
+          "en": "Pumping equal numbers of Na+ and K+ ions across the membrane without energy consumption",
+          "hi": "बिना ऊर्जा खपत के झिल्ली के आर-पार समान संख्या में Na+ और K+ आयनों को पंप करके"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The ionic gradients across the resting membrane are actively maintained by the Na+/K+ ATPase pump. This electrogenic pump transports 3 Na+ outwards for every 2 K+ brought into the cell at the cost of one ATP molecule. This net outward movement of positive charge contributes to the negativity inside (-70 mV).",
+        "hi": "विश्रामी झिल्ली के आर-पार आयनिक प्रवणता Na+/K+ ATPase पंप द्वारा सक्रिय रूप से बनी रहती है। यह पंप एक ATP अणु की खपत करके कोशिका से 3 Na+ बाहर और 2 K+ अंदर भेजता है। धनावेश के इस शुद्ध बहिर्गमन से अंदर ऋणात्मकता (-70 mV) बनी रहती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "When a threshold stimulus is applied at a specific site (e.g., site A) on a polarized axonal membrane, what immediately initiates depolarisation?",
+        "hi": "जब एक ध्रुवित एक्सॉन झिल्ली पर किसी विशिष्ट स्थल (उदा. स्थल A) पर देहली उद्दीपन (threshold stimulus) लगाया जाता है, तो तुरंत विद्रुवण (depolarisation) की शुरुआत किससे होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Rapid opening of voltage-gated Na+ channels causing explosive influx of Na+ ions into the axoplasm",
+          "hi": "वोल्टेज-गेटेड Na+ चैनलों के तेजी से खुलने से एक्सोप्लाज्म में Na+ आयनों का तीव्र अंतर्वाह (influx) होना"
+        },
+        "B": {
+          "en": "Sudden opening of voltage-gated K+ channels causing massive efflux of K+ ions",
+          "hi": "वोल्टेज-गेटेड K+ चैनलों के अचानक खुलने से K+ आयनों का भारी बहिर्वाह (efflux) होना"
+        },
+        "C": {
+          "en": "Inactivation of the Na+/K+ pump leading to accumulation of intracellular Cl- ions",
+          "hi": "Na+/K+ पंप का निष्क्रिय होना जिससे अंतरकोशिकीय Cl- आयन संचित हो जाते हैं"
+        },
+        "D": {
+          "en": "Rapid outward diffusion of negatively charged proteins into the extracellular fluid",
+          "hi": "ऋणावेशित प्रोटीनों का बाह्य कोशिकीय द्रव में तीव्र बहिर्मुखी विसरण होना"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "When a stimulus is applied to a site on a polarized membrane, the membrane becomes freely permeable to Na+. This leads to a rapid influx of Na+ through voltage-gated sodium channels, followed by the reversal of polarity at that site: the outer surface becomes negatively charged and the inner surface becomes positively charged (+30 mV). This is depolarisation.",
+        "hi": "जब किसी ध्रुवित झिल्ली पर कोई उद्दीपन लगाया जाता है, तो झिल्ली Na+ के लिए स्वतंत्र रूप से पारगम्य हो जाती है। इसके परिणामस्वरूप वोल्टेज-गेटेड Na+ चैनलों के खुलने से Na+ का तीव्र अंतर्वाह होता है और ध्रुवता उलट जाती है: बाहरी सतह ऋणावेशित तथा आंतरिक सतह धनावेशित (+30 mV) हो जाती है। इसे विद्रुवण कहते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "Repolarisation of the axonal membrane back to its resting negative potential is primarily brought about by:",
+        "hi": "एक्सॉन झिल्ली का अपने विश्रामी ऋणात्मक विभव पर वापस पुनर्ध्रुवण (Repolarisation) मुख्य रूप से किसके द्वारा लाया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Continuous influx of Na+ and Ca2+ ions",
+          "hi": "Na+ और Ca2+ आयनों का निरंतर अंतर्वाह"
+        },
+        "B": {
+          "en": "Opening of ligand-gated Cl- channels allowing Cl- efflux",
+          "hi": "लिगैंड-गेटेड Cl- चैनलों का खुलना जिससे Cl- का बहिर्वाह होता है"
+        },
+        "C": {
+          "en": "Reversal of the Na+/K+ ATPase pump direction",
+          "hi": "Na+/K+ ATPase पंप की दिशा का उलटना"
+        },
+        "D": {
+          "en": "Rapid closure of Na+ channels accompanied by opening of voltage-gated K+ channels causing K+ efflux",
+          "hi": "Na+ चैनलों का तेजी से बंद होना और वोल्टेज-गेटेड K+ चैनलों का खुलना जिससे K+ का तीव्र बहिर्वाह होता है"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The rise in stimulus-induced permeability to Na+ is extremely short-lived (less than a millisecond). It is quickly followed by closure of Na+ channels and opening of voltage-gated K+ channels. Within a fraction of a second, K+ diffuses outside the membrane (efflux), restoring the resting negative potential inside the axolemma (repolarisation).",
+        "hi": "उद्दीपन-प्रेरित Na+ पारगम्यता बहुत कम समय (एक मिलीसेकंड से भी कम) के लिए रहती है। इसके तुरंत बाद Na+ चैनल बंद हो जाते हैं और वोल्टेज-गेटेड K+ चैनल खुल जाते हैं। कुछ ही अंशों में, K+ बाहर की ओर विसरित (बहिर्वाह) होता है, जिससे झिल्ली के अंदर विश्राम विभव पुनः स्थापित हो जाता है (पुनर्ध्रुवण)।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following is a fundamental distinction between electrical synapses and chemical synapses?",
+        "hi": "विद्युत अंतर्ग्रथन (electrical synapses) और रासायनिक अंतर्ग्रथन (chemical synapses) के बीच निम्नलिखित में से कौन सा एक मौलिक अंतर है?"
+      },
+      "options": {
+        "A": {
+          "en": "Chemical synapses lack a synaptic cleft, whereas electrical synapses have a wide cleft of 20 nm.",
+          "hi": "रासायनिक अंतर्ग्रथन में अंतर्ग्रथनी दरार (synaptic cleft) नहीं होती है, जबकि विद्युत अंतर्ग्रथन में 20 nm की चौड़ी दरार होती है।"
+        },
+        "B": {
+          "en": "Impulse transmission across a chemical synapse is always faster than across an electrical synapse.",
+          "hi": "रासायनिक अंतर्ग्रथन के आर-पार आवेग का संचरण हमेशा विद्युत अंतर्ग्रथन की तुलना में तेज़ होता है।"
+        },
+        "C": {
+          "en": "At electrical synapses, pre- and post-synaptic membranes are in very close proximity (gap junctions), allowing direct current flow, whereas chemical synapses utilize neurotransmitters across a synaptic cleft.",
+          "hi": "विद्युत अंतर्ग्रथन में पूर्व और पश्च अंतर्ग्रथनी झिल्लियां बहुत निकट (गैप जंक्शन) होती हैं जिससे सीधे धारा बहती है, जबकि रासायनिक अंतर्ग्रथन में सिनैप्टिक दरार के आर-पार न्यूरोट्रांसमीटर का उपयोग होता है।"
+        },
+        "D": {
+          "en": "Electrical synapses are predominant throughout the human brain, whereas chemical synapses are extremely rare.",
+          "hi": "मानव मस्तिष्क में विद्युत अंतर्ग्रथन प्रमुखता से पाए जाते हैं, जबकि रासायनिक अंतर्ग्रथन अत्यंत दुर्लभ हैं।"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "At electrical synapses, the membranes of pre- and post-synaptic neurons are in very close proximity (connected by gap junctions), allowing electrical current to flow directly. Transmission is faster and can be bidirectional. Electrical synapses are rare in humans. In chemical synapses, a fluid-filled synaptic cleft separates the neurons, and transmission is mediated unidirectionally by neurotransmitters.",
+        "hi": "विद्युत अंतर्ग्रथन में, पूर्व और पश्च न्यूरॉन्स की झिल्लियां गैप जंक्शन द्वारा अत्यंत निकट संपर्क में होती हैं, जिससे विद्युत धारा सीधे बहती है। यह संचरण अत्यंत तीव्र होता है। मानव शरीर में विद्युत अंतर्ग्रथन दुर्लभ होते हैं। रासायनिक अंतर्ग्रथन में सिनैप्टिक दरार पाई जाती है और न्यूरोट्रांसमीटर द्वारा एकदिशीय संचरण होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "During chemical synaptic transmission, what specific event triggers synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters?",
+        "hi": "रासायनिक अंतर्ग्रथनी संचरण के दौरान, कौन सी विशिष्ट घटना सिनैप्टिक पुटिकाओं को पूर्व-अंतर्ग्रथनी झिल्ली के साथ संलयित होने और न्यूरोट्रांसमीटर मुक्त करने के लिए प्रेरित करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Depolarisation opens voltage-gated Ca2+ channels at the axon terminal, causing Ca2+ influx.",
+          "hi": "विद्रुवण से एक्सॉन टर्मिनल पर वोल्टेज-गेटेड Ca2+ चैनल खुलते हैं, जिससे Ca2+ का अंतर्वाह होता है।"
+        },
+        "B": {
+          "en": "Repolarisation causes massive efflux of Mg2+ ions from the synaptic knob.",
+          "hi": "पुनर्ध्रुवण से सिनैप्टिक नॉब से Mg2+ आयनों का भारी बहिर्वाह होता है।"
+        },
+        "C": {
+          "en": "Binding of acetylcholine to presynaptic autoreceptors.",
+          "hi": "एसिटिलकोलीन का प्री-सिनैप्टिक ऑटोरेसेप्टर्स से जुड़ना।"
+        },
+        "D": {
+          "en": "Direct entry of ATP from the extracellular fluid into synaptic vesicles.",
+          "hi": "बाह्य कोशिकीय द्रव से ATP का सीधे सिनैप्टिक पुटिकाओं में प्रवेश करना।"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "When an action potential arrives at the axon terminal, it depolarises the presynaptic membrane, opening voltage-gated Ca2+ channels. Extracellular Ca2+ rushes into the synaptic knob down its electrochemical gradient. Increased intracellular Ca2+ induces synapsin phosphorylation and SNARE complex activation, causing synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters via exocytosis.",
+        "hi": "जब क्रिया विभव एक्सॉन टर्मिनल पर पहुँचता है, तो यह पूर्व-अंतर्ग्रथनी झिल्ली को विद्रुवित करता है, जिससे वोल्टेज-गेटेड Ca2+ चैनल खुल जाते हैं। Ca2+ आयन सिनैप्टिक नॉब में प्रवेश करते हैं। Ca2+ की सांद्रता बढ़ने से सिनैप्टिक पुटिकाएं पूर्व-अंतर्ग्रथनी झिल्ली के साथ जुड़ जाती हैं और एक्सोसाइटोसिस द्वारा न्यूरोट्रांसमीटर को दरार में मुक्त करती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "If a resting neuron hydrolyzes 100 molecules of ATP through its Na+/K+ ATPase pumps, how many Na+ and K+ ions will be transported across the axolemma, and in which directions?",
+        "hi": "यदि एक विश्रामी न्यूरॉन अपने Na+/K+ ATPase पंपों के माध्यम से 100 ATP अणुओं का जलअपघटन करता है, तो एक्सोलेमा के आर-पार कितने Na+ और K+ आयनों का किस दिशा में परिवहन होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "200 Na+ out and 300 K+ in",
+          "hi": "200 Na+ बाहर और 300 K+ अंदर"
+        },
+        "B": {
+          "en": "300 Na+ out and 200 K+ in",
+          "hi": "300 Na+ बाहर और 200 K+ अंदर"
+        },
+        "C": {
+          "en": "300 Na+ in and 200 K+ out",
+          "hi": "300 Na+ अंदर और 200 K+ बाहर"
+        },
+        "D": {
+          "en": "100 Na+ out and 100 K+ in",
+          "hi": "100 Na+ बाहर और 100 K+ अंदर"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The stoichiometry of the Na+/K+ ATPase electrogenic pump is strictly 3 Na+ expelled outwards and 2 K+ imported inwards per 1 molecule of ATP hydrolyzed. Therefore, for 100 ATP molecules: (100 * 3) = 300 Na+ transported outwards, and (100 * 2) = 200 K+ transported inwards.",
+        "hi": "Na+/K+ ATPase पंप का स्टॉइकिओमेट्री अनुपात प्रति 1 ATP अणु के जलअपघटन पर 3 Na+ को बाहर निकालना और 2 K+ को अंदर लाना है। अतः 100 ATP अणुओं के लिए: (100 * 3) = 300 Na+ बाहर की ओर, और (100 * 2) = 200 K+ अंदर की ओर परिवहित होंगे।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following sets correctly represents the approximate membrane potential values for: Resting Potential (RMP), Threshold Potential, Peak Action Potential, and After-Hyperpolarisation in a typical mammalian axon?",
+        "hi": "निम्नलिखित में से कौन सा समूह एक विशिष्ट स्तनधारी एक्सॉन में विश्राम विभव (RMP), देहली विभव (Threshold), शीर्ष क्रिया विभव (Peak AP) और पश्च-अतिध्रुवण (After-Hyperpolarisation) के मानों को सही ढंग से दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "RMP: 0 mV; Threshold: +30 mV; Peak: +70 mV; Hyperpolarisation: -55 mV",
+          "hi": "RMP: 0 mV; देहली: +30 mV; शीर्ष: +70 mV; अतिध्रुवण: -55 mV"
+        },
+        "B": {
+          "en": "RMP: +30 mV; Threshold: 0 mV; Peak: -70 mV; Hyperpolarisation: -90 mV",
+          "hi": "RMP: +30 mV; देहली: 0 mV; शीर्ष: -70 mV; अतिध्रुवण: -90 mV"
+        },
+        "C": {
+          "en": "RMP: -55 mV; Threshold: -70 mV; Peak: +90 mV; Hyperpolarisation: 0 mV",
+          "hi": "RMP: -55 mV; देहली: -70 mV; शीर्ष: +90 mV; अतिध्रुवण: 0 mV"
+        },
+        "D": {
+          "en": "RMP: -70 mV; Threshold: -55 mV; Peak: +30 mV; Hyperpolarisation: -80 to -90 mV",
+          "hi": "RMP: -70 mV; देहली: -55 mV; शीर्ष: +30 mV; अतिध्रुवण: -80 से -90 mV"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "In a mammalian neuron: Resting Membrane Potential (RMP) is approximately -70 mV. Threshold potential required to trigger an action potential is around -55 mV. The peak overshoot (action potential) reaches +30 mV. Due to delayed closure of voltage-gated K+ channels, the membrane briefly dips to -80 to -90 mV (hyperpolarisation) before returning to -70 mV.",
+        "hi": "स्तनधारी न्यूरॉन में: विश्राम झिल्ली विभव (RMP) लगभग -70 mV होता है। क्रिया विभव प्रारंभ करने के लिए आवश्यक देहली विभव लगभग -55 mV होता है। शीर्ष क्रिया विभव (ओवरशूट) +30 mV तक पहुँचता है। K+ चैनलों के धीमे बंद होने के कारण झिल्ली अल्पकाल के लिए -80 से -90 mV (अतिध्रुवण) तक पहुँचती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "During the propagation of an action potential along an unmyelinated axon from an active depolarized site A to an adjacent resting site B, local circuit currents flow:",
+        "hi": "एक गैर-मज्जाकृत एक्सॉन पर सक्रिय विद्रुवित स्थल A से समीपवर्ती विश्रामी स्थल B तक क्रिया विभव के संचरण के दौरान, स्थानीय परिपथ धाराएं (local circuit currents) किस दिशा में बहती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "On the inner surface from site A to site B, and on the outer surface from site B to site A",
+          "hi": "आंतरिक सतह पर स्थल A से स्थल B की ओर, और बाहरी सतह पर स्थल B से स्थल A की ओर"
+        },
+        "B": {
+          "en": "On the inner surface from site B to site A, and on the outer surface from site A to site B",
+          "hi": "आंतरिक सतह पर स्थल B से स्थल A की ओर, और बाहरी सतह पर स्थल A से स्थल B की ओर"
+        },
+        "C": {
+          "en": "From site A to site B on both the inner and outer surfaces simultaneously",
+          "hi": "आंतरिक और बाहरी दोनों सतहों पर एक साथ स्थल A से स्थल B की ओर"
+        },
+        "D": {
+          "en": "From site B to site A on both the inner and outer surfaces simultaneously",
+          "hi": "आंतरिक और बाहरी दोनों सतहों पर एक साथ स्थल B से स्थल A की ओर"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "According to NCERT: At site A (depolarized), the inside is positive and outside is negative. At site B (polarized), the inside is negative and outside is positive. Consequently, on the inner surface, current flows from site A to site B. On the outer surface, current flows from site B to site A to complete the circuit of current flow, depolarising site B and propagating the impulse.",
+        "hi": "NCERT के अनुसार: स्थल A (विद्रुवित) पर अंदर धनावेश और बाहर ऋणावेश होता है। स्थल B (विश्रामी) पर अंदर ऋणावेश और बाहर धनावेश होता है। परिणामस्वरूप, आंतरिक सतह पर धारा स्थल A से B की ओर बहती है, और बाहरी सतह पर धारा परिपथ पूरा करने के लिए स्थल B से A की ओर बहती है, जिससे स्थल B विद्रुवित हो जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "Excitatory neurotransmitters cause depolarisation (EPSP) by opening cation channels, whereas inhibitory neurotransmitters cause hyperpolarisation (IPSP) by opening Cl- or K+ channels. Which of the following pairs contains ONE excitatory and ONE inhibitory neurotransmitter?",
+        "hi": "उत्तेजक न्यूरोट्रांसमीटर धनायन चैनलों को खोलकर विद्रुवण (EPSP) उत्पन्न करते हैं, जबकि निरोधी न्यूरोट्रांसमीटर Cl- या K+ चैनलों को खोलकर अतिध्रुवण (IPSP) उत्पन्न करते हैं। निम्नलिखित में से किस युग्म में एक उत्तेजक और एक निरोधी न्यूरोट्रांसमीटर है?"
+      },
+      "options": {
+        "A": {
+          "en": "Glutamate and Acetylcholine",
+          "hi": "ग्लूटामेट और एसिटिलकोलीन"
+        },
+        "B": {
+          "en": "GABA and Glycine",
+          "hi": "गाबा (GABA) और ग्लाइसिन"
+        },
+        "C": {
+          "en": "Acetylcholine and GABA (Gamma-aminobutyric acid)",
+          "hi": "एसिटिलकोलीन और गाबा (GABA)"
+        },
+        "D": {
+          "en": "Dopamine and Glycine (at spinal motor synapses)",
+          "hi": "डोपामाइन और ग्लाइसिन (मेरुरज्जु मोटर सिनैप्स पर)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Acetylcholine (ACh) is predominantly an excitatory neurotransmitter at neuromuscular junctions and in the CNS, causing Na+ influx and EPSP. In contrast, GABA (gamma-aminobutyric acid) is the major inhibitory neurotransmitter in the brain, opening Cl- channels and causing hyperpolarization (IPSP). Both glutamate and ACh are excitatory; both GABA and glycine are inhibitory.",
+        "hi": "एसिटिलकोलीन (ACh) मुख्य रूप से एक उत्तेजक (excitatory) न्यूरोट्रांसमीटर है जो Na+ के अंतर्वाह द्वारा EPSP उत्पन्न करता है। इसके विपरीत, GABA (गामा-अमीनोब्यूटिरिक एसिड) मस्तिष्क में प्रमुख निरोधी (inhibitory) न्यूरोट्रांसमीटर है जो Cl- चैनलों को खोलकर अतिध्रुवण (IPSP) उत्पन्न करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "During the Absolute Refractory Period (ARP) of a neuron, why is it completely impossible to generate a second action potential, regardless of the stimulus intensity?",
+        "hi": "न्यूरॉन की निरपेक्ष अनुक्रिया काल (Absolute Refractory Period - ARP) के दौरान, उद्दीपन की तीव्रता चाहे कितनी भी अधिक क्यों न हो, दूसरा क्रिया विभव उत्पन्न करना पूरी तरह से असंभव क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "All ATP in the axoplasm is completely depleted.",
+          "hi": "एक्सोप्लाज्म में उपस्थित समस्त ATP पूरी तरह समाप्त हो जाती है।"
+        },
+        "B": {
+          "en": "Voltage-gated Na+ channels are already in their open or inactivated (closed and refractory) state and cannot be reopened until repolarisation occurs.",
+          "hi": "वोल्टेज-गेटेड Na+ चैनल पहले से ही खुली या निष्क्रिय (बंद और दुर्दम्य) अवस्था में होते हैं और पुनर्ध्रुवण होने तक पुनः नहीं खोले जा सकते हैं।"
+        },
+        "C": {
+          "en": "Schwann cells completely block the entry of all cations into the axon.",
+          "hi": "श्वान कोशिकाएं एक्सॉन में सभी धनायनों के प्रवेश को पूरी तरह से अवरुद्ध कर देती हैं।"
+        },
+        "D": {
+          "en": "Neurotransmitter vesicles in the synaptic knob are temporarily empty.",
+          "hi": "सिनैप्टिक नॉब में न्यूरोट्रांसमीटर पुटिकाएं अस्थायी रूप से खाली हो जाती हैं।"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "During the absolute refractory period (from the onset of depolarisation until repolarisation is roughly one-third complete), voltage-gated Na+ channels are either actively open or locked in an inactivated conformation. They cannot transition back to the closed-activatable state until the membrane repolarizes, setting an upper limit on maximum firing frequency and ensuring unidirectional impulse propagation.",
+        "hi": "निरपेक्ष अनुक्रिया काल (ARP) के दौरान, वोल्टेज-गेटेड Na+ चैनल या तो खुले होते हैं या अपनी निष्क्रिय (inactivated) अवस्था में बंद होते हैं। जब तक झिल्ली का पुनर्ध्रुवण नहीं हो जाता, वे पुनः सक्रिय नहीं हो सकते। यह क्रिया विभव के एकदिशीय संचरण और अधिकतम फायरिंग आवृत्ति को निर्धारित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "The typical synaptic delay (~0.5 ms) observed at chemical synapses is primarily caused by which rate-limiting sequence of events?",
+        "hi": "रासायनिक अंतर्ग्रथन पर देखा जाने वाला विशिष्ट अंतर्ग्रथनी विलंब (synaptic delay ~0.5 ms) मुख्य रूप से घटनाओं के किस दर-निर्धारक क्रम के कारण होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hydrolysis of ATP by the mitochondrial respiratory chain",
+          "hi": "माइटोकॉन्ड्रियल श्वसन श्रृंखला द्वारा ATP का जलअपघटन"
+        },
+        "B": {
+          "en": "Active reuptake of neurotransmitters back into the presynaptic terminal",
+          "hi": "न्यूरोट्रांसमीटर का प्री-सिनैप्टिक टर्मिनल में सक्रिय पुनर्गहण"
+        },
+        "C": {
+          "en": "Passive conduction of action potential along the axon length",
+          "hi": "एक्सॉन की लंबाई के साथ क्रिया विभव का निष्क्रिय संचरण"
+        },
+        "D": {
+          "en": "Ca2+ influx, vesicle docking/fusion (exocytosis), neurotransmitter diffusion across the 20 nm cleft, and receptor binding",
+          "hi": "Ca2+ अंतर्वाह, पुटिका संलयन (एक्सोसाइटोसिस), 20 nm सिनैप्टिक दरार के आर-पार न्यूरोट्रांसमीटर का विसरण और रिसेप्टर से जुड़ना"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Synaptic delay is the brief interval (~0.3 to 0.5 milliseconds) required for an impulse to cross a chemical synapse. It involves: (1) opening of voltage-gated Ca2+ channels and Ca2+ entry, (2) vesicular exocytosis, (3) diffusion of neurotransmitter across the 20 nm synaptic cleft, and (4) binding to post-synaptic receptors to open ligand-gated ion channels.",
+        "hi": "सिनैप्टिक विलंब (synaptic delay) वह सूक्ष्म समय (~0.5 ms) है जो रासायनिक अंतर्ग्रथन को पार करने में लगता है। इसमें: Ca2+ चैनलों का खुलना व अंतर्वाह, पुटिकाओं का एक्सोसाइटोसिस, 20 nm चौड़ी सिनैप्टिक दरार में न्यूरोट्रांसमीटर का विसरण और पश्च-झिल्ली रिसेप्टर्स से जुड़ना शामिल है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Electrophysiological Phase) with List-II (Dominant Ionic / Channel Event):\nList-I:\n(a) Resting State (Polarized)\n(b) Depolarisation\n(c) Repolarisation\n(d) Hyperpolarisation\n\nList-II:\n(1) Voltage-gated Na+ channels open; rapid inward movement of Na+\n(2) Voltage-gated K+ channels open; K+ diffuses outward\n(3) High K+ permeability, low Na+ permeability, active Na+/K+ pump\n(4) Delayed closure of voltage-gated K+ channels with excess K+ efflux\n\nChoose the correct option:",
+        "hi": "सूची-I (विद्युत क्रियात्मक प्रावस्था) को सूची-II (प्रमुख आयनिक / चैनल घटना) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) विश्रामी अवस्था (ध्रुवित)\n(b) विद्रुवण\n(c) पुनर्ध्रुवण\n(d) अतिध्रुवण\n\nसूची-II:\n(1) वोल्टेज-गेटेड Na+ चैनल खुलते हैं; Na+ का तीव्र अंतर्वाह\n(2) वोल्टेज-गेटेड K+ चैनल खुलते हैं; K+ बाहर विसरित होता है\n(3) उच्च K+ पारगम्यता, कम Na+ पारगम्यता, सक्रिय Na+/K+ पंप\n(4) वोल्टेज-गेटेड K+ चैनलों का देर से बंद होना और अतिरिक्त K+ बहिर्वाह\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(3), (b)-(1), (c)-(2), (d)-(4)",
+          "hi": "(a)-(3), (b)-(1), (c)-(2), (d)-(4)"
+        },
+        "B": {
+          "en": "(a)-(1), (b)-(3), (c)-(4), (d)-(2)",
+          "hi": "(a)-(1), (b)-(3), (c)-(4), (d)-(2)"
+        },
+        "C": {
+          "en": "(a)-(3), (b)-(2), (c)-(1), (d)-(4)",
+          "hi": "(a)-(3), (b)-(2), (c)-(1), (d)-(4)"
+        },
+        "D": {
+          "en": "(a)-(2), (b)-(1), (c)-(4), (d)-(3)",
+          "hi": "(a)-(2), (b)-(1), (c)-(4), (d)-(3)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Correct matching is:\n- (a) Resting state: high K+ permeability, Na+/K+ ATPase active -> (3)\n- (b) Depolarisation: voltage-gated Na+ channels open, Na+ influx -> (1)\n- (c) Repolarisation: voltage-gated K+ channels open, K+ efflux -> (2)\n- (d) Hyperpolarisation: slow K+ channel closure causes excess negativity -> (4)",
+        "hi": "सही सुमेलन है:\n- (a) विश्रामी अवस्था: उच्च K+ पारगम्यता, Na+/K+ पंप सक्रिय -> (3)\n- (b) विद्रुवण: वोल्टेज-गेटेड Na+ चैनल खुलते हैं, Na+ अंतर्वाह -> (1)\n- (c) पुनर्ध्रुवण: वोल्टेज-गेटेड K+ चैनल खुलते हैं, K+ बहिर्वाह -> (2)\n- (d) अतिध्रुवण: K+ चैनलों का देर से बंद होना -> (4)\nअतः सही विकल्प A है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Synaptic Component) with List-II (Specific Functional Role):\nList-I:\n(a) Voltage-gated Ca2+ channels\n(b) Synaptic vesicles\n(c) Post-synaptic receptors\n(d) Acetylcholinesterase\n\nList-II:\n(1) Ligand-gated ion channels opening in response to neurotransmitters\n(2) Enzyme that hydrolyzes neurotransmitter to terminate the signal\n(3) Mediate Ca2+ influx triggering exocytosis upon arrival of action potential\n(4) Store neurotransmitter molecules in the presynaptic terminal\n\nChoose the correct option:",
+        "hi": "सूची-I (अंतर्ग्रथनी घटक) को सूची-II (विशिष्ट कार्यात्मक भूमिका) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) वोल्टेज-गेटेड Ca2+ चैनल\n(b) सिनैप्टिक पुटिकाएं\n(c) पश्च-अंतर्ग्रथनी रिसेप्टर्स\n(d) एसिटिलकोलिनेस्टरेज़\n\nसूची-II:\n(1) लिगैंड-गेटेड आयन चैनल जो न्यूरोट्रांसमीटर के प्रति अनुक्रिया में खुलते हैं\n(2) एंजाइम जो संकेत को समाप्त करने के लिए न्यूरोट्रांसमीटर को जलअपघटित करता है\n(3) क्रिया विभव आने पर एक्सोसाइटोसिस को प्रेरित करने वाले Ca2+ अंतर्वाह की मध्यस्थता करते हैं\n(4) प्री-सिनैप्टिक टर्मिनल में न्यूरोट्रांसमीटर अणुओं को संचित करते हैं\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+          "hi": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)"
+        },
+        "B": {
+          "en": "(a)-(3), (b)-(1), (c)-(4), (d)-(2)",
+          "hi": "(a)-(3), (b)-(1), (c)-(4), (d)-(2)"
+        },
+        "C": {
+          "en": "(a)-(3), (b)-(4), (c)-(1), (d)-(2)",
+          "hi": "(a)-(3), (b)-(4), (c)-(1), (d)-(2)"
+        },
+        "D": {
+          "en": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)",
+          "hi": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Correct matching is:\n- (a) Voltage-gated Ca2+ channels: mediate Ca2+ influx triggering exocytosis -> (3)\n- (b) Synaptic vesicles: store neurotransmitters in presynaptic knob -> (4)\n- (c) Post-synaptic receptors: ligand-gated channels on post-synaptic membrane -> (1)\n- (d) Acetylcholinesterase: degrades acetylcholine into acetate and choline to terminate transmission -> (2)",
+        "hi": "सही सुमेलन है:\n- (a) वोल्टेज-गेटेड Ca2+ चैनल: Ca2+ अंतर्वाह कराकर एक्सोसाइटोसिस प्रेरित करते हैं -> (3)\n- (b) सिनैप्टिक पुटिकाएं: न्यूरोट्रांसमीटर अणुओं को संचित करती हैं -> (4)\n- (c) पश्च-अंतर्ग्रथनी रिसेप्टर्स: लिगैंड-गेटेड आयन चैनल -> (1)\n- (d) एसिटिलकोलिनेस्टरेज़: संकेत समाप्त करने हेतु न्यूरोट्रांसमीटर का अपघटन -> (2)\nअतः सही विकल्प C है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Arrange the following sequential steps of chemical synaptic transmission in the correct chronological order:\n(I) Neurotransmitter binds to specific receptors on post-synaptic membrane\n(II) Action potential arrives at the axon terminal\n(III) Influx of Ca2+ induces synaptic vesicles to fuse with presynaptic membrane\n(IV) Opening of post-synaptic ion channels generates a new potential (EPSP or IPSP)\n(V) Neurotransmitter is released into the synaptic cleft by exocytosis\n\nChoose the correct sequence:",
+        "hi": "रासायनिक अंतर्ग्रथनी संचरण के निम्नलिखित चरणों को सही कालानुक्रमिक क्रम में व्यवस्थित कीजिए:\n(I) न्यूरोट्रांसमीटर पश्च-अंतर्ग्रथनी झिल्ली पर विशिष्ट रिसेप्टर्स से जुड़ता है\n(II) क्रिया विभव एक्सॉन टर्मिनल पर पहुँचता है\n(III) Ca2+ का अंतर्वाह सिनैप्टिक पुटिकाओं को प्री-सिनैप्टिक झिल्ली से संलयित होने के लिए प्रेरित करता है\n(IV) पश्च-सिनैप्टिक आयन चैनलों के खुलने से नया विभव (EPSP या IPSP) उत्पन्न होता है\n(V) एक्सोसाइटोसिस द्वारा सिनैप्टिक दरार में न्यूरोट्रांसमीटर मुक्त होता है\n\nसही क्रम चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(II) -> (I) -> (III) -> (V) -> (IV)",
+          "hi": "(II) -> (I) -> (III) -> (V) -> (IV)"
+        },
+        "B": {
+          "en": "(II) -> (III) -> (V) -> (I) -> (IV)",
+          "hi": "(II) -> (III) -> (V) -> (I) -> (IV)"
+        },
+        "C": {
+          "en": "(III) -> (II) -> (V) -> (IV) -> (I)",
+          "hi": "(III) -> (II) -> (V) -> (IV) -> (I)"
+        },
+        "D": {
+          "en": "(II) -> (V) -> (III) -> (I) -> (IV)",
+          "hi": "(II) -> (V) -> (III) -> (I) -> (IV)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The correct chronological sequence of events at a chemical synapse is:\n1. Action potential arrives at the axon terminal (II)\n2. Depolarization opens Ca2+ channels; Ca2+ influx promotes vesicle fusion (III)\n3. Neurotransmitter is released into the synaptic cleft via exocytosis (V)\n4. Neurotransmitter binds to specific receptors on post-synaptic membrane (I)\n5. Ion channels open on post-synaptic membrane generating EPSP or IPSP (IV)\nHence, II -> III -> V -> I -> IV.",
+        "hi": "रासायनिक अंतर्ग्रथन पर घटनाओं का सही क्रम है:\n1. क्रिया विभव का एक्सॉन टर्मिनल पर पहुँचना (II)\n2. Ca2+ अंतर्वाह से पुटिकाओं का पूर्व-झिल्ली से संलयन (III)\n3. सिनैप्टिक दरार में न्यूरोट्रांसमीटर का विमोचन (V)\n4. पश्च-झिल्ली के रिसेप्टर्स से न्यूरोट्रांसमीटर का जुड़ना (I)\n5. पश्च-झिल्ली पर आयन चैनलों का खुलना और नया विभव उत्पन्न होना (IV)\nअतः सही क्रम II -> III -> V -> I -> IV (विकल्प B) है।"
+      }
+    }
+  ]
+}

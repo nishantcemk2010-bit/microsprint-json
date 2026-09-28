@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc06_q01",
+      "category": "Theory",
+      "question": {
+        "en": "The two faulty assumptions of the Kinetic Molecular Theory responsible for the deviation of real gases from ideal behavior are:",
+        "hi": "गतिज आणविक सिद्धांत की वे दो त्रुटिपूर्ण मान्यताएँ कौन सी हैं जो वास्तविक गैसों के आदर्श व्यवहार से विचलन के लिए उत्तरदायी हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "(i) Forces of interaction between molecules are zero, and (ii) Volume of molecules is negligible compared to container volume",
+          "hi": "(i) अणुओं के बीच अंतःक्रिया बल शून्य होते हैं, और (ii) पात्र के आयतन की तुलना में अणुओं का आयतन नगण्य होता है"
+        },
+        "B": {
+          "en": "Molecules collide inelastically and lose momentum",
+          "hi": "अणु अप्रत्यास्थ रूप से टकराते हैं और संवेग खो देते हैं"
+        },
+        "C": {
+          "en": "Gas molecules are not in continuous random motion",
+          "hi": "गैस के अणु निरंतर यादृच्छिक गति में नहीं होते"
+        },
+        "D": {
+          "en": "Pressure is independent of collisions against the walls",
+          "hi": "दाब दीवारों से होने वाली टक्करों से स्वतंत्र होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q02",
+      "category": "Theory",
+      "question": {
+        "en": "The Compressibility Factor (Z) is mathematically defined as:",
+        "hi": "संपीड़्यता कारक (Compressibility Factor, Z) को गणितीय रूप से किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Z = PV / (nRT) = V_real / V_ideal",
+          "hi": "Z = PV / (nRT) = V_वास्तविक / V_आदर्श"
+        },
+        "B": {
+          "en": "Z = nRT / (PV)",
+          "hi": "Z = nRT / (PV)"
+        },
+        "C": {
+          "en": "Z = V_ideal / V_real",
+          "hi": "Z = V_आदर्श / V_वास्तविक"
+        },
+        "D": {
+          "en": "Z = P / (VRT)",
+          "hi": "Z = P / (VRT)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q03",
+      "category": "Theory",
+      "question": {
+        "en": "When a real gas exhibits Z < 1 at moderate pressures, this indicates that:",
+        "hi": "जब कोई वास्तविक गैस मध्यम दाब पर Z < 1 प्रदर्शित करती है, तो यह क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Attractive intermolecular forces dominate, making the gas more compressible than an ideal gas (V_real < V_ideal)",
+          "hi": "आकर्षक अंतराण्विक बल प्रभावी होते हैं, जिससे गैस आदर्श गैस की तुलना में अधिक संपीड़ित होती है (V_वास्तविक < V_आदर्श)"
+        },
+        "B": {
+          "en": "Repulsive forces dominate and the gas cannot be compressed",
+          "hi": "प्रतिकर्षी बल प्रभावी होते हैं और गैस को संपीड़ित नहीं किया जा सकता"
+        },
+        "C": {
+          "en": "The gas has ceased to exist",
+          "hi": "गैस का अस्तित्व समाप्त हो गया है"
+        },
+        "D": {
+          "en": "The gas behaves completely ideally",
+          "hi": "गैस पूरी तरह से आदर्श व्यवहार करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Why do hydrogen (H₂) and helium (He) show Z > 1 at all positive pressures even at 0 °C?",
+        "hi": "हाइड्रोजन (H₂) और हीलियम (He) 0 °C पर भी सभी धनात्मक दाबों पर Z > 1 क्यों प्रदर्शित करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Due to their extremely small masses and sizes, their intermolecular attractions are negligible (a ≈ 0), so repulsive forces dominate at all pressures",
+          "hi": "उनके अत्यंत छोटे द्रव्यमान और आकार के कारण, उनके अंतराण्विक आकर्षण नगण्य (a ≈ 0) होते हैं, अतः सभी दाबों पर प्रतिकर्षी बल प्रभावी रहते हैं"
+        },
+        "B": {
+          "en": "Because they have zero molar mass",
+          "hi": "क्योंकि उनका मोलर द्रव्यमान शून्य होता है"
+        },
+        "C": {
+          "en": "Because their molecules expand upon compression",
+          "hi": "क्योंकि संपीड़न पर उनके अणु फैलते हैं"
+        },
+        "D": {
+          "en": "Because they cannot collide with container walls",
+          "hi": "क्योंकि वे पात्र की दीवारों से नहीं टकरा सकते"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the physical significance of the van der Waals constant 'a' and constant 'b'?",
+        "hi": "वान्डर वाल्स स्थिरांक 'a' और स्थिरांक 'b' का भौतिक महत्व क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "'a' measures magnitude of intermolecular attractive forces; 'b' measures effective molecular volume (co-volume)",
+          "hi": "'a' अंतराण्विक आकर्षण बलों के परिमाण का माप है; 'b' प्रभावी आणविक आयतन (सह-आयतन) का माप है"
+        },
+        "B": {
+          "en": "'a' measures molecular volume; 'b' measures attractive forces",
+          "hi": "'a' आणविक आयतन का माप है; 'b' आकर्षण बलों का माप है"
+        },
+        "C": {
+          "en": "Both 'a' and 'b' measure gas temperature",
+          "hi": "'a' और 'b' दोनों गैस के तापमान के माप हैं"
+        },
+        "D": {
+          "en": "'a' is pressure; 'b' is universal gas constant",
+          "hi": "'a' दाब है; 'b' सार्वत्रिक गैस नियतांक है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q06",
+      "category": "Theory",
+      "question": {
+        "en": "The Boyle Temperature (T_b) of a gas is the temperature at which:",
+        "hi": "किसी गैस का बॉयल तापमान (Boyle Temperature, T_b) वह तापमान है जिस पर:"
+      },
+      "options": {
+        "A": {
+          "en": "A real gas obeys ideal gas laws over an appreciable range of pressure (Z ≈ 1)",
+          "hi": "एक वास्तविक गैस दाब की एक पर्याप्त सीमा पर आदर्श गैस नियमों का पालन करती है (Z ≈ 1)"
+        },
+        "B": {
+          "en": "The gas liquefies completely under 1 atm pressure",
+          "hi": "गैस 1 atm दाब पर पूर्णतः द्रवित हो जाती है"
+        },
+        "C": {
+          "en": "All intermolecular attractions become infinite",
+          "hi": "सभी अंतराण्विक आकर्षण अनंत हो जाते हैं"
+        },
+        "D": {
+          "en": "Compressibility factor Z drops to zero",
+          "hi": "संपीड़्यता कारक Z शून्य हो जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q07",
+      "category": "Formula",
+      "question": {
+        "en": "The van der Waals equation of state for n moles of a real gas is written as:",
+        "hi": "एक वास्तविक गैस के n मोल के लिए वान्डर वाल्स अवस्था समीकरण किस प्रकार लिखा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "[P + (an² / V²)] (V - nb) = nRT",
+          "hi": "[P + (an² / V²)] (V - nb) = nRT"
+        },
+        "B": {
+          "en": "[P - (an² / V²)] (V + nb) = nRT",
+          "hi": "[P - (an² / V²)] (V + nb) = nRT"
+        },
+        "C": {
+          "en": "[P + (a / V²)] (V - b) = nRT",
+          "hi": "[P + (a / V²)] (V - b) = nRT"
+        },
+        "D": {
+          "en": "[P + anV] (V - nb) = nRT",
+          "hi": "[P + anV] (V - nb) = nRT"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q08",
+      "category": "Formula",
+      "question": {
+        "en": "What are the SI units of the van der Waals constants 'a' and 'b' respectively?",
+        "hi": "वान्डर वाल्स स्थिरांक 'a' और 'b' के क्रमशः SI मात्रक क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "a: N · m⁴ · mol⁻² (or Pa · m⁶ · mol⁻²); b: m³ · mol⁻¹",
+          "hi": "a: N · m⁴ · mol⁻² (या Pa · m⁶ · mol⁻²); b: m³ · mol⁻¹"
+        },
+        "B": {
+          "en": "a: atm · L · mol⁻¹; b: L · mol⁻²",
+          "hi": "a: atm · L · mol⁻¹; b: L · mol⁻²"
+        },
+        "C": {
+          "en": "a: Pa · m³; b: m³",
+          "hi": "a: Pa · m³; b: m³"
+        },
+        "D": {
+          "en": "a: bar · mol⁻¹; b: bar · L⁻¹",
+          "hi": "a: bar · mol⁻¹; b: bar · L⁻¹"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q09",
+      "category": "Formula",
+      "question": {
+        "en": "At very high pressure, the van der Waals equation reduces to which form, and what is the value of Z?",
+        "hi": "अत्यधिक उच्च दाब पर, वान्डर वाल्स समीकरण किस रूप में सरल हो जाता है, और Z का मान क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "P(V_m - b) = RT → Z = 1 + Pb / (RT) > 1",
+          "hi": "P(V_m - b) = RT → Z = 1 + Pb / (RT) > 1"
+        },
+        "B": {
+          "en": "(P + a/V_m²) V_m = RT → Z = 1 - a / (V_m RT) < 1",
+          "hi": "(P + a/V_m²) V_m = RT → Z = 1 - a / (V_m RT) < 1"
+        },
+        "C": {
+          "en": "PV_m = RT → Z = 1",
+          "hi": "PV_m = RT → Z = 1"
+        },
+        "D": {
+          "en": "P b = RT → Z = 0",
+          "hi": "P b = RT → Z = 0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q10",
+      "category": "Formula",
+      "question": {
+        "en": "At low pressure and moderate temperature, the van der Waals equation reduces to which form?",
+        "hi": "कम दाब और मध्यम तापमान पर, वान्डर वाल्स समीकरण किस रूप में सरल हो जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "(P + a/V_m²) V_m = RT → Z = 1 - a / (V_m RT) < 1",
+          "hi": "(P + a/V_m²) V_m = RT → Z = 1 - a / (V_m RT) < 1"
+        },
+        "B": {
+          "en": "P(V_m - b) = RT → Z = 1 + Pb / (RT) > 1",
+          "hi": "P(V_m - b) = RT → Z = 1 + Pb / (RT) > 1"
+        },
+        "C": {
+          "en": "PV_m = RT → Z = 1",
+          "hi": "PV_m = RT → Z = 1"
+        },
+        "D": {
+          "en": "Z = a / (bRT)",
+          "hi": "Z = a / (bRT)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q11",
+      "category": "Formula",
+      "question": {
+        "en": "The excluded volume (co-volume 'b') for 1 mole of a gas is related to the actual volume of the molecules (v_m) by:",
+        "hi": "गैस के 1 मोल के लिए वर्जित आयतन (सह-आयतन 'b') अणुओं के वास्तविक आयतन (v_m) से किस प्रकार संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "b = 4 × N_A × v_m (four times the actual volume of molecules)",
+          "hi": "b = 4 × N_A × v_m (अणुओं के वास्तविक आयतन का चार गुना)"
+        },
+        "B": {
+          "en": "b = N_A × v_m",
+          "hi": "b = N_A × v_m"
+        },
+        "C": {
+          "en": "b = (1/4) × N_A × v_m",
+          "hi": "b = (1/4) × N_A × v_m"
+        },
+        "D": {
+          "en": "b = 8 × N_A × v_m",
+          "hi": "b = 8 × N_A × v_m"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q12",
+      "category": "Formula",
+      "question": {
+        "en": "The van der Waals constant 'a' for four gases are:\nNH₃: 4.17, Cl₂: 6.49, SO₂: 6.71, CH₄: 2.25 L²·atm·mol⁻².\nWhich gas will be liquefied most easily?",
+        "hi": "चार गैसों के लिए वान्डर वाल्स स्थिरांक 'a' के मान हैं:\nNH₃: 4.17, Cl₂: 6.49, SO₂: 6.71, CH₄: 2.25 L²·atm·mol⁻²।\nकौन सी गैस सबसे आसानी से द्रवीभूत होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "SO₂",
+          "hi": "SO₂"
+        },
+        "B": {
+          "en": "Cl₂",
+          "hi": "Cl₂"
+        },
+        "C": {
+          "en": "NH₃",
+          "hi": "NH₃"
+        },
+        "D": {
+          "en": "CH₄",
+          "hi": "CH₄"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine a plot of Compressibility Factor (Z) versus Pressure (P) for various real gases at 0 °C:\nWhich curve remains strictly above Z = 1 and slopes upward with positive slope at all pressures?",
+        "hi": "0 °C पर विभिन्न वास्तविक गैसों के लिए दाब (P) के विरुद्ध संपीड़्यता कारक (Z) के आलेख की जाँच करें:\nकौन सा वक्र कड़ाई से Z = 1 के ऊपर रहता है और सभी दाबों पर धनात्मक ढाल के साथ ऊपर बढ़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hydrogen (H₂) and Helium (He)",
+          "hi": "हाइड्रोजन (H₂) और हीलियम (He)"
+        },
+        "B": {
+          "en": "Methane (CH₄) and Carbon dioxide (CO₂)",
+          "hi": "मीथेन (CH₄) और कार्बन डाइऑक्साइड (CO₂)"
+        },
+        "C": {
+          "en": "Oxygen (O₂) and Nitrogen (N₂)",
+          "hi": "ऑक्सीजन (O₂) और नाइट्रोजन (N₂)"
+        },
+        "D": {
+          "en": "Ammonia (NH₃)",
+          "hi": "अमोनिया (NH₃)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In a plot of Z versus P for nitrogen (N₂) at different temperatures T₁ = 200 K, T₂ = 327 K (Boyle temp), and T₃ = 500 K:\nAt which temperature does the dip below Z = 1 disappear and Z remains close to 1 over the widest initial pressure range?",
+        "hi": "विभिन्न तापमानों T₁ = 200 K, T₂ = 327 K (बॉयल ताप) और T₃ = 500 K पर नाइट्रोजन (N₂) के लिए Z बनाम P के आलेख में:\nकिस तापमान पर Z = 1 के नीचे का गर्त (dip) समाप्त हो जाता है और Z व्यापक प्रारंभिक दाब सीमा में 1 के निकट रहता है?"
+      },
+      "options": {
+        "A": {
+          "en": "At T₂ = 327 K (the Boyle temperature)",
+          "hi": "T₂ = 327 K पर (बॉयल तापमान)"
+        },
+        "B": {
+          "en": "At T₁ = 200 K",
+          "hi": "T₁ = 200 K पर"
+        },
+        "C": {
+          "en": "At T₃ = 500 K",
+          "hi": "T₃ = 500 K पर"
+        },
+        "D": {
+          "en": "At 0 K",
+          "hi": "0 K पर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc06_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Between two real gases, Gas 1 with van der Waals 'b' = 0.039 L/mol and Gas 2 with 'b' = 0.056 L/mol:\nWhich gas has molecules of smaller effective size?",
+        "hi": "दो वास्तविक गैसों, गैस 1 (वान्डर वाल्स 'b' = 0.039 L/mol) और गैस 2 ('b' = 0.056 L/mol) के बीच:\nकिस गैस के अणुओं का प्रभावी आकार छोटा है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gas 1, because constant 'b' is directly proportional to molecular volume",
+          "hi": "गैस 1, क्योंकि स्थिरांक 'b' आणविक आयतन के सीधे समानुपाती होता है"
+        },
+        "B": {
+          "en": "Gas 2",
+          "hi": "गैस 2"
+        },
+        "C": {
+          "en": "Both have identical molecular sizes",
+          "hi": "दोनों का आणविक आकार समान है"
+        },
+        "D": {
+          "en": "Constant 'b' has no relationship with molecular volume",
+          "hi": "स्थिरांक 'b' का आणविक आयतन से कोई संबंध नहीं है"
+        }
+      }
+    }
+  ]
+}

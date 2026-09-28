@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc07_q01",
+      "category": "Theory",
+      "question": {
+        "en": "In an electrochemical cell (such as a Daniell cell), oxidation always takes place at:",
+        "hi": "किसी वैद्युतरासायनिक सेल (जैसे डैनियल सेल) में ऑक्सीकरण सदैव कहाँ होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The anode, which is negatively charged in a galvanic cell",
+          "hi": "एनोड पर, जो गैल्वेनिक सेल में ऋणावेशित होता है"
+        },
+        "B": {
+          "en": "The cathode, which is positively charged in a galvanic cell",
+          "hi": "कैथोड पर, जो गैल्वेनिक सेल में धनावेशित होता है"
+        },
+        "C": {
+          "en": "The salt bridge",
+          "hi": "लवण सेतु पर"
+        },
+        "D": {
+          "en": "The external voltmeter",
+          "hi": "बाहरी वोल्टमीटर में"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is the function of the salt bridge in a galvanic cell?",
+        "hi": "एक गैल्वेनिक सेल में लवण सेतु (Salt bridge) का क्या कार्य होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Completes the internal electrical circuit and maintains electrical neutrality in both half-cell solutions without mixing them",
+          "hi": "आंतरिक परिपथ को पूरा करता है तथा दोनों अर्ध-सेल विलयनों को मिश्रित किए बिना उनकी वैद्युत उदासीनता बनाए रखता है"
+        },
+        "B": {
+          "en": "Supplies external current to drive the reaction",
+          "hi": "अभिक्रिया चलाने के लिए बाहरी धारा प्रदान करता है"
+        },
+        "C": {
+          "en": "Increases liquid junction potential to maximum",
+          "hi": "द्रव संधि विभव को अधिकतम तक बढ़ाता है"
+        },
+        "D": {
+          "en": "Acts as the cathode for electron deposition",
+          "hi": "इलेक्ट्रॉन निक्षेपण हेतु कैथोड का कार्य करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q03",
+      "category": "Theory",
+      "question": {
+        "en": "According to IUPAC convention, standard electrode potentials (E°) are always quoted as:",
+        "hi": "IUPAC परिपाटी के अनुसार, मानक इलेक्ट्रोड विभव (E°) को सदैव किस रूप में व्यक्त किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Standard reduction potentials (E°_red for M^n+ + n e^- -> M)",
+          "hi": "मानक अपचयन विभव (M^n+ + n e^- -> M के लिए E°_red)"
+        },
+        "B": {
+          "en": "Standard oxidation potentials only",
+          "hi": "केवल मानक ऑक्सीकरण विभव"
+        },
+        "C": {
+          "en": "Absolute ionization energies",
+          "hi": "निरपेक्ष आयनन ऊर्जाएं"
+        },
+        "D": {
+          "en": "Electronegativity coefficients",
+          "hi": "ऋणविद्युतता गुणांक"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What is the arbitrarily assigned potential of the Standard Hydrogen Electrode (SHE) at all temperatures?",
+        "hi": "सभी तापमानों पर मानक हाइड्रोजन इलेक्ट्रोड (SHE) का स्वेच्छा से निर्धारित विभव क्या माना गया है?"
+      },
+      "options": {
+        "A": {
+          "en": "0.00 V",
+          "hi": "0.00 V"
+        },
+        "B": {
+          "en": "1.00 V",
+          "hi": "1.00 V"
+        },
+        "C": {
+          "en": "-0.76 V",
+          "hi": "-0.76 V"
+        },
+        "D": {
+          "en": "+0.34 V",
+          "hi": "+0.34 V"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q05",
+      "category": "Theory",
+      "question": {
+        "en": "A negative standard reduction potential (E° < 0, such as E°_Zn2+/Zn = -0.76 V) signifies that:",
+        "hi": "ऋणात्मक मानक अपचयन विभव (E° < 0, जैसे E°_Zn2+/Zn = -0.76 V) क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The redox couple is a stronger reducing agent than the H+/H2 couple, and the metal can displace H2 from dilute acids",
+          "hi": "यह रेडॉक्स युग्म H+/H2 युग्म की तुलना में अधिक प्रबल अपचायक है, और धातु तनु अम्लों से H2 विस्थापित कर सकती है"
+        },
+        "B": {
+          "en": "The redox couple is a stronger oxidizing agent than H+",
+          "hi": "यह युग्म H+ से अधिक प्रबल ऑक्सीकारक है"
+        },
+        "C": {
+          "en": "The electrode cannot conduct electricity",
+          "hi": "यह इलेक्ट्रोड विद्युत का चालन नहीं कर सकता"
+        },
+        "D": {
+          "en": "The reaction absorbs heat unconditionally",
+          "hi": "अभिक्रिया बिना शर्त ऊष्मा अवशोषित करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is the condition for a redox reaction to be thermodynamically spontaneous under standard conditions?",
+        "hi": "मानक अवस्थाओं में किसी रेडॉक्स अभिक्रिया के ऊष्मागतिक रूप से स्वतः प्रवर्तित होने की क्या शर्त है?"
+      },
+      "options": {
+        "A": {
+          "en": "E°_cell > 0 (positive) and ΔG° < 0 (negative)",
+          "hi": "E°_cell > 0 (धनात्मक) तथा ΔG° < 0 (ऋणात्मक)"
+        },
+        "B": {
+          "en": "E°_cell < 0 and ΔG° > 0",
+          "hi": "E°_cell < 0 तथा ΔG° > 0"
+        },
+        "C": {
+          "en": "E°_cell = 0 and ΔG° = 0",
+          "hi": "E°_cell = 0 तथा ΔG° = 0"
+        },
+        "D": {
+          "en": "Both E°_cell and ΔG° must be strictly zero",
+          "hi": "E°_cell और ΔG° दोनों का शून्य होना अनिवार्य है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the standard cell EMF (E°_cell) for the Daniell cell: Zn(s) | Zn^2+(1 M) || Cu^2+(1 M) | Cu(s)?\n(Given: E°_Zn2+/Zn = -0.76 V, E°_Cu2+/Cu = +0.34 V)",
+        "hi": "डैनियल सेल: Zn | Zn^2+(1 M) || Cu^2+(1 M) | Cu के लिए मानक विद्युत वाहक बल (E°_cell) क्या होगा?\n(दिया है: E°_Zn2+/Zn = -0.76 V, E°_Cu2+/Cu = +0.34 V)"
+      },
+      "options": {
+        "A": {
+          "en": "+1.10 V",
+          "hi": "+1.10 V"
+        },
+        "B": {
+          "en": "-1.10 V",
+          "hi": "-1.10 V"
+        },
+        "C": {
+          "en": "+0.42 V",
+          "hi": "+0.42 V"
+        },
+        "D": {
+          "en": "-0.42 V",
+          "hi": "-0.42 V"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q08",
+      "category": "Calculation",
+      "question": {
+        "en": "Standard reduction potentials are: E°_Fe3+/Fe2+ = +0.77 V and E°_I2/I^- = +0.54 V. What is E°_cell for the reaction: 2Fe^3+ + 2I^- -> 2Fe^2+ + I2?",
+        "hi": "मानक अपचयन विभव: E°_Fe3+/Fe2+ = +0.77 V तथा E°_I2/I^- = +0.54 V हैं। अभिक्रिया: 2Fe^3+ + 2I^- -> 2Fe^2+ + I2 के लिए E°_cell क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "+0.23 V (Spontaneous)",
+          "hi": "+0.23 V (स्वतः प्रवर्धित)"
+        },
+        "B": {
+          "en": "-0.23 V (Non-spontaneous)",
+          "hi": "-0.23 V (गैर-स्वतः)"
+        },
+        "C": {
+          "en": "+1.31 V",
+          "hi": "+1.31 V"
+        },
+        "D": {
+          "en": "-1.31 V",
+          "hi": "-1.31 V"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q09",
+      "category": "Calculation",
+      "question": {
+        "en": "What is the standard Gibbs free energy change (ΔG°) for the Daniell cell having E°_cell = 1.10 V at 298 K? (Take 1 F ≈ 96500 C/mol)",
+        "hi": "298 K पर 1.10 V मानक विभव वाले डैनियल सेल के लिए मानक गिब्स ऊर्जा परिवर्तन (ΔG°) क्या होगा? (1 F ≈ 96500 C/mol लें)"
+      },
+      "options": {
+        "A": {
+          "en": "-212.3 kJ/mol",
+          "hi": "-212.3 kJ/mol"
+        },
+        "B": {
+          "en": "+212.3 kJ/mol",
+          "hi": "+212.3 kJ/mol"
+        },
+        "C": {
+          "en": "-106.1 kJ/mol",
+          "hi": "-106.1 kJ/mol"
+        },
+        "D": {
+          "en": "-424.6 kJ/mol",
+          "hi": "-424.6 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q10",
+      "category": "Trend",
+      "question": {
+        "en": "Given standard reduction potentials:\nE°(Li+/Li) = -3.05 V\nE°(K+/K) = -2.93 V\nE°(Mg2+/Mg) = -2.36 V\nE°(Ag+/Ag) = +0.80 V\nWhich species is the STRONGEST reducing agent in aqueous medium?",
+        "hi": "दिए गए मानक अपचयन विभवों के आधार पर जलीय माध्यम में कौन-सी स्पीशीज सबसे प्रबल अपचायक है?\n(Li+/Li = -3.05 V, K+/K = -2.93 V, Mg2+/Mg = -2.36 V, Ag+/Ag = +0.80 V)"
+      },
+      "options": {
+        "A": {
+          "en": "Li (Lithium metal)",
+          "hi": "Li (लिथियम धातु)"
+        },
+        "B": {
+          "en": "Ag+ (Silver ion)",
+          "hi": "Ag+ (सिल्वर आयन)"
+        },
+        "C": {
+          "en": "K (Potassium metal)",
+          "hi": "K (पोटेशियम धातु)"
+        },
+        "D": {
+          "en": "Mg (Magnesium metal)",
+          "hi": "Mg (मैग्नीशियम धातु)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Can a 1 M copper sulfate (CuSO4) solution be safely stored in an iron (Fe) vessel?\n(Given: E°_Fe2+/Fe = -0.44 V, E°_Cu2+/Cu = +0.34 V)",
+        "hi": "क्या 1 M कॉपर सल्फेट (CuSO4) विलयन को लोहे (Fe) के पात्र में सुरक्षित रखा जा सकता है?\n(दिया है: E°_Fe2+/Fe = -0.44 V, E°_Cu2+/Cu = +0.34 V)"
+      },
+      "options": {
+        "A": {
+          "en": "No, because Fe spontaneously displaces Cu^2+ from solution (E°_cell = +0.78 V > 0), dissolving the vessel",
+          "hi": "नहीं, क्योंकि Fe स्वतः Cu^2+ को विस्थापित कर देता है (E°_cell = +0.78 V > 0), जिससे पात्र घुल जाएगा"
+        },
+        "B": {
+          "en": "Yes, because Fe is less reactive than Cu",
+          "hi": "हाँ, क्योंकि Fe कॉपर से कम क्रियाशील है"
+        },
+        "C": {
+          "en": "Yes, because E°_cell is negative",
+          "hi": "हाँ, क्योंकि E°_cell ऋणात्मक है"
+        },
+        "D": {
+          "en": "Storage is safe only at 0°C",
+          "hi": "केवल 0°C पर ही सुरक्षित है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q12",
+      "category": "Trend",
+      "question": {
+        "en": "Given the halogen reduction potentials: E°(F2/F^-) = +2.87 V, E°(Cl2/Cl^-) = +1.36 V, E°(Br2/Br^-) = +1.09 V, E°(I2/I^-) = +0.54 V. Which is the STRONGEST oxidizing agent?",
+        "hi": "हैलोजन अपचयन विभव: F2 (+2.87 V), Cl2 (+1.36 V), Br2 (+1.09 V), I2 (+0.54 V)। इनमें सबसे प्रबल ऑक्सीकारक कौन-सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "F2 (Fluorine gas)",
+          "hi": "F2 (फ्लोरीन गैस)"
+        },
+        "B": {
+          "en": "I^- (Iodide ion)",
+          "hi": "I^- (आयोडाइड आयन)"
+        },
+        "C": {
+          "en": "Cl2 (Chlorine gas)",
+          "hi": "Cl2 (क्लोरीन गैस)"
+        },
+        "D": {
+          "en": "F^- (Fluoride ion)",
+          "hi": "F^- (फ्लोराइड आयन)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The schematic diagram shows a working Daniell Galvanic Cell:\n[Zn anode in ZnSO4]  ---- salt bridge ----  [Cu cathode in CuSO4]\n        |                                          |\n        +----------- Voltmeter (1.10 V) -----------+\nIn which direction do electrons flow in the external circuit, and in which direction does electric current flow?",
+        "hi": "डैनियल गैल्वेनिक सेल का योजनाबद्ध आरेख देखिए:\nबाहरी परिपथ में इलेक्ट्रॉनों का प्रवाह किस दिशा में होता है, तथा विद्युत धारा का प्रवाह किस दिशा में होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Electrons flow from Zn anode to Cu cathode; conventional current flows from Cu cathode to Zn anode",
+          "hi": "इलेक्ट्रॉन Zn एनोड से Cu कैथोड की ओर बहते हैं; पारंपरिक धारा Cu कैथोड से Zn एनोड की ओर बहती है"
+        },
+        "B": {
+          "en": "Electrons flow from Cu cathode to Zn anode; current flows from Zn to Cu",
+          "hi": "इलेक्ट्रॉन Cu से Zn की ओर तथा धारा Zn से Cu की ओर बहती है"
+        },
+        "C": {
+          "en": "Both electrons and current flow from Zn to Cu",
+          "hi": "इलेक्ट्रॉन तथा धारा दोनों Zn से Cu की ओर बहते हैं"
+        },
+        "D": {
+          "en": "Both flow through the salt bridge only",
+          "hi": "दोनों केवल लवण सेतु से होकर बहते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of standard reduction potentials:\n| Redox Couple | E° (Volts) |\n|---|---|\n| Zn^2+ / Zn | -0.76 V |\n| Ni^2+ / Ni | -0.25 V |\n| Cu^2+ / Cu | +0.34 V |\n| Ag^+ / Ag | +0.80 V |\nWhich pair of half-cells will generate the MAXIMUM cell potential (highest EMF)?",
+        "hi": "मानक अपचयन विभवों की तालिका का अवलोकन कीजिए:\nअर्ध-सेलों का कौन-सा युग्म अधिकतम सेल विभव (उच्चतम EMF) उत्पन्न करेगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Zn anode and Ag cathode (E°_cell = +0.80 - (-0.76) = 1.56 V)",
+          "hi": "Zn एनोड तथा Ag कैथोड (E°_cell = +0.80 - (-0.76) = 1.56 V)"
+        },
+        "B": {
+          "en": "Zn anode and Cu cathode (1.10 V)",
+          "hi": "Zn एनोड तथा Cu कैथोड (1.10 V)"
+        },
+        "C": {
+          "en": "Ni anode and Cu cathode (0.59 V)",
+          "hi": "Ni एनोड तथा Cu कैथोड (0.59 V)"
+        },
+        "D": {
+          "en": "Cu anode and Ag cathode (0.46 V)",
+          "hi": "Cu एनोड तथा Ag कैथोड (0.46 V)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc07_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A plot shows the cell potential E_cell (y-axis) of a Daniell cell as a function of the reaction quotient log10([Zn^2+] / [Cu^2+]) on the x-axis:\nE_cell = E°_cell - (0.0591 / 2) log10([Zn^2+] / [Cu^2+])\nWhat are the intercept on the y-axis and the slope of this linear graph at 298 K?",
+        "hi": "298 K पर नर्नस्ट समीकरण अनुसार डैनियल सेल के लिए log10([Zn^2+]/[Cu^2+]) (x-अक्ष) के सापेक्ष E_cell (y-अक्ष) के रैखिक आलेख का अंतःखंड तथा ढाल क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "y-intercept = +1.10 V, slope = -0.0295 V",
+          "hi": "y-अंतःखंड = +1.10 V, ढाल = -0.0295 V"
+        },
+        "B": {
+          "en": "y-intercept = 0 V, slope = +0.0591 V",
+          "hi": "y-अंतःखंड = 0 V, ढाल = +0.0591 V"
+        },
+        "C": {
+          "en": "y-intercept = +0.34 V, slope = -0.0591 V",
+          "hi": "y-अंतःखंड = +0.34 V, ढाल = -0.0591 V"
+        },
+        "D": {
+          "en": "y-intercept = +1.10 V, slope = +0.0295 V",
+          "hi": "y-अंतःखंड = +1.10 V, ढाल = +0.0295 V"
+        }
+      }
+    }
+  ]
+}

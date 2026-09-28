@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc03_q01",
+      "category": "Theory",
+      "question": {
+        "en": "What is Stock notation for representing oxidation states of metals in compounds?",
+        "hi": "यौगिकों में धातुओं की ऑक्सीकरण अवस्था को दर्शाने की स्टॉक संकेतन (Stock notation) पद्धति क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Writing the oxidation state of the metal as a Roman numeral in parentheses immediately after the metal's name or symbol",
+          "hi": "धातु के नाम अथवा प्रतीक के तुरंत बाद कोष्ठक में उसकी ऑक्सीकरण संख्या को रोमन अंकों में लिखना"
+        },
+        "B": {
+          "en": "Writing the number of oxygen atoms in subscript",
+          "hi": "ऑक्सीजन परमाणुओं की संख्या को पादांक (सबस्क्रिप्ट) में लिखना"
+        },
+        "C": {
+          "en": "Using Latin prefixes like mono, di, tri for the metal",
+          "hi": "धातु के लिए मोनो, डाइ, ट्राइ जैसे लैटिन पूर्वसर्ग लगाना"
+        },
+        "D": {
+          "en": "Writing the metal's atomic mass in brackets",
+          "hi": "धातु के परमाणु द्रव्यमान को कोष्ठक में लिखना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Which type of redox reaction involves two or more elements/compounds combining to form a single compound, with at least one reactant in elemental form?",
+        "hi": "किस प्रकार की रेडॉक्स अभिक्रिया में दो या दो से अधिक तत्व/यौगिक मिलकर एक अकेला यौगिक बनाते हैं, जिसमें कम से कम एक अभिकारक तात्विक अवस्था में होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Combination redox reaction",
+          "hi": "संयोजन रेडॉक्स अभिक्रिया"
+        },
+        "B": {
+          "en": "Decomposition redox reaction",
+          "hi": "अपघटन रेडॉक्स अभिक्रिया"
+        },
+        "C": {
+          "en": "Displacement redox reaction",
+          "hi": "विस्थापन रेडॉक्स अभिक्रिया"
+        },
+        "D": {
+          "en": "Disproportionation reaction",
+          "hi": "असमानुपातन अभिक्रिया"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q03",
+      "category": "Theory",
+      "question": {
+        "en": "A disproportionation reaction is a special redox reaction in which:",
+        "hi": "असमानुपातन (Disproportionation) अभिक्रिया एक विशेष रेडॉक्स अभिक्रिया है जिसमें:"
+      },
+      "options": {
+        "A": {
+          "en": "An element in one oxidation state is simultaneously oxidized and reduced into two different oxidation states",
+          "hi": "एक ही तत्व किसी एक ऑक्सीकरण अवस्था से एक साथ ऑक्सीकृत और अपचयित होकर दो भिन्न अवस्थाओं में परिवर्तित होता है"
+        },
+        "B": {
+          "en": "Two different elements are both oxidized",
+          "hi": "दो भिन्न तत्व दोनों ही ऑक्सीकृत होते हैं"
+        },
+        "C": {
+          "en": "Precipitation occurs without electron transfer",
+          "hi": "बिना इलेक्ट्रॉन स्थानांतरण के अवक्षेपण होता है"
+        },
+        "D": {
+          "en": "A single element forms only gaseous products",
+          "hi": "एक अकेला तत्व केवल गैसीय उत्पाद बनाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Why can fluorine (F2) NOT undergo a disproportionation reaction in alkaline medium?",
+        "hi": "फ्लोरीन (F2) क्षारीय माध्यम में असमानुपातन अभिक्रिया क्यों प्रदर्शित नहीं कर सकता?"
+      },
+      "options": {
+        "A": {
+          "en": "Fluorine is the most electronegative element and exhibits only 0 and -1 oxidation states (no positive oxidation state possible)",
+          "hi": "फ्लोरीन सर्वाधिक ऋणविद्युती तत्व है और केवल 0 तथा -1 अवस्था दर्शाता है (कोई धनात्मक ऑक्सीकरण अवस्था संभव नहीं)"
+        },
+        "B": {
+          "en": "Fluorine is a gas at room temperature",
+          "hi": "फ्लोरीन कमरे के तापमान पर गैस है"
+        },
+        "C": {
+          "en": "Fluorine has high bond dissociation enthalpy",
+          "hi": "फ्लोरीन की बंध वियोजन ऊर्जा अधिक है"
+        },
+        "D": {
+          "en": "Fluorine is insoluble in water",
+          "hi": "फ्लोरीन जल में अविलेय है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q05",
+      "category": "Theory",
+      "question": {
+        "en": "In non-metal displacement reactions, which halogen can displace all other halide ions from their aqueous solutions?",
+        "hi": "अधातु विस्थापन अभिक्रियाओं में कौन-सा हैलोजन अन्य सभी हैलाइड आयनों को उनके जलीय विलयनों से विस्थापित कर सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Fluorine (F2), because it is the strongest oxidizing halogen",
+          "hi": "फ्लोरीन (F2), क्योंकि यह सबसे प्रबल ऑक्सीकारक हैलोजन है"
+        },
+        "B": {
+          "en": "Iodine (I2)",
+          "hi": "आयोडीन (I2)"
+        },
+        "C": {
+          "en": "Bromine (Br2)",
+          "hi": "ब्रोमीन (Br2)"
+        },
+        "D": {
+          "en": "Chlorine (Cl2)",
+          "hi": "क्लोरीन (Cl2)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q06",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following decomposition reactions is NOT a redox reaction?",
+        "hi": "निम्नलिखित में से कौन-सी अपघटन अभिक्रिया एक रेडॉक्स अभिक्रिया नहीं है?"
+      },
+      "options": {
+        "A": {
+          "en": "CaCO3(s) --Δ--> CaO(s) + CO2(g)",
+          "hi": "CaCO3(s) --Δ--> CaO(s) + CO2(g)"
+        },
+        "B": {
+          "en": "2H2O(l) --electrolysis--> 2H2(g) + O2(g)",
+          "hi": "2H2O(l) --वैद्युत अपघटन--> 2H2(g) + O2(g)"
+        },
+        "C": {
+          "en": "2KClO3(s) --Δ--> 2KCl(s) + 3O2(g)",
+          "hi": "2KClO3(s) --Δ--> 2KCl(s) + 3O2(g)"
+        },
+        "D": {
+          "en": "2NaH(s) --Δ--> 2Na(s) + H2(g)",
+          "hi": "2NaH(s) --Δ--> 2Na(s) + H2(g)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q07",
+      "category": "Reaction",
+      "question": {
+        "en": "Which of the following is a classic example of a disproportionation reaction?",
+        "hi": "निम्नलिखित में से कौन-सा असमानुपातन अभिक्रिया का उत्कृष्ट उदाहरण है?"
+      },
+      "options": {
+        "A": {
+          "en": "2H2O2(aq) -> 2H2O(l) + O2(g)",
+          "hi": "2H2O2(aq) -> 2H2O(l) + O2(g)"
+        },
+        "B": {
+          "en": "CH4(g) + 2O2(g) -> CO2(g) + 2H2O(l)",
+          "hi": "CH4(g) + 2O2(g) -> CO2(g) + 2H2O(l)"
+        },
+        "C": {
+          "en": "Zn(s) + 2HCl(aq) -> ZnCl2(aq) + H2(g)",
+          "hi": "Zn(s) + 2HCl(aq) -> ZnCl2(aq) + H2(g)"
+        },
+        "D": {
+          "en": "2Na(s) + H2(g) -> 2NaH(s)",
+          "hi": "2Na(s) + H2(g) -> 2NaH(s)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q08",
+      "category": "Reaction",
+      "question": {
+        "en": "When white phosphorus (P4) reacts with aqueous NaOH, what products are formed by disproportionation?",
+        "hi": "जब श्वेत फॉस्फोरस (P4) जलीय NaOH के साथ अभिक्रिया करता है, तो असमानुपातन द्वारा कौन-से उत्पाद बनते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "PH3 (-3) and NaH2PO2 (+1)",
+          "hi": "PH3 (-3) तथा NaH2PO2 (+1)"
+        },
+        "B": {
+          "en": "H3PO4 and H2",
+          "hi": "H3PO4 तथा H2"
+        },
+        "C": {
+          "en": "P2O5 and Na3PO4",
+          "hi": "P2O5 तथा Na3PO4"
+        },
+        "D": {
+          "en": "Na3P and H2O",
+          "hi": "Na3P तथा H2O"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the correct representation of Auric chloride (AuCl3) and Stannous chloride (SnCl2) in Stock notation?",
+        "hi": "स्टॉक संकेतन में ऑरिक क्लोराइड (AuCl3) तथा स्टेनस क्लोराइड (SnCl2) का सही निरूपण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Au(III)Cl3 and Sn(II)Cl2",
+          "hi": "Au(III)Cl3 और Sn(II)Cl2"
+        },
+        "B": {
+          "en": "Au(I)Cl3 and Sn(IV)Cl2",
+          "hi": "Au(I)Cl3 और Sn(IV)Cl2"
+        },
+        "C": {
+          "en": "Au3Cl and Sn2Cl",
+          "hi": "Au3Cl और Sn2Cl"
+        },
+        "D": {
+          "en": "Au[3]Cl3 and Sn[2]Cl2",
+          "hi": "Au[3]Cl3 और Sn[2]Cl2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q10",
+      "category": "Reaction",
+      "question": {
+        "en": "Chlorine reacts with cold dilute NaOH to form products A and B, but with hot concentrated NaOH it forms products C and D. What are A and C respectively?",
+        "hi": "क्लोरीन ठंडे व तनु NaOH से क्रिया करके A तथा B बनाती है, जबकि गर्म व सांद्र NaOH से C तथा D बनाती है। A तथा C क्रमशः क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "A = NaClO (Sodium hypochlorite), C = NaClO3 (Sodium chlorate)",
+          "hi": "A = NaClO (सोडियम हाइपोक्लोराइट), C = NaClO3 (सोडियम क्लोरेट)"
+        },
+        "B": {
+          "en": "A = NaClO3, C = NaClO",
+          "hi": "A = NaClO3, C = NaClO"
+        },
+        "C": {
+          "en": "A = Cl2O, C = Cl2O7",
+          "hi": "A = Cl2O, C = Cl2O7"
+        },
+        "D": {
+          "en": "A = NaCl, C = HClO4",
+          "hi": "A = NaCl, C = HClO4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following oxoanions of chlorine can undergo disproportionation?",
+        "hi": "क्लोरीन का निम्नलिखित में से कौन-सा ऑक्सोएनायन असमानुपातन अभिक्रिया प्रदर्शित कर सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "ClO^- (+1), ClO2^- (+3), and ClO3^- (+5) (All except ClO4^-)",
+          "hi": "ClO^- (+1), ClO2^- (+3), और ClO3^- (+5) (ClO4^- को छोड़कर सभी)"
+        },
+        "B": {
+          "en": "ClO4^- only",
+          "hi": "केवल ClO4^-"
+        },
+        "C": {
+          "en": "None can disproportionate",
+          "hi": "कोई भी असमानुपातन नहीं कर सकता"
+        },
+        "D": {
+          "en": "Only Cl^-",
+          "hi": "केवल Cl^-"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q12",
+      "category": "Reaction",
+      "question": {
+        "en": "In the reaction: TiCl4(l) + 2Mg(s) -> Ti(s) + 2MgCl2(s), what type of redox reaction is observed?",
+        "hi": "अभिक्रिया: TiCl4(l) + 2Mg(s) -> Ti(s) + 2MgCl2(s) में किस प्रकार की रेडॉक्स अभिक्रिया देखी जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Metal displacement redox reaction",
+          "hi": "धातु विस्थापन रेडॉक्स अभिक्रिया"
+        },
+        "B": {
+          "en": "Disproportionation reaction",
+          "hi": "असमानुपातन अभिक्रिया"
+        },
+        "C": {
+          "en": "Decomposition reaction",
+          "hi": "अपघटन अभिक्रिया"
+        },
+        "D": {
+          "en": "Non-redox precipitation",
+          "hi": "गैर-रेडॉक्स अवक्षेपण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The flow diagram illustrates the four primary types of redox reactions:\nRedox Reactions\n  |-- 1. Combination (A + B -> C)\n  |-- 2. Decomposition (C -> A + B)\n  |-- 3. Displacement (X + YZ -> XZ + Y)\n  |-- 4. Disproportionation (2A intermediate -> A_higher + A_lower)\nWhich category describes: 2KClO3 -> 2KCl + 3O2?",
+        "hi": "रेडॉक्स अभिक्रियाओं के चार मुख्य प्रकारों का वर्गीकरण आरेख देखिए:\nअभिक्रिया: 2KClO3 -> 2KCl + 3O2 किस श्रेणी में आती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Decomposition redox reaction",
+          "hi": "अपघटन रेडॉक्स अभिक्रिया"
+        },
+        "B": {
+          "en": "Combination redox reaction",
+          "hi": "संयोजन रेडॉक्स अभिक्रिया"
+        },
+        "C": {
+          "en": "Displacement redox reaction",
+          "hi": "विस्थापन रेडॉक्स अभिक्रिया"
+        },
+        "D": {
+          "en": "Disproportionation reaction",
+          "hi": "असमानुपातन अभिक्रिया"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of disproportionation reactions:\n| Reactant | Element | Initial State | Product 1 (O.S.) | Product 2 (O.S.) |\n|---|---|---|---|---|\n| H2O2 | Oxygen | -1 | H2O (-2) | O2 (0) |\n| Cl2 in base | Chlorine | 0 | Cl^- (-1) | ClO^- (+1) |\n| MnO4^2- in acid | Manganese | +6 | MnO4^- (+7) | X |\nWhat is product X and its oxidation state in the disproportionation of manganate ion in acid?",
+        "hi": "असमानुपातन अभिक्रियाओं की तालिका का अवलोकन कीजिए:\nअम्लीय माध्यम में मैंगनेट आयन (MnO4^2-) के असमानुपातन में उत्पाद X तथा उसकी ऑक्सीकरण अवस्था क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "MnO2 (+4)",
+          "hi": "MnO2 (+4)"
+        },
+        "B": {
+          "en": "Mn2O7 (+7)",
+          "hi": "Mn2O7 (+7)"
+        },
+        "C": {
+          "en": "Mn metal (0)",
+          "hi": "Mn धातु (0)"
+        },
+        "D": {
+          "en": "MnSO4 (+2) only",
+          "hi": "केवल MnSO4 (+2)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc03_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A Frost-Ebsworth diagram plots ΔG°/F (or nE°) against oxidation state (N) for an element. What geometric feature on this plot signifies that a species is thermodynamically prone to DISPROPORTIONATION?",
+        "hi": "किसी तत्व के लिए ऑक्सीकरण संख्या (N) के सापेक्ष nE° का फ्रॉस्ट आरेख (Frost diagram) बनाया गया है। आरेख की कौन-सी ज्यामितीय विशेषता दर्शाती है कि कोई स्पीशीज ऊष्मागतिक रूप से असमानुपातन के लिए प्रवृत्त है?"
+      },
+      "options": {
+        "A": {
+          "en": "The species lies on a convex point above the tie-line connecting its two adjacent oxidation states",
+          "hi": "वह स्पीशीज अपनी दो आसन्न ऑक्सीकरण अवस्थाओं को जोड़ने वाली रेखा के ऊपर एक उत्तल (Convex) बिंदु पर स्थित होती है"
+        },
+        "B": {
+          "en": "The species lies at the lowest absolute minimum of the entire plot",
+          "hi": "वह स्पीशीज पूरे आरेख के न्यूनतम तल पर स्थित होती है"
+        },
+        "C": {
+          "en": "The slope of the curve is zero everywhere",
+          "hi": "वक्र की ढाल सर्वत्र शून्य होती है"
+        },
+        "D": {
+          "en": "The curve is a strictly monotonic vertical straight line",
+          "hi": "वक्र एक पूर्णतः ऊर्ध्वाधर सीधी रेखा होती है"
+        }
+      }
+    }
+  ]
+}

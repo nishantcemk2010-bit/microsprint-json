@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc05_q01",
+      "category": "Theory",
+      "question": {
+        "en": "According to the Arrhenius concept, an acid is a substance that:",
+        "hi": "आरेनियस सिद्धांत के अनुसार, अम्ल वह पदार्थ है जो:"
+      },
+      "options": {
+        "A": {
+          "en": "Gives H+(aq) / H3O+ ions in aqueous solution",
+          "hi": "जलीय विलयन में H+(aq) / H3O+ आयन देता है"
+        },
+        "B": {
+          "en": "Accepts an electron lone pair",
+          "hi": "इलेक्ट्रॉन एकाकी युग्म स्वीकार करता है"
+        },
+        "C": {
+          "en": "Donates an electron lone pair",
+          "hi": "इलेक्ट्रॉन एकाकी युग्म दान करता है"
+        },
+        "D": {
+          "en": "Gives OH- ions in non-aqueous solvents",
+          "hi": "अजलीय विलायकों में OH- आयन देता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q02",
+      "category": "Theory",
+      "question": {
+        "en": "According to the Brönsted-Lowry concept, a conjugate acid-base pair differs by:",
+        "hi": "ब्रॉन्स्टेड-लॉरी सिद्धांत के अनुसार, एक संयुग्मी अम्ल-क्षार युग्म में अंतर होता है:"
+      },
+      "options": {
+        "A": {
+          "en": "Exactly one proton (H+)",
+          "hi": "केवल एक प्रोटॉन (H+) का"
+        },
+        "B": {
+          "en": "One electron pair",
+          "hi": "एक इलेक्ट्रॉन युग्म का"
+        },
+        "C": {
+          "en": "Two protons",
+          "hi": "दो प्रोटॉनों का"
+        },
+        "D": {
+          "en": "One hydroxyl ion (OH-)",
+          "hi": "एक हाइड्रॉक्सिल आयन (OH-) का"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What are the conjugate base of HCO3^- and conjugate acid of NH3 respectively?",
+        "hi": "HCO3^- का संयुग्मी क्षार तथा NH3 का संयुग्मी अम्ल क्रमशः क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "CO3^2- and NH4^+",
+          "hi": "CO3^2- और NH4^+"
+        },
+        "B": {
+          "en": "H2CO3 and NH2^-",
+          "hi": "H2CO3 और NH2^-"
+        },
+        "C": {
+          "en": "CO3^2- and NH2^-",
+          "hi": "CO3^2- और NH2^-"
+        },
+        "D": {
+          "en": "H2CO3 and NH4^+",
+          "hi": "H2CO3 और NH4^+"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following species behaves as a Lewis acid?",
+        "hi": "निम्नलिखित में से कौन-सी स्पीशीज लुईस अम्ल की तरह व्यवहार करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "BF3",
+          "hi": "BF3"
+        },
+        "B": {
+          "en": "NH3",
+          "hi": "NH3"
+        },
+        "C": {
+          "en": "H2O",
+          "hi": "H2O"
+        },
+        "D": {
+          "en": "OH^-",
+          "hi": "OH^-"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q05",
+      "category": "Theory",
+      "question": {
+        "en": "A substance that can act both as a Brönsted acid and as a Brönsted base is termed:",
+        "hi": "वह पदार्थ जो ब्रॉन्स्टेड अम्ल तथा ब्रॉन्स्टेड क्षार दोनों की तरह कार्य कर सकता है, कहलाता है:"
+      },
+      "options": {
+        "A": {
+          "en": "Amphoteric / Amphiprotic",
+          "hi": "उभयधर्मी (एमफ़ीप्रोटिक)"
+        },
+        "B": {
+          "en": "Aprotic",
+          "hi": "अप्रोटिक"
+        },
+        "C": {
+          "en": "Neutral oxide",
+          "hi": "उदासीन ऑक्साइड"
+        },
+        "D": {
+          "en": "Buffer agent",
+          "hi": "बफर कारक"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q06",
+      "category": "Theory",
+      "question": {
+        "en": "How does the ionic product of water (Kw) change when temperature is increased from 25°C to 60°C?",
+        "hi": "तापमान को 25°C से बढ़ाकर 60°C करने पर जल के आयनिक गुणनफल (Kw) पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Kw increases because autoionization of water is endothermic",
+          "hi": "Kw बढ़ता है क्योंकि जल का स्वतः आयनीकरण ऊष्माशोषी है"
+        },
+        "B": {
+          "en": "Kw decreases because autoionization is exothermic",
+          "hi": "Kw घटता है क्योंकि स्वतः आयनीकरण ऊष्माक्षेपी है"
+        },
+        "C": {
+          "en": "Kw remains strictly constant at 1.0 × 10^-14",
+          "hi": "Kw पूर्णतः 1.0 × 10^-14 पर स्थिर रहता है"
+        },
+        "D": {
+          "en": "Kw becomes zero",
+          "hi": "Kw शून्य हो जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the pH of a 1.0 × 10^-3 M aqueous solution of HCl at 25°C?",
+        "hi": "25°C पर HCl के 1.0 × 10^-3 M जलीय विलयन का pH क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "3.0",
+          "hi": "3.0"
+        },
+        "B": {
+          "en": "1.0",
+          "hi": "1.0"
+        },
+        "C": {
+          "en": "11.0",
+          "hi": "11.0"
+        },
+        "D": {
+          "en": "7.0",
+          "hi": "7.0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q08",
+      "category": "Formula",
+      "question": {
+        "en": "What is the pH of a 1.0 × 10^-8 M aqueous HCl solution at 25°C?",
+        "hi": "25°C पर 1.0 × 10^-8 M HCl विलयन का pH क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Between 6.95 and 7.00 (approx 6.96)",
+          "hi": "6.95 और 7.00 के बीच (लगभग 6.96)"
+        },
+        "B": {
+          "en": "Exactly 8.00",
+          "hi": "ठीक 8.00"
+        },
+        "C": {
+          "en": "Exactly 6.00",
+          "hi": "ठीक 6.00"
+        },
+        "D": {
+          "en": "Exactly 7.00",
+          "hi": "ठीक 7.00"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the relation between pH and pOH of pure water at any temperature?",
+        "hi": "किसी भी तापमान पर शुद्ध जल के pH और pOH के मध्य क्या संबंध होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "pH + pOH = pKw",
+          "hi": "pH + pOH = pKw"
+        },
+        "B": {
+          "en": "pH + pOH = 14 (at all temperatures)",
+          "hi": "pH + pOH = 14 (सभी तापमानों पर)"
+        },
+        "C": {
+          "en": "pH - pOH = pKw",
+          "hi": "pH - pOH = pKw"
+        },
+        "D": {
+          "en": "pH × pOH = Kw",
+          "hi": "pH × pOH = Kw"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q10",
+      "category": "Formula",
+      "question": {
+        "en": "What is the hydroxyl ion concentration [OH-] in a solution having pH = 11 at 25°C?",
+        "hi": "25°C पर pH = 11 वाले एक विलयन में हाइड्रॉक्सिल आयन सांद्रता [OH-] क्या होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "1.0 × 10^-3 M",
+          "hi": "1.0 × 10^-3 M"
+        },
+        "B": {
+          "en": "1.0 × 10^-11 M",
+          "hi": "1.0 × 10^-11 M"
+        },
+        "C": {
+          "en": "1.0 × 10^-7 M",
+          "hi": "1.0 × 10^-7 M"
+        },
+        "D": {
+          "en": "3.0 M",
+          "hi": "3.0 M"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following represents the correct order of acid strength among hydrohalic acids?",
+        "hi": "हैलोजन अम्लों (हाइड्रोजन हैलाइडों) के अम्ल सामर्थ्य का सही क्रम कौन-सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "HF < HCl < HBr < HI",
+          "hi": "HF < HCl < HBr < HI"
+        },
+        "B": {
+          "en": "HI < HBr < HCl < HF",
+          "hi": "HI < HBr < HCl < HF"
+        },
+        "C": {
+          "en": "HCl < HF < HBr < HI",
+          "hi": "HCl < HF < HBr < HI"
+        },
+        "D": {
+          "en": "HBr < HI < HCl < HF",
+          "hi": "HBr < HI < HCl < HF"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q12",
+      "category": "Trend",
+      "question": {
+        "en": "What is the pH of pure neutral water at 80°C if Kw at this temperature is 1.0 × 10^-12?",
+        "hi": "यदि 80°C पर Kw का मान 1.0 × 10^-12 है, तो इस तापमान पर शुद्ध उदासीन जल का pH क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "6.0",
+          "hi": "6.0"
+        },
+        "B": {
+          "en": "7.0",
+          "hi": "7.0"
+        },
+        "C": {
+          "en": "8.0",
+          "hi": "8.0"
+        },
+        "D": {
+          "en": "12.0",
+          "hi": "12.0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "Examine the following coordinate-covalent bond formation between BF3 and NH3:\nF3B  +  :NH3  -->  F3B<---NH3\nWhich roles are played by BF3 and NH3 respectively according to Lewis theory?",
+        "hi": "BF3 तथा NH3 के बीच उपसहसंयोजक बंध बनने के निम्नलिखित आरेख का परीक्षण कीजिए:\nF3B  +  :NH3  -->  F3B<---NH3\nलुईस सिद्धांत के अनुसार BF3 और NH3 क्रमशः कौन-सी भूमिका निभाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "BF3 is Lewis acid (electron pair acceptor), NH3 is Lewis base (electron pair donor)",
+          "hi": "BF3 लुईस अम्ल (इलेक्ट्रॉन ग्राही) तथा NH3 लुईस क्षार (इलेक्ट्रॉन दाता) है"
+        },
+        "B": {
+          "en": "Both are Lewis acids",
+          "hi": "दोनों लुईस अम्ल हैं"
+        },
+        "C": {
+          "en": "BF3 is Lewis base, NH3 is Lewis acid",
+          "hi": "BF3 लुईस क्षार तथा NH3 लुईस अम्ल है"
+        },
+        "D": {
+          "en": "Both are Brönsted acids",
+          "hi": "दोनों ब्रॉन्स्टेड अम्ल हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of species and their conjugate forms:\n| Species | Role | Conjugate Form |\n|---|---|---|\n| H2O | Acid (loses H+) | X |\n| HSO4^- | Base (accepts H+) | Y |\nWhat are species X and Y?",
+        "hi": "स्पीशीज तथा उनके संयुग्मी रूपों की निम्नलिखित तालिका का अवलोकन कीजिए:\n| Species | Role | Conjugate Form |\n|---|---|---|\n| H2O | Acid (दान H+) | X |\n| HSO4^- | Base (स्वीकार H+) | Y |\nस्पीशीज X और Y क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "X = OH^-, Y = H2SO4",
+          "hi": "X = OH^-, Y = H2SO4"
+        },
+        "B": {
+          "en": "X = H3O^+, Y = SO4^2-",
+          "hi": "X = H3O^+, Y = SO4^2-"
+        },
+        "C": {
+          "en": "X = OH^-, Y = SO4^2-",
+          "hi": "X = OH^-, Y = SO4^2-"
+        },
+        "D": {
+          "en": "X = H2, Y = SO3",
+          "hi": "X = H2, Y = SO3"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc05_q15",
+      "category": "Graph",
+      "question": {
+        "en": "In a plot of neutral pH vs temperature for pure water (0°C to 100°C), what trend is observed?",
+        "hi": "शुद्ध उदासीन जल के लिए तापमान (0°C से 100°C) के सापेक्ष pH के आलेख में क्या प्रवृत्ति दिखाई देती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Neutral pH decreases steadily below 7.0 (to ~6.13 at 100°C)",
+          "hi": "उदासीन pH का मान लगातार घटकर 7.0 से कम (100°C पर ~6.13) हो जाता है"
+        },
+        "B": {
+          "en": "Neutral pH increases steadily above 7.0",
+          "hi": "उदासीन pH का मान बढ़कर 7.0 से अधिक हो जाता है"
+        },
+        "C": {
+          "en": "Neutral pH remains fixed at 7.00 at all temperatures",
+          "hi": "उदासीन pH का मान सभी तापमानों पर 7.00 ही रहता है"
+        },
+        "D": {
+          "en": "Neutral pH drops to zero at 50°C",
+          "hi": "50°C पर pH गिरकर शून्य हो जाता है"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc01_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Dispersion forces (also known as London forces) exist between which type of particles?",
+        "hi": "परिक्षेपण बल (लंदन बल) किस प्रकार के कणों के बीच उपस्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "All atoms and molecules, especially non-polar atoms and molecules, due to temporary instantaneous dipoles",
+          "hi": "सभी परमाणुओं और अणुओं, विशेष रूप से अध्रुवीय परमाणुओं और अणुओं के बीच तात्कालिक क्षणिक द्विध्रुवों के कारण"
+        },
+        "B": {
+          "en": "Only permanently polar molecules with permanent dipole moments",
+          "hi": "केवल स्थायी द्विध्रुव आघूर्ण वाले स्थायी ध्रुवीय अणुओं के बीच"
+        },
+        "C": {
+          "en": "Only oppositely charged ions in an ionic lattice",
+          "hi": "केवल आयनिक जालक में विपरीत आवेशित आयनों के बीच"
+        },
+        "D": {
+          "en": "Only between protons and neutrons inside the atomic nucleus",
+          "hi": "केवल परमाणु नाभिक के भीतर प्रोटॉन और न्यूट्रॉन के बीच"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q02",
+      "category": "Theory",
+      "question": {
+        "en": "How does the strength of London dispersion forces vary with the distance (r) between interacting particles?",
+        "hi": "परस्पर अंतःक्रिया करने वाले कणों के बीच की दूरी (r) के साथ लंदन परिक्षेपण बलों की सामर्थ्य कैसे परिवर्तित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Interaction energy ∝ 1 / r⁶",
+          "hi": "अंतःक्रिया ऊर्जा ∝ 1 / r⁶"
+        },
+        "B": {
+          "en": "Interaction energy ∝ 1 / r³",
+          "hi": "अंतःक्रिया ऊर्जा ∝ 1 / r³"
+        },
+        "C": {
+          "en": "Interaction energy ∝ 1 / r",
+          "hi": "अंतःक्रिया ऊर्जा ∝ 1 / r"
+        },
+        "D": {
+          "en": "Interaction energy ∝ 1 / r²",
+          "hi": "अंतःक्रिया ऊर्जा ∝ 1 / r²"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Dipole-dipole forces act between molecules possessing permanent dipole moments. For rotating polar molecules in a gas or liquid, the interaction energy is proportional to:",
+        "hi": "द्विध्रुव-द्विध्रुव बल स्थायी द्विध्रुव आघूर्ण वाले अणुओं के बीच कार्य करते हैं। किसी गैस या द्रव में घूर्णन करते ध्रुवीय अणुओं के लिए, अंतःक्रिया ऊर्जा किसके समानुपाती होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "1 / r⁶",
+          "hi": "1 / r⁶"
+        },
+        "B": {
+          "en": "1 / r³",
+          "hi": "1 / r³"
+        },
+        "C": {
+          "en": "1 / r²",
+          "hi": "1 / r²"
+        },
+        "D": {
+          "en": "1 / r⁴",
+          "hi": "1 / r⁴"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What is the physical significance of thermal energy in determining the physical state of matter?",
+        "hi": "पदार्थ की भौतिक अवस्था निर्धारित करने में तापीय ऊर्जा (Thermal Energy) का क्या भौतिक महत्व है?"
+      },
+      "options": {
+        "A": {
+          "en": "Thermal energy tends to keep the particles apart by increasing molecular motion, opposing intermolecular attractive forces",
+          "hi": "तापीय ऊर्जा आणविक गति बढ़ाकर कणों को एक-दूसरे से दूर रखने की प्रवृत्ति रखती है, जो अंतराण्विक आकर्षण बलों का विरोध करती है"
+        },
+        "B": {
+          "en": "Thermal energy always binds particles tightly into a fixed lattice",
+          "hi": "तापीय ऊर्जा कणों को हमेशा एक निश्चित जालक में दृढ़ता से बांधती है"
+        },
+        "C": {
+          "en": "Thermal energy decreases as temperature increases",
+          "hi": "तापमान बढ़ने पर तापीय ऊर्जा घटती है"
+        },
+        "D": {
+          "en": "Thermal energy converts all liquids into solids",
+          "hi": "तापीय ऊर्जा सभी द्रवों को ठोसों में परिवर्तित करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q05",
+      "category": "Formula",
+      "question": {
+        "en": "Which of the following pairs of interacting particles exhibits dipole-induced dipole forces?",
+        "hi": "परस्पर अंतःक्रिया करने वाले कणों के निम्नलिखित युग्मों में से कौन सा द्विध्रुव-प्रेरित द्विध्रुव बल (dipole-induced dipole forces) प्रदर्शित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "HCl and He",
+          "hi": "HCl और He"
+        },
+        "B": {
+          "en": "HCl and HCl",
+          "hi": "HCl और HCl"
+        },
+        "C": {
+          "en": "He and Ne",
+          "hi": "He और Ne"
+        },
+        "D": {
+          "en": "Na⁺ and Cl⁻",
+          "hi": "Na⁺ और Cl⁻"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q06",
+      "category": "Formula",
+      "question": {
+        "en": "Why does the boiling point of noble gases increase down the group (He: 4.2 K < Ne: 27 K < Ar: 87 K < Kr: 121 K < Xe: 165 K)?",
+        "hi": "उत्कृष्ट गैसों का क्वथनांक वर्ग में नीचे जाने पर क्यों बढ़ता है (He: 4.2 K < Ne: 27 K < Ar: 87 K < Kr: 121 K < Xe: 165 K)?"
+      },
+      "options": {
+        "A": {
+          "en": "Atomic size and number of electrons increase, increasing polarizability and London dispersion forces",
+          "hi": "परमाण्विक आकार और इलेक्ट्रॉनों की संख्या बढ़ती है, जिससे ध्रुवणीयता और लंदन परिक्षेपण बल बढ़ते हैं"
+        },
+        "B": {
+          "en": "Nuclear charge decreases down the group",
+          "hi": "वर्ग में नीचे जाने पर नाभिकीय आवेश घटता है"
+        },
+        "C": {
+          "en": "Noble gases form covalent bonds at higher temperatures",
+          "hi": "उत्कृष्ट गैसें उच्च तापमान पर सहसंयोजक आबंध बनाती हैं"
+        },
+        "D": {
+          "en": "Thermal energy decreases down the group",
+          "hi": "वर्ग में नीचे जाने पर तापीय ऊर्जा घटती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q07",
+      "category": "Formula",
+      "question": {
+        "en": "Rank the following intermolecular interactions in order of increasing typical interaction energy:\n1. London dispersion forces\n2. Hydrogen bonding\n3. Covalent bond",
+        "hi": "सामान्य अंतःक्रिया ऊर्जा के बढ़ते क्रम में निम्नलिखित अंतराण्विक/आणविक अंतःक्रियाओं को व्यवस्थित करें:\n1. लंदन परिक्षेपण बल\n2. हाइड्रोजन आबंधन\n3. सहसंयोजक आबंध"
+      },
+      "options": {
+        "A": {
+          "en": "London forces < Hydrogen bonding < Covalent bond",
+          "hi": "लंदन बल < हाइड्रोजन आबंधन < सहसंयोजक आबंध"
+        },
+        "B": {
+          "en": "Hydrogen bonding < London forces < Covalent bond",
+          "hi": "हाइड्रोजन आबंधन < लंदन बल < सहसंयोजक आबंध"
+        },
+        "C": {
+          "en": "Covalent bond < London forces < Hydrogen bonding",
+          "hi": "सहसंयोजक आबंध < लंदन बल < हाइड्रोजन आबंधन"
+        },
+        "D": {
+          "en": "London forces < Covalent bond < Hydrogen bonding",
+          "hi": "लंदन बल < सहसंयोजक आबंध < हाइड्रोजन आबंधन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q08",
+      "category": "Formula",
+      "question": {
+        "en": "The three physical states of matter (solid, liquid, gas) correspond to which balance between Predominance of Intermolecular Forces (IMF) and Thermal Energy (TE)?",
+        "hi": "पदार्थ की तीन भौतिक अवस्थाएँ (ठोस, द्रव, गैस) अंतराण्विक बलों (IMF) और तापीय ऊर्जा (TE) के किस संतुलन के संगत हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Solid: IMF ≫ TE; Liquid: IMF ≈ TE; Gas: TE ≫ IMF",
+          "hi": "ठोस: IMF ≫ TE; द्रव: IMF ≈ TE; गैस: TE ≫ IMF"
+        },
+        "B": {
+          "en": "Solid: TE ≫ IMF; Liquid: IMF ≈ TE; Gas: IMF ≫ TE",
+          "hi": "ठोस: TE ≫ IMF; द्रव: IMF ≈ TE; गैस: IMF ≫ TE"
+        },
+        "C": {
+          "en": "Solid: IMF = 0; Liquid: IMF > 0; Gas: IMF = maximum",
+          "hi": "ठोस: IMF = 0; द्रव: IMF > 0; गैस: IMF = अधिकतम"
+        },
+        "D": {
+          "en": "All three states have IMF ≫ TE",
+          "hi": "तीनों अवस्थाओं में IMF ≫ TE होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q09",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table matching intermolecular force type with interaction energy distance dependence:\n| Type of Interaction | Energy Dependence on Distance (r) |\n| :--- | :--- |\n| 1. Ion-Ion | P. ∝ 1/r |\n| 2. Stationary Dipole-Dipole | Q. ∝ 1/r³ |\n| 3. London Dispersion | R. ∝ 1/r⁶ |\nWhich matching is correct?",
+        "hi": "अंतराण्विक बल के प्रकार और दूरी (r) पर अंतःक्रिया ऊर्जा की निर्भरता का मिलान करने वाली तालिका की जाँच करें:\n| अंतःक्रिया का प्रकार | दूरी (r) पर ऊर्जा निर्भरता |\n| :--- | :--- |\n| 1. आयन-आयन | P. ∝ 1/r |\n| 2. स्थिर द्विध्रुव-द्विध्रुव | Q. ∝ 1/r³ |\n| 3. लंदन परिक्षेपण | R. ∝ 1/r⁶ |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "B": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-Q, 3-P",
+          "hi": "1-R, 2-Q, 3-P"
+        },
+        "D": {
+          "en": "1-P, 2-R, 3-Q",
+          "hi": "1-P, 2-R, 3-Q"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc01_q10",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Out of the 118 elements known in the periodic table, how many exist as gases under normal room temperature and 1 bar pressure?",
+        "hi": "आवर्त सारणी के 118 ज्ञात तत्वों में से कितने तत्व सामान्य कमरे के तापमान और 1 बार दाब पर गैस के रूप में पाए जाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "11 elements (H₂, N₂, O₂, F₂, Cl₂, He, Ne, Ar, Kr, Xe, Rn)",
+          "hi": "11 तत्व (H₂, N₂, O₂, F₂, Cl₂, He, Ne, Ar, Kr, Xe, Rn)"
+        },
+        "B": {
+          "en": "15 elements",
+          "hi": "15 तत्व"
+        },
+        "C": {
+          "en": "5 elements only",
+          "hi": "केवल 5 तत्व"
+        },
+        "D": {
+          "en": "22 elements",
+          "hi": "22 तत्व"
+        }
+      }
+    }
+  ]
+}

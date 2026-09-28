@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc08_q01",
+      "category": "Theory",
+      "question": {
+        "en": "In Liebig's combustion method for the quantitative estimation of Carbon and Hydrogen, what reagents are used in the two absorption tubes respectively?",
+        "hi": "कार्बन तथा हाइड्रोजन के परिमाणात्मक आकलन की लीबिग दहन विधि में दो अवशोषण नलियों में क्रमशः कौन-से अभिकर्मक प्रयुक्त होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Anhydrous Calcium chloride (CaCl2) to absorb H2O, followed by concentrated Potassium hydroxide (KOH) solution to absorb CO2",
+          "hi": "H2O को अवशोषित करने हेतु निर्जल CaCl2, तत्पश्चात CO2 को अवशोषित करने हेतु सांद्र KOH विलयन"
+        },
+        "B": {
+          "en": "Concentrated H2SO4 for CO2, and NaOH for H2O",
+          "hi": "CO2 हेतु H2SO4 तथा H2O हेतु NaOH"
+        },
+        "C": {
+          "en": "Silica gel for CO2, and soda lime for H2O",
+          "hi": "CO2 हेतु सिलिका जेल तथा H2O हेतु सोडा लाइम"
+        },
+        "D": {
+          "en": "Activated charcoal for both gases",
+          "hi": "दोनों गैसों हेतु सक्रियित चारकोल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In Dumas method for the quantitative estimation of nitrogen, in what chemical form is the nitrogen gas collected and measured?",
+        "hi": "नाइट्रोजन के परिमाणात्मक आकलन की ड्यूमा विधि (Dumas method) में नाइट्रोजन गैस किस रासायनिक रूप में एकत्रित और मापी जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "As elemental dinitrogen gas (N2) collected over concentrated aqueous KOH solution in a nitrometer",
+          "hi": "नाइट्रोमीटर में सांद्र जलीय KOH विलयन के ऊपर शुद्ध तात्विक डाइनाइट्रोजन गैस (N2) के रूप में"
+        },
+        "B": {
+          "en": "As dissolved ammonia (NH3) gas in water",
+          "hi": "जल में घुली अमोनिया (NH3) गैस के रूप में"
+        },
+        "C": {
+          "en": "As solid ammonium chloride precipitate",
+          "hi": "ठोस अमोनियम क्लोराइड अवक्षेप के रूप में"
+        },
+        "D": {
+          "en": "As nitrogen dioxide (NO2) liquid",
+          "hi": "द्रव NO2 के रूप में"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following classes of nitrogenous organic compounds CANNOT be estimated for nitrogen by Kjeldahl's method?",
+        "hi": "निम्नलिखित में से किस वर्ग के नाइट्रोजन युक्त कार्बनिक यौगिकों में नाइट्रोजन का आकलन जेल्डाल विधि (Kjeldahl's method) द्वारा नहीं किया जा सकता?"
+      },
+      "options": {
+        "A": {
+          "en": "Nitro compounds (-NO2), Azo compounds (-N=N-), and Pyridine/quinoline (nitrogen in ring systems)",
+          "hi": "नाइट्रो यौगिक (-NO2), ऐज़ो यौगिक (-N=N-), तथा वलय में नाइट्रोजन वाले यौगिक (जैसे पिरिडीन)"
+        },
+        "B": {
+          "en": "Simple primary aliphatic amines (R-NH2)",
+          "hi": "सरल प्राथमिक ऐलिफैटिक एमीन"
+        },
+        "C": {
+          "en": "Simple amides (R-CONH2)",
+          "hi": "सरल एमाइड"
+        },
+        "D": {
+          "en": "Amino acids and proteins",
+          "hi": "अमीनो अम्ल तथा प्रोटीन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In Carius method for the estimation of halogens, what reagent is heated with the organic compound in a sealed hard-glass Carius tube?",
+        "hi": "हैलोजनों के आकलन की कैरियस विधि (Carius method) में सीलबंद कठोर कांच की नली में कार्बनिक यौगिक के साथ कौन-सा अभिकर्मक गर्म किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Fuming nitric acid (fuming HNO3) in the presence of solid Silver nitrate (AgNO3)",
+          "hi": "ठोस सिल्वर नाइट्रेट (AgNO3) की उपस्थिति में सधूम नाइट्रिक अम्ल (fuming HNO3)"
+        },
+        "B": {
+          "en": "Concentrated hydrochloric acid with zinc dust",
+          "hi": "जिंक चूर्ण के साथ सांद्र HCl"
+        },
+        "C": {
+          "en": "Liquid ammonia with sodium metal",
+          "hi": "सोडियम के साथ द्रव अमोनिया"
+        },
+        "D": {
+          "en": "Potassium permanganate in neutral water",
+          "hi": "उदासीन जल में KMnO4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q05",
+      "category": "Theory",
+      "question": {
+        "en": "In Carius method for the estimation of sulfur, in what weighed form is sulfur finally precipitated and determined?",
+        "hi": "सल्फर के कैरियस आकलन में सल्फर को अंततः किस तौले गए अवक्षेप के रूप में आकलित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Barium sulfate (BaSO4) precipitate, formed by adding BaCl2 solution",
+          "hi": "BaCl2 विलयन मिलाने पर बने बेरियम सल्फेट (BaSO4) अवक्षेप के रूप में"
+        },
+        "B": {
+          "en": "Lead sulfide (PbS)",
+          "hi": "लेड सल्फाइड (PbS)"
+        },
+        "C": {
+          "en": "Sulfur dioxide (SO2) gas",
+          "hi": "SO2 गैस"
+        },
+        "D": {
+          "en": "Elemental yellow sulfur crystals",
+          "hi": "तात्विक पीले सल्फर क्रिस्टल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q06",
+      "category": "Theory",
+      "question": {
+        "en": "In Kjeldahl's method, what is the purpose of adding potassium sulfate (K2SO4) and copper sulfate (CuSO4) to concentrated H2SO4 during digestion?",
+        "hi": "जेल्डाल विधि में पाचन के दौरान सांद्र H2SO4 में पोटेशियम सल्फेट (K2SO4) तथा कॉपर सल्फेट (CuSO4) मिलाने का क्या उद्देश्य है?"
+      },
+      "options": {
+        "A": {
+          "en": "K2SO4 raises the boiling point of sulfuric acid, while CuSO4 acts as a catalyst to accelerate the decomposition",
+          "hi": "K2SO4 सल्फ्यूरिक अम्ल का क्वथनांक बढ़ाता है, जबकि CuSO4 अपघटन को तेज करने हेतु उत्प्रेरक का कार्य करता है"
+        },
+        "B": {
+          "en": "K2SO4 acts as a drying agent, CuSO4 provides oxygen",
+          "hi": "K2SO4 शुष्कक का तथा CuSO4 ऑक्सीजन का कार्य करता है"
+        },
+        "C": {
+          "en": "Both neutralize the acid completely",
+          "hi": "दोनों अम्ल को उदासीन करते हैं"
+        },
+        "D": {
+          "en": "They convert nitrogen into nitric oxide gas",
+          "hi": "वे नाइट्रोजन को NO में बदलते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the formula for calculating the percentage of Carbon (% C) from the mass of CO2 obtained in Liebig's combustion method?",
+        "hi": "लीबिग दहन विधि में प्राप्त CO2 के द्रव्यमान से कार्बन का प्रतिशत (% C) ज्ञात करने का सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "% C = (12 / 44) × (Mass of CO2 formed / Mass of organic compound) × 100",
+          "hi": "% C = (12 / 44) × (बनी CO2 का द्रव्यमान / कार्बनिक यौगिक का द्रव्यमान) × 100"
+        },
+        "B": {
+          "en": "% C = (44 / 12) × (Mass of CO2 / Mass of compound) × 100",
+          "hi": "% C = (44 / 12) × (CO2 का द्रव्यमान / यौगिक का द्रव्यमान) × 100"
+        },
+        "C": {
+          "en": "% C = (2 / 18) × (Mass of CO2 / Mass of compound) × 100",
+          "hi": "% C = (2 / 18) × (CO2 का द्रव्यमान / यौगिक का द्रव्यमान) × 100"
+        },
+        "D": {
+          "en": "% C = (Mass of CO2 / 44) × 100",
+          "hi": "% C = (CO2 का द्रव्यमान / 44) × 100"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q08",
+      "category": "Calculation",
+      "question": {
+        "en": "In a Liebig combustion analysis, 0.246 g of an organic compound gave 0.198 g of CO2 and 0.1014 g of H2O. What is the percentage of hydrogen (% H) in the compound?",
+        "hi": "लीबिग दहन विश्लेषण में 0.246 g कार्बनिक यौगिक से 0.198 g CO2 तथा 0.1014 g H2O प्राप्त हुआ। यौगिक में हाइड्रोजन का प्रतिशत (% H) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "4.58%",
+          "hi": "4.58%"
+        },
+        "B": {
+          "en": "9.16%",
+          "hi": "9.16%"
+        },
+        "C": {
+          "en": "2.29%",
+          "hi": "2.29%"
+        },
+        "D": {
+          "en": "10.14%",
+          "hi": "10.14%"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the formula for calculating the percentage of Nitrogen (% N) in Kjeldahl's method?",
+        "hi": "जेल्डाल विधि में नाइट्रोजन का प्रतिशत (% N) ज्ञात करने का सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "% N = (1.4 × Normality of acid × Volume of acid consumed by NH3 in mL) / (Mass of organic compound in g)",
+          "hi": "% N = (1.4 × अम्ल की नॉर्मलता × NH3 द्वारा प्रयुक्त अम्ल का आयतन mL में) / (यौगिक का द्रव्यमान g में)"
+        },
+        "B": {
+          "en": "% N = (14 × N_acid × V_acid) / Mass",
+          "hi": "% N = (14 × N_acid × V_acid) / Mass"
+        },
+        "C": {
+          "en": "% N = (2.8 × N_acid × V_acid) / Mass",
+          "hi": "% N = (2.8 × N_acid × V_acid) / Mass"
+        },
+        "D": {
+          "en": "% N = (Normality × Volume) / (1.4 × Mass)",
+          "hi": "% N = (Normality × Volume) / (1.4 × Mass)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q10",
+      "category": "Calculation",
+      "question": {
+        "en": "In a Kjeldahl's estimation, the ammonia evolved from 0.50 g of an organic compound completely neutralized 10.0 mL of 1 M H2SO4. What is the percentage of nitrogen (% N) in the compound?",
+        "hi": "जेल्डाल आकलन में 0.50 g कार्बनिक यौगिक से निकली अमोनिया ने 1 M H2SO4 के 10.0 mL को पूर्णतः उदासीन किया। यौगिक में नाइट्रोजन का प्रतिशत (% N) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "56.0%",
+          "hi": "56.0%"
+        },
+        "B": {
+          "en": "28.0%",
+          "hi": "28.0%"
+        },
+        "C": {
+          "en": "14.0%",
+          "hi": "14.0%"
+        },
+        "D": {
+          "en": "7.0%",
+          "hi": "7.0%"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q11",
+      "category": "Calculation",
+      "question": {
+        "en": "In a Carius estimation of halogen, 0.186 g of an organic compound gave 0.287 g of AgCl (molar mass = 143.5 g/mol). What is the percentage of chlorine (% Cl) in the compound? (Atomic mass of Cl = 35.5 g/mol)",
+        "hi": "कैरियस आकलन में 0.186 g कार्बनिक यौगिक से 0.287 g AgCl प्राप्त हुआ। यौगिक में क्लोरीन का प्रतिशत (% Cl) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "38.17%",
+          "hi": "38.17%"
+        },
+        "B": {
+          "en": "70.9%",
+          "hi": "70.9%"
+        },
+        "C": {
+          "en": "19.08%",
+          "hi": "19.08%"
+        },
+        "D": {
+          "en": "54.2%",
+          "hi": "54.2%"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q12",
+      "category": "Calculation",
+      "question": {
+        "en": "An organic compound contains 40.0% Carbon, 6.67% Hydrogen, and 53.33% Oxygen. If its vapor density is 30, what are its empirical formula and molecular formula?",
+        "hi": "एक कार्बनिक यौगिक में 40.0% कार्बन, 6.67% हाइड्रोजन तथा 53.33% ऑक्सीजन है। यदि इसका वाष्प घनत्व 30 है, तो इसका मूलानुपाती सूत्र तथा अणुसूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Empirical formula: CH2O ; Molecular formula: C2H4O2 (Acetic acid)",
+          "hi": "मूलानुपाती सूत्र: CH2O ; अणुसूत्र: C2H4O2 (एसिटिक अम्ल)"
+        },
+        "B": {
+          "en": "Empirical formula: C2H4O ; Molecular formula: C4H8O2",
+          "hi": "मूलानुपाती सूत्र: C2H4O ; अणुसूत्र: C4H8O2"
+        },
+        "C": {
+          "en": "Empirical formula: CH2O ; Molecular formula: CH2O",
+          "hi": "मूलानुपाती सूत्र: CH2O ; अणुसूत्र: CH2O"
+        },
+        "D": {
+          "en": "Empirical formula: CHO ; Molecular formula: C2H2O2",
+          "hi": "मूलानुपाती सूत्र: CHO ; अणुसूत्र: C2H2O2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The schematic diagram shows the apparatus for Dumas nitrogen estimation:\n[CO2 generator] --> [Combustion tube: Organic sample + CuO + Cu spiral (heated)]\n                          |\n                          v\n                   [Schiff's nitrometer filled with conc. KOH]\nWhy is pure carbon dioxide gas used as the carrier gas in this apparatus?",
+        "hi": "ड्यूमा नाइट्रोजन आकलन के उपकरण आरेख में वाहक गैस के रूप में शुद्ध CO2 का उपयोग क्यों किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "CO2 sweeps all other gases into the nitrometer and is completely absorbed by concentrated KOH solution, leaving only pure N2 to be measured",
+          "hi": "CO2 सभी गैसों को नाइट्रोमीटर में ले जाती है और सांद्र KOH द्वारा पूर्णतः अवशोषित हो जाती है, जिससे केवल शुद्ध N2 शेष बचती है"
+        },
+        "B": {
+          "en": "CO2 reacts with nitrogen to form solid urea",
+          "hi": "CO2 नाइट्रोजन से क्रिया करके यूरिया बनाती है"
+        },
+        "C": {
+          "en": "CO2 acts as a reducing catalyst",
+          "hi": "CO2 अपचायक उत्प्रेरक का कार्य करती है"
+        },
+        "D": {
+          "en": "CO2 cools the combustion tube down to 0°C",
+          "hi": "CO2 दहन नली को ठंडा करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of quantitative analytical methods in organic chemistry:\n| Element | Analytical Method | Weighed / Measured Form | Conversion Factor |\n|---|---|---|---|\n| Carbon | Liebig Combustion | CO2 (g) | 12 / 44 |\n| Hydrogen | Liebig Combustion | H2O (l) | 2 / 18 |\n| Sulfur | Carius Method | BaSO4 (s) | 32 / 233 |\n| Chlorine | Carius Method | AgCl (s) | X |\nWhat is the conversion factor X for calculating chlorine percentage from AgCl?",
+        "hi": "कार्बनिक मात्रात्मक विधियों की तालिका का अवलोकन कीजिए:\nAgCl से क्लोरीन प्रतिशत निकालने का रूपांतरण कारक X क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "35.5 / 143.5",
+          "hi": "35.5 / 143.5"
+        },
+        "B": {
+          "en": "143.5 / 35.5",
+          "hi": "143.5 / 35.5"
+        },
+        "C": {
+          "en": "80 / 188",
+          "hi": "80 / 188"
+        },
+        "D": {
+          "en": "108 / 143.5",
+          "hi": "108 / 143.5"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc08_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A calibration graph in Dumas method plots volume of dry N2 at STP (V_0 in mL on x-axis) vs percentage of nitrogen (% N on y-axis) for 0.20 g of sample. Using the relation % N = (28 / 22400) × (V_0 / 0.20) × 100, what is the slope of this linear graph?",
+        "hi": "0.20 g नमूने के लिए STP पर N2 के आयतन (V_0, mL में) के सापेक्ष % N के आरेख की ढाल क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "0.625 %/mL",
+          "hi": "0.625 %/mL"
+        },
+        "B": {
+          "en": "1.40 %/mL",
+          "hi": "1.40 %/mL"
+        },
+        "C": {
+          "en": "0.0625 %/mL",
+          "hi": "0.0625 %/mL"
+        },
+        "D": {
+          "en": "1.25 %/mL",
+          "hi": "1.25 %/mL"
+        }
+      }
+    }
+  ]
+}

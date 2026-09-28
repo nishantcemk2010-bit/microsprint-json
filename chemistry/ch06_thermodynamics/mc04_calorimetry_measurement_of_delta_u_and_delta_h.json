@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc04_q01",
+      "category": "Theory",
+      "question": {
+        "en": "A Bomb Calorimeter is constructed with a rigid, sealed, heavy steel vessel immersed in a water bath. The heat of reaction measured directly in a bomb calorimeter corresponds to:",
+        "hi": "एक बॉम्ब कैलोरीमीटर एक कठोर, सीलबंद, भारी स्टील के पात्र से बना होता है जो पानी के कुंड में डूबा रहता है। बॉम्ब कैलोरीमीटर में सीधे मापी गई अभिक्रिया ऊष्मा किसके संगत होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Change in internal energy at constant volume (q_v = ΔU)",
+          "hi": "स्थिर आयतन पर आंतरिक ऊर्जा में परिवर्तन (q_v = ΔU)"
+        },
+        "B": {
+          "en": "Change in enthalpy at constant pressure (q_p = ΔH)",
+          "hi": "स्थिर दाब पर एन्थैल्पी में परिवर्तन (q_p = ΔH)"
+        },
+        "C": {
+          "en": "Change in Gibbs free energy (ΔG)",
+          "hi": "गिब्स मुक्त ऊर्जा में परिवर्तन (ΔG)"
+        },
+        "D": {
+          "en": "Work done against atmosphere (w)",
+          "hi": "वायुमंडल के विरुद्ध किया गया कार्य (w)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In contrast to a bomb calorimeter, a simple polystyrene coffee-cup calorimeter is open to atmospheric pressure. The heat of reaction measured in it corresponds to:",
+        "hi": "बॉम्ब कैलोरीमीटर के विपरीत, एक साधारण पॉलीस्टाइनिन कॉफी-कप कैलोरीमीटर वायुमंडलीय दाब के लिए खुला होता है। इसमें मापी गई अभिक्रिया ऊष्मा किसके संगत होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Enthalpy change at constant pressure (q_p = ΔH)",
+          "hi": "स्थिर दाब पर एन्थैल्पी परिवर्तन (q_p = ΔH)"
+        },
+        "B": {
+          "en": "Internal energy change (ΔU)",
+          "hi": "आंतरिक ऊर्जा परिवर्तन (ΔU)"
+        },
+        "C": {
+          "en": "Free energy change (ΔG)",
+          "hi": "मुक्त ऊर्जा परिवर्तन (ΔG)"
+        },
+        "D": {
+          "en": "Zero heat exchange",
+          "hi": "शून्य ऊष्मा विनिमय"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q03",
+      "category": "Theory",
+      "question": {
+        "en": "The heat capacity of a calorimeter system (C_cal) is determined experimentally by:",
+        "hi": "कैलोरीमीटर निकाय की ऊष्मा धारिता (C_cal) का प्रायोगिक निर्धारण किस प्रकार किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Passing a known amount of electrical energy or combusting a substance with precisely known heat of combustion (e.g., benzoic acid)",
+          "hi": "विद्युत ऊर्जा की ज्ञात मात्रा प्रवाहित करके या सटीक ज्ञात दहन ऊष्मा वाले पदार्थ (जैसे बेंजोइक अम्ल) का दहन करके"
+        },
+        "B": {
+          "en": "Measuring its mass on an analytical balance",
+          "hi": "विश्लेषणात्मक तुला पर इसके द्रव्यमान को मापकर"
+        },
+        "C": {
+          "en": "Filling it with liquid helium at 0 K",
+          "hi": "इसे 0 K पर द्रव हीलियम से भरकर"
+        },
+        "D": {
+          "en": "Heating it until it melts",
+          "hi": "इसे तब तक गर्म करके जब तक यह पिघल न जाए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Once ΔU is measured for a combustion reaction in a bomb calorimeter, how is the standard enthalpy of combustion (ΔH) obtained?",
+        "hi": "बॉम्ब कैलोरीमीटर में दहन अभिक्रिया के लिए ΔU मापने के बाद, दहन की मानक एन्थैल्पी (ΔH) कैसे प्राप्त की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "By using the relation ΔH = ΔU + Δn_g RT",
+          "hi": "संबंध ΔH = ΔU + Δn_g RT का उपयोग करके"
+        },
+        "B": {
+          "en": "By multiplying ΔU by the volume of the bomb",
+          "hi": "ΔU को बॉम्ब के आयतन से गुणा करके"
+        },
+        "C": {
+          "en": "By dividing ΔU by the atmospheric pressure",
+          "hi": "ΔU को वायुमंडलीय दाब से भाग देकर"
+        },
+        "D": {
+          "en": "ΔH is always identical to ΔU and requires no conversion",
+          "hi": "ΔH हमेशा ΔU के समान होता है और किसी रूपांतरण की आवश्यकता नहीं होती"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q05",
+      "category": "Formula",
+      "question": {
+        "en": "A 1.0 g sample of benzoic acid (C₆H₅COOH, M = 122 g/mol) is combusted in a bomb calorimeter, causing the temperature to rise by 2.5 K. If the heat capacity of the calorimeter is 10.5 kJ/K, what is the heat evolved during the combustion?",
+        "hi": "1.0 g बेंजोइक अम्ल (M = 122 g/mol) का दहन एक बॉम्ब कैलोरीमीटर में करने पर तापमान 2.5 K बढ़ जाता है। यदि कैलोरीमीटर की ऊष्मा धारिता 10.5 kJ/K है, तो दहन के दौरान मुक्त ऊष्मा क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "26.25 kJ",
+          "hi": "26.25 kJ"
+        },
+        "B": {
+          "en": "10.50 kJ",
+          "hi": "10.50 kJ"
+        },
+        "C": {
+          "en": "52.50 kJ",
+          "hi": "52.50 kJ"
+        },
+        "D": {
+          "en": "4.20 kJ",
+          "hi": "4.20 kJ"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q06",
+      "category": "Formula",
+      "question": {
+        "en": "What is the molar heat of combustion at constant volume (ΔU) of benzoic acid in the previous problem?",
+        "hi": "पिछले प्रश्न में बेंजोइक अम्ल के स्थिर आयतन पर दहन की मोलर ऊष्मा (ΔU) क्या है? (M = 122 g/mol, q_evolved = 26.25 kJ for 1.0 g)"
+      },
+      "options": {
+        "A": {
+          "en": "-3202.5 kJ/mol",
+          "hi": "-3202.5 kJ/mol"
+        },
+        "B": {
+          "en": "-26.25 kJ/mol",
+          "hi": "-26.25 kJ/mol"
+        },
+        "C": {
+          "en": "+3202.5 kJ/mol",
+          "hi": "+3202.5 kJ/mol"
+        },
+        "D": {
+          "en": "-1601.2 kJ/mol",
+          "hi": "-1601.2 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q07",
+      "category": "Formula",
+      "question": {
+        "en": "In a constant pressure coffee-cup calorimeter, 100 mL of 1.0 M HCl is mixed with 100 mL of 1.0 M NaOH. Both solutions are initially at 25.0 °C. The temperature rises to 31.8 °C. Assuming density of solution is 1.0 g/mL and specific heat is 4.184 J·g⁻¹·K⁻¹, the heat evolved is:",
+        "hi": "एक स्थिर दाब कॉफी-कप कैलोरीमीटर में, 1.0 M HCl के 100 mL को 1.0 M NaOH के 100 mL के साथ मिलाया जाता है। दोनों विलयन 25.0 °C पर हैं। तापमान बढ़कर 31.8 °C हो जाता है। विलयन का घनत्व 1.0 g/mL और विशिष्ट ऊष्मा 4.184 J·g⁻¹·K⁻¹ मानते हुए मुक्त ऊष्मा क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "5690 J (5.69 kJ)",
+          "hi": "5690 J (5.69 kJ)"
+        },
+        "B": {
+          "en": "2845 J (2.85 kJ)",
+          "hi": "2845 J (2.85 kJ)"
+        },
+        "C": {
+          "en": "11380 J (11.38 kJ)",
+          "hi": "11380 J (11.38 kJ)"
+        },
+        "D": {
+          "en": "1422 J (1.42 kJ)",
+          "hi": "1422 J (1.42 kJ)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q08",
+      "category": "Formula",
+      "question": {
+        "en": "From the neutralization experiment in the previous problem, what is the enthalpy of neutralization per mole of water formed? (moles of H⁺ reacted = 0.100 L × 1.0 M = 0.10 mol)",
+        "hi": "पिछले प्रश्न के उदासीनीकरण प्रयोग से, निर्मित जल के प्रति मोल उदासीनीकरण की एन्थैल्पी क्या है? (अभिक्रिया करने वाले H⁺ के मोल = 0.10 mol)"
+      },
+      "options": {
+        "A": {
+          "en": "-56.9 kJ/mol",
+          "hi": "-56.9 kJ/mol"
+        },
+        "B": {
+          "en": "-28.45 kJ/mol",
+          "hi": "-28.45 kJ/mol"
+        },
+        "C": {
+          "en": "-5.69 kJ/mol",
+          "hi": "-5.69 kJ/mol"
+        },
+        "D": {
+          "en": "-113.8 kJ/mol",
+          "hi": "-113.8 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q09",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table comparing Bomb Calorimeter and Coffee-Cup Calorimeter:\n| Feature | Bomb Calorimeter | Coffee-Cup Calorimeter |\n| :--- | :--- | :--- |\n| Constant parameter | Volume (V) | Pressure (P) |\n| Measured heat | q_v = ΔU | q_p = ΔH |\n| Typical reactions | Combustion of solids/gases | Solution reactions, neutralization |\nWhich statement is correct based on this table?",
+        "hi": "बॉम्ब कैलोरीमीटर और कॉफी-कप कैलोरीमीटर की तुलना करने वाली तालिका की जाँच करें:\n| विशेषता | बॉम्ब कैलोरीमीटर | कॉफी-कप कैलोरीमीटर |\n| :--- | :--- | :--- |\n| स्थिर पैरामीटर | आयतन (V) | दाब (P) |\n| मापी गई ऊष्मा | q_v = ΔU | q_p = ΔH |\n| सामान्य अभिक्रियाएं | ठोसों/गैसों का दहन | विलयन अभिक्रियाएं, उदासीनीकरण |\nइस तालिका के आधार पर कौन सा कथन सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "Bomb calorimeter measures ΔU directly, whereas coffee-cup calorimeter measures ΔH directly",
+          "hi": "बॉम्ब कैलोरीमीटर सीधे ΔU मापता है, जबकि कॉफी-कप कैलोरीमीटर सीधे ΔH मापता है"
+        },
+        "B": {
+          "en": "Both measure work rather than heat",
+          "hi": "दोनों ऊष्मा के बजाय कार्य मापते हैं"
+        },
+        "C": {
+          "en": "Coffee-cup calorimeter maintains constant volume",
+          "hi": "कॉफी-कप कैलोरीमीटर स्थिर आयतन बनाए रखता है"
+        },
+        "D": {
+          "en": "Bomb calorimeter operates at constant pressure",
+          "hi": "बॉम्ब कैलोरीमीटर स्थिर दाब पर कार्य करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc04_q10",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Why is pure oxygen pressurized to approximately 25-30 atm inside the steel vessel of a bomb calorimeter?",
+        "hi": "बॉम्ब कैलोरीमीटर के स्टील पात्र के भीतर शुद्ध ऑक्सीजन को लगभग 25-30 atm तक क्यों संपीड़ित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "To ensure complete and rapid combustion of the combustible sample without incomplete oxidation (e.g., preventing CO formation)",
+          "hi": "अपूरित ऑक्सीकरण (जैसे CO बनने) को रोकते हुए दहनशील नमूने का पूर्ण और तीव्र दहन सुनिश्चित करने के लिए"
+        },
+        "B": {
+          "en": "To prevent temperature rise during combustion",
+          "hi": "दहन के दौरान तापमान वृद्धि को रोकने के लिए"
+        },
+        "C": {
+          "en": "To liquefy the sample prior to ignition",
+          "hi": "प्रज्वलन से पहले नमूने को द्रवित करने के लिए"
+        },
+        "D": {
+          "en": "To absorb all the heat produced inside the bomb",
+          "hi": "बॉम्ब के अंदर उत्पन्न सभी ऊष्मा को अवशोषित करने के लिए"
+        }
+      }
+    }
+  ]
+}

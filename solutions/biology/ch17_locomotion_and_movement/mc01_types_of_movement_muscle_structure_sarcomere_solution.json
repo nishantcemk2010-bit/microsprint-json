@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch17_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following cells in the human body exhibit amoeboid movement with the help of pseudopodia formed by streaming of protoplasm?",
+        "hi": "मानव शरीर में निम्नलिखित में से कौन सी कोशिकाएँ जीवद्रव्य के प्रवाह द्वारा बने पादाभों (स्यूडोपोडिया) की सहायता से अमीबीय गति प्रदर्शित करती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Erythrocytes and platelets",
+          "hi": "लाल रुधिराणु (एरिथ्रोसाइट्स) और पट्टिकाणु (प्लेटलेट्स)"
+        },
+        "B": {
+          "en": "Ciliated epithelial cells of bronchioles",
+          "hi": "श्वसनिकाओं की पक्ष्माभी उपकला कोशिकाएँ"
+        },
+        "C": {
+          "en": "Macrophages and leucocytes",
+          "hi": "महाभक्षकाणु (मैक्रोफेज) और श्वेताणु (ल्यूकोसाइट्स)"
+        },
+        "D": {
+          "en": "Striated muscle fibres and osteocytes",
+          "hi": "रेखित पेशी तंतु और अस्थि कोशिकाएँ (ऑस्टियोसाइट्स)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "According to NCERT, some specialized cells in our body like macrophages and leucocytes in blood exhibit amoeboid movement. It is effected by pseudopodia formed by the streaming of protoplasm (as in Amoeba). Cytoskeletal elements like microfilaments are also involved in amoeboid movement.",
+        "hi": "NCERT के अनुसार, हमारे शरीर की कुछ विशिष्ट कोशिकाएँ जैसे रुधिर में उपस्थित महाभक्षकाणु (मैक्रोफेज) और श्वेताणु (ल्यूकोसाइट्स) अमीबीय गति प्रदर्शित करती हैं। यह जीवद्रव्य के प्रवाह द्वारा बने पादाभों द्वारा होती है (जैसे अमीबा में)। सूक्ष्म तंतु (माइक्रोफिलामेंट्स) जैसे कोशिकीय कंकाल तत्व भी अमीबीय गति में शामिल होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "Coordinated ciliary movement in the human body is essential for:",
+        "hi": "मानव शरीर में समन्वित पक्ष्माभी गति किसके लिए अनिवार्य है?"
+      },
+      "options": {
+        "A": {
+          "en": "Movement of food bolus down the oesophagus through peristalsis",
+          "hi": "क्रमाकुंचन द्वारा ग्रासनली में भोजन के कौर की गति"
+        },
+        "B": {
+          "en": "Removal of dust particles in the trachea and movement of ova through the fallopian tube",
+          "hi": "श्वासनली में धूल कणों को हटाना और डिंबवाहिनी नलिका में अंडाणु का संचलन"
+        },
+        "C": {
+          "en": "Movement of tongue and jaws during mastication and speech",
+          "hi": "चबाने और बोलने के दौरान जीभ और जबड़ों की गति"
+        },
+        "D": {
+          "en": "Filtration of blood in the glomerulus of the nephron",
+          "hi": "नेफ्रॉन के केशिकागुच्छ (ग्लोमेरुलस) में रक्त का निस्यंदन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Ciliary movement occurs in most of our internal tubular organs which are lined by ciliated epithelium. The coordinated movements of cilia in the trachea help us in removing dust particles and foreign substances inhaled along with atmospheric air. Passage of ova through the female reproductive tract (fallopian tube) is also facilitated by ciliary movement.",
+        "hi": "पक्ष्माभी गति हमारे अधिकांश आंतरिक नलीदार अंगों में होती है जो पक्ष्माभी उपकला द्वारा आस्तरित होते हैं। श्वासनली में पक्ष्माभों की समन्वित गति वायुमंडलीय वायु के साथ अंदर लिए गए धूल कणों और बाहरी पदार्थों को हटाने में मदद करती है। मादा जनन पथ (डिंबवाहिनी नलिका) में अंडाणु का संचलन भी पक्ष्माभी गति द्वारा सुगम होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "Locomotion in humans requires the perfect coordinated activity of which of the following body systems?",
+        "hi": "मनुष्यों में गमन (लोकोमोशन) के लिए निम्नलिखित में से किन शारीरिक तंत्रों की पूर्ण समन्वित गतिविधि आवश्यक होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Muscular and digestive systems only",
+          "hi": "केवल पेशीय और पाचन तंत्र"
+        },
+        "B": {
+          "en": "Skeletal and circulatory systems only",
+          "hi": "केवल कंकाल और परिसंचरण तंत्र"
+        },
+        "C": {
+          "en": "Endocrine and respiratory systems only",
+          "hi": "केवल अंतःस्रावी और श्वसन तंत्र"
+        },
+        "D": {
+          "en": "Muscular, skeletal, and neural systems",
+          "hi": "पेशीय, कंकाल और तंत्रिका तंत्र"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "NCERT explicitly states that locomotion requires a perfectly coordinated activity of muscular, skeletal, and neural systems. Movement of limbs, jaws, tongue, etc., require muscular activity coordinated by neural signals acting upon the skeletal framework.",
+        "hi": "NCERT स्पष्ट रूप से उल्लेख करता है कि गमन (लोकोमोशन) के लिए पेशीय, कंकाल और तंत्रिका तंत्र की पूर्ण समन्वित गतिविधि की आवश्यकता होती है। पादों, जबड़ों, जीभ आदि की गति के लिए कंकाल तंत्र पर कार्य करने वाले तंत्रिका संकेतों द्वारा समन्वित पेशीय गतिविधि की आवश्यकता होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "In a skeletal muscle, each muscle bundle (fascicle) is enclosed and held together by a common collagenous connective tissue layer termed:",
+        "hi": "एक कंकाल पेशी में, प्रत्येक पेशी बंडल (पुलिका या फैसीकल) एक सामान्य कोलेजनी संयोजी ऊतक परत द्वारा आच्छादित और संयुक्त रहता है, जिसे क्या कहते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Fascia (Perimysium)",
+          "hi": "फैसिया (पेरिमाइसियम)"
+        },
+        "B": {
+          "en": "Sarcolemma",
+          "hi": "सार्कोलेमा"
+        },
+        "C": {
+          "en": "Endomysium",
+          "hi": "एंडोमाइसियम"
+        },
+        "D": {
+          "en": "Epimysium",
+          "hi": "एपीमाइसियम"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Each organized skeletal muscle in our body is made of a number of muscle bundles or fascicles held together by a common collagenous connective tissue layer called fascia (specifically, perimysium encloses individual fascicles, while epimysium encloses the whole muscle).",
+        "hi": "हमारे शरीर में प्रत्येक संगठित कंकाल पेशी कई पेशी बंडलों (पुलिकाओं या फैसीकल्स) से बनी होती है जो एक सामान्य कोलेजनी संयोजी ऊतक परत द्वारा एक साथ जुड़ी होती हैं, जिसे फैसिया कहा जाता है (विशेष रूप से, पेरिमाइसियम अलग-अलग पुलिकाओं को ढकता है, जबकि एपीमाइसियम पूरी पेशी को ढकता है)।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "Skeletal muscle fibres are considered syncytial because:",
+        "hi": "कंकाल पेशी तंतुओं को बहुकेंद्रकी (सिंसीशियम) माना जाता है क्योंकि:"
+      },
+      "options": {
+        "A": {
+          "en": "They lack a true plasma membrane",
+          "hi": "उनमें वास्तविक प्लाज्मा झिल्ली अनुपस्थित होती है"
+        },
+        "B": {
+          "en": "They contain branched uninucleated cells joined by intercalated discs",
+          "hi": "उनमें अंतर्विष्ट डिस्क द्वारा जुड़ी शाखित एककेंद्रकीय कोशिकाएँ होती हैं"
+        },
+        "C": {
+          "en": "The sarcoplasm contains many nuclei",
+          "hi": "पेशीद्रव्य (सार्कोप्लाज्म) में अनेक केंद्रक पाए जाते हैं"
+        },
+        "D": {
+          "en": "They divide amitotically without forming chromosomes",
+          "hi": "वे गुणसूत्र बनाए बिना असूत्री रूप से विभाजित होते हैं"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "A skeletal muscle fibre is lined by the plasma membrane called sarcolemma enclosing the sarcoplasm. Muscle fibre is a syncytium as the sarcoplasm contains many nuclei. Sarcoplasmic reticulum of the muscle fibres is the storehouse of calcium ions.",
+        "hi": "कंकाल पेशी तंतु प्लाज्मा झिल्ली से आस्तरित होता है जिसे सार्कोलेमा कहा जाता है, जो सार्कोप्लाज्म को घेरता है। पेशी तंतु एक संकोशिका (सिंसीशियम) है क्योंकि इसके सार्कोप्लाज्म में कई केंद्रक होते हैं। पेशी तंतुओं का सार्कोप्लाज्मिक रेटिकुलम कैल्शियम आयनों का भंडार गृह होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "What is the structural and functional unit of muscle contraction in skeletal muscle?",
+        "hi": "कंकाल पेशी में पेशी संकुचन की संरचनात्मक और कार्यात्मक इकाई क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Fascicle",
+          "hi": "पुलिका (फैसीकल)"
+        },
+        "B": {
+          "en": "Sarcomere",
+          "hi": "सार्कोमियर"
+        },
+        "C": {
+          "en": "Myofibril",
+          "hi": "पेशीतंतुक (मायोफाइब्रिल)"
+        },
+        "D": {
+          "en": "Myosin cross-bridge",
+          "hi": "मायोसिन अनुप्रस्थ सेतु"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The portion of the myofibril between two successive 'Z' lines is considered as the functional unit of contraction and is called a sarcomere.",
+        "hi": "दो क्रमागत 'Z' रेखाओं के बीच स्थित पेशीतंतुक (मायोफाइब्रिल) के भाग को संकुचन की कार्यात्मक इकाई माना जाता है और इसे सार्कोमियर कहते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "If a single isolated myofibril consists of 150 sarcomeres arranged in series, how many Z-lines are present along its entire length?",
+        "hi": "यदि एक पृथक पेशीतंतुक (मायोफाइब्रिल) में श्रृंखला में व्यवस्थित 150 सार्कोमियर हैं, तो इसकी पूरी लंबाई में कितनी Z-रेखाएँ उपस्थित होंगी?"
+      },
+      "options": {
+        "A": {
+          "en": "149",
+          "hi": "149"
+        },
+        "B": {
+          "en": "150",
+          "hi": "150"
+        },
+        "C": {
+          "en": "151",
+          "hi": "151"
+        },
+        "D": {
+          "en": "300",
+          "hi": "300"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "A sarcomere is the segment bounded by two successive Z-lines. Therefore, for N sarcomeres arranged in a linear series, the number of Z-lines = N + 1. Here N = 150, so total Z-lines = 150 + 1 = 151.",
+        "hi": "एक सार्कोमियर दो क्रमागत Z-रेखाओं द्वारा परिसीमित खंड होता है। इसलिए, एक रैखिक श्रृंखला में व्यवस्थित N सार्कोमियरों के लिए, Z-रेखाओं की संख्या = N + 1 होती है। यहाँ N = 150 है, अतः कुल Z-रेखाएँ = 150 + 1 = 151 होंगी।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following statements correctly differentiates between the A-band and I-band of a myofibril?",
+        "hi": "निम्नलिखित में से कौन सा कथन पेशीतंतुक के A-बैंड और I-बैंड के बीच सही अंतर करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A-band contains thick myosin filaments and overlapping thin actin filaments at its edges; I-band contains only thin actin filaments",
+          "hi": "A-बैंड में मोटे मायोसिन तंतु और किनारों पर अतिव्यापित पतले एक्टिन तंतु होते हैं; I-बैंड में केवल पतले एक्टिन तंतु होते हैं"
+        },
+        "B": {
+          "en": "A-band is bisected by the elastic Z-line; I-band is bisected by the fibrous M-line",
+          "hi": "A-बैंड प्रत्यास्थ Z-रेखा द्वारा द्विभाजित होता है; I-बैंड रेशेदार M-रेखा द्वारा द्विभाजित होता है"
+        },
+        "C": {
+          "en": "A-band shortens significantly during contraction; I-band retains constant length",
+          "hi": "संकुचन के दौरान A-बैंड काफी छोटा हो जाता है; I-बैंड स्थिर लंबाई बनाए रखता है"
+        },
+        "D": {
+          "en": "A-band is isotropic to polarized light; I-band is anisotropic to polarized light",
+          "hi": "A-बैंड ध्रुवित प्रकाश के लिए समदैशिक (आइसोट्रोपिक) है; I-बैंड ध्रुवित प्रकाश के लिए विषमदैशिक (एनआइसोट्रोपिक) है"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "The dark band is the 'Anisotropic' or 'A' band and contains thick myosin filaments throughout, overlapped at edges by thin actin filaments. The light band is the 'Isotropic' or 'I' band and contains only thin actin filaments. The I-band is bisected by the Z-line, whereas the A-band has the M-line in its center.",
+        "hi": "गहरा बैंड 'विषमदैशिक' या 'A' बैंड कहलाता है और इसमें पूरे भाग में मोटे मायोसिन तंतु होते हैं, जो किनारों पर पतले एक्टिन तंतुओं से अतिव्यापित होते हैं। हल्का बैंड 'समदैशिक' या 'I' बैंड कहलाता है और इसमें केवल पतले एक्टिन तंतु होते हैं। I-बैंड Z-रेखा द्वारा द्विभाजित होता है, जबकि A-बैंड के केंद्र में M-रेखा होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "In a resting sarcomere, the central part of the thick filament that is not overlapped by thin filaments is called the:",
+        "hi": "विश्राम अवस्था में सार्कोमियर में मोटे तंतु का वह केंद्रीय भाग जो पतले तंतुओं द्वारा अतिव्याप्त नहीं होता है, क्या कहलाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Z-disc",
+          "hi": "Z-डिस्क"
+        },
+        "B": {
+          "en": "Krause's membrane",
+          "hi": "क्राउसे की झिल्ली"
+        },
+        "C": {
+          "en": "Pseudo H-zone",
+          "hi": "स्यूडो H-क्षेत्र"
+        },
+        "D": {
+          "en": "H-zone",
+          "hi": "H-क्षेत्र (H-जोन)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "In the central part of thick filament, not overlapped by thin filaments, is called the 'H' zone. The 'H' zone is bisected by a thin fibrous membrane called 'M' line.",
+        "hi": "मोटे तंतु का केंद्रीय भाग, जो पतले तंतुओं से अतिव्याप्त नहीं होता है, 'H' क्षेत्र कहलाता है। 'H' क्षेत्र एक पतली रेशेदार झिल्ली द्वारा द्विभाजित होता है जिसे 'M' रेखा कहा जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "When a resting sarcomere of length 2.5 µm is passively stretched to 3.2 µm, what happens to the length of the A-band, I-band, and H-zone?",
+        "hi": "जब 2.5 µm लंबाई वाले एक विश्रामरत सार्कोमियर को निष्क्रिय रूप से 3.2 µm तक खींचा (स्ट्रेच किया) जाता है, तो A-बैंड, I-बैंड और H-क्षेत्र की लंबाई पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A-band lengthens; I-band shortens; H-zone remains unchanged",
+          "hi": "A-बैंड लंबा हो जाता है; I-बैंड छोटा हो जाता है; H-क्षेत्र अपरिवर्तित रहता है"
+        },
+        "B": {
+          "en": "A-band remains constant; I-band lengthens; H-zone widens",
+          "hi": "A-बैंड स्थिर रहता है; I-बैंड लंबा हो जाता है; H-क्षेत्र चौड़ा हो जाता है"
+        },
+        "C": {
+          "en": "All three regions (A-band, I-band, and H-zone) lengthen proportionally",
+          "hi": "तीनों क्षेत्र (A-बैंड, I-बैंड और H-क्षेत्र) आनुपातिक रूप से लंबे हो जाते हैं"
+        },
+        "D": {
+          "en": "A-band shortens; I-band lengthens; H-zone disappears",
+          "hi": "A-बैंड छोटा हो जाता है; I-बैंड लंबा हो जाता है; H-क्षेत्र गायब हो जाता है"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The A-band length corresponds to the physical length of the thick myosin filaments (~1.5 µm), which never changes during stretch or contraction. During passive stretching, thin filaments slide outward, resulting in an increase in I-band width and widening of the central non-overlapped H-zone.",
+        "hi": "A-बैंड की लंबाई मोटे मायोसिन तंतुओं की वास्तविक लंबाई (~1.5 µm) से मेल खाती है, जो खिंचाव या संकुचन के दौरान कभी नहीं बदलती है। निष्क्रिय खिंचाव के दौरान, पतले तंतु बाहर की ओर सरकते हैं, जिसके परिणामस्वरूप I-बैंड की चौड़ाई बढ़ जाती है और केंद्रीय गैर-अतिव्याप्त H-क्षेत्र चौड़ा हो जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "In a cross-section of vertebrate skeletal muscle through the zone of overlap of a sarcomere, each thick filament is surrounded hexamerically by how many thin filaments?",
+        "hi": "कशेरुकी कंकाल पेशी के सार्कोमियर के अतिव्यापन क्षेत्र से अनुप्रस्थ काट में, प्रत्येक मोटा तंतु षट्कोणीय रूप से कितने पतले तंतुओं से घिरा होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "6 thin filaments",
+          "hi": "6 पतले तंतु"
+        },
+        "B": {
+          "en": "3 thin filaments",
+          "hi": "3 पतले तंतु"
+        },
+        "C": {
+          "en": "12 thin filaments",
+          "hi": "12 पतले तंतु"
+        },
+        "D": {
+          "en": "2 thin filaments",
+          "hi": "2 पतले तंतु"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "In the hexagonal lattice arrangement of myofibrils in the overlap region, each thick (myosin) filament is surrounded by 6 thin (actin) filaments, and each thin filament is surrounded by 3 thick filaments. Thus, the ratio of thin to thick filaments in the overlap zone is 2:1.",
+        "hi": "अतिव्यापन क्षेत्र में मायोफाइब्रिल्स की षट्कोणीय जालक व्यवस्था में, प्रत्येक मोटा (मायोसिन) तंतु 6 पतले (एक्टिन) तंतुओं से घिरा होता है, और प्रत्येक पतला तंतु 3 मोटे तंतुओं से घिरा होता है। इस प्रकार, अतिव्यापन क्षेत्र में पतले और मोटे तंतुओं का अनुपात 2:1 होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "During maximum physiological contraction of skeletal muscle fibres, what is the fate of the H-zone and the A-band?",
+        "hi": "कंकाल पेशी तंतुओं के अधिकतम कायिकीय संकुचन के दौरान, H-क्षेत्र और A-बैंड की क्या स्थिति होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Both H-zone and A-band disappear completely",
+          "hi": "H-क्षेत्र और A-बैंड दोनों पूरी तरह से गायब हो जाते हैं"
+        },
+        "B": {
+          "en": "H-zone widens while A-band shortens by 50%",
+          "hi": "H-क्षेत्र चौड़ा हो जाता है जबकि A-बैंड 50% छोटा हो जाता है"
+        },
+        "C": {
+          "en": "H-zone remains unchanged while A-band lengthens",
+          "hi": "H-क्षेत्र अपरिवर्तित रहता है जबकि A-बैंड लंबा हो जाता है"
+        },
+        "D": {
+          "en": "H-zone completely disappears, whereas the A-band retains its constant length",
+          "hi": "H-क्षेत्र पूरी तरह गायब हो जाता है, जबकि A-बैंड अपनी स्थिर लंबाई बनाए रखता है"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "During contraction, the thin filaments from opposite ends of the sarcomere slide toward the M-line until their inner edges overlap. Consequently, the H-zone completely disappears, the I-bands shorten, but the A-bands retain their original length.",
+        "hi": "संकुचन के दौरान, सार्कोमियर के विपरीत सिरों से पतले तंतु M-रेखा की ओर सरकते हैं जब तक कि उनके आंतरिक किनारे अतिव्याप्त न हो जाएँ। परिणामस्वरूप, H-क्षेत्र पूरी तरह से गायब हो जाता है, I-बैंड छोटे हो जाते हैं, लेकिन A-बैंड अपनी मूल लंबाई बनाए रखते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the sarcomere zones and lines in Column I with their corresponding structural features in Column II:\n\nColumn I:\n(a) A-band\n(b) I-band\n(c) Z-line\n(d) M-line\n\nColumn II:\n(i) Thin fibrous membrane holding thick filaments together in the center\n(ii) Bisects the light band; elastic fiber to which actin filaments are firmly attached\n(iii) Contains only thin actin filaments\n(iv) Contains thick filaments and overlapping thin filaments at margins",
+        "hi": "कॉलम I में दिए गए सार्कोमियर के क्षेत्रों और रेखाओं का कॉलम II में उनकी संबंधित संरचनात्मक विशेषताओं से मिलान कीजिए:\n\nकॉलम I:\n(a) A-बैंड\n(b) I-बैंड\n(c) Z-रेखा\n(d) M-रेखा\n\nकॉलम II:\n(i) पतली रेशेदार झिल्ली जो केंद्र में मोटे तंतुओं को एक साथ बांधती है\n(ii) हल्के बैंड को द्विभाजित करती है; प्रत्यास्थ तंतु जिससे एक्टिन तंतु दृढ़ता से जुड़े होते हैं\n(iii) केवल पतले एक्टिन तंतु पाए जाते हैं\n(iv) मोटे तंतु और किनारों पर अतिव्यापित पतले तंतु पाए जाते हैं"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        },
+        "C": {
+          "en": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+        },
+        "D": {
+          "en": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+          "hi": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Correct matching is:\n(a) A-band -> (iv) Contains thick filaments and overlapping thin filaments at margins\n(b) I-band -> (iii) Contains only thin actin filaments\n(c) Z-line -> (ii) Bisects the light band; elastic fiber holding actin\n(d) M-line -> (i) Thin fibrous membrane holding thick filaments together in the center.",
+        "hi": "सही मिलान है:\n(a) A-बैंड -> (iv) मोटे तंतु और किनारों पर अतिव्यापित पतले तंतु पाए जाते हैं\n(b) I-बैंड -> (iii) केवल पतले एक्टिन तंतु पाए जाते हैं\n(c) Z-रेखा -> (ii) हल्के बैंड को द्विभाजित करती है; प्रत्यास्थ तंतु जिससे एक्टिन तंतु जुड़े होते हैं\n(d) M-रेखा -> (i) पतली रेशेदार झिल्ली जो केंद्र में मोटे तंतुओं को बांधती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "In a schematic diagram of a relaxed sarcomere, four regions are labeled P, Q, R, and S:\n- P: The boundary line that bisects the light band.\n- Q: The light region containing only thin myofilaments.\n- R: The entire dark region containing myosin filaments.\n- S: The central lighter zone within the dark region not overlapped by actin.\nIdentify P, Q, R, and S respectively:",
+        "hi": "एक विश्रामरत सार्कोमियर के योजनाबद्ध आरेख में, चार क्षेत्रों को P, Q, R और S के रूप में नामांकित किया गया है:\n- P: वह सीमा रेखा जो हल्के बैंड को द्विभाजित करती है।\n- Q: वह हल्का क्षेत्र जिसमें केवल पतले पेशीतंतु होते हैं।\n- R: वह संपूर्ण गहरा क्षेत्र जिसमें मायोसिन तंतु होते हैं।\n- S: गहरे क्षेत्र के भीतर का केंद्रीय हल्का क्षेत्र जो एक्टिन द्वारा अतिव्याप्त नहीं है।\nक्रमशः P, Q, R और S की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P = M-line, Q = A-band, R = I-band, S = H-zone",
+          "hi": "P = M-रेखा, Q = A-बैंड, R = I-बैंड, S = H-क्षेत्र"
+        },
+        "B": {
+          "en": "P = Z-line, Q = H-zone, R = A-band, S = I-band",
+          "hi": "P = Z-रेखा, Q = H-क्षेत्र, R = A-बैंड, S = I-बैंड"
+        },
+        "C": {
+          "en": "P = Z-line, Q = I-band, R = A-band, S = H-zone",
+          "hi": "P = Z-रेखा, Q = I-बैंड, R = A-बैंड, S = H-क्षेत्र"
+        },
+        "D": {
+          "en": "P = Z-line, Q = A-band, R = H-zone, S = I-band",
+          "hi": "P = Z-रेखा, Q = A-बैंड, R = H-क्षेत्र, S = I-बैंड"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "P is the Z-line (elastic line bisecting the I-band). Q is the I-band (isotropic band containing thin filaments only). R is the A-band (anisotropic band encompassing the entire length of thick filaments). S is the H-zone (central portion of A-band free of thin filaments in resting state).",
+        "hi": "P Z-रेखा है (प्रत्यास्थ रेखा जो I-बैंड को द्विभाजित करती है)। Q I-बैंड है (समदैशिक बैंड जिसमें केवल पतले तंतु होते हैं)। R A-बैंड है (विषमदैशिक बैंड जो मोटे तंतुओं की पूरी लंबाई को समाहित करता है)। S H-क्षेत्र है (विश्राम अवस्था में पतले तंतुओं से रहित A-बैंड का केंद्रीय भाग)।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the types of movements in Column I with the representative cell/structure in Column II:\n\nColumn I:\n(a) Amoeboid movement\n(b) Ciliary movement\n(c) Muscular movement\n(d) Flagellar movement\n\nColumn II:\n(i) Human spermatozoa\n(ii) Neutrophils and Monocytes\n(iii) Tracheal epithelium\n(iv) Limbs and Tongue",
+        "hi": "कॉलम I में दिए गए गति के प्रकारों का कॉलम II में प्रतिनिधि कोशिका/संरचना से मिलान कीजिए:\n\nकॉलम I:\n(a) अमीबीय गति\n(b) पक्ष्माभी गति\n(c) पेशीय गति\n(d) कशाभी गति\n\nकॉलम II:\n(i) मानव शुक्राणु\n(ii) न्यूट्रोफिल और मोनोसाइट्स\n(iii) श्वासनली उपकला\n(iv) पाद और जीभ"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+          "hi": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        },
+        "B": {
+          "en": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+          "hi": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        "D": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Correct match:\n(a) Amoeboid movement -> (ii) Neutrophils and Monocytes (leucocytes)\n(b) Ciliary movement -> (iii) Tracheal epithelium\n(c) Muscular movement -> (iv) Limbs and Tongue\n(d) Flagellar movement -> (i) Human spermatozoa (helps in swimming of spermatozoa).",
+        "hi": "सही मिलान:\n(a) अमीबीय गति -> (ii) न्यूट्रोफिल और मोनोसाइट्स (श्वेताणु)\n(b) पक्ष्माभी गति -> (iii) श्वासनली उपकला\n(c) पेशीय गति -> (iv) पाद और जीभ\n(d) कशाभी गति -> (i) मानव शुक्राणु (शुक्राणुओं के तैरने में सहायता करती है)।"
+      }
+    }
+  ]
+}

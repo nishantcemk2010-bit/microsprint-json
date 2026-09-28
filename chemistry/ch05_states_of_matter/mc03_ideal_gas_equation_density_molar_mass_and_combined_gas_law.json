@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc03_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Combining Boyle's law (V ∝ 1/P), Charles' law (V ∝ T), and Avogadro's law (V ∝ n) gives the ideal gas equation:",
+        "hi": "बॉयल के नियम (V ∝ 1/P), चार्ल्स के नियम (V ∝ T), और आवोगाद्रो के नियम (V ∝ n) को मिलाने पर आदर्श गैस समीकरण क्या प्राप्त होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "PV = nRT",
+          "hi": "PV = nRT"
+        },
+        "B": {
+          "en": "P / V = nRT",
+          "hi": "P / V = nRT"
+        },
+        "C": {
+          "en": "PT = nRV",
+          "hi": "PT = nRV"
+        },
+        "D": {
+          "en": "PV = n / (RT)",
+          "hi": "PV = n / (RT)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is an 'Ideal Gas' by scientific definition?",
+        "hi": "वैज्ञानिक परिभाषा के अनुसार 'आदर्श गैस' क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "A hypothetical gas that strictly obeys Boyle's law, Charles' law, and the ideal gas equation under all conditions of temperature and pressure",
+          "hi": "एक काल्पनिक गैस जो तापमान और दाब की सभी परिस्थितियों में बॉयल के नियम, चार्ल्स के नियम और आदर्श गैस समीकरण का कड़ाई से पालन करती है"
+        },
+        "B": {
+          "en": "Any noble gas like helium at room temperature",
+          "hi": "कमरे के तापमान पर हीलियम जैसी कोई भी उत्कृष्ट गैस"
+        },
+        "C": {
+          "en": "A gas that condenses to liquid at 0 °C",
+          "hi": "एक ऐसी गैस जो 0 °C पर द्रव में संघनित हो जाती है"
+        },
+        "D": {
+          "en": "A gas consisting exclusively of charged ions",
+          "hi": "केवल आवेशित आयनों से युक्त एक गैस"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Under what conditions of temperature and pressure do real gases behave most nearly like an ideal gas?",
+        "hi": "तापमान और दाब की किन परिस्थितियों में वास्तविक गैसें आदर्श गैस की तरह सर्वाधिक निकट व्यवहार करती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Low pressure and high temperature",
+          "hi": "निम्न दाब और उच्च तापमान"
+        },
+        "B": {
+          "en": "High pressure and low temperature",
+          "hi": "उच्च दाब और निम्न तापमान"
+        },
+        "C": {
+          "en": "High pressure and high temperature",
+          "hi": "उच्च दाब और उच्च तापमान"
+        },
+        "D": {
+          "en": "Low pressure and low temperature",
+          "hi": "निम्न दाब और निम्न तापमान"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q04",
+      "category": "Theory",
+      "question": {
+        "en": "The value and physical dimensions of the universal gas constant (R) represent:",
+        "hi": "सार्वत्रिक गैस नियतांक (R) का मान और भौतिक विमाएँ क्या दर्शाती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Work done or energy per mole per Kelvin (J · mol⁻¹ · K⁻¹)",
+          "hi": "प्रति मोल प्रति केल्विन किया गया कार्य या ऊर्जा (J · mol⁻¹ · K⁻¹)"
+        },
+        "B": {
+          "en": "Force per unit area per second",
+          "hi": "प्रति इकाई क्षेत्रफल प्रति सेकंड बल"
+        },
+        "C": {
+          "en": "Heat capacity per unit volume",
+          "hi": "प्रति इकाई आयतन ऊष्मा धारिता"
+        },
+        "D": {
+          "en": "Total number of collisions per unit time",
+          "hi": "प्रति इकाई समय में कुल टक्करों की संख्या"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q05",
+      "category": "Theory",
+      "question": {
+        "en": "The Combined Gas Law relation (P₁V₁ / T₁ = P₂V₂ / T₂) is applicable when which parameter remains strictly constant?",
+        "hi": "संयुक्त गैस नियम संबंध (P₁V₁ / T₁ = P₂V₂ / T₂) तब लागू होता है जब कौन सा पैरामीटर कड़ाई से स्थिर रहता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Amount of gas in moles (fixed mass of gas, n)",
+          "hi": "मोल में गैस की मात्रा (गैस का निश्चित द्रव्यमान, n)"
+        },
+        "B": {
+          "en": "Temperature only",
+          "hi": "केवल तापमान"
+        },
+        "C": {
+          "en": "Pressure only",
+          "hi": "केवल दाब"
+        },
+        "D": {
+          "en": "Volume only",
+          "hi": "केवल आयतन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q06",
+      "category": "Theory",
+      "question": {
+        "en": "How is the molar mass (M) of a gaseous substance related to its density (d) using the ideal gas equation?",
+        "hi": "आदर्श गैस समीकरण का उपयोग करके किसी गैसीय पदार्थ का मोलर द्रव्यमान (M) उसके घनत्व (d) से किस प्रकार संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "M = dRT / P",
+          "hi": "M = dRT / P"
+        },
+        "B": {
+          "en": "M = PRT / d",
+          "hi": "M = PRT / d"
+        },
+        "C": {
+          "en": "M = dP / (RT)",
+          "hi": "M = dP / (RT)"
+        },
+        "D": {
+          "en": "M = d / (PRT)",
+          "hi": "M = d / (PRT)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the numerical value of the universal gas constant R in SI units (J · K⁻¹ · mol⁻¹)?",
+        "hi": "SI इकाइयों (J · K⁻¹ · mol⁻¹) में सार्वत्रिक गैस नियतांक R का संख्यात्मक मान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "8.314 J · K⁻¹ · mol⁻¹",
+          "hi": "8.314 J · K⁻¹ · mol⁻¹"
+        },
+        "B": {
+          "en": "0.0821 J · K⁻¹ · mol⁻¹",
+          "hi": "0.0821 J · K⁻¹ · mol⁻¹"
+        },
+        "C": {
+          "en": "1.987 J · K⁻¹ · mol⁻¹",
+          "hi": "1.987 J · K⁻¹ · mol⁻¹"
+        },
+        "D": {
+          "en": "8.314 × 10⁷ J · K⁻¹ · mol⁻¹",
+          "hi": "8.314 × 10⁷ J · K⁻¹ · mol⁻¹"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q08",
+      "category": "Formula",
+      "question": {
+        "en": "At 25 °C and 760 mm Hg pressure, a gas occupies 600 mL volume. What will be its pressure at a height where temperature is 10 °C and volume of the gas is 640 mL?",
+        "hi": "25 °C और 760 mm Hg दाब पर, एक गैस 600 mL आयतन घेरती है। उस ऊँचाई पर इसका दाब क्या होगा जहाँ तापमान 10 °C और गैस का आयतन 640 mL है?"
+      },
+      "options": {
+        "A": {
+          "en": "676.6 mm Hg",
+          "hi": "676.6 mm Hg"
+        },
+        "B": {
+          "en": "760.0 mm Hg",
+          "hi": "760.0 mm Hg"
+        },
+        "C": {
+          "en": "850.2 mm Hg",
+          "hi": "850.2 mm Hg"
+        },
+        "D": {
+          "en": "590.4 mm Hg",
+          "hi": "590.4 mm Hg"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the density of carbon dioxide (CO₂) gas in g/L at 27 °C and 2.0 atm pressure? (M_CO₂ = 44 g/mol, R = 0.0821 L·atm·K⁻¹·mol⁻¹)",
+        "hi": "27 °C और 2.0 atm दाब पर कार्बन डाइऑक्साइड (CO₂) गैस का घनत्व g/L में क्या है? (M_CO₂ = 44 g/mol, R = 0.0821 L·atm·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "3.57 g/L",
+          "hi": "3.57 g/L"
+        },
+        "B": {
+          "en": "1.79 g/L",
+          "hi": "1.79 g/L"
+        },
+        "C": {
+          "en": "7.14 g/L",
+          "hi": "7.14 g/L"
+        },
+        "D": {
+          "en": "0.89 g/L",
+          "hi": "0.89 g/L"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q10",
+      "category": "Formula",
+      "question": {
+        "en": "At 0 °C, the density of a certain gaseous oxide at 2 bar is same as that of dinitrogen (N₂) at 5 bar. What is the molar mass of the oxide? (M_N₂ = 28 g/mol)",
+        "hi": "0 °C पर, 2 बार पर एक निश्चित गैसीय ऑक्साइड का घनत्व 5 बार पर डाइनाइट्रोजन (N₂) के घनत्व के समान है। ऑक्साइड का मोलर द्रव्यमान क्या है? (M_N₂ = 28 g/mol)"
+      },
+      "options": {
+        "A": {
+          "en": "70 g/mol",
+          "hi": "70 g/mol"
+        },
+        "B": {
+          "en": "14 g/mol",
+          "hi": "14 g/mol"
+        },
+        "C": {
+          "en": "56 g/mol",
+          "hi": "56 g/mol"
+        },
+        "D": {
+          "en": "140 g/mol",
+          "hi": "140 g/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q11",
+      "category": "Formula",
+      "question": {
+        "en": "How many moles of gas are present in a 5.6 L container at STP (0 °C and 1 atm)?",
+        "hi": "STP (0 °C और 1 atm) पर 5.6 L के पात्र में गैस के कितने मोल उपस्थित हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "0.25 mol",
+          "hi": "0.25 mol"
+        },
+        "B": {
+          "en": "0.50 mol",
+          "hi": "0.50 mol"
+        },
+        "C": {
+          "en": "1.00 mol",
+          "hi": "1.00 mol"
+        },
+        "D": {
+          "en": "0.125 mol",
+          "hi": "0.125 mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q12",
+      "category": "Formula",
+      "question": {
+        "en": "Calculate the pressure exerted by 8.0 g of methane (CH₄) in a 2.0 L flask at 300 K. (R = 0.0821 L·atm·K⁻¹·mol⁻¹, M_CH₄ = 16 g/mol)",
+        "hi": "300 K पर 2.0 L के फ्लास्क में 8.0 g मीथेन (CH₄) द्वारा लगाए गए दाब की गणना करें। (R = 0.0821 L·atm·K⁻¹·mol⁻¹, M_CH₄ = 16 g/mol)"
+      },
+      "options": {
+        "A": {
+          "en": "6.16 atm",
+          "hi": "6.16 atm"
+        },
+        "B": {
+          "en": "12.32 atm",
+          "hi": "12.32 atm"
+        },
+        "C": {
+          "en": "3.08 atm",
+          "hi": "3.08 atm"
+        },
+        "D": {
+          "en": "1.54 atm",
+          "hi": "1.54 atm"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Match the units of Universal Gas Constant (R) in Column I with their corresponding numerical values in Column II:\n| Column I (Units of R) | Column II (Value) |\n| :--- | :--- |\n| 1. J · K⁻¹ · mol⁻¹ | P. 0.0821 |\n| 2. L · atm · K⁻¹ · mol⁻¹ | Q. 8.314 |\n| 3. cal · K⁻¹ · mol⁻¹ | R. 1.987 |\nWhich matching is correct?",
+        "hi": "कॉलम I में सार्वत्रिक गैस नियतांक (R) के मात्रकों का कॉलम II के संख्यात्मक मानों से मिलान करें:\n| कॉलम I (R के मात्रक) | कॉलम II (मान) |\n| :--- | :--- |\n| 1. J · K⁻¹ · mol⁻¹ | P. 0.0821 |\n| 2. L · atm · K⁻¹ · mol⁻¹ | Q. 8.314 |\n| 3. cal · K⁻¹ · mol⁻¹ | R. 1.987 |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        },
+        "D": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In an experiment plotting density (d) versus pressure (P) for an ideal gas at different temperatures T₁ and T₂ (where T₁ > T₂):\nWhich temperature will correspond to the line with the lower slope?",
+        "hi": "विभिन्न तापमानों T₁ और T₂ (जहाँ T₁ > T₂) पर एक आदर्श गैस के लिए दाब (P) के विरुद्ध घनत्व (d) का आलेख खींचने पर:\nकिस तापमान की रेखा का ढाल कम होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Temperature T₁ (higher temperature has lower slope)",
+          "hi": "तापमान T₁ (उच्च तापमान का ढाल कम होता है)"
+        },
+        "B": {
+          "en": "Temperature T₂",
+          "hi": "तापमान T₂"
+        },
+        "C": {
+          "en": "Both lines will have identical slopes",
+          "hi": "दोनों रेखाओं का ढाल समान होगा"
+        },
+        "D": {
+          "en": "Slope is independent of temperature",
+          "hi": "ढाल तापमान से स्वतंत्र होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc03_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "What happens to the volume of an ideal gas when its absolute temperature is doubled and its pressure is halved simultaneously?",
+        "hi": "जब किसी आदर्श गैस का परम तापमान दोगुना और उसका दाब एक साथ आधा कर दिया जाए, तो उसके आयतन पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Volume quadruples (increases by a factor of 4)",
+          "hi": "आयतन चार गुना हो जाता है"
+        },
+        "B": {
+          "en": "Volume doubles",
+          "hi": "आयतन दोगुना हो जाता है"
+        },
+        "C": {
+          "en": "Volume remains unchanged",
+          "hi": "आयतन अपरिवर्तित रहता है"
+        },
+        "D": {
+          "en": "Volume decreases by half",
+          "hi": "आयतन घटकर आधा हो जाता है"
+        }
+      }
+    }
+  ]
+}

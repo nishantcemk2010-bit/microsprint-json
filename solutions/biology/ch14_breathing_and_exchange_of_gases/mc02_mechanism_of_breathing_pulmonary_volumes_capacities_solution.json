@@ -1,0 +1,471 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch14_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "During normal quiet inspiration in humans, the contraction of the diaphragm and external intercostal muscles leads to an increase in thoracic volume in which respective axes?",
+        "hi": "मानव में सामान्य शांत अंतःश्वसन के दौरान डायाफ्राम तथा बाह्य अंतरापर्शुक (external intercostal) पेशियों का संकुचन वक्षीय गुहा के आयतन को क्रमशः किन अक्षों में बढ़ाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Dorso-ventral axis and antero-posterior axis",
+          "hi": "पृष्ठ-अधर अक्ष तथा अग्र-पश्च अक्ष"
+        },
+        "B": {
+          "en": "Antero-posterior axis and dorso-ventral axis",
+          "hi": "अग्र-पश्च (Antero-posterior) अक्ष तथा पृष्ठ-अधर (Dorso-ventral) अक्ष"
+        },
+        "C": {
+          "en": "Lateral axis and longitudinal axis only",
+          "hi": "केवल पार्श्व अक्ष तथा अनुदैर्ध्य अक्ष"
+        },
+        "D": {
+          "en": "Dorso-ventral axis in both cases",
+          "hi": "दोनों ही मामलों में पृष्ठ-अधर अक्ष"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "According to NCERT, contraction of the diaphragm increases the volume of the thoracic chamber in the antero-posterior axis, while the contraction of external intercostal muscles lifts up the ribs and sternum, causing an increase in thoracic volume in the dorso-ventral axis.",
+        "hi": "NCERT के अनुसार, डायाफ्राम का संकुचन वक्ष गुहा के आयतन को अग्र-पश्च (antero-posterior) अक्ष में बढ़ाता है, जबकि बाह्य अंतरापर्शुक पेशियों का संकुचन पसलियों और उरोस्थि को ऊपर उठाता है जिससे वक्ष गुहा का आयतन पृष्ठ-अधर (dorso-ventral) अक्ष में बढ़ जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "Forced expiration in humans is an active process that requires the contraction of which group of muscles?",
+        "hi": "मानव में बलपूर्वक निःश्वसन (Forced expiration) एक सक्रिय प्रक्रिया है जिसके लिए किन पेशियों के संकुचन की आवश्यकता होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "External intercostals and diaphragm",
+          "hi": "बाह्य अंतरापर्शुक तथा डायाफ्राम"
+        },
+        "B": {
+          "en": "Diaphragm and abdominal muscles only",
+          "hi": "केवल डायाफ्राम तथा उदर पेशियां"
+        },
+        "C": {
+          "en": "Internal intercostal muscles and abdominal muscles",
+          "hi": "आंतरिक अंतरापर्शुक (Internal intercostal) पेशियां तथा उदर पेशियां"
+        },
+        "D": {
+          "en": "Scalene and sternocleidomastoid muscles",
+          "hi": "स्केलीन तथा स्टर्नोक्लीडोमैस्टॉयड पेशियां"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Normal expiration is passive, resulting from relaxation of the diaphragm and external intercostal muscles. However, forceful expiration is active and requires contraction of the internal intercostal muscles (which pull ribs downward and inward) and abdominal muscles (which push diaphragm upward).",
+        "hi": "सामान्य निःश्वसन एक निष्क्रिय प्रक्रिया है जो डायाफ्राम और बाह्य अंतरापर्शुक पेशियों के शिथिलन से होती है। परंतु बलपूर्वक निःश्वसन एक सक्रिय प्रक्रिया है जिसमें आंतरिक अंतरापर्शुक पेशियों (जो पसलियों को नीचे व अंदर खींचती हैं) तथा उदर पेशियों का संकुचन शामिल होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "Inspiration can occur only when there is a negative pressure in the lungs with respect to atmospheric pressure. This means that:",
+        "hi": "अंतःश्वसन तभी हो सकता है जब वायुमंडलीय दाब की तुलना में फेफड़ों में ऋणात्मक दाब हो। इसका अर्थ है कि:"
+      },
+      "options": {
+        "A": {
+          "en": "Intrapulmonary pressure is less than the atmospheric pressure",
+          "hi": "अंतःफुफ्फुसीय दाब वायुमंडलीय दाब से कम होता है"
+        },
+        "B": {
+          "en": "Intrapulmonary pressure is equal to atmospheric pressure",
+          "hi": "अंतःफुफ्फुसीय दाब वायुमंडलीय दाब के बराबर होता है"
+        },
+        "C": {
+          "en": "Intrapulmonary pressure is greater than atmospheric pressure",
+          "hi": "अंतःफुफ्फुसीय दाब वायुमंडलीय दाब से अधिक होता है"
+        },
+        "D": {
+          "en": "Intrapleural pressure becomes strictly positive",
+          "hi": "अंतराफुफ्फुसीय दाब पूरी तरह धनात्मक हो जाता है"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Inspiration takes place when intrapulmonary pressure (pressure within the lungs) is less than atmospheric pressure (i.e., negative pressure in the lungs relative to the atmosphere). This pressure gradient causes air to move from the outside into the lungs.",
+        "hi": "अंतःश्वसन तब होता है जब फेफड़ों के भीतर का दाब (अंतःफुफ्फुसीय दाब) वायुमंडलीय दाब से कम होता है (अर्थात् फेफड़ों में वातावरण के सापेक्ष ऋणात्मक दाब होता है)। यह दाब प्रवणता वायु को बाहर से फेफड़ों में खींचती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following respiratory volumes or capacities CANNOT be directly measured using a standard simple spirometer?",
+        "hi": "निम्नलिखित में से किस श्वसन आयतन अथवा क्षमता को एक साधारण स्पाइरोमीटर द्वारा सीधे नहीं मापा जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Tidal Volume (TV) and Inspiratory Reserve Volume (IRV)",
+          "hi": "ज्वारीय आयतन (TV) तथा अंतःश्वसन सुरक्षित आयतन (IRV)"
+        },
+        "B": {
+          "en": "Expiratory Reserve Volume (ERV) and Inspiratory Capacity (IC)",
+          "hi": "निःश्वसन सुरक्षित आयतन (ERV) तथा अंतःश्वसन क्षमता (IC)"
+        },
+        "C": {
+          "en": "Vital Capacity (VC)",
+          "hi": "जैव क्षमता (Vital Capacity)"
+        },
+        "D": {
+          "en": "Residual Volume (RV), Functional Residual Capacity (FRC), and Total Lung Capacity (TLC)",
+          "hi": "अवशिष्ट आयतन (RV), प्रकार्यात्मक अवशिष्ट क्षमता (FRC), तथा कुल फुफ्फुस क्षमता (TLC)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Residual Volume (RV) cannot be expelled from the lungs, so it cannot be measured by a standard spirometer. Consequently, any capacity that includes RV—such as Functional Residual Capacity (FRC = ERV + RV) and Total Lung Capacity (TLC = VC + RV)—cannot be measured using simple spirometry.",
+        "hi": "अवशिष्ट आयतन (RV) वह वायु है जिसे फेफड़ों से बाहर नहीं निकाला जा सकता, अतः इसे स्पाइरोमीटर से नहीं मापा जा सकता। परिणामस्वरूप, RV को सम्मिलित करने वाली कोई भी क्षमता जैसे प्रकार्यात्मक अवशिष्ट क्षमता (FRC = ERV + RV) और कुल फुफ्फुस क्षमता (TLC = VC + RV) भी साधारण स्पाइरोमीटर द्वारा नहीं मापी जा सकती।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "Vital Capacity (VC) of human lungs is correctly defined as:",
+        "hi": "मानव फेफड़ों की जैव क्षमता (Vital Capacity - VC) को सही रूप में किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Total volume of air a person can inspire after a normal expiration",
+          "hi": "सामान्य निःश्वसन के बाद एक व्यक्ति द्वारा अंतःश्वसित वायु का कुल आयतन"
+        },
+        "B": {
+          "en": "The maximum volume of air a person can breathe in after a forced expiration (or breathe out after a forced inspiration)",
+          "hi": "बलपूर्वक निःश्वसन के बाद एक व्यक्ति द्वारा अंतःश्वसित की जा सकने वाली अधिकतम वायु का आयतन (या बलपूर्वक अंतःश्वसन के बाद बाहर निकाली जा सकने वाली अधिकतम वायु)"
+        },
+        "C": {
+          "en": "Volume of air remaining in the lungs after a normal expiration",
+          "hi": "सामान्य निःश्वसन के बाद फेफड़ों में बची रहने वाली वायु का आयतन"
+        },
+        "D": {
+          "en": "Volume of air remaining in the lungs even after a forceful expiration",
+          "hi": "बलपूर्वक निःश्वसन के बाद भी फेफड़ों में शेष बची रहने वाली वायु का आयतन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Vital Capacity (VC) is the maximum volume of air a person can breathe in after a forced expiration (VC = ERV + TV + IRV), or the maximum volume of air a person can breathe out after a forced inspiration.",
+        "hi": "जैव क्षमता (VC) वायु का वह अधिकतम आयतन है जिसे एक व्यक्ति बलपूर्वक निःश्वसन के बाद सांस में अंदर ले सकता है (VC = ERV + TV + IRV), या बलपूर्वक अंतःश्वसन के बाद बाहर निकाल सकता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "The volume of air that remains in the lungs after a normal, quiet expiration is termed:",
+        "hi": "सामान्य शांत निःश्वसन के बाद फेफड़ों में शेष बची रहने वाली वायु की मात्रा क्या कहलाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Residual Volume (RV)",
+          "hi": "अवशिष्ट आयतन (RV)"
+        },
+        "B": {
+          "en": "Expiratory Capacity (EC)",
+          "hi": "निःश्वसन क्षमता (EC)"
+        },
+        "C": {
+          "en": "Functional Residual Capacity (FRC)",
+          "hi": "प्रकार्यात्मक अवशिष्ट क्षमता (FRC)"
+        },
+        "D": {
+          "en": "Inspiratory Capacity (IC)",
+          "hi": "अंतःश्वसन क्षमता (IC)"
+        },
+        "image": "diagram_pulmonary_capacities_table.png"
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Functional Residual Capacity (FRC) is the volume of air that remains in the lungs after a normal expiration. It includes Expiratory Reserve Volume and Residual Volume (FRC = ERV + RV), preventing alveolar collapse between breaths.",
+        "hi": "एक सामान्य निःश्वसन के पश्चात् फेफड़ों में बची रहने वाली वायु का आयतन प्रकार्यात्मक अवशिष्ट क्षमता (FRC) कहलाता है। इसमें ERV और RV शामिल होते हैं (FRC = ERV + RV), जो सांसों के बीच कूपिकाओं को पिचकने से बचाती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "A healthy human breathes 12-16 times/minute with a Tidal Volume (TV) of 500 mL. What is the total volume of air inspired or expired per minute by a healthy man?",
+        "hi": "एक स्वस्थ मनुष्य 12-16 बार/मिनट की दर से सांस लेता है और उसका ज्वारीय आयतन (TV) 500 mL है। एक स्वस्थ व्यक्ति द्वारा प्रति मिनट अंतःश्वसित या निःश्वसित वायु की कुल मात्रा कितनी होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "6000 to 8000 mL/min",
+          "hi": "6000 से 8000 mL/min"
+        },
+        "B": {
+          "en": "2500 to 3000 mL/min",
+          "hi": "2500 से 3000 mL/min"
+        },
+        "C": {
+          "en": "1000 to 1100 mL/min",
+          "hi": "1000 से 1100 mL/min"
+        },
+        "D": {
+          "en": "10,000 to 12,000 mL/min",
+          "hi": "10,000 से 12,000 mL/min"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Minute respiratory volume = Tidal volume * Respiratory rate. For 12 breaths/min: 500 mL * 12 = 6000 mL/min. For 16 breaths/min: 500 mL * 16 = 8000 mL/min. Thus, a healthy man can inspire or expire approximately 6000 to 8000 mL of air per minute.",
+        "hi": "प्रति मिनट श्वसन आयतन = ज्वारीय आयतन * श्वसन दर। 12 सांस/मिनट के लिए: 500 * 12 = 6000 mL/min। 16 सांस/मिनट के लिए: 500 * 16 = 8000 mL/min। अतः एक स्वस्थ मनुष्य प्रति मिनट लगभग 6000 से 8000 mL वायु अंतःश्वसित या निःश्वसित कर सकता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "Given: TV = 500 mL, IRV = 3000 mL, ERV = 1100 mL, and RV = 1200 mL. Calculate the Inspiratory Capacity (IC) and Functional Residual Capacity (FRC) respectively:",
+        "hi": "दिया गया है: TV = 500 mL, IRV = 3000 mL, ERV = 1100 mL, तथा RV = 1200 mL। क्रमशः अंतःश्वसन क्षमता (IC) तथा प्रकार्यात्मक अवशिष्ट क्षमता (FRC) की गणना कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "IC = 4100 mL, FRC = 1600 mL",
+          "hi": "IC = 4100 mL, FRC = 1600 mL"
+        },
+        "B": {
+          "en": "IC = 3500 mL, FRC = 1600 mL",
+          "hi": "IC = 3500 mL, FRC = 1600 mL"
+        },
+        "C": {
+          "en": "IC = 3500 mL, FRC = 2300 mL",
+          "hi": "IC = 3500 mL, FRC = 2300 mL"
+        },
+        "D": {
+          "en": "IC = 3000 mL, FRC = 2300 mL",
+          "hi": "IC = 3000 mL, FRC = 2300 mL"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Inspiratory Capacity (IC) = TV + IRV = 500 + 3000 = 3500 mL.\nFunctional Residual Capacity (FRC) = ERV + RV = 1100 + 1200 = 2300 mL.",
+        "hi": "अंतःश्वसन क्षमता (IC) = TV + IRV = 500 + 3000 = 3500 mL।\nप्रकार्यात्मक अवशिष्ट क्षमता (FRC) = ERV + RV = 1100 + 1200 = 2300 mL।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following mathematical equations correctly relates Total Lung Capacity (TLC) and Vital Capacity (VC)?",
+        "hi": "निम्नलिखित में से कौन-सा गणितीय समीकरण कुल फुफ्फुस क्षमता (TLC) तथा जैव क्षमता (VC) के सही संबंध को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "TLC = VC - RV",
+          "hi": "TLC = VC - RV"
+        },
+        "B": {
+          "en": "TLC = VC + RV",
+          "hi": "TLC = VC + RV"
+        },
+        "C": {
+          "en": "VC = TLC + RV",
+          "hi": "VC = TLC + RV"
+        },
+        "D": {
+          "en": "TLC = VC + TV",
+          "hi": "TLC = VC + TV"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Total Lung Capacity (TLC) is the total volume of air accommodated in the lungs at the end of a forced inspiration: TLC = RV + ERV + TV + IRV. Since Vital Capacity (VC) = ERV + TV + IRV, it follows that TLC = VC + RV (or VC = TLC - RV).",
+        "hi": "कुल फुफ्फुस क्षमता (TLC) बलपूर्वक अंतःश्वसन के बाद फेफड़ों में समा सकने वाली कुल वायु का आयतन है: TLC = RV + ERV + TV + IRV। चूंकि जैव क्षमता (VC) = ERV + TV + IRV है, अतः TLC = VC + RV (या VC = TLC - RV)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "Arrange the following pulmonary volumes in increasing order of their average numerical values in an adult human:\n1. Tidal Volume (TV)\n2. Inspiratory Reserve Volume (IRV)\n3. Expiratory Reserve Volume (ERV)\n4. Residual Volume (RV)",
+        "hi": "एक वयस्क मानव में निम्नलिखित फुफ्फुसीय आयतनों को उनके औसत मान के बढ़ते क्रम में व्यवस्थित कीजिए:\n1. ज्वारीय आयतन (TV)\n2. अंतःश्वसन सुरक्षित आयतन (IRV)\n3. निःश्वसन सुरक्षित आयतन (ERV)\n4. अवशिष्ट आयतन (RV)"
+      },
+      "options": {
+        "A": {
+          "en": "1 < 2 < 3 < 4",
+          "hi": "1 < 2 < 3 < 4"
+        },
+        "B": {
+          "en": "1 < 4 < 3 < 2",
+          "hi": "1 < 4 < 3 < 2"
+        },
+        "C": {
+          "en": "3 < 1 < 4 < 2",
+          "hi": "3 < 1 < 4 < 2"
+        },
+        "D": {
+          "en": "1 < 3 < 4 < 2",
+          "hi": "1 < 3 < 4 < 2"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Average values:\nTV = 500 mL\nERV = 1000 - 1100 mL\nRV = 1100 - 1200 mL\nIRV = 2500 - 3000 mL\nTherefore, the correct increasing order is: TV (1) < ERV (3) < RV (4) < IRV (2).",
+        "hi": "औसत मान:\nTV = 500 mL\nERV = 1000 - 1100 mL\nRV = 1100 - 1200 mL\nIRV = 2500 - 3000 mL\nअतः सही बढ़ता हुआ क्रम है: TV (1) < ERV (3) < RV (4) < IRV (2)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "Expiratory Capacity (EC) represents the total volume of air a person can expire after a normal inspiration. Its value is equal to:",
+        "hi": "निःश्वसन क्षमता (EC) वायु के उस कुल आयतन को दर्शाती है जिसे एक व्यक्ति सामान्य अंतःश्वसन के पश्चात् बाहर निकाल सकता है। इसका मान किसके बराबर होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "TV + ERV (approx. 1500 - 1600 mL)",
+          "hi": "TV + ERV (लगभग 1500 - 1600 mL)"
+        },
+        "B": {
+          "en": "TV + IRV (approx. 3000 - 3500 mL)",
+          "hi": "TV + IRV (लगभग 3000 - 3500 mL)"
+        },
+        "C": {
+          "en": "ERV + RV (approx. 2100 - 2300 mL)",
+          "hi": "ERV + RV (लगभग 2100 - 2300 mL)"
+        },
+        "D": {
+          "en": "TV + RV (approx. 1600 - 1700 mL)",
+          "hi": "TV + RV (लगभग 1600 - 1700 mL)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Expiratory Capacity (EC) is the total volume of air a person can expire after a normal inspiration. EC = TV + ERV = 500 mL + (1000 to 1100 mL) = 1500 to 1600 mL.",
+        "hi": "निःश्वसन क्षमता (EC) सामान्य अंतःश्वसन के उपरांत बाहर निकाली जा सकने वाली कुल वायु है। EC = TV + ERV = 500 mL + (1000 से 1100 mL) = 1500 से 1600 mL।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "Two individuals A and B have the same minute ventilation rate of 6000 mL/min. Individual A breathes at 12 breaths/min with TV = 500 mL. Individual B breathes rapidly and shallowly at 24 breaths/min with TV = 250 mL. If anatomical dead space is 150 mL in both, what are their respective alveolar ventilation rates?",
+        "hi": "दो व्यक्तियों A तथा B का मिनट संवातन 6000 mL/min समान है। व्यक्ति A, TV = 500 mL के साथ 12 सांस/मिनट लेता है। व्यक्ति B तीव्र एवं उथली सांस के साथ TV = 250 mL और 24 सांस/मिनट लेता है। यदि दोनों का शारीरिकी मृत अवकाश 150 mL है, तो उनकी क्रमशः कूपिकीय संवातन दरें क्या होंगी?"
+      },
+      "options": {
+        "A": {
+          "en": "A: 6000 mL/min; B: 6000 mL/min",
+          "hi": "A: 6000 mL/min; B: 6000 mL/min"
+        },
+        "B": {
+          "en": "A: 3600 mL/min; B: 3600 mL/min",
+          "hi": "A: 3600 mL/min; B: 3600 mL/min"
+        },
+        "C": {
+          "en": "A: 4200 mL/min; B: 2400 mL/min",
+          "hi": "A: 4200 mL/min; B: 2400 mL/min"
+        },
+        "D": {
+          "en": "A: 2400 mL/min; B: 4200 mL/min",
+          "hi": "A: 2400 mL/min; B: 4200 mL/min"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Alveolar ventilation = (Tidal Volume - Dead Space) * Respiratory Rate.\nFor A: (500 - 150) * 12 = 350 * 12 = 4200 mL/min.\nFor B: (250 - 150) * 24 = 100 * 24 = 2400 mL/min.\nThis demonstrates that deep, slow breathing is much more effective for gas exchange than rapid shallow breathing.",
+        "hi": "कूपिकीय संवातन = (ज्वारीय आयतन - मृत अवकाश) * श्वसन दर।\nA के लिए: (500 - 150) * 12 = 350 * 12 = 4200 mL/min।\nB के लिए: (250 - 150) * 24 = 100 * 24 = 2400 mL/min।\nयह दर्शाता है कि गहरी और धीमी सांस उथली व तेज सांस की तुलना में गैस विनिमय के लिए कहीं अधिक प्रभावी होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the pulmonary volumes in Column I with their typical values in Column II:\n\nColumn I\na. Tidal Volume (TV)\nb. Inspiratory Reserve Volume (IRV)\nc. Expiratory Reserve Volume (ERV)\nd. Residual Volume (RV)\n\nColumn II\n1. 2500 - 3000 mL\n2. 1100 - 1200 mL\n3. 500 mL\n4. 1000 - 1100 mL",
+        "hi": "कॉलम I में दिए गए फुफ्फुसीय आयतनों का कॉलम II में उनके सामान्य मानों से मिलान कीजिए:\n\nकॉलम I\na. ज्वारीय आयतन (TV)\nb. अंतःश्वसन सुरक्षित आयतन (IRV)\nc. निःश्वसन सुरक्षित आयतन (ERV)\nd. अवशिष्ट आयतन (RV)\n\nकॉलम II\n1. 2500 - 3000 mL\n2. 1100 - 1200 mL\n3. 500 mL\n4. 1000 - 1100 mL"
+      },
+      "options": {
+        "A": {
+          "en": "a-3, b-2, c-4, d-1",
+          "hi": "a-3, b-2, c-4, d-1"
+        },
+        "B": {
+          "en": "a-3, b-1, c-4, d-2",
+          "hi": "a-3, b-1, c-4, d-2"
+        },
+        "C": {
+          "en": "a-4, b-1, c-3, d-2",
+          "hi": "a-4, b-1, c-3, d-2"
+        },
+        "D": {
+          "en": "a-1, b-3, c-2, d-4",
+          "hi": "a-1, b-3, c-2, d-4"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "TV = 500 mL (a-3); IRV = 2500-3000 mL (b-1); ERV = 1000-1100 mL (c-4); RV = 1100-1200 mL (d-2).",
+        "hi": "TV = 500 mL (a-3); IRV = 2500-3000 mL (b-1); ERV = 1000-1100 mL (c-4); RV = 1100-1200 mL (d-2)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the pulmonary capacities in Column I with their constituent volume formulas in Column II:\n\nColumn I\na. Inspiratory Capacity (IC)\nb. Expiratory Capacity (EC)\nc. Functional Residual Capacity (FRC)\nd. Vital Capacity (VC)\n\nColumn II\n1. ERV + RV\n2. TV + ERV\n3. ERV + TV + IRV\n4. TV + IRV",
+        "hi": "कॉलम I में दी गई फुफ्फुसीय क्षमताओं का कॉलम II में उनके घटक आयतन सूत्रों से मिलान कीजिए:\n\nकॉलम I\na. अंतःश्वसन क्षमता (IC)\nb. निःश्वसन क्षमता (EC)\nc. प्रकार्यात्मक अवशिष्ट क्षमता (FRC)\nd. जैव क्षमता (VC)\n\nकॉलम II\n1. ERV + RV\n2. TV + ERV\n3. ERV + TV + IRV\n4. TV + IRV"
+      },
+      "options": {
+        "A": {
+          "en": "a-2, b-4, c-1, d-3",
+          "hi": "a-2, b-4, c-1, d-3"
+        },
+        "B": {
+          "en": "a-4, b-1, c-2, d-3",
+          "hi": "a-4, b-1, c-2, d-3"
+        },
+        "C": {
+          "en": "a-1, b-2, c-4, d-3",
+          "hi": "a-1, b-2, c-4, d-3"
+        },
+        "D": {
+          "en": "a-4, b-2, c-1, d-3",
+          "hi": "a-4, b-2, c-1, d-3"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Inspiratory Capacity (IC) = TV + IRV (a-4); Expiratory Capacity (EC) = TV + ERV (b-2); Functional Residual Capacity (FRC) = ERV + RV (c-1); Vital Capacity (VC) = ERV + TV + IRV (d-3).",
+        "hi": "अंतःश्वसन क्षमता (IC) = TV + IRV (a-4); निःश्वसन क्षमता (EC) = TV + ERV (b-2); प्रकार्यात्मक अवशिष्ट क्षमता (FRC) = ERV + RV (c-1); जैव क्षमता (VC) = ERV + TV + IRV (d-3)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In a spirogram tracing of lung volumes, identify the volumes indicated as P, Q, R, and S:\nP: Volume inspired and expired in normal quiet breathing\nQ: Additional maximum volume inspired forcibly above normal tidal inspiration\nR: Additional volume expired forcibly after normal tidal expiration\nS: Non-expellable volume remaining in lungs after maximal expiration",
+        "hi": "फेफड़ों के आयतनों के स्पाइरोग्राम आरेख में, P, Q, R, और S के रूप में दर्शाए गए आयतनों को पहचानिए:\nP: सामान्य शांत श्वसन में अंदर ली गई और बाहर छोड़ी गई वायु का आयतन\nQ: सामान्य ज्वारीय अंतःश्वसन के ऊपर बलपूर्वक सांस में ली गई अतिरिक्त अधिकतम वायु\nR: सामान्य ज्वारीय निःश्वसन के बाद बलपूर्वक बाहर निकाली गई अतिरिक्त वायु\nS: अधिकतम निःश्वसन के बाद फेफड़ों में शेष बची रहने वाली गैर-निष्कासनीय वायु",
+        "image": "diagram_spirogram_volumes_tracing.png"
+      },
+      "options": {
+        "A": {
+          "en": "P = TV, Q = IRV, R = ERV, S = RV",
+          "hi": "P = TV, Q = IRV, R = ERV, S = RV"
+        },
+        "B": {
+          "en": "P = IRV, Q = TV, R = RV, S = ERV",
+          "hi": "P = IRV, Q = TV, R = RV, S = ERV"
+        },
+        "C": {
+          "en": "P = TV, Q = ERV, R = IRV, S = RV",
+          "hi": "P = TV, Q = ERV, R = IRV, S = RV"
+        },
+        "D": {
+          "en": "P = VC, Q = IC, R = EC, S = FRC",
+          "hi": "P = VC, Q = IC, R = EC, S = FRC"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "On a spirogram: P represents Tidal Volume (TV ~500 mL); Q represents Inspiratory Reserve Volume (IRV ~2500-3000 mL); R represents Expiratory Reserve Volume (ERV ~1000-1100 mL); S represents Residual Volume (RV ~1100-1200 mL).",
+        "hi": "स्पाइरोग्राम पर: P ज्वारीय आयतन (TV) को दर्शाता है; Q अंतःश्वसन सुरक्षित आयतन (IRV) को दर्शाता है; R निःश्वसन सुरक्षित आयतन (ERV) को दर्शाता है; S अवशिष्ट आयतन (RV) को दर्शाता है।"
+      }
+    }
+  ]
+}

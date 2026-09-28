@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch18_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "Regarding the evolution of the neural system across different animal phyla, which of the following statements is INCORRECT?",
+        "hi": "विभिन्न जंतु संघों में तंत्रिका तंत्र के विकास के संबंध में निम्नलिखित में से कौन सा कथन असत्य है?"
+      },
+      "options": {
+        "A": {
+          "en": "In Hydra and other cnidarians, the neural system is composed of a diffuse network of neurons without a central brain.",
+          "hi": "हाइड्रा और अन्य नाइडेरिया में, तंत्रिका तंत्र बिना किसी केंद्रीय मस्तिष्क के न्यूरॉन्स के एक विसरित जाल (नेटवर्क) से बना होता है।"
+        },
+        "B": {
+          "en": "Insects possess only a diffuse nerve net with complete absence of ganglia and brain.",
+          "hi": "कीटों में गुच्छिकाओं (गैन्ग्लिया) और मस्तिष्क का पूर्ण अभाव होता है और केवल विसरित तंत्रिका जाल पाया जाता है।"
+        },
+        "C": {
+          "en": "Planaria exhibits cephalization with paired cerebral ganglia and longitudinal nerve cords connected by transverse commissures.",
+          "hi": "प्लेनेरिया में युग्मित प्रमस्तिष्क गैन्ग्लिया और अनुप्रस्थ संयोजकों द्वारा जुड़े अनुदैर्ध्य तंत्रिका रज्जु के साथ शीर्षीकरण प्रदर्शित होता है।"
+        },
+        "D": {
+          "en": "Vertebrates have a highly developed neural system segregated into the central and peripheral nervous systems.",
+          "hi": "कशेरुकियों (कशेरुकी जंतुओं) में एक अत्यधिक विकसित तंत्रिका तंत्र होता है जो केंद्रीय और परिधीय तंत्रिका तंत्र में विभाजित होता है।"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Statement B is incorrect. The neural system is better organized in insects, where a brain is present along with a number of ganglia and neural tissues. Lower invertebrates like Hydra possess a simple nerve net, whereas insects and annelids have well-organized ganglia and paired nerve cords.",
+        "hi": "कथन B असत्य है। कीटों में तंत्रिका तंत्र अधिक व्यवस्थित होता है, जहाँ अनेक गुच्छिकाओं (गैन्ग्लिया) और तंत्रिका ऊतकों के साथ-साथ एक मस्तिष्क उपस्थित होता है। हाइड्रा जैसे निचले अकशेरुकियों में एक साधारण तंत्रिका जाल होता है, जबकि कीटों में सुगठित गैन्ग्लिया पाए जाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "Nissl's granules found in the cyton of a neuron are biochemically and structurally composed of:",
+        "hi": "न्यूरॉन के साइटॉन (कोशिका काय) में पाई जाने वाली निसल कणिकाएं (Nissl's granules) जैव-रासायनिक और संरचनात्मक रूप से किससे निर्मित होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Mitochondria and smooth endoplasmic reticulum for ATP synthesis",
+          "hi": "ATP संश्लेषण के लिए सूत्रकणिका (माइटोकॉन्ड्रिया) और चिकनी अंतःप्रद्रव्यी जालिका"
+        },
+        "B": {
+          "en": "Golgi complex and lysosomes for waste degradation",
+          "hi": "अपशिष्ट अपघटन के लिए गॉल्जी सम्मिश्र और लयनकाय (लाइसोसोम)"
+        },
+        "C": {
+          "en": "Rough endoplasmic reticulum with free ribosomes for protein synthesis",
+          "hi": "प्रोटीन संश्लेषण के लिए मुक्त राइबोसोम युक्त खुरदरी अंतःप्रद्रव्यी जालिका (RER)"
+        },
+        "D": {
+          "en": "Centrioles and microfilaments involved in axonal transport",
+          "hi": "एक्सोनल परिवहन में शामिल तारककेंद्र (सेंट्रिओल) और सूक्ष्मतंतु"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Nissl's granules are granular bodies present in the cyton (soma) and dendrites of a neuron. Electron microscopy reveals they are composed of rough endoplasmic reticulum (RER) studded with free ribosomes, functioning actively in protein synthesis. They are strictly absent in the axon and axon hillock.",
+        "hi": "निसल कणिकाएं न्यूरॉन के साइटॉन और द्रुमाक्ष (डेंड्राइट) में पाए जाने वाले कणिकीय पिंड हैं। ये मुक्त राइबोसोम से युक्त खुरदरी अंतःप्रद्रव्यी जालिका (RER) के समूह होते हैं, जो प्रोटीन संश्लेषण का कार्य करते हैं। ये तंत्रिकाक्ष (एक्सॉन) और एक्सॉन हिलॉक में अनुपस्थित होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following classes of neurons possesses only a single process extending from the cell body and is typically found during the embryonic stage?",
+        "hi": "निम्नलिखित में से किस प्रकार के न्यूरॉन में कोशिका काय से केवल एक ही प्रवर्ध निकलता है और यह आमतौर पर भ्रूणीय अवस्था में पाया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Unipolar neuron",
+          "hi": "एकध्रुवीय न्यूरॉन (Unipolar neuron)"
+        },
+        "B": {
+          "en": "Bipolar neuron",
+          "hi": "द्विध्रुवीय न्यूरॉन (Bipolar neuron)"
+        },
+        "C": {
+          "en": "Multipolar neuron",
+          "hi": "बहुध्रुवीय न्यूरॉन (Multipolar neuron)"
+        },
+        "D": {
+          "en": "Pseudounipolar neuron",
+          "hi": "कूट-एकध्रुवीय न्यूरॉन (Pseudounipolar neuron)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "A unipolar neuron has a cell body with only one axon process extending from it. According to NCERT, unipolar neurons are usually found in the embryonic stage. Multipolar neurons have one axon and two or more dendrites, while bipolar neurons have one axon and one dendrite.",
+        "hi": "एकध्रुवीय (Unipolar) न्यूरॉन में कोशिका काय से केवल एक प्रवर्ध (एक्सॉन) निकलता है। NCERT के अनुसार, एकध्रुवीय न्यूरॉन सामान्यतः भ्रूणीय अवस्था (embryonic stage) में पाए जाते हैं। बहुध्रुवीय में एक एक्सॉन और दो या अधिक डेंड्राइट होते हैं, जबकि द्विध्रुवीय में एक एक्सॉन और एक डेंड्राइट होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "Bipolar neurons characteristically possess one axon and one dendrite. In the adult human body, they are primarily located in the:",
+        "hi": "द्विध्रुवीय न्यूरॉन में विशेष रूप से एक एक्सॉन और एक डेंड्राइट होता है। वयस्क मानव शरीर में, वे मुख्य रूप से कहाँ स्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Cerebral cortex and cerebellar cortex",
+          "hi": "प्रमस्तिष्क वल्कुट (सेरेब्रल कॉर्टेक्स) और अनुमस्तिष्क वल्कुट में"
+        },
+        "B": {
+          "en": "Dorsal root ganglion of spinal cord",
+          "hi": "मेरुरज्जु के पृष्ठ मूल गुच्छिका (dorsal root ganglion) में"
+        },
+        "C": {
+          "en": "Sympathetic trunk and autonomic ganglia",
+          "hi": "सहानुभूती ट्रंक और स्वायत्त गुच्छिकाओं में"
+        },
+        "D": {
+          "en": "Retina of the eye and olfactory epithelium",
+          "hi": "नेत्र के दृष्टि पटल (रेटिना) और घ्राण उपकला (olfactory epithelium) में"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Bipolar neurons consist of one axon and one dendrite originating from opposite poles of the soma. They are specialized sensory neurons located in the retina of the eye, olfactory epithelium of nasal chambers, and internal ear (vestibulocochlear organ).",
+        "hi": "द्विध्रुवीय न्यूरॉन में सोमा के विपरीत ध्रुवों से निकलने वाला एक एक्सॉन और एक डेंड्राइट होता है। वे विशेष संवेदी न्यूरॉन हैं जो आँख के रेटिना, नाक की घ्राण उपकला और आंतरिक कान में पाए जाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following statements correctly characterizes myelinated nerve fibres in the peripheral nervous system?",
+        "hi": "परिधीय तंत्रिका तंत्र में मज्जाकृत (myelinated) तंत्रिका तंतुओं के बारे में निम्नलिखित में से कौन सा कथन सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "They lack Schwann cells and conduct impulses via continuous propagation.",
+          "hi": "इनमें श्वान कोशिकाएं नहीं होती हैं और आवेगों का संचरण सतत रूप से होता है।"
+        },
+        "B": {
+          "en": "They are enveloped by Schwann cells that form a myelin sheath around the axon, with periodic gaps called Nodes of Ranvier.",
+          "hi": "वे श्वान कोशिकाओं द्वारा घिरे होते हैं जो एक्सॉन के चारों ओर माइलिन आच्छद बनाती हैं, जिसमें रेनवियर की गांठें (Nodes of Ranvier) नामक अंतराल होते हैं।"
+        },
+        "C": {
+          "en": "They are found exclusively in the autonomic nervous system and conduct impulses slowly.",
+          "hi": "वे विशेष रूप से स्वायत्त तंत्रिका तंत्र में पाए जाते हैं और आवेगों का संचरण धीमी गति से करते हैं।"
+        },
+        "D": {
+          "en": "The myelin sheath is a continuous unbroken sheath covering the entire length of the axon without any gaps.",
+          "hi": "माइलिन आच्छद बिना किसी अंतराल के एक्सॉन की पूरी लंबाई को ढकने वाला एक निरंतर अखंड आवरण है।"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Myelinated nerve fibres in the PNS are enveloped by Schwann cells, which form a lipid-rich concentric myelin sheath around the axon. The gaps between two adjacent myelin sheaths are called Nodes of Ranvier. They are commonly found in cranial and spinal nerves and exhibit rapid saltatory conduction.",
+        "hi": "PNS में मज्जाकृत (माइलिनेटेड) तंत्रिका तंतु श्वान कोशिकाओं से घिरे होते हैं, जो एक्सॉन के चारों ओर माइलिन आच्छद बनाती हैं। दो निकटवर्ती माइलिन आच्छदों के बीच के अंतरालों को रेनवियर की गांठें कहा जाता है। ये कपालीय और मेरुरज्जु तंत्रिकाओं में पाए जाते हैं और तीव्र छलांगदार (saltatory) संचरण प्रदर्शित करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "Non-myelinated nerve fibres in the human body are enclosed by Schwann cells that do not form a myelin sheath. These fibres are characteristically found in the:",
+        "hi": "मानव शरीर में गैर-मज्जाकृत (non-myelinated) तंत्रिका तंतु श्वान कोशिकाओं द्वारा घिरे होते हैं जो माइलिन आच्छद नहीं बनाते हैं। ये तंतु विशिष्ट रूप से कहाँ पाए जाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Cranial nerves and spinal nerves only",
+          "hi": "केवल कपालीय तंत्रिकाओं और मेरुरज्जु तंत्रिकाओं में"
+        },
+        "B": {
+          "en": "White matter of the cerebral cortex",
+          "hi": "प्रमस्तिष्क वल्कुट के श्वेत द्रव्य में"
+        },
+        "C": {
+          "en": "Autonomous and somatic neural systems",
+          "hi": "स्वायत्त (Autonomous) और कायिक (Somatic) तंत्रिका तंत्र में"
+        },
+        "D": {
+          "en": "Corpus callosum and optic tracts",
+          "hi": "कॉर्पस कैलोसम और ऑप्टिक ट्रैक्ट्स में"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "According to NCERT, non-myelinated nerve fibres are enclosed by a Schwann cell that does not form a myelin sheath around the axon, and lack nodes of Ranvier. They are commonly found in the autonomous and somatic neural systems, whereas myelinated nerve fibres are found in cranial and spinal nerves.",
+        "hi": "NCERT के अनुसार, गैर-मज्जाकृत (अमाइलिनेटेड) तंत्रिका तंतु श्वान कोशिका से घिरे होते हैं जो एक्सॉन के चारों ओर माइलिन आच्छद नहीं बनाती है, और इनमें रेनवियर की गांठें नहीं होती हैं। ये सामान्यतः स्वायत्त और कायिक तंत्रिका तंत्र में पाए जाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following correctly describes the relationship between axon structural properties and the velocity of nerve impulse conduction?",
+        "hi": "निम्नलिखित में से कौन सा तंत्रिकाक्ष (एक्सॉन) के संरचनात्मक गुणों और तंत्रिका आवेग संचरण के वेग के बीच के संबंध का सही वर्णन करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Conduction velocity increases with both the presence of a myelin sheath (saltatory conduction) and an increase in axon diameter.",
+          "hi": "माइलिन आच्छद की उपस्थिति (साल्टेटरी संचरण) और एक्सॉन के व्यास में वृद्धि दोनों के साथ संचरण वेग बढ़ता है।"
+        },
+        "B": {
+          "en": "Non-myelinated fibres have a higher conduction velocity than myelinated fibres because ions pass freely across all regions.",
+          "hi": "गैर-मज्जाकृत तंतुओं में मज्जाकृत तंतुओं की तुलना में अधिक संचरण वेग होता है क्योंकि आयन सभी क्षेत्रों में स्वतंत्र रूप से गुजरते हैं।"
+        },
+        "C": {
+          "en": "Decreasing axon diameter increases conduction velocity due to reduced axial resistance.",
+          "hi": "एक्सॉन व्यास को कम करने से अक्षीय प्रतिरोध कम होने के कारण संचरण वेग बढ़ जाता है।"
+        },
+        "D": {
+          "en": "The presence of Nodes of Ranvier reduces conduction speed because action potentials are delayed at each node.",
+          "hi": "रेनवियर की गांठों की उपस्थिति संचरण गति को कम करती है क्योंकि प्रत्येक गांठ पर क्रिया विभव में विलंब होता है।"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Conduction velocity of a nerve fibre depends directly on two main factors: (1) Myelination: myelin acts as an insulator, allowing action potentials to jump from node to node (saltatory conduction), achieving speeds up to 100-120 m/s compared to 1-2 m/s in unmyelinated fibres; (2) Axon diameter: thicker axons have lower internal longitudinal resistance to current flow, thus conducting faster.",
+        "hi": "तंत्रिका तंतु का संचरण वेग मुख्य रूप से दो कारकों पर निर्भर करता है: (1) माइलिनेशन: माइलिन एक विद्युतरोधी के रूप में कार्य करता है जिससे क्रिया विभव गांठ से गांठ तक छलांग लगाता है (साल्टेटरी संचरण, 100-120 m/s तक की गति); (2) एक्सॉन का व्यास: बड़े व्यास वाले एक्सॉन में आंतरिक प्रतिरोध कम होता है, अतः संचरण तेजी से होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "What is the correct anatomical and physiological pathway of electrical signal propagation within a single multipolar neuron?",
+        "hi": "एक बहुध्रुवीय न्यूरॉन के भीतर विद्युत संकेत संचरण का सही शारीरिक और क्रियात्मक मार्ग कौन सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "Axon -> Axon hillock -> Cyton -> Dendrites -> Telodendria",
+          "hi": "एक्सॉन -> एक्सॉन हिलॉक -> साइटॉन -> डेंड्राइट्स -> टेलोडेंड्रिया"
+        },
+        "B": {
+          "en": "Synaptic knob -> Axon -> Cyton -> Dendrite",
+          "hi": "सिनैप्टिक नॉब -> एक्सॉन -> साइटॉन -> डेंड्राइट"
+        },
+        "C": {
+          "en": "Cyton -> Dendrites -> Axon hillock -> Axon -> Synaptic knob",
+          "hi": "साइटॉन -> डेंड्राइट्स -> एक्सॉन हिलॉक -> एक्सॉन -> सिनैप्टिक नॉब"
+        },
+        "D": {
+          "en": "Dendrites -> Cyton -> Axon hillock -> Axon -> Synaptic knob",
+          "hi": "डेंड्राइट्स (द्रुमाक्ष) -> साइटॉन (कोशिका काय) -> एक्सॉन हिलॉक -> एक्सॉन (तंत्रिकाक्ष) -> सिनैप्टिक नॉब"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Dendrites receive stimuli and transmit impulses centripetally (towards the cyton). The cyton integrates the graded potentials. At the axon hillock (trigger zone), if threshold is reached, an action potential is generated and propagated centrifugally (away from the cyton) down the axon to the axon terminal and synaptic knob.",
+        "hi": "डेंड्राइट उद्दीपन प्राप्त करते हैं और आवेगों को अभिकेंद्रीय (साइटॉन की ओर) संचालित करते हैं। एक्सॉन हिलॉक (ट्रिगर ज़ोन) पर क्रिया विभव उत्पन्न होता है और एक्सॉन के माध्यम से अपकेंद्रीय रूप से (साइटॉन से दूर) टर्मिनल शाखाओं और सिनैप्टिक नॉब की ओर संचरित होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "Consider the following combinations of processes originating from the soma:\n(i) 1 Axon + 2 or more Dendrites\n(ii) 1 Axon + 1 Dendrite\n(iii) 1 Axon only (0 Dendrites)\nWhich row correctly identifies the corresponding neuron types?",
+        "hi": "सोमा से निकलने वाले प्रवर्धों के निम्नलिखित संयोजनों पर विचार कीजिए:\n(i) 1 एक्सॉन + 2 या अधिक डेंड्राइट\n(ii) 1 एक्सॉन + 1 डेंड्राइट\n(iii) केवल 1 एक्सॉन (0 डेंड्राइट)\nकौन सी पंक्ति संगत न्यूरॉन प्रकारों की सही पहचान करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "(i) Bipolar, (ii) Multipolar, (iii) Unipolar",
+          "hi": "(i) द्विध्रुवीय, (ii) बहुध्रुवीय, (iii) एकध्रुवीय"
+        },
+        "B": {
+          "en": "(i) Multipolar, (ii) Bipolar, (iii) Unipolar",
+          "hi": "(i) बहुध्रुवीय, (ii) द्विध्रुवीय, (iii) एकध्रुवीय"
+        },
+        "C": {
+          "en": "(i) Unipolar, (ii) Bipolar, (iii) Multipolar",
+          "hi": "(i) एकध्रुवीय, (ii) द्विध्रुवीय, (iii) बहुध्रुवीय"
+        },
+        "D": {
+          "en": "(i) Multipolar, (ii) Unipolar, (iii) Bipolar",
+          "hi": "(i) बहुध्रुवीय, (ii) एकध्रुवीय, (iii) द्विध्रुवीय"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Based on the number of axons and dendrites:\n- Multipolar: 1 axon and 2 or more dendrites (found in cerebral cortex).\n- Bipolar: 1 axon and 1 dendrite (found in retina of eye).\n- Unipolar: cell body with 1 axon only (found in embryonic stage).",
+        "hi": "एक्सॉन और डेंड्राइट की संख्या के आधार पर:\n- बहुध्रुवीय: 1 एक्सॉन और 2 या अधिक डेंड्राइट (प्रमस्तिष्क वल्कुट में)।\n- द्विध्रुवीय: 1 एक्सॉन और 1 डेंड्राइट (नेत्र के रेटिना में)।\n- एकध्रुवीय: कोशिका काय के साथ केवल 1 एक्सॉन (भ्रूणीय अवस्था में)।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "In a myelinated axon, how do electrical resistance and ionic flux compare between the internodal myelinated region and the Node of Ranvier?",
+        "hi": "एक मज्जाकृत एक्सॉन में, अंतर्गांठीय मज्जित क्षेत्र (internode) और रेनवियर की गांठ (Node of Ranvier) के बीच विद्युत प्रतिरोध और आयनिक प्रवाह की तुलना कैसे की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Internode has low electrical resistance; Node of Ranvier has high electrical resistance with zero ionic flux.",
+          "hi": "इंटर्नोड में कम विद्युत प्रतिरोध होता है; रेनवियर की गांठ में शून्य आयनिक प्रवाह के साथ उच्च विद्युत प्रतिरोध होता है।"
+        },
+        "B": {
+          "en": "Both regions have identical electrical resistance and channel densities.",
+          "hi": "दोनों क्षेत्रों में समान विद्युत प्रतिरोध और चैनल घनत्व होता है।"
+        },
+        "C": {
+          "en": "Internode has high electrical resistance and prevents ion movement; Node of Ranvier has low resistance with dense voltage-gated Na+ channels allowing massive ion flux.",
+          "hi": "इंटर्नोड में उच्च विद्युत प्रतिरोध होता है और यह आयन गति को रोकता है; रेनवियर की गांठ में कम प्रतिरोध होता है जहाँ अत्यधिक वोल्टेज-गेटेड Na+ चैनल होते हैं जो भारी आयन प्रवाह की अनुमति देते हैं।"
+        },
+        "D": {
+          "en": "Myelin sheath increases capacitance and allows current leakage throughout the axon length.",
+          "hi": "माइलिन आच्छद धारिता (capacitance) बढ़ाता है और एक्सॉन की पूरी लंबाई में धारा के रिसाव की अनुमति देता है।"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Myelin acts as an effective electrical insulator with high membrane resistance and low capacitance, preventing current flow across the internodal membrane. In contrast, the Nodes of Ranvier lack myelin, have very low electrical resistance, and contain an extremely high concentration of voltage-gated Na+ channels, allowing rapid depolarizing ionic influx.",
+        "hi": "माइलिन उच्च झिल्ली प्रतिरोध और कम धारिता वाला एक प्रभावी विद्युत इन्सुलेटर है, जो इंटर्नोड में धारा प्रवाह को रोकता है। इसके विपरीत, रेनवियर की गांठों पर माइलिन नहीं होता, विद्युत प्रतिरोध बहुत कम होता है, और वोल्टेज-गेटेड Na+ चैनलों का घनत्व अत्यधिक होता है, जिससे तीव्र आयनिक प्रवाह संभव होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "Pseudounipolar neurons possess a single short stem that bifurcates into a peripheral branch (dendritic axon) and a central branch (entering CNS). Where are their cell bodies located?",
+        "hi": "कूट-एकध्रुवीय (Pseudounipolar) न्यूरॉन में एक छोटा तना होता है जो एक परिधीय शाखा और एक केंद्रीय शाखा (CNS में प्रवेश करने वाली) में विभाजित होता है। इनके कोशिका काय कहाँ स्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Dorsal root ganglion of spinal nerves",
+          "hi": "मेरुरज्जु तंत्रिकाओं के पृष्ठ मूल गुच्छिका (Dorsal root ganglion) में"
+        },
+        "B": {
+          "en": "Ventral horn of the spinal cord grey matter",
+          "hi": "मेरुरज्जु के धूसर द्रव्य के उदर शृंग (Ventral horn) में"
+        },
+        "C": {
+          "en": "Sympathetic preganglionic chain",
+          "hi": "सहानुभूती प्रीगैन्ग्लिओनिक श्रृंखला में"
+        },
+        "D": {
+          "en": "Purkinje layer of cerebellar cortex",
+          "hi": "अनुमस्तिष्क वल्कुट की पुरकिंजे परत में"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Pseudounipolar neurons have their cell bodies located in the dorsal root ganglia (DRG) of spinal nerves and sensory ganglia of cranial nerves. They convey primary somatosensory information (touch, pain, temperature, proprioception) from peripheral receptors into the spinal cord.",
+        "hi": "कूट-एकध्रुवीय (Pseudounipolar) न्यूरॉन के कोशिका काय मेरुरज्जु तंत्रिकाओं के डोर्सल रूट गैन्ग्लिया (DRG) में स्थित होते हैं। ये परिधीय ग्राही अंगों से संवेदी सूचनाओं (स्पर्श, दर्द, तापमान) को मेरुरज्जु में लाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following pairings correctly matches the myelin-forming neuroglial cell with its anatomical location?",
+        "hi": "निम्नलिखित में से कौन सा युग्म माइलिन बनाने वाली तंत्रिकाबंध (न्यूरोग्लियल) कोशिका और उसके शारीरिक स्थान का सही सुमेल करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Schwann cell -> Central Nervous System; Oligodendrocyte -> Peripheral Nervous System",
+          "hi": "श्वान कोशिका -> केंद्रीय तंत्रिका तंत्र; ऑलिगोडेंड्रोसाइट -> परिधीय तंत्रिका तंत्र"
+        },
+        "B": {
+          "en": "Astrocyte -> Peripheral Nervous System; Microglia -> Cranial nerves",
+          "hi": "एस्ट्रोसाइट -> परिधीय तंत्रिका तंत्र; माइक्रोग्लिया -> कपालीय तंत्रिकाएं"
+        },
+        "C": {
+          "en": "Ependymal cell -> Myelin of spinal nerves; Schwann cell -> Brain ventricles",
+          "hi": "एपेंडाइमल कोशिका -> मेरुरज्जु तंत्रिकाओं का माइलिन; श्वान कोशिका -> मस्तिष्क के निलय"
+        },
+        "D": {
+          "en": "Schwann cell -> Peripheral Nervous System; Oligodendrocyte -> Central Nervous System",
+          "hi": "श्वान कोशिका -> परिधीय तंत्रिका तंत्र (PNS); ऑलिगोडेंड्रोसाइट -> केंद्रीय तंत्रिका तंत्र (CNS)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "In the Peripheral Nervous System (PNS), Schwann cells myelinate axons, with one Schwann cell myelinating a single internode of an axon. In the Central Nervous System (CNS), Oligodendrocytes myelinate axons, where a single oligodendrocyte can send processes to myelinate multiple adjacent axons.",
+        "hi": "परिधीय तंत्रिका तंत्र (PNS) में, श्वान कोशिकाएं एक्सॉन को माइलिनेट करती हैं। केंद्रीय तंत्रिका तंत्र (CNS) में, ऑलिगोडेंड्रोसाइट्स (Oligodendrocytes) माइलिन आच्छद का निर्माण करती हैं, जहाँ एक ही ऑलिगोडेंड्रोसाइट कई एक्सॉन को माइलिनेट कर सकती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Neuron Structural Type) with List-II (Characteristic Location in Body):\nList-I:\n(a) Multipolar neuron\n(b) Bipolar neuron\n(c) Unipolar neuron\n(d) Pseudounipolar neuron\n\nList-II:\n(1) Retina of eye\n(2) Cerebral cortex\n(3) Dorsal root ganglion of spinal cord\n(4) Embryonic stage\n\nChoose the correct option:",
+        "hi": "सूची-I (न्यूरॉन संरचनात्मक प्रकार) को सूची-II (शरीर में विशिष्ट स्थान) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) बहुध्रुवीय न्यूरॉन\n(b) द्विध्रुवीय न्यूरॉन\n(c) एकध्रुवीय न्यूरॉन\n(d) कूट-एकध्रुवीय न्यूरॉन\n\nसूची-II:\n(1) नेत्र का रेटिना\n(2) प्रमस्तिष्क वल्कुट\n(3) मेरुरज्जु का पृष्ठ मूल गुच्छिका\n(4) भ्रूणीय अवस्था\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(2), (b)-(1), (c)-(4), (d)-(3)",
+          "hi": "(a)-(2), (b)-(1), (c)-(4), (d)-(3)"
+        },
+        "B": {
+          "en": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+          "hi": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)"
+        },
+        "C": {
+          "en": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)",
+          "hi": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)"
+        },
+        "D": {
+          "en": "(a)-(2), (b)-(4), (c)-(1), (d)-(3)",
+          "hi": "(a)-(2), (b)-(4), (c)-(1), (d)-(3)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Correct matching is:\n- (a) Multipolar neuron: found in the cerebral cortex (one axon and >= 2 dendrites).\n- (b) Bipolar neuron: found in the retina of the eye and olfactory epithelium (one axon, one dendrite).\n- (c) Unipolar neuron: found in the embryonic stage (one process only).\n- (d) Pseudounipolar neuron: found in dorsal root ganglia of spinal nerves.",
+        "hi": "सही सुमेलन है:\n- (a) बहुध्रुवीय न्यूरॉन: प्रमस्तिष्क वल्कुट में (2)\n- (b) द्विध्रुवीय न्यूरॉन: नेत्र के रेटिना में (1)\n- (c) एकध्रुवीय न्यूरॉन: भ्रूणीय अवस्था में (4)\n- (d) कूट-एकध्रुवीय न्यूरॉन: मेरुरज्जु के पृष्ठ मूल गुच्छिका में (3)\nअतः सही विकल्प A है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Neuron Component) with List-II (Structural or Functional Attribute):\nList-I:\n(a) Nissl's granules\n(b) Axon hillock\n(c) Synaptic knob\n(d) Node of Ranvier\n\nList-II:\n(1) Unmyelinated gap where saltatory depolarisation occurs\n(2) Contains synaptic vesicles filled with neurotransmitters\n(3) Site of protein synthesis containing RER and ribosomes\n(4) Funnel-shaped trigger zone where action potentials originate\n\nChoose the correct option:",
+        "hi": "सूची-I (न्यूरॉन घटक) को सूची-II (संरचनात्मक या कार्यात्मक विशेषता) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) निसल कणिकाएं\n(b) एक्सॉन हिलॉक\n(c) सिनैप्टिक नॉब\n(d) रेनवियर की गांठ\n\nसूची-II:\n(1) अमज्जाकृत अंतराल जहाँ साल्टेटरी विद्रुवण होता है\n(2) न्यूरोट्रांसमीटर से भरी सिनैप्टिक पुटिकाएं पाई जाती हैं\n(3) RER और राइबोसोम युक्त प्रोटीन संश्लेषण का स्थल\n(4) कीप के आकार का ट्रिगर क्षेत्र जहाँ क्रिया विभव उत्पन्न होता है\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+          "hi": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)"
+        },
+        "B": {
+          "en": "(a)-(3), (b)-(1), (c)-(2), (d)-(4)",
+          "hi": "(a)-(3), (b)-(1), (c)-(2), (d)-(4)"
+        },
+        "C": {
+          "en": "(a)-(3), (b)-(4), (c)-(2), (d)-(1)",
+          "hi": "(a)-(3), (b)-(4), (c)-(2), (d)-(1)"
+        },
+        "D": {
+          "en": "(a)-(4), (b)-(3), (c)-(1), (d)-(2)",
+          "hi": "(a)-(4), (b)-(3), (c)-(1), (d)-(2)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Correct matching is:\n- (a) Nissl's granules: composed of RER and ribosomes, function in protein synthesis -> (3)\n- (b) Axon hillock: region where soma narrows into axon, highest density of Na+ channels, generates AP -> (4)\n- (c) Synaptic knob: bulbous terminal containing neurotransmitter vesicles -> (2)\n- (d) Node of Ranvier: periodic gap in myelin where saltatory conduction takes place -> (1)",
+        "hi": "सही सुमेलन है:\n- (a) निसल कणिकाएं: RER और राइबोसोम युक्त प्रोटीन संश्लेषण स्थल -> (3)\n- (b) एक्सॉन हिलॉक: ट्रिगर ज़ोन जहाँ क्रिया विभव उत्पन्न होता है -> (4)\n- (c) सिनैप्टिक नॉब: न्यूरोट्रांसमीटर पुटिकाओं से युक्त बल्बनुमा सिरा -> (2)\n- (d) रेनवियर की गांठ: माइलिन आच्छद के बीच का अंतराल जहाँ साल्टेटरी चालन होता है -> (1)\nअतः सही विकल्प C है।"
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Identify the INCORRECT row in the comparative table between Myelinated and Non-myelinated nerve fibres:",
+        "hi": "मज्जाकृत (Myelinated) और गैर-मज्जाकृत (Non-myelinated) तंत्रिका तंतुओं के बीच तुलनात्मक तालिका में गलत पंक्ति की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "Myelin sheath: Present in Myelinated fibres; Absent in Non-myelinated fibres",
+          "hi": "माइलिन आच्छद: मज्जाकृत तंतुओं में उपस्थित; गैर-मज्जाकृत तंतुओं में अनुपस्थित"
+        },
+        "B": {
+          "en": "Schwann cells: Present in Myelinated fibres; Completely absent in Non-myelinated fibres",
+          "hi": "श्वान कोशिकाएं: मज्जाकृत तंतुओं में उपस्थित; गैर-मज्जाकृत तंतुओं में पूरी तरह से अनुपस्थित"
+        },
+        "C": {
+          "en": "Nodes of Ranvier: Present in Myelinated fibres; Absent in Non-myelinated fibres",
+          "hi": "रेनवियर की गांठें: मज्जाकृत तंतुओं में उपस्थित; गैर-मज्जाकृत तंतुओं में अनुपस्थित"
+        },
+        "D": {
+          "en": "Typical location: Cranial and spinal nerves in Myelinated; Autonomous and somatic neural systems in Non-myelinated",
+          "hi": "विशिष्ट स्थान: मज्जाकृत में कपालीय और मेरुरज्जु तंत्रिकाएं; गैर-मज्जाकृत में स्वायत्त और कायिक तंत्रिका तंत्र"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Row B is incorrect. Schwann cells are present in BOTH myelinated and non-myelinated nerve fibres of the PNS! In myelinated fibres, Schwann cells wrap spirally around the axon forming the myelin sheath. In non-myelinated fibres, Schwann cells simply envelope the axons without spiraling to form a myelin sheath.",
+        "hi": "पंक्ति B गलत है। PNS के मज्जाकृत और गैर-मज्जाकृत दोनों प्रकार के तंत्रिका तंतुओं में श्वान कोशिकाएं उपस्थित होती हैं! मज्जाकृत तंतुओं में, श्वान कोशिकाएं एक्सॉन के चारों ओर लिपटकर माइलिन आच्छद बनाती हैं। गैर-मज्जाकृत तंतुओं में, श्वान कोशिकाएं एक्सॉन को घेरती तो हैं लेकिन माइलिन आच्छद नहीं बनाती हैं।"
+      }
+    }
+  ]
+}

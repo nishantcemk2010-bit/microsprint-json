@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc08_q01",
+      "category": "Theory",
+      "question": {
+        "en": "The solubility product constant (Ksp) is applicable to:",
+        "hi": "विलेयता गुणनफल स्थिरांक (Ksp) किसके लिए लागू होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Sparingly soluble salts in their saturated solutions",
+          "hi": "अल्प विलेय लवणों के संतृप्त विलयनों के लिए"
+        },
+        "B": {
+          "en": "Highly soluble salts in unsaturated solutions",
+          "hi": "अति विलेय लवणों के असंतृप्त विलयनों के लिए"
+        },
+        "C": {
+          "en": "Completely insoluble covalent solids",
+          "hi": "पूर्णतः अविलेय सहसंयोजक ठोसों के लिए"
+        },
+        "D": {
+          "en": "Ideal gases at standard temperature",
+          "hi": "मानक तापमान पर आदर्श गैसों के लिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is the condition for precipitation of a salt in terms of Ionic Product (Qsp) and Solubility Product (Ksp)?",
+        "hi": "आयनिक गुणनफल (Qsp) तथा विलेयता गुणनफल (Ksp) के संदर्भ में विलयन से लवण के अवक्षेपण की क्या शर्त है?"
+      },
+      "options": {
+        "A": {
+          "en": "Qsp > Ksp (Super-saturated solution)",
+          "hi": "Qsp > Ksp (अति-संतृप्त विलयन)"
+        },
+        "B": {
+          "en": "Qsp < Ksp (Unsaturated solution)",
+          "hi": "Qsp < Ksp (असंतृप्त विलयन)"
+        },
+        "C": {
+          "en": "Qsp = Ksp (Saturated solution)",
+          "hi": "Qsp = Ksp (संतृप्त विलयन)"
+        },
+        "D": {
+          "en": "Qsp = 0",
+          "hi": "Qsp = 0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q03",
+      "category": "Theory",
+      "question": {
+        "en": "The solubility of AgCl in aqueous NaCl solution is lower than that in pure water due to:",
+        "hi": "जलीय NaCl विलयन में AgCl की विलेयता शुद्ध जल की तुलना में कम होती है, इसका कारण है:"
+      },
+      "options": {
+        "A": {
+          "en": "Common ion effect of Cl^- ions",
+          "hi": "Cl^- आयनों का सम-आयन प्रभाव"
+        },
+        "B": {
+          "en": "Salting out of Na+ ions",
+          "hi": "Na+ आयनों का साल्टिंग आउट"
+        },
+        "C": {
+          "en": "Complex formation",
+          "hi": "संकुल निर्माण"
+        },
+        "D": {
+          "en": "Hydrolysis of Ag+",
+          "hi": "Ag+ का जल-अपघटन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In qualitative inorganic analysis, why are group II cations precipitated as sulfides in acidic medium (dil. HCl + H2S)?",
+        "hi": "गुणात्मक अकार्बनिक विश्लेषण में समूह II के धनायनों को अम्लीय माध्यम (तनु HCl + H2S) में सल्फाइड के रूप में क्यों अवक्षेपित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "H+ from HCl suppresses H2S ionization, lowering [S^2-] enough to precipitate only group II sulfides with very low Ksp",
+          "hi": "HCl का H+ सम-आयन प्रभाव से H2S का आयनन घटाता है, जिससे कम [S^2-] पर केवल समूह II सल्फाइड अवक्षेपित होते हैं"
+        },
+        "B": {
+          "en": "HCl increases [S^2-] to precipitate all sulfides",
+          "hi": "HCl, S^2- सांद्रता को बढ़ाता है"
+        },
+        "C": {
+          "en": "HCl prevents oxidation of Cu2+",
+          "hi": "HCl, Cu2+ का ऑक्सीकरण रोकता है"
+        },
+        "D": {
+          "en": "HCl acts as a catalyst",
+          "hi": "HCl उत्प्रेरक की तरह कार्य करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the effect of adding excess aqueous NH3 on a precipitate of AgCl?",
+        "hi": "AgCl के अवक्षेप में आधिक्य जलीय अमोनिया (NH3) मिलाने पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Precipitate dissolves due to formation of soluble [Ag(NH3)2]^+ complex",
+          "hi": "विलेय संकुल [Ag(NH3)2]^+ बनने के कारण अवक्षेप घुल जाता है"
+        },
+        "B": {
+          "en": "Precipitate turns black due to reduction to silver metal",
+          "hi": "सिल्वर धातु में अपचयन के कारण अवक्षेप काला हो जाता है"
+        },
+        "C": {
+          "en": "Precipitate mass doubles",
+          "hi": "अवक्षेप का द्रव्यमान दोगुना हो जाता है"
+        },
+        "D": {
+          "en": "No reaction occurs",
+          "hi": "कोई अभिक्रिया नहीं होती"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q06",
+      "category": "Theory",
+      "question": {
+        "en": "For two sparingly soluble salts AB and AB2 having the exact same Ksp value of 4.0 × 10^-12, which salt has the higher molar solubility (S)?",
+        "hi": "समान Ksp मान 4.0 × 10^-12 वाले दो अल्प विलेय लवणों AB तथा AB2 में से किसकी मोलर विलेयता (S) अधिक होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "AB2 has higher molar solubility",
+          "hi": "AB2 की मोलर विलेयता अधिक होगी"
+        },
+        "B": {
+          "en": "AB has higher molar solubility",
+          "hi": "AB की मोलर विलेयता अधिक होगी"
+        },
+        "C": {
+          "en": "Both have exactly equal molar solubility",
+          "hi": "दोनों की मोलर विलेयता समान होगी"
+        },
+        "D": {
+          "en": "Neither dissolves at all",
+          "hi": "कोई भी नहीं घुलेगा"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the general relation between solubility product (Ksp) and molar solubility (S) for a salt of the type AxBy?",
+        "hi": "AxBy प्रकार के लवण के लिए विलेयता गुणनफल (Ksp) तथा मोलर विलेयता (S) के मध्य क्या संबंध होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ksp = x^x · y^y · S^(x+y)",
+          "hi": "Ksp = x^x · y^y · S^(x+y)"
+        },
+        "B": {
+          "en": "Ksp = (x · y) · S^(x+y)",
+          "hi": "Ksp = (x · y) · S^(x+y)"
+        },
+        "C": {
+          "en": "Ksp = (x + y) · S^(x·y)",
+          "hi": "Ksp = (x + y) · S^(x·y)"
+        },
+        "D": {
+          "en": "Ksp = S^(x+y) / (x^x · y^y)",
+          "hi": "Ksp = S^(x+y) / (x^x · y^y)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q08",
+      "category": "Formula",
+      "question": {
+        "en": "The solubility of calcium fluoride (CaF2) in pure water at 298 K is 2.0 × 10^-4 mol/L. What is its solubility product (Ksp)?",
+        "hi": "298 K पर शुद्ध जल में कैल्शियम फ्लोराइड (CaF2) की विलेयता 2.0 × 10^-4 mol/L है। इसका विलेयता गुणनफल (Ksp) क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "3.2 × 10^-11",
+          "hi": "3.2 × 10^-11"
+        },
+        "B": {
+          "en": "4.0 × 10^-8",
+          "hi": "4.0 × 10^-8"
+        },
+        "C": {
+          "en": "8.0 × 10^-12",
+          "hi": "8.0 × 10^-12"
+        },
+        "D": {
+          "en": "1.6 × 10^-11",
+          "hi": "1.6 × 10^-11"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the molar solubility of silver chloride (AgCl) in a 0.1 M NaCl solution? (Ksp of AgCl = 1.8 × 10^-10)",
+        "hi": "0.1 M NaCl विलयन में सिल्वर क्लोराइड (AgCl) की मोलर विलेयता क्या होगी? (AgCl का Ksp = 1.8 × 10^-10)"
+      },
+      "options": {
+        "A": {
+          "en": "1.8 × 10^-9 M",
+          "hi": "1.8 × 10^-9 M"
+        },
+        "B": {
+          "en": "1.34 × 10^-5 M",
+          "hi": "1.34 × 10^-5 M"
+        },
+        "C": {
+          "en": "1.8 × 10^-10 M",
+          "hi": "1.8 × 10^-10 M"
+        },
+        "D": {
+          "en": "0.1 M",
+          "hi": "0.1 M"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q10",
+      "category": "Formula",
+      "question": {
+        "en": "Equal volumes of 0.002 M AgNO3 and 0.002 M NaCl solutions are mixed together. Will AgCl precipitate? (Ksp = 1.8 × 10^-10)",
+        "hi": "0.002 M AgNO3 तथा 0.002 M NaCl के समान आयतन मिलाए जाते हैं। क्या AgCl अवक्षेपित होगा? (Ksp = 1.8 × 10^-10)"
+      },
+      "options": {
+        "A": {
+          "en": "Yes, because Qsp (1.0 × 10^-6) > Ksp (1.8 × 10^-10)",
+          "hi": "हाँ, क्योंकि Qsp (1.0 × 10^-6) > Ksp (1.8 × 10^-10)"
+        },
+        "B": {
+          "en": "No, because Qsp < Ksp",
+          "hi": "नहीं, क्योंकि Qsp < Ksp"
+        },
+        "C": {
+          "en": "No, because solution remains unsaturated",
+          "hi": "नहीं, क्योंकि विलयन असंतृप्त रहेगा"
+        },
+        "D": {
+          "en": "Precipitation only occurs at 100°C",
+          "hi": "अवक्षेपण केवल 100°C पर ही होगा"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q11",
+      "category": "Trend",
+      "question": {
+        "en": "For three silver halides, Ksp values at 25°C are: AgCl = 1.8 × 10^-10, AgBr = 5.0 × 10^-13, AgI = 8.3 × 10^-17. What is the correct order of solubility in pure water?",
+        "hi": "तीन सिल्वर हैलाइडों के Ksp मान हैं: AgCl = 1.8×10^-10, AgBr = 5.0×10^-13, AgI = 8.3×10^-17। शुद्ध जल में इनकी विलेयता का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "AgCl > AgBr > AgI",
+          "hi": "AgCl > AgBr > AgI"
+        },
+        "B": {
+          "en": "AgI > AgBr > AgCl",
+          "hi": "AgI > AgBr > AgCl"
+        },
+        "C": {
+          "en": "AgBr > AgCl > AgI",
+          "hi": "AgBr > AgCl > AgI"
+        },
+        "D": {
+          "en": "AgCl = AgBr = AgI",
+          "hi": "AgCl = AgBr = AgI"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q12",
+      "category": "Reaction",
+      "question": {
+        "en": "In group III cation analysis, NH4OH is added in the presence of NH4Cl. What role does NH4Cl play?",
+        "hi": "समूह III के धनायन विश्लेषण में NH4OH को NH4Cl की उपस्थिति में मिलाया जाता है। NH4Cl की क्या भूमिका है?"
+      },
+      "options": {
+        "A": {
+          "en": "Suppresses dissociation of NH4OH by common ion effect, allowing only group III hydroxides with very low Ksp to precipitate",
+          "hi": "सम-आयन प्रभाव से NH4OH का आयनन दबाता है जिससे केवल अत्यंत कम Ksp वाले समूह III हाइड्रॉक्साइड अवक्षेपित होते हैं"
+        },
+        "B": {
+          "en": "Increases [OH-] to precipitate group IV hydroxides",
+          "hi": "[OH-] बढ़ाकर समूह IV हाइड्रॉक्साइड अवक्षेपित करता है"
+        },
+        "C": {
+          "en": "Dissolves group III cations into complexes",
+          "hi": "समूह III धनायनों को संकुल में घोल देता है"
+        },
+        "D": {
+          "en": "Acts as an oxidizing agent",
+          "hi": "ऑक्सीकारक का कार्य करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The diagram illustrates the dissolution-precipitation dynamic equilibrium of sparingly soluble BaSO4 in water:\nBaSO4(solid)  <==== dissolution ====>  Ba^2+(aq)  +  SO4^2-(aq)\n               <=== precipitation ==\nAt dynamic saturation equilibrium, which condition is true?",
+        "hi": "जल में अल्प विलेय BaSO4 के घुलने-अवक्षेपण के गतिक साम्य का आरेख देखिए:\nBaSO4(solid)  <==== dissolution ====>  Ba^2+(aq)  +  SO4^2-(aq)\n               <=== precipitation ==\nगतिक संतृप्त साम्यावस्था पर कौन-सी स्थिति सत्य है?"
+      },
+      "options": {
+        "A": {
+          "en": "Rate of dissolution = Rate of precipitation, and Qsp = Ksp",
+          "hi": "घुलने की दर = अवक्षेपण की दर, तथा Qsp = Ksp"
+        },
+        "B": {
+          "en": "Rate of dissolution > Rate of precipitation",
+          "hi": "घुलने की दर > अवक्षेपण की दर"
+        },
+        "C": {
+          "en": "All solid BaSO4 dissolves completely",
+          "hi": "सारा ठोस BaSO4 पूर्णतः घुल जाता है"
+        },
+        "D": {
+          "en": "Qsp = 0",
+          "hi": "Qsp = 0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table comparing ionic product with solubility product:\n| Condition | Solution State | Precipitation Observation |\n|---|---|---|\n| Qsp < Ksp | Unsaturated | No precipitation, more solute dissolves |\n| Qsp = Ksp | Saturated | Dynamic equilibrium, no precipitate |\n| Qsp > Ksp | Super-saturated | X |\nWhat occurs in condition X?",
+        "hi": "आयनिक गुणनफल तथा विलेयता गुणनफल की तुलना करने वाली तालिका का अवलोकन कीजिए:\n| Condition | Solution State | Precipitation Observation |\n|---|---|---|\n| Qsp < Ksp | Unsaturated | No precipitation, more solute dissolves |\n| Qsp = Ksp | Saturated | Dynamic equilibrium, no precipitate |\n| Qsp > Ksp | Super-saturated | X |\nस्थिति X में क्या घटित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Precipitation occurs until Qsp drops to Ksp",
+          "hi": "अवक्षेपण होता है जब तक कि Qsp घटकर Ksp के बराबर न हो जाए"
+        },
+        "B": {
+          "en": "Solution turns transparent and gas evolves",
+          "hi": "विलयन पारदर्शी हो जाता है और गैस निकलती है"
+        },
+        "C": {
+          "en": "Solid dissolves even more rapidly",
+          "hi": "ठोस और भी तेजी से घुलता है"
+        },
+        "D": {
+          "en": "Ksp increases to match Qsp",
+          "hi": "Ksp बढ़कर Qsp के बराबर हो जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc08_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A plot shows the solubility of AgCl (y-axis) as a function of added NaCl concentration (x-axis):\n^ Solubility of AgCl\n|\n|\\_\n|  \\___\n|      \\___________\n+------------------------> [NaCl] added\nWhat principle explains this steep drop in solubility?",
+        "hi": "NaCl की जोड़ी गई सांद्रता (x-अक्ष) के सापेक्ष AgCl की विलेयता (y-अक्ष) का आरेख प्रदर्शित करता है:\n^ Solubility of AgCl\n|\n|\\_\n|  \\___\n|      \\___________\n+------------------------> [NaCl] added\nविलेयता में इस तीव्र गिरावट को कौन-सा सिद्धांत स्पष्ट करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Common ion effect suppressing solubility according to Le Chatelier's principle",
+          "hi": "ला-शातेलिए नियमानुसार सम-आयन प्रभाव द्वारा विलेयता का ह्रास"
+        },
+        "B": {
+          "en": "Henry's law of gas solubility",
+          "hi": "गैस विलेयता का हेनरी नियम"
+        },
+        "C": {
+          "en": "Raoult's law of vapor pressure",
+          "hi": "वाष्प दाब का राउल्ट नियम"
+        },
+        "D": {
+          "en": "Arrhenius activation energy",
+          "hi": "आरेनियस सक्रियण ऊर्जा"
+        }
+      }
+    }
+  ]
+}

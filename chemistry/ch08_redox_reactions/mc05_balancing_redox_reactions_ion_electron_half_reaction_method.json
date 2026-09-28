@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc05_q01",
+      "category": "Theory",
+      "question": {
+        "en": "In the ion-electron (half-reaction) method, the overall redox reaction is split into:",
+        "hi": "आयन-इलेक्ट्रॉन (अर्ध-अभिक्रिया) विधि में समग्र रेडॉक्स अभिक्रिया को किसमें विभाजित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Two separate half-reactions: one for oxidation and one for reduction",
+          "hi": "दो पृथक अर्ध-अभिक्रियाओं में: एक ऑक्सीकरण के लिए तथा एक अपचयन के लिए"
+        },
+        "B": {
+          "en": "Four separate quarter-reactions",
+          "hi": "चार पृथक चतुर्थांश अभिक्रियाओं में"
+        },
+        "C": {
+          "en": "Gas phase and liquid phase reactions",
+          "hi": "गैसीय प्रावस्था तथा द्रव प्रावस्था अभिक्रियाओं में"
+        },
+        "D": {
+          "en": "Cationic and anionic precipitation steps",
+          "hi": "धनायनिक तथा ऋणायनिक अवक्षेपण चरणों में"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In balancing a half-reaction in ACIDIC solution, what is the correct order of balancing atoms?",
+        "hi": "अम्लीय विलयन में अर्ध-अभिक्रिया को संतुलित करते समय परमाणुओं को संतुलित करने का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Balance atoms other than O and H first, then balance O using H2O, then balance H using H+, and finally balance charge using electrons (e^-)",
+          "hi": "पहले O तथा H के अतिरिक्त अन्य परमाणुओं को संतुलित करें, फिर H2O द्वारा O को, H+ द्वारा H को, और अंत में इलेक्ट्रॉनों (e^-) द्वारा आवेश को संतुलित करें"
+        },
+        "B": {
+          "en": "Balance charge first, then H, then O, then other atoms",
+          "hi": "पहले आवेश, फिर H, फिर O, और अंत में अन्य परमाणुओं को संतुलित करें"
+        },
+        "C": {
+          "en": "Balance H+ first, then add OH-, then other atoms",
+          "hi": "पहले H+, फिर OH-, फिर अन्य परमाणुओं को संतुलित करें"
+        },
+        "D": {
+          "en": "Balance O using O2 gas, then H using H2 gas",
+          "hi": "O2 द्वारा O को तथा H2 द्वारा H को संतुलित करें"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q03",
+      "category": "Theory",
+      "question": {
+        "en": "On which side of the half-reaction are electrons added for an OXIDATION half-reaction?",
+        "hi": "ऑक्सीकरण अर्ध-अभिक्रिया में इलेक्ट्रॉनों को किस ओर जोड़ा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "On the product (right) side, representing electron release",
+          "hi": "उत्पाद (दाईं) ओर, जो इलेक्ट्रॉनों के त्याग को दर्शाता है"
+        },
+        "B": {
+          "en": "On the reactant (left) side, representing electron absorption",
+          "hi": "अभिकारक (बाईं) ओर, जो इलेक्ट्रॉनों के अवशोषण को दर्शाता है"
+        },
+        "C": {
+          "en": "On both sides equally",
+          "hi": "दोनों ओर समान रूप से"
+        },
+        "D": {
+          "en": "Electrons are never included in half-reactions",
+          "hi": "अर्ध-अभिक्रियाओं में इलेक्ट्रॉन कभी नहीं लिखे जाते"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q04",
+      "category": "Theory",
+      "question": {
+        "en": "When combining the two balanced half-reactions into the final net equation, why must they be multiplied by suitable integers?",
+        "hi": "दोनों संतुलित अर्ध-अभिक्रियाओं को अंतिम शुद्ध समीकरण में जोड़ते समय उन्हें उपयुक्त पूर्णांकों से गुणा क्यों किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "To equalize the number of electrons lost and gained so that free electrons cancel out completely",
+          "hi": "त्यागे गए तथा ग्रहण किए गए इलेक्ट्रॉनों की संख्या बराबर करने के लिए जिससे मुक्त इलेक्ट्रॉन पूरी तरह निरस्त हो जाएं"
+        },
+        "B": {
+          "en": "To ensure equal volume of gases on both sides",
+          "hi": "दोनों ओर गैसों का आयतन समान करने के लिए"
+        },
+        "C": {
+          "en": "To increase the activation energy",
+          "hi": "सक्रियण ऊर्जा बढ़ाने के लिए"
+        },
+        "D": {
+          "en": "To make all stoichiometric coefficients even numbers",
+          "hi": "सभी गुणांकों को सम संख्या बनाने के लिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q05",
+      "category": "Theory",
+      "question": {
+        "en": "In BASIC medium, how is the charge balanced in a reduction half-reaction after balancing atoms?",
+        "hi": "क्षारीय माध्यम में परमाणुओं को संतुलित करने के पश्चात अपचयन अर्ध-अभिक्रिया में आवेश को कैसे संतुलित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "By adding electrons (e^-) to the reactant side to make total charges on both sides algebraically equal",
+          "hi": "अभिकारक पक्ष में इलेक्ट्रॉन (e^-) जोड़कर ताकि दोनों पक्षों का कुल आवेश बीजगणितीय रूप से समान हो जाए"
+        },
+        "B": {
+          "en": "By adding extra metal ions",
+          "hi": "अतिरिक्त धातु आयन जोड़कर"
+        },
+        "C": {
+          "en": "By changing the oxidation states of spectators",
+          "hi": "दर्शक आयनों की ऑक्सीकरण संख्या बदलकर"
+        },
+        "D": {
+          "en": "By deleting negative charges from products",
+          "hi": "उत्पादों से ऋण आवेश हटाकर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is the balanced half-reaction for the reduction of permanganate ion (MnO4^-) in ACIDIC medium?",
+        "hi": "अम्लीय माध्यम में परमैंगनेट आयन (MnO4^-) के अपचयन की संतुलित अर्ध-अभिक्रिया क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "MnO4^- + 8H+ + 5e^- -> Mn^2+ + 4H2O",
+          "hi": "MnO4^- + 8H+ + 5e^- -> Mn^2+ + 4H2O"
+        },
+        "B": {
+          "en": "MnO4^- + 4H+ + 3e^- -> MnO2 + 2H2O",
+          "hi": "MnO4^- + 4H+ + 3e^- -> MnO2 + 2H2O"
+        },
+        "C": {
+          "en": "MnO4^- + e^- -> MnO4^2-",
+          "hi": "MnO4^- + e^- -> MnO4^2-"
+        },
+        "D": {
+          "en": "MnO4^- + 8H+ + 7e^- -> Mn + 4H2O",
+          "hi": "MnO4^- + 8H+ + 7e^- -> Mn + 4H2O"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the balanced half-reaction for the reduction of dichromate ion (Cr2O7^2-) in ACIDIC medium?",
+        "hi": "अम्लीय माध्यम में डाइक्रोमेट आयन (Cr2O7^2-) के अपचयन की संतुलित अर्ध-अभिक्रिया क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cr2O7^2- + 14H+ + 6e^- -> 2Cr^3+ + 7H2O",
+          "hi": "Cr2O7^2- + 14H+ + 6e^- -> 2Cr^3+ + 7H2O"
+        },
+        "B": {
+          "en": "Cr2O7^2- + 7H+ + 3e^- -> Cr^3+ + 7/2 H2O",
+          "hi": "Cr2O7^2- + 7H+ + 3e^- -> Cr^3+ + 7/2 H2O"
+        },
+        "C": {
+          "en": "Cr2O7^2- + 14H+ + 3e^- -> 2Cr^3+ + 7H2O",
+          "hi": "Cr2O7^2- + 14H+ + 3e^- -> 2Cr^3+ + 7H2O"
+        },
+        "D": {
+          "en": "Cr2O7^2- + 6e^- -> 2Cr^3+ + 7O^2-",
+          "hi": "Cr2O7^2- + 6e^- -> 2Cr^3+ + 7O^2-"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q08",
+      "category": "Reaction",
+      "question": {
+        "en": "What is the balanced reduction half-reaction of permanganate ion (MnO4^-) in NEUTRAL or FAINTLY ALKALINE medium?",
+        "hi": "उदासीन अथवा दुर्बल क्षारीय माध्यम में परमैंगनेट आयन (MnO4^-) के अपचयन की संतुलित अर्ध-अभिक्रिया क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "MnO4^- + 2H2O + 3e^- -> MnO2 + 4OH^-",
+          "hi": "MnO4^- + 2H2O + 3e^- -> MnO2 + 4OH^-"
+        },
+        "B": {
+          "en": "MnO4^- + 8H+ + 5e^- -> Mn^2+ + 4H2O",
+          "hi": "MnO4^- + 8H+ + 5e^- -> Mn^2+ + 4H2O"
+        },
+        "C": {
+          "en": "MnO4^- + e^- -> MnO4^2-",
+          "hi": "MnO4^- + e^- -> MnO4^2-"
+        },
+        "D": {
+          "en": "MnO4^- + 4H2O + 7e^- -> Mn + 8OH^-",
+          "hi": "MnO4^- + 4H2O + 7e^- -> Mn + 8OH^-"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q09",
+      "category": "Calculation",
+      "question": {
+        "en": "For balancing the reaction: Cu + NO3^- + H+ -> Cu^2+ + NO2 + H2O, what are the multipliers for the Cu half-reaction and NO3^- half-reaction respectively?",
+        "hi": "समीकरण: Cu + NO3^- + H+ -> Cu^2+ + NO2 + H2O को संतुलित करने के लिए Cu अर्ध-अभिक्रिया तथा NO3^- अर्ध-अभिक्रिया के गुणक क्रमशः क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "1 and 2",
+          "hi": "1 और 2"
+        },
+        "B": {
+          "en": "2 and 1",
+          "hi": "2 और 1"
+        },
+        "C": {
+          "en": "3 and 2",
+          "hi": "3 और 2"
+        },
+        "D": {
+          "en": "1 and 1",
+          "hi": "1 और 1"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q10",
+      "category": "Calculation",
+      "question": {
+        "en": "In the balanced equation for the oxidation of hydrogen peroxide by acidified potassium permanganate: 2MnO4^- + 5H2O2 + 6H+ -> 2Mn^2+ + 5O2 + 8H2O, how many electrons are transferred in total?",
+        "hi": "अम्लीकृत KMnO4 द्वारा H2O2 के ऑक्सीकरण के संतुलित समीकरण में कुल कितने इलेक्ट्रॉनों का स्थानांतरण होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "10 electrons",
+          "hi": "10 इलेक्ट्रॉन"
+        },
+        "B": {
+          "en": "5 electrons",
+          "hi": "5 इलेक्ट्रॉन"
+        },
+        "C": {
+          "en": "2 electrons",
+          "hi": "2 इलेक्ट्रॉन"
+        },
+        "D": {
+          "en": "16 electrons",
+          "hi": "16 इलेक्ट्रॉन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Consider the half-reactions:\n1) ClO^- + H2O + 2e^- -> Cl^- + 2OH^-\n2) ClO3^- + 3H2O + 6e^- -> Cl^- + 6OH^-\nWhat is the equivalent weight of KClO3 when it is reduced to KCl in this reaction?",
+        "hi": "जब KClO3 अपचयित होकर KCl बनाता है (6 इलेक्ट्रॉन प्रक्रम), तो KClO3 का तुल्यांकी भार क्या होगा? (M = KClO3 का अणुभार)"
+      },
+      "options": {
+        "A": {
+          "en": "M / 6",
+          "hi": "M / 6"
+        },
+        "B": {
+          "en": "M / 3",
+          "hi": "M / 3"
+        },
+        "C": {
+          "en": "M / 2",
+          "hi": "M / 2"
+        },
+        "D": {
+          "en": "M / 1",
+          "hi": "M / 1"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q12",
+      "category": "Calculation",
+      "question": {
+        "en": "When 1 mole of iron(II) oxalate (FeC2O4) is completely oxidized by acidified KMnO4 to Fe^3+ and CO2, how many moles of electrons are released?",
+        "hi": "जब 1 मोल आयरन(II) ऑक्सालेट (FeC2O4) अम्लीकृत KMnO4 द्वारा Fe^3+ तथा CO2 में पूर्णतः ऑक्सीकृत होता है, तो कुल कितने मोल इलेक्ट्रॉन मुक्त होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "3 moles of electrons (1 from Fe^2+ -> Fe^3+ and 2 from C2O4^2- -> 2CO2)",
+          "hi": "3 मोल इलेक्ट्रॉन (1 मोल Fe^2+ -> Fe^3+ से तथा 2 मोल C2O4^2- -> 2CO2 से)"
+        },
+        "B": {
+          "en": "1 mole of electrons",
+          "hi": "1 मोल इलेक्ट्रॉन"
+        },
+        "C": {
+          "en": "2 moles of electrons",
+          "hi": "2 मोल इलेक्ट्रॉन"
+        },
+        "D": {
+          "en": "5 moles of electrons",
+          "hi": "5 मोल इलेक्ट्रॉन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The step-by-step schematic for the half-reaction method in acidic medium is:\nStep 1: Write half-reactions\nStep 2: Balance non-O/H atoms\nStep 3: Balance O with H2O\nStep 4: Balance H with H+\nStep 5: Balance charge with e^-\nStep 6: Multiply to equalize e^- and ADD\nFor balancing: H2S + HNO3 -> S + NO + H2O, which step cancels out the 6 electrons?",
+        "hi": "आयन-इलेक्ट्रॉन विधि के चरणों का योजनाबद्ध प्रवाह देखिए:\nH2S + HNO3 -> S + NO + H2O के संतुलन में 6 इलेक्ट्रॉनों को निरस्त करने के लिए कौन-सा चरण उत्तरदायी है?"
+      },
+      "options": {
+        "A": {
+          "en": "Step 6: Multiplying H2S half (2e^-) by 3 and HNO3 half (3e^-) by 2",
+          "hi": "चरण 6: H2S अर्ध (2e^-) को 3 से तथा HNO3 अर्ध (3e^-) को 2 से गुणा करना"
+        },
+        "B": {
+          "en": "Step 3: Adding 4 H2O",
+          "hi": "चरण 3: 4 H2O जोड़ना"
+        },
+        "C": {
+          "en": "Step 4: Adding 6 H+",
+          "hi": "चरण 4: 6 H+ जोड़ना"
+        },
+        "D": {
+          "en": "Step 1: Writing the skeleton",
+          "hi": "चरण 1: कंकाल समीकरण लिखना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of permanganate reduction in different media:\n| Medium | Product of Mn | Change in O.S. | Electrons involved (n-factor) |\n|---|---|---|---|\n| Strongly Acidic | Mn^2+ | +7 -> +2 | 5 |\n| Neutral / Faintly Alkaline | MnO2 | +7 -> +4 | 3 |\n| Strongly Alkaline | X | +7 -> +6 | Y |\nIdentify product X and electrons Y in strongly alkaline medium:",
+        "hi": "विभिन्न माध्यमों में परमैंगनेट अपचयन की तालिका का अवलोकन कीजिए:\nप्रबल क्षारीय माध्यम में उत्पाद X तथा प्रयुक्त इलेक्ट्रॉन Y की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "X = MnO4^2- (Manganate ion), Y = 1",
+          "hi": "X = MnO4^2- (मैंगनेट आयन), Y = 1"
+        },
+        "B": {
+          "en": "X = MnO2, Y = 3",
+          "hi": "X = MnO2, Y = 3"
+        },
+        "C": {
+          "en": "X = Mn(OH)2, Y = 5",
+          "hi": "X = Mn(OH)2, Y = 5"
+        },
+        "D": {
+          "en": "X = Mn2O3, Y = 4",
+          "hi": "X = Mn2O3, Y = 4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc05_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A plot shows the equivalent weight of KMnO4 (y-axis) as a function of the reaction medium:\nPoint 1 (Acidic medium): Eq. Wt = M / 5 = 31.6 g/eq\nPoint 2 (Neutral medium): Eq. Wt = M / 3 = 52.7 g/eq\nPoint 3 (Strongly alkaline medium): Eq. Wt = M / 1 = 158.0 g/eq\nWhat fundamental law explains these discrete values?",
+        "hi": "विभिन्न माध्यमों में KMnO4 के तुल्यांकी भार (M/5 = 31.6, M/3 = 52.7, M/1 = 158.0) का आलेख किस सिद्धांत को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Equivalent weight = Molecular weight / (number of electrons gained per formula unit), which depends strictly on the reaction medium",
+          "hi": "तुल्यांकी भार = अणुभार / (प्रति सूत्र इकाई ग्रहण किए गए इलेक्ट्रॉन), जो माध्यम पर निर्भर करता है"
+        },
+        "B": {
+          "en": "KMnO4 decomposes into metallic potassium in water",
+          "hi": "KMnO4 जल में धात्विक पोटेशियम में टूट जाता है"
+        },
+        "C": {
+          "en": "The molecular weight of KMnO4 changes with pH",
+          "hi": "pH के साथ KMnO4 का अणुभार बदल जाता है"
+        },
+        "D": {
+          "en": "Permanganate is an ideal gas at high pH",
+          "hi": "उच्च pH पर परमैंगनेट एक आदर्श गैस बन जाता है"
+        }
+      }
+    }
+  ]
+}

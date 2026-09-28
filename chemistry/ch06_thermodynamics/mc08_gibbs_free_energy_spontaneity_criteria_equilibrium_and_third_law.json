@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc08_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Gibbs free energy (G) is defined mathematically by J.W. Gibbs as:",
+        "hi": "गिब्स मुक्त ऊर्जा (G) को जे.डब्ल्यू. गिब्स द्वारा गणितीय रूप से किस प्रकार परिभाषित किया गया है?"
+      },
+      "options": {
+        "A": {
+          "en": "G = H - TS",
+          "hi": "G = H - TS"
+        },
+        "B": {
+          "en": "G = H + TS",
+          "hi": "G = H + TS"
+        },
+        "C": {
+          "en": "G = U - TS",
+          "hi": "G = U - TS"
+        },
+        "D": {
+          "en": "G = PV - TS",
+          "hi": "G = PV - TS"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc06_q02",
+      "category": "Theory",
+      "question": {
+        "en": "At constant temperature and pressure, the criterion for a process to be SPONTANEOUS is:",
+        "hi": "स्थिर तापमान और दाब पर, किसी प्रक्रम के स्वतःप्रवर्तित (Spontaneous) होने की कसौटी क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔG < 0 (decrease in Gibbs free energy, negative ΔG)",
+          "hi": "ΔG < 0 (गिब्स मुक्त ऊर्जा में कमी, ऋणात्मक ΔG)"
+        },
+        "B": {
+          "en": "ΔG > 0 (positive ΔG)",
+          "hi": "ΔG > 0 (धनात्मक ΔG)"
+        },
+        "C": {
+          "en": "ΔG = 0",
+          "hi": "ΔG = 0"
+        },
+        "D": {
+          "en": "ΔH = 0",
+          "hi": "ΔH = 0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What is the physical significance of the decrease in Gibbs free energy (-ΔG) for a process occurring at constant T and P?",
+        "hi": "स्थिर T और P पर होने वाले प्रक्रम के लिए गिब्स मुक्त ऊर्जा में कमी (-ΔG) का भौतिक महत्व क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "It represents the maximum useful (non-expansion) work obtainable from the system (-ΔG = w_useful)",
+          "hi": "यह निकाय से प्राप्त किए जा सकने वाले अधिकतम उपयोगी (गैर-प्रसार) कार्य का प्रतिनिधित्व करता है (-ΔG = w_उपयोगी)"
+        },
+        "B": {
+          "en": "It equals the total heat lost to the universe",
+          "hi": "यह ब्रह्मांड में खोई कुल ऊष्मा के बराबर होता है"
+        },
+        "C": {
+          "en": "It represents the expansion work done against atmospheric pressure",
+          "hi": "यह वायुमंडलीय दाब के विरुद्ध किए गए प्रसार कार्य को दर्शाता है"
+        },
+        "D": {
+          "en": "It is always equal to zero in all machines",
+          "hi": "यह सभी मशीनों में हमेशा शून्य के बराबर होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Under what conditions of enthalpy change (ΔH) and entropy change (ΔS) will a reaction be spontaneous at ALL temperatures?",
+        "hi": "एन्थैल्पी परिवर्तन (ΔH) और एन्ट्रॉपी परिवर्तन (ΔS) की किन परिस्थितियों में कोई अभिक्रिया सभी तापमानों पर स्वतःप्रवर्तित होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔH < 0 (exothermic) and ΔS > 0 (increase in entropy)",
+          "hi": "ΔH < 0 (ऊष्माक्षेपी) और ΔS > 0 (एन्ट्रॉपी में वृद्धि)"
+        },
+        "B": {
+          "en": "ΔH > 0 and ΔS < 0",
+          "hi": "ΔH > 0 और ΔS < 0"
+        },
+        "C": {
+          "en": "ΔH > 0 and ΔS > 0 at all temperatures",
+          "hi": "सभी तापमानों पर ΔH > 0 और ΔS > 0"
+        },
+        "D": {
+          "en": "ΔH < 0 and ΔS < 0 at ultra-high temperatures",
+          "hi": "अत्यधिक उच्च तापमान पर ΔH < 0 और ΔS < 0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q05",
+      "category": "Theory",
+      "question": {
+        "en": "The Third Law of Thermodynamics states that:",
+        "hi": "ऊष्मागतिकी का तीसरा नियम बताता है कि:"
+      },
+      "options": {
+        "A": {
+          "en": "The entropy of any pure, perfectly crystalline substance approaches zero as absolute zero of temperature (0 K) is approached",
+          "hi": "परम शून्य तापमान (0 K) पर किसी शुद्ध, पूर्णतः क्रिस्टलीय पदार्थ की एन्ट्रॉपी शून्य हो जाती है"
+        },
+        "B": {
+          "en": "Energy can neither be created nor destroyed",
+          "hi": "ऊर्जा न तो उत्पन्न की जा सकती है और न ही नष्ट की जा सकती है"
+        },
+        "C": {
+          "en": "Absolute zero temperature can be achieved in a finite number of steps",
+          "hi": "परम शून्य तापमान सीमित चरणों में प्राप्त किया जा सकता है"
+        },
+        "D": {
+          "en": "All liquids have zero entropy at their boiling point",
+          "hi": "सभी द्रवों की उनके क्वथनांक पर एन्ट्रॉपी शून्य होती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q06",
+      "category": "Theory",
+      "question": {
+        "en": "For an endothermic reaction (ΔH > 0) with an increase in entropy (ΔS > 0), when does the reaction become spontaneous?",
+        "hi": "एन्ट्रॉपी वृद्धि (ΔS > 0) वाली एक ऊष्माशोषी अभिक्रिया (ΔH > 0) के लिए, अभिक्रिया कब स्वतःप्रवर्तित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Only at high temperatures (T > ΔH / ΔS) where TΔS exceeds ΔH",
+          "hi": "केवल उच्च तापमान पर (T > ΔH / ΔS) जहाँ TΔS, ΔH से अधिक हो जाता है"
+        },
+        "B": {
+          "en": "Only at low temperatures",
+          "hi": "केवल निम्न तापमान पर"
+        },
+        "C": {
+          "en": "At all temperatures without exception",
+          "hi": "बिना किसी अपवाद के सभी तापमानों पर"
+        },
+        "D": {
+          "en": "Never at any temperature",
+          "hi": "किसी भी तापमान पर कभी नहीं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q07",
+      "category": "Formula",
+      "question": {
+        "en": "How is the standard Gibbs free energy change (Δ_r G°) of a reaction related to its equilibrium constant (K)?",
+        "hi": "किसी अभिक्रिया का मानक गिब्स मुक्त ऊर्जा परिवर्तन (Δ_r G°) उसके साम्यावस्था स्थिरांक (K) से किस प्रकार संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Δ_r G° = -RT ln K = -2.303 RT log K",
+          "hi": "Δ_r G° = -RT ln K = -2.303 RT log K"
+        },
+        "B": {
+          "en": "Δ_r G° = +RT ln K",
+          "hi": "Δ_r G° = +RT ln K"
+        },
+        "C": {
+          "en": "Δ_r G° = -RT / ln K",
+          "hi": "Δ_r G° = -RT / ln K"
+        },
+        "D": {
+          "en": "Δ_r G° = ln K / (RT)",
+          "hi": "Δ_r G° = ln K / (RT)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q08",
+      "category": "Formula",
+      "question": {
+        "en": "For a reaction, ΔH = -10.0 kJ/mol and ΔS = -20.0 J·K⁻¹·mol⁻¹. At what temperature (in Kelvin) will the reaction be at equilibrium (ΔG = 0)?",
+        "hi": "एक अभिक्रिया के लिए ΔH = -10.0 kJ/mol और ΔS = -20.0 J·K⁻¹·mol⁻¹ है। किस तापमान (केल्विन में) पर अभिक्रिया साम्यावस्था में होगी (ΔG = 0)?"
+      },
+      "options": {
+        "A": {
+          "en": "500 K",
+          "hi": "500 K"
+        },
+        "B": {
+          "en": "200 K",
+          "hi": "200 K"
+        },
+        "C": {
+          "en": "300 K",
+          "hi": "300 K"
+        },
+        "D": {
+          "en": "1000 K",
+          "hi": "1000 K"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q09",
+      "category": "Formula",
+      "question": {
+        "en": "If a reaction has an equilibrium constant K = 10 at 298 K, what is the value of Δ_r G°? (R = 8.314 J·K⁻¹·mol⁻¹, 2.303 × 8.314 × 298 ≈ 5705 J/mol)",
+        "hi": "यदि 298 K पर किसी अभिक्रिया का साम्य स्थिरांक K = 10 है, तो Δ_r G° का मान क्या है? (2.303 × 8.314 × 298 ≈ 5705 J/mol)"
+      },
+      "options": {
+        "A": {
+          "en": "-5.71 kJ/mol",
+          "hi": "-5.71 kJ/mol"
+        },
+        "B": {
+          "en": "+5.71 kJ/mol",
+          "hi": "+5.71 kJ/mol"
+        },
+        "C": {
+          "en": "-57.05 kJ/mol",
+          "hi": "-57.05 kJ/mol"
+        },
+        "D": {
+          "en": "0 kJ/mol",
+          "hi": "0 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q10",
+      "category": "Formula",
+      "question": {
+        "en": "For a reaction to have K > 1 (products favored over reactants at equilibrium), the standard Gibbs free energy change (Δ_r G°) must be:",
+        "hi": "किसी अभिक्रिया के लिए K > 1 (साम्यावस्था पर उत्पादों का अभिकारकों से अधिक होना) होने के लिए, मानक गिब्स मुक्त ऊर्जा परिवर्तन (Δ_r G°) क्या होना चाहिए?"
+      },
+      "options": {
+        "A": {
+          "en": "Negative (Δ_r G° < 0)",
+          "hi": "ऋणात्मक (Δ_r G° < 0)"
+        },
+        "B": {
+          "en": "Positive (Δ_r G° > 0)",
+          "hi": "धनात्मक (Δ_r G° > 0)"
+        },
+        "C": {
+          "en": "Zero (Δ_r G° = 0)",
+          "hi": "शून्य (Δ_r G° = 0)"
+        },
+        "D": {
+          "en": "Infinite",
+          "hi": "अनंत"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q11",
+      "category": "Formula",
+      "question": {
+        "en": "For the vaporization of water at 1 atm: H₂O(l) ⇌ H₂O(g), ΔH = +40.68 kJ/mol and ΔS = +109 J·K⁻¹·mol⁻¹. What is the normal boiling point of water calculated from these thermodynamic data?",
+        "hi": "1 atm पर जल के वाष्पीकरण H₂O(l) ⇌ H₂O(g) के लिए ΔH = +40.68 kJ/mol और ΔS = +109 J·K⁻¹·mol⁻¹ है। इन आंकड़ों से परिकलित जल का सामान्य क्वथनांक क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "373.2 K (100.05 °C)",
+          "hi": "373.2 K (100.05 °C)"
+        },
+        "B": {
+          "en": "273.15 K (0 °C)",
+          "hi": "273.15 K (0 °C)"
+        },
+        "C": {
+          "en": "300.0 K (27 °C)",
+          "hi": "300.0 K (27 °C)"
+        },
+        "D": {
+          "en": "412.5 K (139 °C)",
+          "hi": "412.5 K (139 °C)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q12",
+      "category": "Formula",
+      "question": {
+        "en": "For a reaction with ΔH = -80 kJ and ΔS = -200 J/K, at what temperature does the reaction switch from spontaneous to non-spontaneous?",
+        "hi": "ΔH = -80 kJ और ΔS = -200 J/K वाली अभिक्रिया के लिए, किस तापमान पर अभिक्रिया स्वतःप्रवर्तित से अस्वतःप्रवर्तित में बदल जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Above 400 K (it is spontaneous below 400 K and non-spontaneous above 400 K)",
+          "hi": "400 K से ऊपर (यह 400 K से नीचे स्वतःप्रवर्तित और 400 K से ऊपर अस्वतःप्रवर्तित है)"
+        },
+        "B": {
+          "en": "Above 200 K",
+          "hi": "200 K से ऊपर"
+        },
+        "C": {
+          "en": "Below 400 K",
+          "hi": "400 K से नीचे"
+        },
+        "D": {
+          "en": "Above 800 K",
+          "hi": "800 K से ऊपर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table summarizing effect of temperature on reaction spontaneity (ΔG = ΔH - TΔS):\n| Case | ΔH | ΔS | Spontaneity Condition |\n| :--- | :--- | :--- | :--- |\n| 1 | - | + | Spontaneous at all temperatures |\n| 2 | + | - | Non-spontaneous at all temperatures |\n| 3 | - | - | Spontaneous only at low temperatures |\n| 4 | + | + | Spontaneous only at high temperatures |\nWhich row correctly describes the combustion of fuels (e.g., C + O₂ → CO₂ where heat is released)?",
+        "hi": "तापमान के प्रभाव की तालिका की जाँच करें (ΔG = ΔH - TΔS):\n| स्थिति | ΔH | ΔS | स्वतःप्रवर्तकता की शर्त |\n| :--- | :--- | :--- | :--- |\n| 1 | - | + | सभी तापमानों पर स्वतःप्रवर्तित |\n| 2 | + | - | सभी तापमानों पर अस्वतःप्रवर्तित |\n| 3 | - | - | केवल निम्न तापमान पर स्वतःप्रवर्तित |\n| 4 | + | + | केवल उच्च तापमान पर स्वतःप्रवर्तित |\nकौन सी पंक्ति ईंधन के दहन (ऊष्माक्षेपी) का सही वर्णन करती है जहाँ गैस मोल बढ़ते हैं या स्थिर रहते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Case 1 (ΔH < 0, ΔS > 0: spontaneous at all temperatures)",
+          "hi": "स्थिति 1 (ΔH < 0, ΔS > 0: सभी तापमानों पर स्वतःप्रवर्तित)"
+        },
+        "B": {
+          "en": "Case 2",
+          "hi": "स्थिति 2"
+        },
+        "C": {
+          "en": "Case 3",
+          "hi": "स्थिति 3"
+        },
+        "D": {
+          "en": "Case 4",
+          "hi": "स्थिति 4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In a galvanic cell operating under standard conditions, what is the relationship between standard cell EMF (E°_cell) and standard Gibbs energy change (Δ_r G°)?",
+        "hi": "मानक परिस्थितियों में कार्य कर रहे एक गैल्वेनिक सेल में, मानक सेल विभव (E°_cell) और मानक गिब्स ऊर्जा परिवर्तन (Δ_r G°) के बीच क्या संबंध है?"
+      },
+      "options": {
+        "A": {
+          "en": "Δ_r G° = -nFE°_cell",
+          "hi": "Δ_r G° = -nFE°_cell"
+        },
+        "B": {
+          "en": "Δ_r G° = +nFE°_cell",
+          "hi": "Δ_r G° = +nFE°_cell"
+        },
+        "C": {
+          "en": "Δ_r G° = -FE°_cell / n",
+          "hi": "Δ_r G° = -FE°_cell / n"
+        },
+        "D": {
+          "en": "Δ_r G° = -nF / E°_cell",
+          "hi": "Δ_r G° = -nF / E°_cell"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc08_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Why can the Third Law of Thermodynamics NOT be applied to determine absolute entropy for glass or solid carbon monoxide (CO) at 0 K?",
+        "hi": "0 K पर कांच (glass) या ठोस कार्बन मोनोऑक्साइड (CO) के लिए निरपेक्ष एन्ट्रॉपी निर्धारित करने में ऊष्मागतिकी का तीसरा नियम क्यों लागू नहीं हो सकता?"
+      },
+      "options": {
+        "A": {
+          "en": "They are not perfectly crystalline and possess residual entropy at 0 K due to molecular frozen-in orientation disorder",
+          "hi": "वे पूर्णतः क्रिस्टलीय नहीं हैं और आणविक अभिविन्यास की अव्यवस्था जम जाने के कारण 0 K पर अवशिष्ट एन्ट्रॉपी (residual entropy) रखते हैं"
+        },
+        "B": {
+          "en": "They have infinite heat capacity at 0 K",
+          "hi": "उनकी 0 K पर अनंत ऊष्मा धारिता होती है"
+        },
+        "C": {
+          "en": "Their temperature cannot reach below 100 K",
+          "hi": "उनका तापमान 100 K से नीचे नहीं जा सकता"
+        },
+        "D": {
+          "en": "They undergo spontaneous radioactive decay at 0 K",
+          "hi": "वे 0 K पर स्वतः रेडियोधर्मी क्षय से गुजरते हैं"
+        }
+      }
+    }
+  ]
+}

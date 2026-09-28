@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc06_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Ostwald's dilution law states that for a weak binary electrolyte, the degree of dissociation (α) is:",
+        "hi": "ओस्टवाल्ड के तनुता नियम के अनुसार, किसी दुर्बल द्वि-अंगी विद्युत अपघट्य की वियोजन की मात्रा (α) होती है:"
+      },
+      "options": {
+        "A": {
+          "en": "Inversely proportional to square root of concentration (α ∝ 1/√C)",
+          "hi": "सांद्रता के वर्गमूल के व्युत्क्रमानुपाती (α ∝ 1/√C)"
+        },
+        "B": {
+          "en": "Directly proportional to concentration (α ∝ C)",
+          "hi": "सांद्रता के समानुपाती (α ∝ C)"
+        },
+        "C": {
+          "en": "Inversely proportional to volume (α ∝ 1/V)",
+          "hi": "आयतन के व्युत्क्रमानुपाती (α ∝ 1/V)"
+        },
+        "D": {
+          "en": "Independent of dilution",
+          "hi": "तनुता से स्वतंत्र"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q02",
+      "category": "Theory",
+      "question": {
+        "en": "For a polyprotic acid like phosphoric acid (H3PO4), what is the correct relation between successive ionization constants?",
+        "hi": "फॉस्फोरिक अम्ल (H3PO4) जैसे बहुप्रोटिक अम्ल के लिए क्रमिक आयनन स्थिरांकों के मध्य सही संबंध क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ka1 > Ka2 > Ka3",
+          "hi": "Ka1 > Ka2 > Ka3"
+        },
+        "B": {
+          "en": "Ka1 < Ka2 < Ka3",
+          "hi": "Ka1 < Ka2 < Ka3"
+        },
+        "C": {
+          "en": "Ka1 = Ka2 = Ka3",
+          "hi": "Ka1 = Ka2 = Ka3"
+        },
+        "D": {
+          "en": "Ka2 > Ka1 > Ka3",
+          "hi": "Ka2 > Ka1 > Ka3"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What is the relationship between the ionization constant of a weak acid (Ka) and that of its conjugate base (Kb)?",
+        "hi": "एक दुर्बल अम्ल के आयनन स्थिरांक (Ka) तथा उसके संयुग्मी क्षार के आयनन स्थिरांक (Kb) के बीच क्या संबंध होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ka × Kb = Kw",
+          "hi": "Ka × Kb = Kw"
+        },
+        "B": {
+          "en": "Ka / Kb = Kw",
+          "hi": "Ka / Kb = Kw"
+        },
+        "C": {
+          "en": "Ka + Kb = Kw",
+          "hi": "Ka + Kb = Kw"
+        },
+        "D": {
+          "en": "pKa × pKb = pKw",
+          "hi": "pKa × pKb = pKw"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Addition of sodium acetate to an aqueous acetic acid solution suppresses the acid's dissociation. This phenomenon is called:",
+        "hi": "एसिटिक अम्ल विलयन में सोडियम एसीटेट मिलाने पर उसका वियोजन घट जाता है। इस परिघटना को कहते हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Common ion effect",
+          "hi": "सम-आयन प्रभाव (कॉमन आयन प्रभाव)"
+        },
+        "B": {
+          "en": "Salt hydrolysis",
+          "hi": "लवण जल-अपघटन"
+        },
+        "C": {
+          "en": "Electrophoresis",
+          "hi": "वैद्युत कण संचलन"
+        },
+        "D": {
+          "en": "Peptization",
+          "hi": "पेप्टीकरण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q05",
+      "category": "Theory",
+      "question": {
+        "en": "A weak acid HA has a smaller pKa value than another weak acid HB. This indicates that:",
+        "hi": "यदि दुर्बल अम्ल HA का pKa मान दूसरे दुर्बल अम्ल HB से कम है, तो यह दर्शाता है कि:"
+      },
+      "options": {
+        "A": {
+          "en": "HA is a stronger acid than HB",
+          "hi": "HA, HB की तुलना में अधिक प्रबल अम्ल है"
+        },
+        "B": {
+          "en": "HB is a stronger acid than HA",
+          "hi": "HB, HA की तुलना में अधिक प्रबल अम्ल है"
+        },
+        "C": {
+          "en": "Both acids have identical strength",
+          "hi": "दोनों अम्लों की सामर्थ्य समान है"
+        },
+        "D": {
+          "en": "HA produces fewer H+ ions than HB at equal concentration",
+          "hi": "समान सांद्रता पर HA कम H+ आयन उत्पन्न करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q06",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following statements about polybasic acids is FALSE?",
+        "hi": "बहुक्षारकीय अम्लों के संबंध में निम्नलिखित में से कौन-सा कथन असत्य है?"
+      },
+      "options": {
+        "A": {
+          "en": "The second dissociation constant Ka2 is generally greater than Ka1",
+          "hi": "द्वितीय वियोजन स्थिरांक Ka2 सामान्यतः Ka1 से बड़ा होता है"
+        },
+        "B": {
+          "en": "Removal of a second proton occurs from a negatively charged species",
+          "hi": "द्वितीय प्रोटॉन का निष्कासन एक ऋणावेशित स्पीशीज से होता है"
+        },
+        "C": {
+          "en": "Polybasic acids ionize in distinct successive steps",
+          "hi": "बहुक्षारकीय अम्ल क्रमिक चरणों में आयनित होते हैं"
+        },
+        "D": {
+          "en": "Overall equilibrium constant K = Ka1 × Ka2",
+          "hi": "समग्र साम्य स्थिरांक K = Ka1 × Ka2 होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the hydrogen ion concentration [H+] in a 0.1 M solution of weak acid HA having Ka = 1.0 × 10^-5?",
+        "hi": "दुर्बल अम्ल HA (Ka = 1.0 × 10^-5) के 0.1 M विलयन में [H+] का मान क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "1.0 × 10^-3 M",
+          "hi": "1.0 × 10^-3 M"
+        },
+        "B": {
+          "en": "1.0 × 10^-5 M",
+          "hi": "1.0 × 10^-5 M"
+        },
+        "C": {
+          "en": "1.0 × 10^-2 M",
+          "hi": "1.0 × 10^-2 M"
+        },
+        "D": {
+          "en": "1.0 × 10^-6 M",
+          "hi": "1.0 × 10^-6 M"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q08",
+      "category": "Formula",
+      "question": {
+        "en": "What is the degree of dissociation (α) of 0.04 M acetic acid solution if Ka = 1.6 × 10^-5?",
+        "hi": "0.04 M एसिटिक अम्ल विलयन की वियोजन की मात्रा (α) क्या होगी यदि इसका Ka = 1.6 × 10^-5 है?"
+      },
+      "options": {
+        "A": {
+          "en": "0.02 (2%)",
+          "hi": "0.02 (2%)"
+        },
+        "B": {
+          "en": "0.04 (4%)",
+          "hi": "0.04 (4%)"
+        },
+        "C": {
+          "en": "0.004 (0.4%)",
+          "hi": "0.004 (0.4%)"
+        },
+        "D": {
+          "en": "0.20 (20%)",
+          "hi": "0.20 (20%)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q09",
+      "category": "Formula",
+      "question": {
+        "en": "If the pKa of acetic acid is 4.74, what is the pKb of acetate ion (CH3COO^-) at 25°C?",
+        "hi": "यदि एसिटिक अम्ल का pKa मान 4.74 है, तो 25°C पर एसीटेट आयन का pKb क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "9.26",
+          "hi": "9.26"
+        },
+        "B": {
+          "en": "4.74",
+          "hi": "4.74"
+        },
+        "C": {
+          "en": "7.00",
+          "hi": "7.00"
+        },
+        "D": {
+          "en": "11.26",
+          "hi": "11.26"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q10",
+      "category": "Reaction",
+      "question": {
+        "en": "For the two ionization steps of H2S:\n1) H2S <=> H+ + HS^- (Ka1)\n2) HS^- <=> H+ + S^2- (Ka2)\nWhat is the equilibrium constant K for H2S <=> 2H+ + S^2-?",
+        "hi": "H2S के दो आयनन चरणों हेतु:\n1) H2S <=> H+ + HS^- (Ka1)\n2) HS^- <=> H+ + S^2- (Ka2)\nअभिक्रिया H2S <=> 2H+ + S^2- का साम्य स्थिरांक K क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "K = Ka1 × Ka2",
+          "hi": "K = Ka1 × Ka2"
+        },
+        "B": {
+          "en": "K = Ka1 / Ka2",
+          "hi": "K = Ka1 / Ka2"
+        },
+        "C": {
+          "en": "K = Ka1 + Ka2",
+          "hi": "K = Ka1 + Ka2"
+        },
+        "D": {
+          "en": "K = √(Ka1 × Ka2)",
+          "hi": "K = √(Ka1 × Ka2)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following weak acids has the highest degree of ionization in 0.1 M solution?\n(Ka: HF = 6.8×10^-4, HNO2 = 4.5×10^-4, CH3COOH = 1.8×10^-5, HCN = 4.9×10^-10)",
+        "hi": "निम्नलिखित दुर्बल अम्लों में से 0.1 M विलयन में किसका आयनन अंश (α) सर्वाधिक होगा?\n(Ka: HF = 6.8×10^-4, HNO2 = 4.5×10^-4, CH3COOH = 1.8×10^-5, HCN = 4.9×10^-10)"
+      },
+      "options": {
+        "A": {
+          "en": "HF",
+          "hi": "HF"
+        },
+        "B": {
+          "en": "HNO2",
+          "hi": "HNO2"
+        },
+        "C": {
+          "en": "CH3COOH",
+          "hi": "CH3COOH"
+        },
+        "D": {
+          "en": "HCN",
+          "hi": "HCN"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q12",
+      "category": "Trend",
+      "question": {
+        "en": "What is the effect of 100-fold dilution on the degree of dissociation (α) of a weak monobasic acid?",
+        "hi": "एक दुर्बल एकक्षारकीय अम्ल के विलयन को 100 गुना तनु करने पर उसकी वियोजन की मात्रा (α) पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "α increases by 10 times",
+          "hi": "α में 10 गुना वृद्धि होती है"
+        },
+        "B": {
+          "en": "α decreases by 10 times",
+          "hi": "α में 10 गुना कमी होती है"
+        },
+        "C": {
+          "en": "α increases by 100 times",
+          "hi": "α में 100 गुना वृद्धि होती है"
+        },
+        "D": {
+          "en": "α remains unaltered",
+          "hi": "α अपरिवर्तित रहता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The diagram represents the common ion effect on acetic acid equilibrium upon adding sodium acetate:\nCH3COOH(aq)  <=>  CH3COO^-(aq)  +  H^+(aq)\n                    ^ [From CH3COONa]\nWhat happens to the equilibrium position and [H+]?",
+        "hi": "सोडियम एसीटेट मिलाने पर एसिटिक अम्ल के साम्य पर सम-आयन प्रभाव का आरेख देखिए:\nCH3COOH(aq)  <=>  CH3COO^-(aq)  +  H^+(aq)\n                    ^ [From CH3COONa]\nसाम्य की स्थिति तथा [H+] पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Equilibrium shifts backward (left), decreasing [H+]",
+          "hi": "साम्य पश्च दिशा (बाईं ओर) विस्थापित होता है और [H+] घटता है"
+        },
+        "B": {
+          "en": "Equilibrium shifts forward (right), increasing [H+]",
+          "hi": "साम्य अग्र दिशा (दाईं ओर) विस्थापित होता है और [H+] बढ़ता है"
+        },
+        "C": {
+          "en": "Equilibrium is unaffected",
+          "hi": "साम्य अप्रभावित रहता है"
+        },
+        "D": {
+          "en": "Both CH3COO^- and H^+ concentrations double",
+          "hi": "दोनों की सांद्रता दोगुनी हो जाती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table for polyprotic carbonic acid (H2CO3):\n| Step | Equilibrium | Ka at 25°C |\n|---|---|---|\n| 1 | H2CO3 <=> H^+ + HCO3^- | Ka1 = 4.5 × 10^-7 |\n| 2 | HCO3^- <=> H^+ + CO3^2- | Ka2 = 4.7 × 10^-11 |\nWhy is Ka1 approximately 10,000 times larger than Ka2?",
+        "hi": "पॉलीप्रोटिक कार्बोनिक अम्ल (H2CO3) की तालिका का अवलोकन कीजिए:\n| Step | Equilibrium | Ka at 25°C |\n|---|---|---|\n| 1 | H2CO3 <=> H^+ + HCO3^- | Ka1 = 4.5 × 10^-7 |\n| 2 | HCO3^- <=> H^+ + CO3^2- | Ka2 = 4.7 × 10^-11 |\nKa1 का मान Ka2 से लगभग 10,000 गुना बड़ा क्यों है?"
+      },
+      "options": {
+        "A": {
+          "en": "Removing H+ from negatively charged HCO3^- requires overcoming strong electrostatic attraction",
+          "hi": "ऋणावेशित HCO3^- से H+ निकालने के लिए प्रबल स्थिरवैद्युत आकर्षण को पार करना पड़ता है"
+        },
+        "B": {
+          "en": "Carbonic acid is unstable in step 1",
+          "hi": "चरण 1 में कार्बोनिक अम्ल अस्थिर होता है"
+        },
+        "C": {
+          "en": "Step 2 is an exothermic reaction",
+          "hi": "चरण 2 एक ऊष्माक्षेपी अभिक्रिया है"
+        },
+        "D": {
+          "en": "CO3^2- is a strong acid",
+          "hi": "CO3^2- एक प्रबल अम्ल है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc06_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A graph of degree of dissociation (α) on the y-axis vs concentration (C) on the x-axis for a weak electrolyte shows:",
+        "hi": "एक दुर्बल विद्युत अपघट्य के लिए y-अक्ष पर वियोजन की मात्रा (α) तथा x-अक्ष पर सांद्रता (C) का आलेख प्रदर्शित करता है:"
+      },
+      "options": {
+        "A": {
+          "en": "A curve where α increases steeply towards 1 as C approaches 0",
+          "hi": "एक वक्र जहाँ C के 0 के समीप जाने पर α तेजी से 1 की ओर बढ़ता है"
+        },
+        "B": {
+          "en": "A horizontal straight line indicating α is independent of C",
+          "hi": "एक क्षैतिज रेखा जो दर्शाती है कि α सांद्रता C पर निर्भर नहीं करता"
+        },
+        "C": {
+          "en": "A straight line with positive slope passing through the origin",
+          "hi": "मूल बिंदु से गुजरने वाली धनात्मक ढाल की सीधी रेखा"
+        },
+        "D": {
+          "en": "A parabola with minimum at C = 0",
+          "hi": "C = 0 पर न्यूनतम वाला परवलय"
+        }
+      }
+    }
+  ]
+}

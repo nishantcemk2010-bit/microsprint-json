@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch15_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following plasma proteins is primarily responsible for maintaining the osmotic balance (colloid osmotic pressure) of blood?",
+        "hi": "निम्नलिखित में से कौन सा प्लाज्मा प्रोटीन मुख्य रूप से रक्त के परासरणी संतुलन (कोलॉइड परासरणी दाब) को बनाए रखने के लिए उत्तरदायी है?"
+      },
+      "options": {
+        "A": {
+          "en": "Fibrinogen",
+          "hi": "फाइब्रिनोजन"
+        },
+        "B": {
+          "en": "Albumin",
+          "hi": "एल्बुमिन"
+        },
+        "C": {
+          "en": "Globulin",
+          "hi": "ग्लोबुलिन"
+        },
+        "D": {
+          "en": "Prothrombin",
+          "hi": "प्रोथ्रॉम्बिन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Albumin constitutes ~60% of plasma proteins and is synthesized in the liver. It plays a pivotal role in maintaining the colloid osmotic pressure (oncotic pressure) of blood, preventing excessive fluid leakage from capillaries into interstitial spaces.",
+        "hi": "एल्बुमिन प्लाज्मा प्रोटीन का लगभग 60% भाग बनाता है और यकृत में संश्लेषित होता है। यह रक्त के कोलॉइड परासरणी दाब (ऑन्कोटिक दाब) को बनाए रखने में महत्वपूर्ण भूमिका निभाता है, जिससे केशिकाओं से अंतरालीय स्थानों में तरल का अत्यधिक रिसाव रुकता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "Serum is chemically and physiologically defined as:",
+        "hi": "सीरम को रासायनिक और शारीरिक रूप से किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Blood without formed elements",
+          "hi": "रक्त बिना संगठित पदार्थों के"
+        },
+        "B": {
+          "en": "Plasma containing active thrombin and fibrin",
+          "hi": "सक्रिय थ्रॉम्बिन और फाइब्रिन युक्त प्लाज्मा"
+        },
+        "C": {
+          "en": "Plasma without clotting factors",
+          "hi": "थक्का बनाने वाले कारकों के बिना प्लाज्मा"
+        },
+        "D": {
+          "en": "Lymph without specialized lymphocytes",
+          "hi": "विशिष्ट लसिकाणुओं के बिना लसिका"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Serum is plasma from which blood coagulation factors (such as fibrinogen) have been removed (Serum = Plasma - Clotting factors). It contains electrolytes, antibodies, hormones, and dissolved gases but cannot coagulate.",
+        "hi": "सीरम वह प्लाज्मा है जिससे रक्त के थक्के बनाने वाले कारक (जैसे फाइब्रिनोजन) निकाल दिए जाते हैं (सीरम = प्लाज्मा - स्कंदन कारक)। इसमें विद्युतअपघट्य, एंटीबॉडी, हॉर्मोन आदि होते हैं लेकिन यह स्कंदित नहीं हो सकता।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "Mature mammalian erythrocytes lack a nucleus, mitochondria, and other cell organelles. What is the primary functional advantage of this adaptation?",
+        "hi": "परिपक्व स्तनधारी रक्ताणुओं में केंद्रक, माइटोकॉन्ड्रिया और अन्य कोशिकांगों का अभाव होता है। इस अनुकूलन का प्राथमिक कार्यात्मक लाभ क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "It maximizes internal volume for packaging hemoglobin and ensures transported O2 is not consumed anaerobically",
+          "hi": "यह हीमोग्लोबिन के संकुलन के लिए आंतरिक स्थान को अधिकतम करता है और सुनिश्चित करता है कि परिवहित O2 का उपभोग न हो"
+        },
+        "B": {
+          "en": "It allows erythrocytes to divide rapidly in peripheral circulation",
+          "hi": "यह रक्ताणुओं को परिधीय परिसंचरण में तेजी से विभाजित होने की अनुमति देता है"
+        },
+        "C": {
+          "en": "It facilitates aerobic cellular respiration within RBCs",
+          "hi": "यह RBCs के भीतर वायवीय कोशिकीय श्वसन की सुविधा प्रदान करता है"
+        },
+        "D": {
+          "en": "It prevents erythrocytes from being recognized by splenic macrophages",
+          "hi": "यह रक्ताणुओं को प्लीहा के मैक्रोफेज द्वारा पहचाने जाने से रोकता है"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "The absence of a nucleus and organelles provides maximum internal space for packing hemoglobin (~280 million molecules per RBC). Lack of mitochondria ensures RBCs respire exclusively via anaerobic glycolysis, so they do not consume any oxygen they carry.",
+        "hi": "केंद्रक और कोशिकांगों की अनुपस्थिति हीमोग्लोबिन के संकुलन के लिए अधिकतम आंतरिक स्थान प्रदान करती है। माइटोकॉन्ड्रिया की अनुपस्थिति यह सुनिश्चित करती है कि RBCs केवल अवायवीय ग्लाइकोलिसिस द्वारा श्वसन करें, ताकि वे परिवहित O2 का उपभोग न करें।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following granulocytes is least abundant in human blood and secretes histamine, serotonin, and heparin during inflammatory reactions?",
+        "hi": "निम्नलिखित में से कौन सा कणिकामय श्वेताणु मानव रक्त में सबसे कम प्रचुर होता है तथा शोथकारी प्रतिक्रियाओं के दौरान हिस्टामाइन, सेरोटोनिन और हेपरिन का स्राव करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Neutrophils",
+          "hi": "न्यूट्रोफिल्स"
+        },
+        "B": {
+          "en": "Eosinophils",
+          "hi": "इओसिनोफिल्स"
+        },
+        "C": {
+          "en": "Monocytes",
+          "hi": "मोनोसाइट्स"
+        },
+        "D": {
+          "en": "Basophils",
+          "hi": "बेसोफिल्स"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Basophils constitute only 0.5-1% of total WBCs (the lowest proportion). They have coarse granules and secrete histamine (vasodilator), serotonin (vasoconstrictor), and heparin (anticoagulant), mediating inflammatory and hypersensitivity reactions.",
+        "hi": "बेसोफिल्स कुल WBCs का केवल 0.5-1% हिस्सा होते हैं (सबसे कम अनुपात)। इनमें मोटे कण होते हैं और ये हिस्टामाइन, सेरोटोनिन और हेपरिन का स्राव करते हैं, जो शोथ और अतिसंवेदनशीलता प्रतिक्रियाओं में मध्यस्थता करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "Which pair of leucocytes exhibits active phagocytic activity and destroys foreign organisms entering the body?",
+        "hi": "श्वेताणुओं का कौन सा युग्म सक्रिय भक्षणकारी (फैगोसाइटिक) गतिविधि प्रदर्शित करता है और शरीर में प्रवेश करने वाले बाहरी जीवों को नष्ट करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Basophils and Eosinophils",
+          "hi": "बेसोफिल्स और इओसिनोफिल्स"
+        },
+        "B": {
+          "en": "Neutrophils and Monocytes",
+          "hi": "न्यूट्रोफिल्स और मोनोसाइट्स"
+        },
+        "C": {
+          "en": "B-lymphocytes and T-lymphocytes",
+          "hi": "B-लिम्फोसाइट्स और T-लिम्फोसाइट्स"
+        },
+        "D": {
+          "en": "Eosinophils and Lymphocytes",
+          "hi": "इओसिनोफिल्स और लिम्फोसाइट्स"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Neutrophils (60-65% of WBCs) and Monocytes (6-8% of WBCs) are phagocytic cells that engulf and digest pathogenic microorganisms, forming an essential primary cellular defense mechanism.",
+        "hi": "न्यूट्रोफिल्स (60-65%) और मोनोसाइट्स (6-8%) भक्षणकारी कोशिकाएं हैं जो रोगजनक सूक्ष्मजीवों का भक्षण और पाचन करती हैं, जो एक आवश्यक प्राथमिक कोशिकीय रक्षा तंत्र का निर्माण करती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "Platelets (thrombocytes) are cell fragments derived from the fragmentation of which special bone marrow cells?",
+        "hi": "पट्टिकाणु (थ्रॉम्बोसाइट्स) कोशिका टुकड़े हैं जो अस्थि मज्जा की किन विशेष कोशिकाओं के विखंडन से प्राप्त होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Reticulocytes",
+          "hi": "रेटिकुलोसाइट्स"
+        },
+        "B": {
+          "en": "Myeloblasts",
+          "hi": "मायलोब्लास्ट्स"
+        },
+        "C": {
+          "en": "Megakaryocytes",
+          "hi": "मेगाकैरियोसाइट्स (महाकेन्द्रककाय)"
+        },
+        "D": {
+          "en": "Erythroblasts",
+          "hi": "एरिथ्रोब्लास्ट्स"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Platelets are not true whole cells; they are membrane-bound cytoplasmic fragments shed from giant polyploid cells in the red bone marrow called megakaryocytes.",
+        "hi": "प्लेटलेट्स वास्तविक संपूर्ण कोशिकाएं नहीं हैं; वे लाल अस्थि मज्जा में विशाल बहुगुणित कोशिकाओं से बनने वाले झिल्ली-बद्ध कोशिकाद्रव्यी टुकड़े हैं जिन्हें मेगाकैरियोसाइट्स कहा जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "What is the typical concentration range of erythrocytes (RBCs) in the blood of a healthy adult human male per cubic millimeter (mm³)?",
+        "hi": "एक स्वस्थ वयस्क मानव पुरुष के रक्त में प्रति घन मिलीमीटर (mm³) रक्ताणुओं (RBCs) का विशिष्ट सांद्रता परास क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "5.0 to 5.5 million",
+          "hi": "5.0 से 5.5 मिलियन"
+        },
+        "B": {
+          "en": "6,000 to 8,000",
+          "hi": "6,000 से 8,000"
+        },
+        "C": {
+          "en": "1.5 to 3.5 lakh",
+          "hi": "1.5 से 3.5 लाख"
+        },
+        "D": {
+          "en": "10.0 to 12.0 million",
+          "hi": "10.0 से 12.0 मिलियन"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "A healthy adult male has 5.0 to 5.5 million RBCs/mm³ of blood. In females, the count is slightly lower, typically 4.5 to 5.0 million/mm³. WBCs range from 6,000-8,000/mm³, and platelets range from 150,000-350,000/mm³.",
+        "hi": "एक स्वस्थ वयस्क पुरुष में 5.0 से 5.5 मिलियन RBCs/mm³ रक्त होता है। महिलाओं में यह संख्या 4.5 से 5.0 मिलियन/mm³ होती है। WBCs की संख्या 6,000-8,000/mm³ तथा प्लेटलेट्स की संख्या 1.5 से 3.5 लाख/mm³ होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following arrangements correctly illustrates the descending order of abundance of leucocytes in healthy human peripheral blood?",
+        "hi": "निम्नलिखित में से कौन सा क्रम स्वस्थ मानव परिधीय रक्त में श्वेताणुओं की प्रचुरता के सही अवरोही क्रम (घटते क्रम) को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Lymphocytes > Neutrophils > Monocytes > Basophils > Eosinophils",
+          "hi": "लिम्फोसाइट्स > न्यूट्रोफिल्स > मोनोसाइट्स > बेसोफिल्स > इओसिनोफिल्स"
+        },
+        "B": {
+          "en": "Neutrophils > Monocytes > Lymphocytes > Eosinophils > Basophils",
+          "hi": "न्यूट्रोफिल्स > मोनोसाइट्स > लिम्फोसाइट्स > इओसिनोफिल्स > बेसोफिल्स"
+        },
+        "C": {
+          "en": "Monocytes > Neutrophils > Lymphocytes > Eosinophils > Basophils",
+          "hi": "मोनोसाइट्स > न्यूट्रोफिल्स > लिम्फोसाइट्स > इओसिनोफिल्स > बेसोफिल्स"
+        },
+        "D": {
+          "en": "Neutrophils > Lymphocytes > Monocytes > Eosinophils > Basophils",
+          "hi": "न्यूट्रोफिल्स > लिम्फोसाइट्स > मोनोसाइट्स > इओसिनोफिल्स > बेसोफिल्स"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The correct descending sequence is: Neutrophils (60-65%) > Lymphocytes (20-25%) > Monocytes (6-8%) > Eosinophils (2-3%) > Basophils (0.5-1%).",
+        "hi": "सही अवरोही क्रम है: न्यूट्रोफिल्स (60-65%) > लिम्फोसाइट्स (20-25%) > मोनोसाइट्स (6-8%) > इओसिनोफिल्स (2-3%) > बेसोफिल्स (0.5-1%)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "What is the standard physiological range of hemoglobin present in 100 mL of healthy adult human blood?",
+        "hi": "स्वस्थ वयस्क मानव रक्त के प्रति 100 mL में उपस्थित हीमोग्लोबिन का मानक शारीरिक परास क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "5 to 8 g",
+          "hi": "5 से 8 ग्राम"
+        },
+        "B": {
+          "en": "8 to 11 g",
+          "hi": "8 से 11 ग्राम"
+        },
+        "C": {
+          "en": "12 to 16 g",
+          "hi": "12 से 16 ग्राम"
+        },
+        "D": {
+          "en": "18 to 22 g",
+          "hi": "18 से 22 ग्राम"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Every 100 mL of healthy human blood contains approximately 12 to 16 grams of hemoglobin. Hemoglobin is a tetrameric iron-porphyrin conjugated protein essential for oxygen transport.",
+        "hi": "स्वस्थ मानव रक्त के प्रत्येक 100 mL में लगभग 12 से 16 ग्राम हीमोग्लोबिन होता है। हीमोग्लोबिन एक लौह-युक्त संयुग्मी प्रोटीन है जो O2 परिवहन के लिए आवश्यक है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "In human blood, what is the normal physiological count of platelets (thrombocytes) per cubic millimeter (mm³)?",
+        "hi": "मानव रक्त में, प्रति घन मिलीमीटर (mm³) प्लेटलेट्स (थ्रॉम्बोसाइट्स) की सामान्य शारीरिक संख्या क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "50,000 to 100,000",
+          "hi": "50,000 से 100,000"
+        },
+        "B": {
+          "en": "150,000 to 350,000",
+          "hi": "150,000 से 350,000"
+        },
+        "C": {
+          "en": "500,000 to 800,000",
+          "hi": "500,000 से 800,000"
+        },
+        "D": {
+          "en": "1,000,000 to 1,500,000",
+          "hi": "1,000,000 से 1,500,000"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Normal blood platelet count is 150,000 to 350,000 per mm³ (1.5 to 3.5 lakh/mm³). A count drop below 150,000/mm³ leads to clotting impairments and purpura/petechial bleeding.",
+        "hi": "सामान्य रक्त प्लेटलेट संख्या 150,000 से 350,000 प्रति mm³ (1.5 से 3.5 लाख/mm³) होती है। 150,000/mm³ से कम संख्या स्कंदन विकार और रक्तस्राव का कारण बनती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "If a healthy individual has 5.0 liters of total blood volume, with plasma constituting 55% of the blood and water making up 90% of the plasma, what is the total volume of water in their plasma?",
+        "hi": "यदि एक स्वस्थ व्यक्ति में 5.0 लीटर कुल रक्त आयतन है, जिसमें प्लाज्मा रक्त का 55% है और जल प्लाज्मा का 90% बनाता है, तो उनके प्लाज्मा में जल का कुल आयतन कितना है?"
+      },
+      "options": {
+        "A": {
+          "en": "2.475 L",
+          "hi": "2.475 L"
+        },
+        "B": {
+          "en": "1.850 L",
+          "hi": "1.850 L"
+        },
+        "C": {
+          "en": "3.250 L",
+          "hi": "3.250 L"
+        },
+        "D": {
+          "en": "4.500 L",
+          "hi": "4.500 L"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Total blood volume = 5000 mL. Plasma volume = 55% of 5000 = 2750 mL. Water in plasma = 90% of 2750 mL = 2475 mL = 2.475 Liters.",
+        "hi": "कुल रक्त आयतन = 5000 mL। प्लाज्मा आयतन = 5000 का 55% = 2750 mL। प्लाज्मा में जल = 2750 का 90% = 2475 mL = 2.475 लीटर।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "Which divalent mineral cation is critically required as an essential cofactor for the enzyme prothrombinase and during the conversion of prothrombin to thrombin?",
+        "hi": "प्रोथ्रॉम्बोकाइनेज एंजाइम के लिए और प्रोथ्रॉम्बिन के थ्रॉम्बिन में रूपांतरण के दौरान एक आवश्यक सहकारक के रूप में किस द्विसंयोजी खनिज धनायन की आवश्यकता होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Mg²⁺",
+          "hi": "Mg²⁺"
+        },
+        "B": {
+          "en": "Fe²⁺",
+          "hi": "Fe²⁺"
+        },
+        "C": {
+          "en": "Zn²⁺",
+          "hi": "Zn²⁺"
+        },
+        "D": {
+          "en": "Ca²⁺",
+          "hi": "Ca²⁺"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Calcium ions (Ca²⁺, Factor IV) are indispensable at multiple steps in the clotting cascade, including the activation of prothrombinase (thrombokinase) and the conversion of prothrombin to thrombin.",
+        "hi": "कैल्शियम आयन (Ca²⁺, कारक IV) स्कंदन कैस्केड के कई चरणों में अनिवार्य हैं, जिनमें प्रोथ्रॉम्बोकाइनेज का सक्रियण और प्रोथ्रॉम्बिन का थ्रॉम्बिन में रूपांतरण शामिल है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the leucocyte types in Column I with their correct functions / immune characteristics in Column II:\nColumn I:\n(a) Neutrophils\n(b) Eosinophils\n(c) Basophils\n(d) Lymphocytes\nColumn II:\n(i) Secrete histamine, serotonin, and heparin\n(ii) Responsible for immune responses (B and T cells)\n(iii) Most abundant, phagocytic cells\n(iv) Resist infections and associated with allergic reactions",
+        "hi": "कॉलम I में श्वेताणु प्रकारों का कॉलम II में उनके सही कार्यों / प्रतिरक्षा विशेषताओं के साथ मिलान कीजिए:\nकॉलम I:\n(a) न्यूट्रोफिल्स\n(b) इओसिनोफिल्स\n(c) बेसोफिल्स\n(d) लिम्फोसाइट्स\nकॉलम II:\n(i) हिस्टामाइन, सेरोटोनिन और हेपरिन स्रावित करते हैं\n(ii) प्रतिरक्षा प्रतिक्रियाओं के लिए उत्तरदायी (B और T कोशिकाएं)\n(iii) सर्वाधिक प्रचुर, भक्षणकारी कोशिकाएं\n(iv) संक्रमण का प्रतिरोध करते हैं तथा एलर्जी प्रतिक्रियाओं से जुड़े हैं"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Neutrophils = Most abundant, phagocytic (a-iii); Eosinophils = Resist infections and mediate allergy (b-iv); Basophils = Secrete histamine, heparin (c-i); Lymphocytes = B and T cells for acquired immunity (d-ii).",
+        "hi": "न्यूट्रोफिल्स = सर्वाधिक प्रचुर, भक्षणकारी (a-iii); इओसिनोफिल्स = संक्रमण रोधी और एलर्जी मध्यस्थता (b-iv); बेसोफिल्स = हिस्टामाइन, हेपरिन स्रावण (c-i); लिम्फोसाइट्स = उपार्जित प्रतिरक्षा के लिए B और T कोशिकाएं (d-ii)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "In the blood coagulation cascade:\nDamaged tissue/platelets -> [X] -> In the presence of Ca²⁺, converts [Y] into Thrombin -> Thrombin converts [Z] into insoluble threads.\nIdentify X, Y, and Z:",
+        "hi": "रक्त स्कंदन कैस्केड में:\nक्षतिग्रस्त ऊतक/प्लेटलेट्स -> [X] -> Ca²⁺ की उपस्थिति में, [Y] को थ्रॉम्बिन में परिवर्तित करता है -> थ्रॉम्बिन [Z] को अघुलनशील तंतुओं में परिवर्तित करता है।\nX, Y और Z की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "X = Fibrin, Y = Fibrinogen, Z = Prothrombin",
+          "hi": "X = फाइब्रिन, Y = फाइब्रिनोजन, Z = प्रोथ्रॉम्बिन"
+        },
+        "B": {
+          "en": "X = Heparin, Y = Thrombin, Z = Albumin",
+          "hi": "X = हेपरिन, Y = थ्रॉम्बिन, Z = एल्बुमिन"
+        },
+        "C": {
+          "en": "X = Thrombokinase, Y = Prothrombin, Z = Fibrinogen",
+          "hi": "X = थ्रॉम्बोकाइनेज, Y = प्रोथ्रॉम्बिन, Z = फाइब्रिनोजन"
+        },
+        "D": {
+          "en": "X = Plasmin, Y = Prothrombin, Z = Fibrin",
+          "hi": "X = प्लास्मिन, Y = प्रोथ्रॉम्बिन, Z = फाइब्रिन"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Platelets/damaged tissues release thromboplastin which forms the enzyme complex Thrombokinase (X). In the presence of Ca²⁺, thrombokinase converts inactive Prothrombin (Y) to active Thrombin. Thrombin converts soluble Fibrinogen (Z) to insoluble Fibrin polymer threads.",
+        "hi": "क्षतिग्रस्त ऊतक/प्लेटलेट्स थ्रॉम्बोप्लास्टिन मुक्त करते हैं जो थ्रॉम्बोकाइनेज (X) बनाता है। Ca²⁺ की उपस्थिति में यह प्रोथ्रॉम्बिन (Y) को थ्रॉम्बिन में बदलता है। थ्रॉम्बिन घुलनशील फाइब्रिनोजन (Z) को अघुलनशील फाइब्रिन तंतुओं में बदलता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the blood cell types in Column I with their characteristic nuclear morphology in Column II:\nColumn I:\n(a) Neutrophil\n(b) Eosinophil\n(c) Monocyte\n(d) Platelet\nColumn II:\n(i) Large kidney/bean-shaped nucleus\n(ii) Enucleated cell fragment\n(iii) Multilobed (3 to 5 lobes) nucleus\n(iv) Bilobed (spectacle-shaped) nucleus",
+        "hi": "कॉलम I में रक्त कोशिका प्रकारों का कॉलम II में उनके विशिष्ट केंद्रक आकारिकी के साथ मिलान कीजिए:\nकॉलम I:\n(a) न्यूट्रोफिल\n(b) इओसिनोफिल\n(c) मोनोसाइट\n(d) प्लेटलेट\nकॉलम II:\n(i) बड़ा गुर्दे/सेम के आकार का केंद्रक\n(ii) केंद्रकरहित कोशिका टुकड़ा\n(iii) बहुपालिक (3 से 5 पालियां) केंद्रक\n(iv) द्विपालित (चश्मे के आकार का) केंद्रक"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Neutrophils have a multilobed nucleus (a-iii); Eosinophils have a bilobed nucleus (b-iv); Monocytes have a kidney/bean-shaped nucleus (c-i); Platelets are non-nucleated fragments from megakaryocytes (d-ii).",
+        "hi": "न्यूट्रोफिल में बहुपालिक केंद्रक होता है (a-iii); इओसिनोफिल में द्विपालित केंद्रक होता है (b-iv); मोनोसाइट में गुर्दे के आकार का केंद्रक होता है (c-i); प्लेटलेट्स केंद्रकहीन टुकड़े होते हैं (d-ii)।"
+      }
+    }
+  ]
+}

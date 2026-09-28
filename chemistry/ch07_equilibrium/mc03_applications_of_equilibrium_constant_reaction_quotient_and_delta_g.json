@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc03_q01",
+      "category": "Theory",
+      "question": {
+        "en": "What does a very large value of the equilibrium constant (e.g., K_c > 10³) indicate about a chemical reaction?",
+        "hi": "साम्य स्थिरांक का बहुत बड़ा मान (जैसे K_c > 10³) रासायनिक अभिक्रिया के बारे में क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The reaction proceeds nearly to completion, and products predominate heavily over reactants at equilibrium",
+          "hi": "अभिक्रिया लगभग पूर्णता की ओर बढ़ती है, और साम्यावस्था पर उत्पादों की मात्रा अभिकारकों की तुलना में अत्यधिक प्रबल होती है"
+        },
+        "B": {
+          "en": "The reaction barely takes place at all",
+          "hi": "अभिक्रिया बिल्कुल नहीं होती"
+        },
+        "C": {
+          "en": "The reaction is extremely slow",
+          "hi": "अभिक्रिया अत्यधिक धीमी है"
+        },
+        "D": {
+          "en": "Reactants predominate heavily at equilibrium",
+          "hi": "साम्यावस्था पर अभिकारक अत्यधिक प्रबल होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What does an extremely small equilibrium constant (e.g., K_c < 10⁻³) signify?",
+        "hi": "अत्यंत छोटा साम्य स्थिरांक (जैसे K_c < 10⁻³) क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The forward reaction hardly proceeds, and reactants predominate overwhelmingly at equilibrium",
+          "hi": "अग्रगामी अभिक्रिया बमुश्किल आगे बढ़ती है, और साम्यावस्था पर अभिकारक भारी मात्रा में प्रबल रहते हैं"
+        },
+        "B": {
+          "en": "The reaction reaches 99% completion",
+          "hi": "अभिक्रिया 99% पूर्णता तक पहुँचती है"
+        },
+        "C": {
+          "en": "The reaction is explosive",
+          "hi": "अभिक्रिया विस्फोटक होती है"
+        },
+        "D": {
+          "en": "Equilibrium cannot be established",
+          "hi": "साम्यावस्था स्थापित नहीं की जा सकती"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q03",
+      "category": "Theory",
+      "question": {
+        "en": "The Reaction Quotient (Q_c) has the exact same mathematical form as K_c, except that:",
+        "hi": "अभिक्रिया भागफल (Reaction Quotient, Q_c) का गणितीय रूप K_c के समान ही होता है, सिवाय इसके कि:"
+      },
+      "options": {
+        "A": {
+          "en": "Q_c uses concentrations measured at any arbitrary instant, whereas K_c uses concentrations measured strictly at equilibrium",
+          "hi": "Q_c किसी भी समय मापी गई सांद्रताओं का उपयोग करता है, जबकि K_c कड़ाई से साम्यावस्था पर मापी गई सांद्रताओं का उपयोग करता है"
+        },
+        "B": {
+          "en": "Q_c uses pressures while K_c uses temperatures",
+          "hi": "Q_c दाब का उपयोग करता है जबकि K_c तापमान का"
+        },
+        "C": {
+          "en": "Q_c has units of energy",
+          "hi": "Q_c की इकाई ऊर्जा होती है"
+        },
+        "D": {
+          "en": "Q_c applies only to solids",
+          "hi": "Q_c केवल ठोसों पर लागू होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q04",
+      "category": "Theory",
+      "question": {
+        "en": "If for a given reaction mixture, the reaction quotient Q_c is LESS than the equilibrium constant K_c (Q_c < K_c):",
+        "hi": "यदि किसी दिए गए अभिक्रिया मिश्रण के लिए अभिक्रिया भागफल Q_c साम्य स्थिरांक K_c से कम है (Q_c < K_c):"
+      },
+      "options": {
+        "A": {
+          "en": "The reaction proceeds in the FORWARD direction (left to right) to produce more products",
+          "hi": "अधिक उत्पाद बनाने के लिए अभिक्रिया अग्रगामी दिशा (बाएं से दाएं) में आगे बढ़ेगी"
+        },
+        "B": {
+          "en": "The reaction proceeds in the REVERSE direction (right to left)",
+          "hi": "अभिक्रिया पश्चगामी दिशा (दाएं से बाएं) में आगे बढ़ेगी"
+        },
+        "C": {
+          "en": "The system is already at equilibrium",
+          "hi": "निकाय पहले से ही साम्यावस्था में है"
+        },
+        "D": {
+          "en": "The reaction stops completely",
+          "hi": "अभिक्रिया पूरी तरह रुक जाती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q05",
+      "category": "Theory",
+      "question": {
+        "en": "If the reaction quotient Q_c is GREATER than K_c (Q_c > K_c):",
+        "hi": "यदि अभिक्रिया भागफल Q_c साम्य स्थिरांक K_c से अधिक है (Q_c > K_c):"
+      },
+      "options": {
+        "A": {
+          "en": "The net reaction proceeds in the REVERSE direction (right to left) to consume excess products",
+          "hi": "अतिरिक्त उत्पादों को समाप्त करने के लिए शुद्ध अभिक्रिया पश्चगामी दिशा (दाएं से बाएं) में आगे बढ़ती है"
+        },
+        "B": {
+          "en": "The reaction proceeds forward",
+          "hi": "अभिक्रिया अग्रगामी दिशा में आगे बढ़ती है"
+        },
+        "C": {
+          "en": "Equilibrium cannot be attained",
+          "hi": "साम्यावस्था प्राप्त नहीं की जा सकती"
+        },
+        "D": {
+          "en": "Temperature increases infinitely",
+          "hi": "तापमान अनंत रूप से बढ़ जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is the relationship between the standard Gibbs free energy change (Δ_r G°) and the equilibrium constant (K)?",
+        "hi": "मानक गिब्स मुक्त ऊर्जा परिवर्तन (Δ_r G°) और साम्य स्थिरांक (K) के बीच क्या संबंध है?"
+      },
+      "options": {
+        "A": {
+          "en": "Δ_r G° = -RT ln K = -2.303 RT log K",
+          "hi": "Δ_r G° = -RT ln K = -2.303 RT log K"
+        },
+        "B": {
+          "en": "Δ_r G° = +RT ln K",
+          "hi": "Δ_r G° = +RT ln K"
+        },
+        "C": {
+          "en": "Δ_r G° = -K / RT",
+          "hi": "Δ_r G° = -K / RT"
+        },
+        "D": {
+          "en": "Δ_r G° = -RT / K",
+          "hi": "Δ_r G° = -RT / K"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q07",
+      "category": "Formula",
+      "question": {
+        "en": "For the reaction: 2A + B ⇌ C, K_c = 2.0 × 10⁻³. At a certain point, [A] = 0.1 M, [B] = 0.2 M, and [C] = 1.0 × 10⁻⁴ M. In which direction will the reaction proceed?",
+        "hi": "अभिक्रिया 2A + B ⇌ C के लिए K_c = 2.0 × 10⁻³ है। एक निश्चित समय पर [A] = 0.1 M, [B] = 0.2 M, और [C] = 1.0 × 10⁻⁴ M हैं। अभिक्रिया किस दिशा में आगे बढ़ेगी?"
+      },
+      "options": {
+        "A": {
+          "en": "Forward direction, because Q_c (0.05) > K_c (0.002)... wait: Q_c = [C]/([A]²[B]) = 10⁻⁴ / (0.01 × 0.2) = 10⁻⁴ / 0.002 = 0.05. Since Q_c > K_c, it proceeds in the REVERSE direction",
+          "hi": "पश्चगामी दिशा में, क्योंकि Q_c (0.05) > K_c (0.002) है"
+        },
+        "B": {
+          "en": "Forward direction, because Q_c < K_c",
+          "hi": "अग्रगामी दिशा में, क्योंकि Q_c < K_c है"
+        },
+        "C": {
+          "en": "The system is already at equilibrium",
+          "hi": "निकाय पहले से ही साम्यावस्था में है"
+        },
+        "D": {
+          "en": "Reaction cannot proceed",
+          "hi": "अभिक्रिया आगे नहीं बढ़ सकती"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q08",
+      "category": "Formula",
+      "question": {
+        "en": "If Δ_r G° for a reaction is -57.05 kJ/mol at 298 K, what is the value of the equilibrium constant K? (2.303 RT at 298 K ≈ 5.705 kJ/mol)",
+        "hi": "यदि 298 K पर किसी अभिक्रिया के लिए Δ_r G° = -57.05 kJ/mol है, तो साम्य स्थिरांक K का मान क्या है? (2.303 RT ≈ 5.705 kJ/mol)"
+      },
+      "options": {
+        "A": {
+          "en": "10¹⁰",
+          "hi": "10¹⁰"
+        },
+        "B": {
+          "en": "10⁵",
+          "hi": "10⁵"
+        },
+        "C": {
+          "en": "10⁻¹⁰",
+          "hi": "10⁻¹⁰"
+        },
+        "D": {
+          "en": "10²",
+          "hi": "10²"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q09",
+      "category": "Formula",
+      "question": {
+        "en": "If a reaction has K = 1.0, what is the value of its standard Gibbs free energy change, Δ_r G°?",
+        "hi": "यदि किसी अभिक्रिया के लिए K = 1.0 है, तो उसके मानक गिब्स मुक्त ऊर्जा परिवर्तन Δ_r G° का मान क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "0 kJ/mol",
+          "hi": "0 kJ/mol"
+        },
+        "B": {
+          "en": "+1.0 kJ/mol",
+          "hi": "+1.0 kJ/mol"
+        },
+        "C": {
+          "en": "-1.0 kJ/mol",
+          "hi": "-1.0 kJ/mol"
+        },
+        "D": {
+          "en": "Infinite",
+          "hi": "अनंत"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q10",
+      "category": "Formula",
+      "question": {
+        "en": "For the reaction: A(g) ⇌ B(g) + C(g), initial moles of A is 2.0 in a 1.0 L container. If K_c = 0.50 mol/L, what is the degree of dissociation (α) of A?",
+        "hi": "अभिक्रिया A(g) ⇌ B(g) + C(g) के लिए 1.0 L के पात्र में A के प्रारंभिक मोल 2.0 हैं। यदि K_c = 0.50 mol/L है, तो A के वियोजन की मात्रा (α) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "0.414 (or 41.4%)",
+          "hi": "0.414 (या 41.4%)"
+        },
+        "B": {
+          "en": "0.500 (or 50%)",
+          "hi": "0.500 (या 50%)"
+        },
+        "C": {
+          "en": "0.250 (or 25%)",
+          "hi": "0.250 (या 25%)"
+        },
+        "D": {
+          "en": "0.828 (or 82.8%)",
+          "hi": "0.828 (या 82.8%)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q11",
+      "category": "Formula",
+      "question": {
+        "en": "The value of K_c for the reaction: 2A ⇌ B + C is 2.0 × 10⁻³. At a given time, the composition of reaction mixture is [A] = [B] = [C] = 3.0 × 10⁻⁴ M. In which direction will the reaction proceed?",
+        "hi": "अभिक्रिया 2A ⇌ B + C के लिए K_c = 2.0 × 10⁻³ है। एक निश्चित समय पर मिश्रण का संघटन [A] = [B] = [C] = 3.0 × 10⁻⁴ M है। अभिक्रिया किस दिशा में आगे बढ़ेगी?"
+      },
+      "options": {
+        "A": {
+          "en": "Reverse direction, because Q_c = 1.0 > K_c = 2.0 × 10⁻³",
+          "hi": "पश्चगामी दिशा में, क्योंकि Q_c = 1.0 > K_c = 2.0 × 10⁻³"
+        },
+        "B": {
+          "en": "Forward direction, because Q_c < K_c",
+          "hi": "अग्रगामी दिशा में, क्योंकि Q_c < K_c"
+        },
+        "C": {
+          "en": "System is at equilibrium",
+          "hi": "निकाय साम्यावस्था में है"
+        },
+        "D": {
+          "en": "No reaction will take place",
+          "hi": "कोई अभिक्रिया नहीं होगी"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q12",
+      "category": "Formula",
+      "question": {
+        "en": "For an endothermic reaction (ΔH° > 0), how does the equilibrium constant K change when temperature is increased?",
+        "hi": "एक ऊष्माशोषी अभिक्रिया (ΔH° > 0) के लिए, तापमान बढ़ाने पर साम्य स्थिरांक K कैसे परिवर्तित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "K increases with increase in temperature",
+          "hi": "तापमान बढ़ने पर K बढ़ता है"
+        },
+        "B": {
+          "en": "K decreases with increase in temperature",
+          "hi": "तापमान बढ़ने पर K घटता है"
+        },
+        "C": {
+          "en": "K remains strictly unchanged",
+          "hi": "K कड़ाई से अपरिवर्तित रहता है"
+        },
+        "D": {
+          "en": "K drops to zero",
+          "hi": "K गिरकर शून्य हो जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Match the relative magnitudes of Q_c and K_c with the predicted net reaction direction:\n| Condition | Net Reaction Direction |\n| :--- | :--- |\n| 1. Q_c < K_c | P. Net reverse reaction (right to left) |\n| 2. Q_c = K_c | Q. Net forward reaction (left to right) |\n| 3. Q_c > K_c | R. Dynamic equilibrium (no net change) |\nWhich matching is correct?",
+        "hi": "Q_c और K_c के सापेक्ष परिमाण का अनुमानित अभिक्रिया दिशा से मिलान करें:\n| स्थिति | शुद्ध अभिक्रिया दिशा |\n| :--- | :--- |\n| 1. Q_c < K_c | P. शुद्ध पश्चगामी अभिक्रिया (दाएं से बाएं) |\n| 2. Q_c = K_c | Q. शुद्ध अग्रगामी अभिक्रिया (बाएं से दाएं) |\n| 3. Q_c > K_c | R. गतिक साम्यावस्था (कोई शुद्ध परिवर्तन नहीं) |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        },
+        "B": {
+          "en": "1-P, 2-R, 3-Q",
+          "hi": "1-P, 2-R, 3-Q"
+        },
+        "C": {
+          "en": "1-R, 2-Q, 3-P",
+          "hi": "1-R, 2-Q, 3-P"
+        },
+        "D": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In a plot of ln K versus 1/T (van 't Hoff plot), what does the slope of the straight line represent?",
+        "hi": "1/T के विरुद्ध ln K के आलेख (वान्ट हॉफ आलेख) में, सीधी रेखा का ढाल (Slope) क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Slope = -ΔH° / R",
+          "hi": "ढाल = -ΔH° / R"
+        },
+        "B": {
+          "en": "Slope = +ΔH° / R",
+          "hi": "ढाल = +ΔH° / R"
+        },
+        "C": {
+          "en": "Slope = -ΔS° / R",
+          "hi": "ढाल = -ΔS° / R"
+        },
+        "D": {
+          "en": "Slope = ΔG° / RT",
+          "hi": "ढाल = ΔG° / RT"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc03_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table of reaction types and their equilibrium constants:\n| Reaction | K_c |\n| :--- | :--- |\n| 1. 2H₂(g) + O₂(g) ⇌ 2H₂O(g) | 3.2 × 10⁸¹ |\n| 2. H₂(g) + Cl₂(g) ⇌ 2HCl(g) | 4.0 × 10³¹ |\n| 3. N₂(g) + O₂(g) ⇌ 2NO(g) | 4.8 × 10⁻³¹ |\nWhich of these reactions proceeds furthest toward completion at 298 K?",
+        "hi": "अभिक्रियाओं और उनके साम्य स्थिरांकों की तालिका की जाँच करें:\n| अभिक्रिया | K_c |\n| :--- | :--- |\n| 1. 2H₂(g) + O₂(g) ⇌ 2H₂O(g) | 3.2 × 10⁸¹ |\n| 2. H₂(g) + Cl₂(g) ⇌ 2HCl(g) | 4.0 × 10³¹ |\n| 3. N₂(g) + O₂(g) ⇌ 2NO(g) | 4.8 × 10⁻³¹ |\nइनमें से कौन सी अभिक्रिया 298 K पर पूर्णता की ओर सर्वाधिक आगे बढ़ती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Reaction 1 (highest K_c = 3.2 × 10⁸¹)",
+          "hi": "अभिक्रिया 1 (उच्चतम K_c = 3.2 × 10⁸¹)"
+        },
+        "B": {
+          "en": "Reaction 2",
+          "hi": "अभिक्रिया 2"
+        },
+        "C": {
+          "en": "Reaction 3",
+          "hi": "अभिक्रिया 3"
+        },
+        "D": {
+          "en": "All three proceed to equal extent",
+          "hi": "तीनों समान सीमा तक आगे बढ़ती हैं"
+        }
+      }
+    }
+  ]
+}

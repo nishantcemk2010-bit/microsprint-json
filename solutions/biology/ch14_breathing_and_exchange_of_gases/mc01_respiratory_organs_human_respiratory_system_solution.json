@@ -1,0 +1,470 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch14_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following organisms respire through their moist cuticle (cutaneous respiration)?",
+        "hi": "निम्नलिखित में से कौन-सा जीव अपनी नम उपत्वचा (क्यूटिकल) द्वारा श्वसन (त्वचीय श्वसन) करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cockroach and grasshopper",
+          "hi": "तिलचट्टा तथा टिड्डा"
+        },
+        "B": {
+          "en": "Prawn and crab",
+          "hi": "झींगा तथा केकड़ा"
+        },
+        "C": {
+          "en": "Earthworm and leech",
+          "hi": "केंचुआ तथा जोंक"
+        },
+        "D": {
+          "en": "Planaria and sponge",
+          "hi": "प्लेनेरिया तथा स्पंज"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Earthworms and leeches use their moist cuticle for exchange of gases (cutaneous respiration). Sponges, coelenterates, and flatworms exchange gases by simple diffusion over their entire body surface. Insects like cockroaches have a network of tracheal tubes, whereas prawns and crabs use gills.",
+        "hi": "केंचुए तथा जोंक गैसों के विनिमय के लिए अपनी नम उपत्वचा (क्यूटिकल) का उपयोग करते हैं (त्वचीय श्वसन)। स्पंज, सीलेन्टरेटा और चपटे कृमि अपने पूरे शरीर की सतह से सरल विसरण द्वारा गैसों का विनिमय करते हैं। कीटों में श्वासनल तंत्र होता है जबकि जलीय आर्थ्रोपोडा (जैसे झींगा) क्लोम (गिल्स) का उपयोग करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "In the human respiratory tract, the trachea divides into right and left primary bronchi at the level of which vertebra?",
+        "hi": "मानव श्वसन मार्ग में, श्वासनली (Trachea) किस कशेरुका के स्तर पर दाईं और बाईं प्राथमिक श्वसनी में विभाजित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "3rd cervical vertebra",
+          "hi": "तीसरी ग्रीवा कशेरुका"
+        },
+        "B": {
+          "en": "5th thoracic vertebra",
+          "hi": "5वीं वक्षीय कशेरुका"
+        },
+        "C": {
+          "en": "7th thoracic vertebra",
+          "hi": "7वीं वक्षीय कशेरुका"
+        },
+        "D": {
+          "en": "2nd lumbar vertebra",
+          "hi": "दूसरी कटि कशेरुका"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "According to NCERT, the trachea is a straight tube extending up to the mid-thoracic cavity, which divides at the level of the 5th thoracic vertebra (T5) into right and left primary bronchi.",
+        "hi": "NCERT के अनुसार, श्वासनली एक सीधी नलिका है जो मध्य-वक्ष गुहा तक जाती है और 5वीं वक्षीय कशेरुका (T5) के स्तर पर दाईं और बाईं प्राथमिक श्वसनी में विभाजित हो जाती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "The opening of the pharynx into the trachea is called glottis, which is guarded during swallowing by a thin, elastic cartilaginous flap known as:",
+        "hi": "ग्रसनी का श्वासनली में खुलने वाला छिद्र घाटी (ग्लॉटिस) कहलाता है, जो निगलने के दौरान एक पतले, लचीले उपास्थिमय पल्ले द्वारा ढंक दिया जाता है, जिसे क्या कहते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Thyroid cartilage",
+          "hi": "थायरॉयड उपास्थि"
+        },
+        "B": {
+          "en": "Cricoid cartilage",
+          "hi": "क्रिकॉइड उपास्थि"
+        },
+        "C": {
+          "en": "Vocal cord",
+          "hi": "वाक् तंतु"
+        },
+        "D": {
+          "en": "Epiglottis",
+          "hi": "घाटी-ढक्कन (एपिग्लॉटिस)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The glottis is guarded by a thin elastic cartilaginous flap called the epiglottis. During swallowing, the epiglottis covers the glottis to prevent the entry of food into the larynx and respiratory tract.",
+        "hi": "घाटी (ग्लॉटिस) को एक पतले, लचीले उपास्थिमय फ्लैप द्वारा सुरक्षित किया जाता है जिसे एपिग्लॉटिस (घाटी-ढक्कन) कहते हैं। भोजन निगलते समय यह ग्लॉटिस को ढक देता है ताकि भोजन श्वासनली में प्रवेश न कर सके।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "Incomplete cartilaginous rings support the walls of which of the following structures in the human respiratory system?",
+        "hi": "अपूर्ण उपास्थिमय वलय (C-आकार के) मानव श्वसन तंत्र में निम्नलिखित में से किन संरचनाओं की भित्तियों को सहारा देते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Trachea, primary, secondary and tertiary bronchi, and initial bronchioles",
+          "hi": "श्वासनली, प्राथमिक, द्वितीयक और तृतीयक श्वसनी, तथा प्रारंभिक श्वसनिकाएं"
+        },
+        "B": {
+          "en": "Only trachea and primary bronchi",
+          "hi": "केवल श्वासनली तथा प्राथमिक श्वसनी"
+        },
+        "C": {
+          "en": "Terminal bronchioles and alveoli only",
+          "hi": "केवल अंतस्थ श्वसनिकाएं तथा कूपिकाएं"
+        },
+        "D": {
+          "en": "Entire respiratory tract including alveolar ducts and sacs",
+          "hi": "कूपिका नलिकाओं और कोषों सहित संपूर्ण श्वसन मार्ग"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Trachea, primary, secondary, and tertiary bronchi, and initial bronchioles are supported by incomplete C-shaped hyaline cartilaginous rings. Terminal bronchioles and alveoli lack these rings.",
+        "hi": "श्वासनली, प्राथमिक, द्वितीयक और तृतीयक श्वसनी तथा प्रारंभिक श्वसनिकाएं अपूर्ण C-आकार के हाइलिन उपास्थिमय वलयों द्वारा आलंबित होती हैं। अंतस्थ श्वसनिकाओं और कूपिकाओं में ये वलय अनुपस्थित होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "Which statement correctly describes the pleural membranes covering the human lungs?",
+        "hi": "मानव फेफड़ों को ढंकने वाली फुफ्फुस झिल्लियों (प्लूरल मेम्ब्रेन) का सही वर्णन कौन-सा कथन करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Outer visceral pleura is in contact with thoracic lining; inner parietal pleura touches lung surface",
+          "hi": "बाह्य विसरल प्लूरा वक्षीय अस्तर के संपर्क में होती है; आंतरिक पैराइटल प्लूरा फेफड़ों की सतह को स्पर्श करती है"
+        },
+        "B": {
+          "en": "Lungs are covered by a single, non-vascular fibrous membrane",
+          "hi": "फेफड़े एक एकल, गैर-संवहनी रेशेदार झिल्ली द्वारा ढंके होते हैं"
+        },
+        "C": {
+          "en": "Outer parietal pleura is in close contact with thoracic lining, while inner visceral pleura is in contact with lung surface",
+          "hi": "बाह्य पैराइटल प्लूरा वक्षीय अस्तर के निकट संपर्क में होती है, जबकि आंतरिक विसरल प्लूरा फेफड़ों की सतह के संपर्क में होती है"
+        },
+        "D": {
+          "en": "Pleural fluid between membranes increases friction during breathing",
+          "hi": "झिल्लियों के बीच स्थित फुफ्फुसीय द्रव सांस लेने के दौरान घर्षण को बढ़ाता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Lungs are enclosed by a double-layered pleura. The outer parietal pleura is in close contact with the thoracic lining, whereas the inner visceral pleura is in contact with the lung surface. Pleural fluid between them reduces friction on the lung surface.",
+        "hi": "फेफड़े दोहरी परत वाली फुफ्फुसावरण (प्लूरल मेम्ब्रेन) से ढके होते हैं। बाहरी पैराइटल प्लूरा वक्ष गुहा के अस्तर के संपर्क में रहती है, जबकि भीतरी विसरल प्लूरा फेफड़े की सतह के संपर्क में होती है। इनके बीच भरा फुफ्फुसीय द्रव फेफड़ों की सतह पर घर्षण को कम करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "The thoracic chamber is an anatomically airtight chamber formed dorsally, ventrally, laterally, and on the lower side respectively by:",
+        "hi": "वक्षीय गुहा संरचनात्मक रूप से एक वायुरोधी कोष्ठ है जो क्रमशः पृष्ठ भाग, अधर भाग, पार्श्व भाग तथा निचले भाग में किसके द्वारा बनती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Sternum, vertebral column, ribs, diaphragm",
+          "hi": "उरोस्थि, कशेरुक दंड, पसलियां, डायाफ्राम"
+        },
+        "B": {
+          "en": "Vertebral column, sternum, ribs, dome-shaped diaphragm",
+          "hi": "कशेरुक दंड, उरोस्थि (Sternum), पसलियां, गुंबदाकार डायाफ्राम"
+        },
+        "C": {
+          "en": "Ribs, diaphragm, vertebral column, sternum",
+          "hi": "पसलियां, डायाफ्राम, कशेरुक दंड, उरोस्थि"
+        },
+        "D": {
+          "en": "Vertebral column, ribs, clavicle, flat diaphragm",
+          "hi": "कशेरुक दंड, पसलियां, जत्रुक (क्लैविकल), चपटा डायाफ्राम"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The thoracic chamber is formed dorsally by the vertebral column, ventrally by the sternum, laterally by the ribs, and on the lower side by the dome-shaped diaphragm.",
+        "hi": "वक्ष गुहा पृष्ठ भाग में कशेरुक दंड द्वारा, अधर भाग में उरोस्थि (sternum) द्वारा, पार्श्व में पसलियों द्वारा और निचले भाग में गुंबदाकार डायाफ्राम द्वारा निर्मित एक वायुरोधी कक्ष है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "In the human respiratory tract, how many lobes are present in the right lung and left lung respectively?",
+        "hi": "मानव श्वसन तंत्र में, दाएं फेफड़े और बाएं फेफड़े में क्रमशः कितने पालि (lobes) पाए जाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "2 lobes in right lung, 3 lobes in left lung",
+          "hi": "दाएं फेफड़े में 2 पालि, बाएं फेफड़े में 3 पालि"
+        },
+        "B": {
+          "en": "2 lobes in right lung, 2 lobes in left lung",
+          "hi": "दाएं फेफड़े में 2 पालि, बाएं फेफड़े में 2 पालि"
+        },
+        "C": {
+          "en": "3 lobes in right lung, 3 lobes in left lung",
+          "hi": "दाएं फेफड़े में 3 पालि, बाएं फेफड़े में 3 पालि"
+        },
+        "D": {
+          "en": "3 lobes in right lung, 2 lobes in left lung",
+          "hi": "दाएं फेफड़े में 3 पालि, बाएं फेफड़े में 2 पालि"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The right lung is larger and divided into 3 lobes (superior, middle, inferior) by horizontal and oblique fissures. The left lung is divided into 2 lobes (superior and inferior) by an oblique fissure to accommodate the cardiac notch for the heart.",
+        "hi": "मानव का दायां फेफड़ा बड़ा होता है और 3 पालियों (ऊपरी, मध्य, निचली) में बंटा होता है। बायां फेफड़ा हृदय के खांच (कार्डियक नॉच) की उपस्थिति के कारण केवल 2 पालियों (ऊपरी और निचली) में बंटा होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "Identify the correct anatomical sequence of air passage during inspiration in humans:",
+        "hi": "मानव में अंतःश्वसन के दौरान वायु मार्ग का सही शारीरिक क्रम पहचानिए:"
+      },
+      "options": {
+        "A": {
+          "en": "External nostrils -> Nasal chamber -> Pharynx -> Larynx -> Trachea -> Bronchi -> Bronchioles -> Alveoli",
+          "hi": "बाह्य नासारंध्र -> नासा कक्ष -> ग्रसनी -> कंठ -> श्वासनली -> श्वसनी -> श्वसनिकाएं -> कूपिकाएं"
+        },
+        "B": {
+          "en": "External nostrils -> Larynx -> Pharynx -> Trachea -> Bronchioles -> Bronchi -> Alveoli",
+          "hi": "बाह्य नासारंध्र -> कंठ -> ग्रसनी -> श्वासनली -> श्वसनिकाएं -> श्वसनी -> कूपिकाएं"
+        },
+        "C": {
+          "en": "External nostrils -> Nasal chamber -> Larynx -> Pharynx -> Trachea -> Alveoli -> Bronchi",
+          "hi": "बाह्य नासारंध्र -> नासा कक्ष -> कंठ -> ग्रसनी -> श्वासनली -> कूपिकाएं -> श्वसनी"
+        },
+        "D": {
+          "en": "Nasal chamber -> External nostrils -> Trachea -> Larynx -> Bronchi -> Alveoli",
+          "hi": "नासा कक्ष -> बाह्य नासारंध्र -> श्वासनली -> कंठ -> श्वसनी -> कूपिकाएं"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Air passes sequentially from External nostrils -> Nasal chamber -> Pharynx (internal nares) -> Glottis of Larynx -> Trachea -> Primary, secondary, tertiary Bronchi -> Bronchioles -> Terminal bronchioles -> Alveoli.",
+        "hi": "वायु का सही प्रवाह क्रम है: बाह्य नासारंध्र -> नासा कक्ष -> ग्रसनी -> कंठ (ग्लॉटिस) -> श्वासनली -> श्वसनी -> श्वसनिकाएं -> कूपिकाएं (एल्वियोली)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "If a healthy individual has a Tidal Volume of 500 mL and an anatomical dead space volume of 150 mL, what volume of fresh air reaches the alveoli per minute at a breathing rate of 12 breaths/min?",
+        "hi": "यदि किसी स्वस्थ व्यक्ति का ज्वारीय आयतन (Tidal Volume) 500 mL है और शारीरिकी मृत अवकाश आयतन 150 mL है, तो 12 सांस/मिनट की श्वसन दर पर प्रति मिनट कूपिकाओं तक ताजी वायु का कितना आयतन पहुंचता है?"
+      },
+      "options": {
+        "A": {
+          "en": "6000 mL/min",
+          "hi": "6000 mL/min"
+        },
+        "B": {
+          "en": "1800 mL/min",
+          "hi": "1800 mL/min"
+        },
+        "C": {
+          "en": "4200 mL/min",
+          "hi": "4200 mL/min"
+        },
+        "D": {
+          "en": "5400 mL/min",
+          "hi": "5400 mL/min"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Alveolar ventilation per breath = Tidal Volume - Dead space volume = 500 mL - 150 mL = 350 mL. Per minute alveolar ventilation = 350 mL * 12 breaths/min = 4200 mL/min.",
+        "hi": "प्रति सांस कूपिकीय संवातन (Alveolar ventilation) = ज्वारीय आयतन - मृत अवकाश आयतन = 500 - 150 = 350 mL। प्रति मिनट कूपिकीय संवातन = 350 * 12 = 4200 mL/min।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following functions is NOT performed by the conducting part of the human respiratory system?",
+        "hi": "मानव श्वसन तंत्र के संवहन भाग (Conducting part) द्वारा निम्नलिखित में से कौन-सा कार्य नहीं किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Clearing incoming air from foreign particles",
+          "hi": "आने वाली वायु से बाह्य कणों को हटाना/साफ करना"
+        },
+        "B": {
+          "en": "Actual diffusion of O2 and CO2 across the alveolar-capillary membrane",
+          "hi": "कूपिका-केशिका झिल्ली के पार O2 और CO2 का वास्तविक विसरण"
+        },
+        "C": {
+          "en": "Humidifying the incoming air",
+          "hi": "आने वाली वायु को नम (आर्द्र) बनाना"
+        },
+        "D": {
+          "en": "Bringing inhaled air to body temperature",
+          "hi": "अंतःश्वसित वायु को शरीर के तापमान पर लाना"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The conducting part (external nostrils to terminal bronchioles) transports atmospheric air, clears it of foreign particles, humidifies it, and brings it to body temperature. Actual diffusion of O2 and CO2 is carried out by the respiratory/exchange part (alveoli and their ducts).",
+        "hi": "संवहन भाग (बाहरी नासारंध्र से अंतस्थ श्वसनिका तक) वायु का परिवहन, धूल-कणों की सफाई, आर्द्रीकरण तथा तापमान नियमन करता है। गैसों (O2 और CO2) का वास्तविक विसरण श्वसन/विनिमय भाग (कूपिकाएं और उनकी नलिकाएं) द्वारा होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "Consider the following statements regarding the human lungs:\nI. Lungs are situated in an airtight thoracic chamber.\nII. The thoracic chamber is enclosed laterally by the ribs and ventrally by the sternum.\nIII. Any change in thoracic cavity volume is directly reflected in the pulmonary cavity.\nHow many of the above statements are correct?",
+        "hi": "मानव फेफड़ों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nI. फेफड़े एक वायुरोधी वक्ष गुहा में स्थित होते हैं।\nII. वक्ष गुहा पार्श्व में पसलियों और अधर भाग में उरोस्थि द्वारा घिरी होती है।\nIII. वक्ष गुहा के आयतन में कोई भी परिवर्तन सीधे फुफ्फुसीय गुहा में परिलक्षित होता है।\nउपरोक्त में से कितने कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "All three (I, II, and III)",
+          "hi": "तीनों (I, II, और III)"
+        },
+        "B": {
+          "en": "Only two",
+          "hi": "केवल दो"
+        },
+        "C": {
+          "en": "Only one",
+          "hi": "केवल एक"
+        },
+        "D": {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "All three statements are completely correct according to NCERT. Because the lungs are in an airtight thoracic cavity, we cannot directly alter pulmonary volume; any change in thoracic volume automatically alters pulmonary volume.",
+        "hi": "NCERT के अनुसार तीनों कथन पूर्णतः सत्य हैं। फेफड़े वायुरोधी वक्ष गुहा में स्थित होते हैं और हम सीधे फुफ्फुसीय आयतन को नहीं बदल सकते, अतः वक्षीय आयतन में कोई भी परिवर्तन फुफ्फुसीय आयतन में प्रतिबिंबित होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "The larynx is known as the sound box because it contains vocal cords. It is primarily composed of how many cartilages in humans?",
+        "hi": "कंठ (Larynx) को ध्वनि पेटी कहा जाता है क्योंकि इसमें वाक् तंतु होते हैं। मानव में यह मुख्यतः कितनी उपास्थियों (cartilages) से मिलकर बना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "3 cartilages",
+          "hi": "3 उपास्थियां"
+        },
+        "B": {
+          "en": "6 cartilages",
+          "hi": "6 उपास्थियां"
+        },
+        "C": {
+          "en": "12 cartilages",
+          "hi": "12 उपास्थियां"
+        },
+        "D": {
+          "en": "9 cartilages (3 paired and 3 unpaired)",
+          "hi": "9 उपास्थियां (3 युग्मित तथा 3 अयुग्मित)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The larynx is a cartilaginous box made up of 9 cartilages: 3 unpaired (thyroid, cricoid, epiglottis) and 3 paired (arytenoid, corniculate, cuneiform).",
+        "hi": "कंठ (स्वरयंत्र) एक उपास्थिमय पेटी है जो 9 उपास्थियों से बनी होती है: 3 अयुग्मित (थायरॉइड, क्रिकॉइड, एपिग्लॉटिस) तथा 3 युग्मित (एरिटिनॉइड, कॉर्निकुलेट, क्युनिफॉर्म)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the organisms in Column I with their respiratory organs in Column II:\n\nColumn I\na. Earthworm\nb. Cockroach\nc. Prawn\nd. Pigeon\n\nColumn II\n1. Network of tracheal tubes\n2. Moist vascular cuticle\n3. Lungs\n4. Gills",
+        "hi": "कॉलम I में दिए गए जीवों का मिलान कॉलम II में उनके श्वसन अंगों से कीजिए:\n\nकॉलम I\na. केंचुआ\nb. तिलचट्टा\nc. झींगा (Prawn)\nd. कबूतर\n\nकॉलम II\n1. श्वासनल नलिकाओं का जाल\n2. नम संवहनी उपत्वचा (क्यूटिकल)\n3. फेफड़े\n4. क्लोम (Gills)"
+      },
+      "options": {
+        "A": {
+          "en": "a-1, b-2, c-3, d-4",
+          "hi": "a-1, b-2, c-3, d-4"
+        },
+        "B": {
+          "en": "a-4, b-1, c-2, d-3",
+          "hi": "a-4, b-1, c-2, d-3"
+        },
+        "C": {
+          "en": "a-2, b-1, c-4, d-3",
+          "hi": "a-2, b-1, c-4, d-3"
+        },
+        "D": {
+          "en": "a-2, b-4, c-1, d-3",
+          "hi": "a-2, b-4, c-1, d-3"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Earthworm respire through moist cuticle (a-2); Cockroach (insects) use tracheal tubes (b-1); Prawn (aquatic crustacean) uses gills (c-4); Pigeon (birds) use vascularised lungs (d-3).",
+        "hi": "केंचुआ नम क्यूटिकल द्वारा श्वसन करता है (a-2); तिलचट्टा श्वासनल तंत्र का उपयोग करता है (b-1); झींगा गिल्स का उपयोग करता है (c-4); कबूतर (पक्षी) संवहनी फेफड़ों द्वारा श्वसन करता है (d-3)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the anatomical structures of the human respiratory system in Column I with their key features in Column II:\n\nColumn I\na. Trachea\nb. Epiglottis\nc. Alveoli\nd. Pleural fluid\n\nColumn II\n1. Reduces friction on the lung surface\n2. Thin-walled, highly vascularised pouch-like sites of exchange\n3. Supported by C-shaped hyaline cartilaginous rings\n4. Elastic cartilaginous flap preventing entry of food into larynx",
+        "hi": "कॉलम I में मानव श्वसन तंत्र की शारीरिक संरचनाओं का कॉलम II में उनकी प्रमुख विशेषताओं से मिलान कीजिए:\n\nकॉलम I\na. श्वासनली (Trachea)\nb. एपिग्लॉटिस\nc. कूपिकाएं (Alveoli)\nd. फुफ्फुस द्रव (Pleural fluid)\n\nकॉलम II\n1. फेफड़े की सतह पर घर्षण को कम करता है\n2. पतली भित्ति वाली, अत्यधिक संवहनी थैली जैसी विनिमय संरचनाएं\n3. C-आकार के हाइलिन उपास्थि वलयों द्वारा समर्थित\n4. लचीला उपास्थिमय फ्लैप जो भोजन को कंठ में जाने से रोकता है"
+      },
+      "options": {
+        "A": {
+          "en": "a-2, b-4, c-3, d-1",
+          "hi": "a-2, b-4, c-3, d-1"
+        },
+        "B": {
+          "en": "a-3, b-4, c-2, d-1",
+          "hi": "a-3, b-4, c-2, d-1"
+        },
+        "C": {
+          "en": "a-3, b-1, c-2, d-4",
+          "hi": "a-3, b-1, c-2, d-4"
+        },
+        "D": {
+          "en": "a-4, b-3, c-1, d-2",
+          "hi": "a-4, b-3, c-1, d-2"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Trachea is supported by C-shaped cartilaginous rings (a-3). Epiglottis is an elastic cartilaginous flap that closes glottis (b-4). Alveoli are vascularised irregular-walled sacs (c-2). Pleural fluid lubricates and reduces friction between pleurae (d-1).",
+        "hi": "श्वासनली C-आकार के उपास्थिमय वलयों से समर्थित है (a-3)। एपिग्लॉटिस एक लचीला उपास्थि फ्लैप है जो ग्लॉटिस को ढंकता है (b-4)। कूपिकाएं अत्यधिक संवहनी पतली भित्ति वाले विनिमय स्थल हैं (c-2)। फुफ्फुसीय द्रव फेफड़ों की झिल्लियों के बीच घर्षण घटाता है (d-1)।"
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In a schematic diagram of the human lung showing pleural membranes, identify the layers from outer to inner:\n(i) Layer directly adhering to the thoracic wall\n(ii) Layer directly adhering to the lung surface\n(iii) Space containing lubricating fluid",
+        "hi": "मानव फेफड़े और फुफ्फुस झिल्लियों के आरेख में, बाहर से अंदर की ओर परतों को पहचानिए:\n(i) परत जो सीधे वक्ष भित्ति से जुड़ी होती है\n(ii) परत जो सीधे फेफड़े की सतह से चिपकी होती है\n(iii) स्नेहक द्रव युक्त अवकाश",
+        "image": "diagram_lungs_pleural_cavity.png"
+      },
+      "options": {
+        "A": {
+          "en": "(i) Parietal pleura, (ii) Visceral pleura, (iii) Pleural cavity",
+          "hi": "(i) पैराइटल प्लूरा, (ii) विसरल प्लूरा, (iii) प्लूरल गुहा"
+        },
+        "B": {
+          "en": "(i) Visceral pleura, (ii) Parietal pleura, (iii) Pericardial cavity",
+          "hi": "(i) विसरल प्लूरा, (ii) पैराइटल प्लूरा, (iii) पेरिकार्डियल गुहा"
+        },
+        "C": {
+          "en": "(i) Alveolar membrane, (ii) Endothelium, (iii) Mediastinum",
+          "hi": "(i) कूपिका झिल्ली, (ii) एंडोथीलियम, (iii) मध्यस्थानिका"
+        },
+        "D": {
+          "en": "(i) Parietal peritoneum, (ii) Visceral peritoneum, (iii) Peritoneal cavity",
+          "hi": "(i) पैराइटल पेरिटोनियम, (ii) विसरल पेरिटोनियम, (iii) पेरिटोनियल गुहा"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "The outer pleural membrane lining the inside of the thoracic wall is the parietal pleura. The inner membrane closely adhering to the lung surface is the visceral pleura. The narrow space between them containing pleural fluid is the pleural cavity.",
+        "hi": "वक्ष भित्ति के भीतरी भाग से जुड़ी बाहरी फुफ्फुस झिल्ली पैराइटल प्लूरा कहलाती है। फेफड़े की सतह से सीधे जुड़ी भीतरी झिल्ली विसरल प्लूरा कहलाती है। इनके बीच फुफ्फुस द्रव युक्त संकरा स्थान प्लूरल गुहा (Pleural cavity) कहलाता है।"
+      }
+    }
+  ]
+}

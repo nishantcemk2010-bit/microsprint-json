@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch16_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "In aquatic bony fishes, ammonia is primarily eliminated through which of the following mechanisms?",
+        "hi": "जलीय अस्थिल मछलियों में, अमोनिया मुख्य रूप से निम्नलिखित में से किस क्रियाविधि द्वारा निष्कासित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Active transport across the epithelial cells of the renal tubules into urine",
+          "hi": "वृक्क नलिकाओं की उपकला कोशिकाओं द्वारा मूत्र में सक्रिय परिवहन"
+        },
+        "B": {
+          "en": "Simple diffusion across gill surfaces largely as ammonium ions (NH4+)",
+          "hi": "क्लोम (गलफड़ों) की सतह से मुख्य रूप से अमोनियम आयनों (NH4+) के रूप में सरल विसरण"
+        },
+        "C": {
+          "en": "Conversion to urea in the kidneys followed by filtration",
+          "hi": "वृक्कों में यूरिया में रूपांतरण और उसके बाद निस्यंदन"
+        },
+        "D": {
+          "en": "Precipitation as insoluble crystals through antennal glands",
+          "hi": "शृंगिका ग्रंथियों (antennal glands) के माध्यम से अघुलनशील क्रिस्टल के रूप में अवक्षेपण"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Ammonia is readily soluble in water and is generally excreted by simple diffusion across body surfaces or through gill surfaces (in fish) largely as ammonium ions (NH4+). Kidneys do not play a significant role in the removal of ammonia in bony fishes.",
+        "hi": "अमोनिया जल में अत्यधिक घुलनशील होती है और सामान्यतः शरीर की सतह से या मछलियों में क्लोम (गिल) सतहों से मुख्य रूप से अमोनियम आयनों (NH4+) के रूप में सरल विसरण द्वारा उत्सर्जित होती है। अस्थिल मछलियों में अमोनिया निष्कासन में वृक्क कोई खास भूमिका नहीं निभाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following correctly represents the decreasing order of toxicity of major nitrogenous wastes?",
+        "hi": "निम्नलिखित में से कौन प्रमुख नाइट्रोजनी अपशिष्टों की विषाक्तता का सही घटता क्रम दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Uric acid > Urea > Ammonia",
+          "hi": "यूरिक अम्ल > यूरिया > अमोनिया"
+        },
+        "B": {
+          "en": "Urea > Ammonia > Uric acid",
+          "hi": "यूरिया > अमोनिया > यूरिक अम्ल"
+        },
+        "C": {
+          "en": "Ammonia > Urea > Uric acid",
+          "hi": "अमोनिया > यूरिया > यूरिक अम्ल"
+        },
+        "D": {
+          "en": "Ammonia > Uric acid > Urea",
+          "hi": "अमोनिया > यूरिक अम्ल > यूरिया"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Ammonia is the most toxic nitrogenous waste and requires large amounts of water for its elimination. Urea is approximately 100,000 times less toxic than ammonia. Uric acid is the least toxic and can be excreted with minimum loss of water.",
+        "hi": "अमोनिया सबसे अधिक विषाक्त नाइट्रोजनी अपशिष्ट है और इसके निष्कासन के लिए अत्यधिक जल की आवश्यकता होती है। यूरिया अमोनिया की तुलना में लगभग 100,000 गुना कम विषाक्त है। यूरिक अम्ल सबसे कम विषाक्त होता है और इसे जल की न्यूनतम हानि के साथ उत्सर्जित किया जा सकता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "In ureotelic terrestrial animals, urea is primarily synthesized in which organ and via which biochemical cycle?",
+        "hi": "यूरियोटेलिक स्थलीय जंतुओं में, यूरिया का संश्लेषण मुख्य रूप से किस अंग में और किस जैव रासायनिक चक्र द्वारा होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Liver, via the Ornithine (urea) cycle",
+          "hi": "यकृत (Liver), ऑर्निथिन (यूरिया) चक्र द्वारा"
+        },
+        "B": {
+          "en": "Kidney cortex, via the Cori cycle",
+          "hi": "वृक्क वल्कुट (Kidney cortex), कोरी चक्र द्वारा"
+        },
+        "C": {
+          "en": "Spleen, via the Krebs cycle",
+          "hi": "प्लीहा (Spleen), क्रेब्स चक्र द्वारा"
+        },
+        "D": {
+          "en": "Intestinal mucosa, via the Glyoxylate cycle",
+          "hi": "आंतों के श्लेष्मा, ग्लाइऑक्सीलेट चक्र द्वारा"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "In ureotelic animals like mammals, ammonia produced by cellular metabolism is converted into urea in the liver via the Ornithine cycle (urea cycle) and subsequently released into the blood, which is filtered and excreted by the kidneys.",
+        "hi": "स्तनधारियों जैसे यूरियोटेलिक जंतुओं में, कोशिकीय उपापचय द्वारा उत्पादित अमोनिया यकृत में ऑर्निथिन चक्र (यूरिया चक्र) द्वारा यूरिया में परिवर्तित होती है और फिर रक्त में छोड़ी जाती है, जिसे वृक्कों द्वारा निस्यंदित कर उत्सर्जित किया जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "Uricotelism is primarily considered an evolutionary adaptation for:",
+        "hi": "यूरिकोटेलिज्म (Uricotelism) मुख्य रूप से किसके लिए एक विकासीय अनुकूलन माना जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Rapid excretion of large solute loads in hypertonic environments",
+          "hi": "अतिपरासारी वातावरण में बड़े विलेय भार का तीव्र निष्कासन"
+        },
+        "B": {
+          "en": "Maintenance of alkaline body fluid pH during metabolic acidosis",
+          "hi": "उपापचयी अम्लरक्तता के दौरान क्षारीय शारीरिक द्रव pH का नियमन"
+        },
+        "C": {
+          "en": "Conserving metabolic energy at the cost of high water loss",
+          "hi": "उच्च जल हानि की कीमत पर उपापचयी ऊर्जा का संरक्षण"
+        },
+        "D": {
+          "en": "Conserving water in terrestrial habitats by excreting waste as pellet or paste",
+          "hi": "अपशिष्ट को गोलिकाओं (pellet) या लेई (paste) के रूप में उत्सर्जित करके स्थलीय आवासों में जल का संरक्षण"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Reptiles, birds, land snails, and insects excrete nitrogenous wastes as uric acid in the form of pellet or paste with a minimum loss of water; this is known as uricotelism and is a major adaptation for water conservation in terrestrial life.",
+        "hi": "सरीसृप, पक्षी, स्थलीय घोंघे और कीट नाइट्रोजनी अपशिष्टों को यूरिक अम्ल के रूप में न्यूनतम जल हानि के साथ गोलिकाओं या लेई (पेस्ट) के रूप में उत्सर्जित करते हैं; इसे यूरिकोटेलिज्म कहा जाता है और यह स्थलीय जीवन में जल संरक्षण का एक प्रमुख अनुकूलन है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "Marine cartilaginous fishes (elasmobranchs like sharks) retain a considerable amount of urea in their body fluids primarily to:",
+        "hi": "समुद्री उपास्थिल मछलियाँ (जैसे शार्क) अपने शारीरिक द्रवों में काफी मात्रा में यूरिया बनाए रखती हैं, मुख्य रूप से:"
+      },
+      "options": {
+        "A": {
+          "en": "Protect their internal organs against sudden hydrostatic pressure changes",
+          "hi": "अचानक होने वाले द्रवस्थैतिक दबाव परिवर्तनों से आंतरिक अंगों की रक्षा करने के लिए"
+        },
+        "B": {
+          "en": "Maintain blood osmolarity near or slightly higher than surrounding seawater to prevent water loss",
+          "hi": "जल हानि को रोकने के लिए रक्त परासारिता को समुद्री जल के बराबर या उससे थोड़ा अधिक बनाए रखने के लिए"
+        },
+        "C": {
+          "en": "Provide a continuous nitrogen substrate for ammonia synthesis in muscles",
+          "hi": "मांसपेशियों में अमोनिया संश्लेषण के लिए निरंतर नाइट्रोजन क्रियाधार प्रदान करने के लिए"
+        },
+        "D": {
+          "en": "Inhibit bacterial cell wall synthesis in the gut lumen",
+          "hi": "आंत गुहा में जीवाणु कोशिका भित्ति संश्लेषण को संदमित करने के लिए"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Many marine cartilaginous fishes retain significant amounts of urea (along with TMAO) in their blood and tissues to make their internal osmotic concentration equal to or slightly hyperosmotic to surrounding seawater, avoiding osmotic water loss.",
+        "hi": "कई समुद्री उपास्थिल मछलियाँ अपने रक्त और ऊतकों में काफी मात्रा में यूरिया (TMAO के साथ) बनाए रखती हैं ताकि उनकी आंतरिक परासरण सांद्रता आसपास के समुद्री जल के बराबर या थोड़ी अधिक हो जाए, जिससे परासरणी जल की हानि नहीं होती।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "Protonephridia with solenocytes or flame cells are the primary excretory/osmoregulatory structures in which cephalochordate?",
+        "hi": "सोलेनोसाइट्स या ज्वाला कोशिकाओं (flame cells) युक्त प्रोटोनेफ्रीडिया किस सिफेलोकोर्डेटा में प्राथमिक उत्सर्जी/परासरण-नियमन संरचनाएं हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Balanoglossus",
+          "hi": "बैलेनोग्लोसस"
+        },
+        "B": {
+          "en": "Salpa",
+          "hi": "साल्पा"
+        },
+        "C": {
+          "en": "Amphioxus (Branchiostoma)",
+          "hi": "एम्फिऑक्सस (ब्रैंकियोस्टोमा)"
+        },
+        "D": {
+          "en": "Petromyzon",
+          "hi": "पेट्रोमाइज़ॉन"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Protonephridia or flame cells are the excretory structures in Platyhelminthes (Planaria), rotifers, some annelids, and the cephalochordate Amphioxus (Branchiostoma). Protonephridia are primarily concerned with ionic and fluid volume regulation (osmoregulation).",
+        "hi": "प्रोटोनेफ्रीडिया या ज्वाला कोशिकाएं प्लेटीहेल्मिन्थीज (प्लेनेरिया), रोटिफ़र्स, कुछ एनेलिड और सिफेलोकोर्डेटा एम्फिऑक्सस (ब्रैंकियोस्टोमा) में उत्सर्जी संरचनाएं हैं। ये मुख्य रूप से आयनिक और द्रव आयतन नियमन (परासरण-नियमन) से संबंधित हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "Approximate water volume required to eliminate 1 g of nitrogen as ammonia, urea, and uric acid is in the ratio of roughly:",
+        "hi": "1 ग्राम नाइट्रोजन को अमोनिया, यूरिया और यूरिक अम्ल के रूप में उत्सर्जित करने के लिए आवश्यक जल के आयतन का अनुमानित अनुपात लगभग क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "500 mL : 50 mL : 10 mL (roughly 50 : 5 : 1)",
+          "hi": "500 mL : 50 mL : 10 mL (लगभग 50 : 5 : 1)"
+        },
+        "B": {
+          "en": "10 mL : 50 mL : 500 mL (roughly 1 : 5 : 50)",
+          "hi": "10 mL : 50 mL : 500 mL (लगभग 1 : 5 : 50)"
+        },
+        "C": {
+          "en": "100 mL : 100 mL : 100 mL (roughly 1 : 1 : 1)",
+          "hi": "100 mL : 100 mL : 100 mL (लगभग 1 : 1 : 1)"
+        },
+        "D": {
+          "en": "50 mL : 500 mL : 5 mL (roughly 10 : 100 : 1)",
+          "hi": "50 mL : 500 mL : 5 mL (लगभग 10 : 100 : 1)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Excretion of 1 g of nitrogen requires approximately 300-500 mL of water as ammonia, ~50 mL of water as urea, and only ~10 mL of water as uric acid. Thus, the ratio of water requirement is approximately 50 : 5 : 1.",
+        "hi": "1 ग्राम नाइट्रोजन के निष्कासन के लिए अमोनिया के रूप में लगभग 300-500 mL जल, यूरिया के रूप में ~50 mL जल, और यूरिक अम्ल के रूप में केवल ~10 mL जल की आवश्यकता होती है। अतः जल की आवश्यकता का अनुपात लगभग 50 : 5 : 1 है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "How many high-energy phosphate bonds from ATP are consumed in the liver to synthesize one molecule of urea in the ornithine cycle?",
+        "hi": "ऑर्निथिन चक्र में यकृत के भीतर यूरिया के एक अणु के संश्लेषण के लिए ATP के कितने उच्च-ऊर्जा फॉस्फेट बंध खर्च होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "1 high-energy phosphate bond",
+          "hi": "1 उच्च-ऊर्जा फॉस्फेट बंध"
+        },
+        "B": {
+          "en": "2 high-energy phosphate bonds",
+          "hi": "2 उच्च-ऊर्जा फॉस्फेट बंध"
+        },
+        "C": {
+          "en": "3 high-energy phosphate bonds",
+          "hi": "3 उच्च-ऊर्जा फॉस्फेट बंध"
+        },
+        "D": {
+          "en": "4 high-energy phosphate bonds (from 3 ATP molecules)",
+          "hi": "4 उच्च-ऊर्जा फॉस्फेट बंध (3 ATP अणुओं से)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Synthesis of one molecule of urea requires 3 ATP molecules: 2 ATP are converted to 2 ADP + 2 Pi by carbamoyl phosphate synthetase I, and 1 ATP is cleaved to AMP + PPi (equivalent to 2 high-energy bonds) by argininosuccinate synthetase, consuming a net of 4 high-energy phosphate bonds.",
+        "hi": "यूरिया के एक अणु के संश्लेषण में 3 ATP अणु भाग लेते हैं: कार्बामॉयल फॉस्फेट सिंथेटेस I द्वारा 2 ATP से 2 ADP + 2 Pi बनते हैं, और आर्जिनिनोसक्सीनेट सिंथेटेस द्वारा 1 ATP से AMP + PPi बनता है (जो 2 उच्च-ऊर्जा बंधों के बराबर है), जिससे कुल 4 उच्च-ऊर्जा फॉस्फेट बंध खर्च होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "In freshwater flatworms like Planaria, what is the primary thermodynamic and physiological role of protonephridia?",
+        "hi": "प्लेनेरिया जैसे अलवणजलीय चपटे कृमियों में, प्रोटोनेफ्रीडिया की प्राथमिक ऊष्मागतिक और कार्यिकीय भूमिका क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Concentrating nitrogenous waste into hypertonic fluid",
+          "hi": "नाइट्रोजनी अपशिष्ट को अतिपरासारी द्रव में सांद्रित करना"
+        },
+        "B": {
+          "en": "Osmoregulation (pumping out excess hypoosmotic fluid entering by endosmosis)",
+          "hi": "परासरण-नियमन (अंतःपरासरण द्वारा प्रवेश करने वाले अतिरिक्त अल्पपरासारी द्रव को बाहर निकालना)"
+        },
+        "C": {
+          "en": "Active secretion of insoluble uric acid crystals into digestive diverticula",
+          "hi": "पाचन अंधनाल में अघुलनशील यूरिक अम्ल क्रिस्टल का सक्रिय स्राव"
+        },
+        "D": {
+          "en": "Anaerobic ATP production via proton gradients across flame bulbs",
+          "hi": "ज्वाला बल्बों में प्रोटॉन प्रवणता द्वारा अवायवीय ATP उत्पादन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "In freshwater organisms like Planaria, water constantly enters the body down osmotic gradients (endosmosis). Protonephridia primarily function in osmoregulation—regulating ionic balance and fluid volume by eliminating excess water—while ammonia diffuses directly across body surfaces.",
+        "hi": "प्लेनेरिया जैसे ताजे जल के जीवों में परासरणी प्रवणता के कारण शरीर में लगातार जल प्रवेश करता है (अंतःपरासरण)। प्रोटोनेफ्रीडिया मुख्य रूप से परासरण-नियमन (अतिरिक्त जल को बाहर निकालकर आयनिक संतुलन और द्रव आयतन का नियमन) का कार्य करते हैं, जबकि अमोनिया शरीर की सतह से सीधे विसरित होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following correctly compares the metabolic energy expenditure required for synthesis among the three excretory products?",
+        "hi": "निम्नलिखित में से कौन तीनों उत्सर्जी उत्पादों के संश्लेषण के लिए आवश्यक उपापचयी ऊर्जा व्यय की सही तुलना करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ammonia > Urea > Uric acid",
+          "hi": "अमोनिया > यूरिया > यूरिक अम्ल"
+        },
+        "B": {
+          "en": "Urea > Ammonia > Uric acid",
+          "hi": "यूरिया > अमोनिया > यूरिक अम्ल"
+        },
+        "C": {
+          "en": "Uric acid > Urea > Ammonia",
+          "hi": "यूरिक अम्ल > यूरिया > अमोनिया"
+        },
+        "D": {
+          "en": "Uric acid = Urea = Ammonia",
+          "hi": "यूरिक अम्ल = यूरिया = अमोनिया"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Direct deamination produces ammonia with zero or minimal additional energy expenditure. Urea synthesis (ornithine cycle) requires energy (3 ATP / 4 high-energy bonds). Uric acid synthesis involves a complex multi-step pathway requiring substantial ATP and carbon/glycine inputs. Therefore, energy cost: Uric acid > Urea > Ammonia.",
+        "hi": "प्रत्यक्ष विऐमीनीकरण से अमोनिया का उत्पादन न्यूनतम या शून्य अतिरिक्त ऊर्जा से होता है। यूरिया संश्लेषण (ऑर्निथिन चक्र) में ऊर्जा (4 उच्च-ऊर्जा बंध) लगती है। यूरिक अम्ल संश्लेषण एक जटिल बहु-चरणीय मार्ग है जिसमें अत्यधिक ATP और कार्बन/ग्लाइसिन की आवश्यकता होती है। अतः ऊर्जा लागत: यूरिक अम्ल > यूरिया > अमोनिया।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "During amphibian metamorphosis, what shift occurs in the primary nitrogenous waste product from tadpole larva to adult frog?",
+        "hi": "उभयचर कायांतरण के दौरान, टैडपोल लार्वा से वयस्क मेंढक तक प्राथमिक नाइट्रोजनी अपशिष्ट उत्पाद में क्या परिवर्तन होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ammonotelism shifts to Ureotelism",
+          "hi": "अमोनोटेलिज्म बदलकर यूरियोटेलिज्म हो जाता है"
+        },
+        "B": {
+          "en": "Ureotelism shifts to Uricotelism",
+          "hi": "यूरियोटेलिज्म बदलकर यूरिकोटेलिज्म हो जाता है"
+        },
+        "C": {
+          "en": "Uricotelism shifts to Ammonotelism",
+          "hi": "यूरिकोटेलिज्म बदलकर अमोनोटेलिज्म हो जाता है"
+        },
+        "D": {
+          "en": "Ammonotelism shifts to Guanotelism",
+          "hi": "अमोनोटेलिज्म बदलकर ग्वानोटेलिज्म हो जाता है"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Tadpole larvae of amphibians are fully aquatic and ammonotelic (excreting ammonia across skin and gills). During metamorphosis into adult frogs living on land, liver urea cycle enzymes are induced and they become ureotelic to conserve water.",
+        "hi": "उभयचरों के टैडपोल लार्वा पूर्णतः जलीय और अमोनोटेलिक होते हैं (त्वचा और गिल्स से अमोनिया उत्सर्जित करते हैं)। भूमि पर रहने वाले वयस्क मेंढक में कायांतरण के दौरान यकृत में यूरिया चक्र एंजाइम सक्रिय हो जाते हैं और वे जल संरक्षण के लिए यूरियोटेलिक बन जाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "Quantitatively, by approximately what factor is urea less toxic than ammonia in biological systems?",
+        "hi": "मात्रात्मक रूप से, जैविक प्रणालियों में यूरिया अमोनिया की तुलना में लगभग कितने गुना कम विषाक्त है?"
+      },
+      "options": {
+        "A": {
+          "en": "10 times less toxic",
+          "hi": "10 गुना कम विषाक्त"
+        },
+        "B": {
+          "en": "100 times less toxic",
+          "hi": "100 गुना कम विषाक्त"
+        },
+        "C": {
+          "en": "1,000 times less toxic",
+          "hi": "1,000 गुना कम विषाक्त"
+        },
+        "D": {
+          "en": "100,000 times less toxic",
+          "hi": "100,000 गुना कम विषाक्त"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Urea is approximately 100,000 (10^5) times less toxic than ammonia. This dramatic reduction in toxicity allows animals to accumulate urea in much higher concentrations in their blood without tissue damage compared to ammonia.",
+        "hi": "यूरिया अमोनिया की तुलना में लगभग 100,000 (10^5) गुना कम विषाक्त है। विषाक्तता में इस भारी कमी के कारण जंतु अमोनिया की तुलना में ऊतकों को नुकसान पहुंचाए बिना अपने रक्त में यूरिया को बहुत अधिक सांद्रता में रख सकते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the excretory structures in Column-I with the corresponding organisms in Column-II:\nColumn-I:\n(a) Protonephridia (Flame cells)\n(b) Nephridia\n(c) Malpighian tubules\n(d) Antennal / Green glands\n\nColumn-II:\n(i) Periplaneta (Cockroach)\n(ii) Prawn (Crustaceans)\n(iii) Planaria (Flatworms)\n(iv) Pheretima (Earthworm)",
+        "hi": "कॉलम-I में दी गई उत्सर्जी संरचनाओं का कॉलम-II के संबंधित जीवों से मिलान कीजिए:\nकॉलम-I:\n(a) प्रोटोनेफ्रीडिया (ज्वाला कोशिकाएं)\n(b) नेफ्रीडिया\n(c) मैलपीघी नलिकाएं\n(d) शृंगिका (एंटीनल) / हरी ग्रंथियां\n\nकॉलम-II:\n(i) पेरिप्लैनेटा (कॉकरोच)\n(ii) झींगा (प्रॉन / क्रस्टेशियन)\n(iii) प्लेनेरिया (चपटे कृमि)\n(iv) फेरेटिमा (केंचुआ)"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Correct match:\n(a) Protonephridia (Flame cells) -> (iii) Planaria\n(b) Nephridia -> (iv) Pheretima (Earthworm)\n(c) Malpighian tubules -> (i) Periplaneta (Cockroach)\n(d) Antennal/Green glands -> (ii) Prawn (Crustaceans)",
+        "hi": "सही मिलान:\n(a) प्रोटोनेफ्रीडिया (ज्वाला कोशिकाएं) -> (iii) प्लेनेरिया\n(b) नेफ्रीडिया -> (iv) फेरेटिमा (केंचुआ)\n(c) मैलपीघी नलिकाएं -> (i) पेरिप्लैनेटा (कॉकरोच)\n(d) शृंगिका / हरी ग्रंथियां -> (ii) झींगा (प्रॉन)"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Identify the option with the CORRECT match between the excretory mode and its representative animal group:\n\n1. Ammonotelic - Bony fishes, Aquatic insects, Aquatic amphibians\n2. Ureotelic - Mammals, Terrestrial amphibians, Marine cartilaginous fishes\n3. Uricotelic - Birds, Reptiles, Land snails, Insects",
+        "hi": "उत्सर्जन विधि और उसके प्रतिनिधि प्राणी समूह के बीच सही मिलान वाले विकल्प की पहचान कीजिए:\n\n1. अमोनोटेलिक - अस्थिल मछलियाँ, जलीय कीट, जलीय उभयचर\n2. यूरियोटेलिक - स्तनधारी, स्थलीय उभयचर, समुद्री उपास्थिल मछलियाँ\n3. यूरिकोटेलिक - पक्षी, सरीसृप, स्थलीय घोंघे, कीट"
+      },
+      "options": {
+        "A": {
+          "en": "Only 1 and 2 are correct",
+          "hi": "केवल 1 और 2 सही हैं"
+        },
+        "B": {
+          "en": "Only 2 and 3 are correct",
+          "hi": "केवल 2 और 3 सही हैं"
+        },
+        "C": {
+          "en": "1, 2, and 3 are all correct",
+          "hi": "1, 2 और 3 सभी सही हैं"
+        },
+        "D": {
+          "en": "Only 1 is correct",
+          "hi": "केवल 1 सही है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "All three pairs are completely correct as per NCERT Biology Class 11:\n1. Bony fishes, aquatic amphibians, and aquatic insects are ammonotelic.\n2. Mammals, terrestrial amphibians, and marine fishes are ureotelic.\n3. Reptiles, birds, land snails, and insects are uricotelic.",
+        "hi": "NCERT जीव विज्ञान कक्षा 11 के अनुसार तीनों युग्म पूर्णतः सही हैं:\n1. अस्थिल मछलियाँ, जलीय उभयचर और जलीय कीट अमोनोटेलिक हैं।\n2. स्तनधारी, स्थलीय उभयचर और समुद्री मछलियाँ यूरियोटेलिक हैं।\n3. सरीसृप, पक्षी, स्थलीय घोंघे और कीट यूरिकोटेलिक हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following statements regarding animal excretory structures:\nI. Nephridia help in the removal of nitrogenous wastes and maintaining fluid and ionic balance in earthworms.\nII. Malpighian tubules in insects absorb nitrogenous waste from haemolymph and convert it into uric acid.\nIII. Antennal glands perform excretory function in crustaceans like prawns.\nIV. Protonephridia are found only in invertebrates and never in chordates.\nWhich of the above statements are CORRECT?",
+        "hi": "जंतुओं की उत्सर्जी संरचनाओं के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nI. नेफ्रीडिया केंचुओं में नाइट्रोजनी अपशिष्टों को हटाने और द्रव व आयनिक संतुलन बनाए रखने में मदद करते हैं।\nII. कीटों में मैलपीघी नलिकाएं हीमोलिम्फ से नाइट्रोजनी अपशिष्टों को अवशोषित करती हैं और उन्हें यूरिक अम्ल में परिवर्तित करती हैं।\nIII. प्रॉन जैसे क्रस्टेशियंस में शृंगिका ग्रंथियां उत्सर्जी कार्य करती हैं।\nIV. प्रोटोनेफ्रीडिया केवल अकशेरूकी जीवों में पाए जाते हैं और कॉर्डेट्स में कभी नहीं पाए जाते।\nउपरोक्त कथनों में से कौन-से सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I and IV only",
+          "hi": "केवल I और IV"
+        },
+        "B": {
+          "en": "II and IV only",
+          "hi": "केवल II और IV"
+        },
+        "C": {
+          "en": "I, II, and IV only",
+          "hi": "केवल I, II और IV"
+        },
+        "D": {
+          "en": "I, II, and III only",
+          "hi": "केवल I, II और III"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Statements I, II, and III are correct. Statement IV is incorrect because protonephridia with solenocytes are present in the cephalochordate Amphioxus (Branchiostoma), which is a chordate.",
+        "hi": "कथन I, II और III सही हैं। कथन IV गलत है क्योंकि सोलेनोसाइट्स युक्त प्रोटोनेफ्रीडिया सिफेलोकोर्डेटा एम्फिऑक्सस (ब्रैंकियोस्टोमा) में पाए जाते हैं, जो कि एक कॉर्डेट है।"
+      }
+    }
+  ]
+}

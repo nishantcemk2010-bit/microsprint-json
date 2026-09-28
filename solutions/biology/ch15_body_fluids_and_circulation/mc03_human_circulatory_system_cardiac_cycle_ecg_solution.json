@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch15_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "Embryologically, the human heart is derived from which primary germ layer, and what is the double-walled membranous sac that encloses and lubricates it?",
+        "hi": "भ्रूणीय रूप से, मानव हृदय किस प्राथमिक जनन स्तर से व्युत्पन्न होता है, और वह कौन सी दोहरी भित्ति वाली झिल्लीदार थैली है जो इसे घेरती और स्नेहित रखती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ectoderm; Pleural sac",
+          "hi": "एक्टोडर्म; प्लुरल थैली"
+        },
+        "B": {
+          "en": "Mesoderm; Pericardium",
+          "hi": "मेसोडर्म; पेरिकार्डियम (हृदयावरण)"
+        },
+        "C": {
+          "en": "Endoderm; Peritoneum",
+          "hi": "एंडोडर्म; पेरिटोनियम"
+        },
+        "D": {
+          "en": "Mesoderm; Meninges",
+          "hi": "मेसोडर्म; मेनिन्जेस"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The human heart is mesodermal in origin. It is situated in the mediastinum between the two lungs and is protected by a double-walled fibroserous sac called the pericardium, enclosing pericardial fluid to reduce mechanical friction.",
+        "hi": "मानव हृदय की उत्पत्ति मेसोडर्म से होती है। यह दोनों फेफड़ों के बीच मध्यस्थानिका में स्थित होता है और पेरिकार्डियम (हृदयावरण) नामक दोहरी भित्ति वाली थैली द्वारा सुरक्षित होता है, जिसमें घर्षण कम करने के लिए हृदयावरणी द्रव भरा होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "What is the anatomical location and primary physiological role of the bicuspid (mitral) valve?",
+        "hi": "द्विवलनी (मिट्रल) कपाट की शारीरिक स्थिति और प्राथमिक शारीरिक भूमिका क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Guards opening between left atrium and left ventricle; prevents backflow of blood into left atrium during ventricular systole",
+          "hi": "बाएं आलिंद और बाएं निलय के बीच के छिद्र पर स्थित; निलय प्रकुंचन के दौरान बाएं आलिंद में रक्त के उल्टे प्रवाह को रोकता है"
+        },
+        "B": {
+          "en": "Guards opening between right atrium and right ventricle; prevents backflow into right atrium",
+          "hi": "दाएं आलिंद और दाएं निलय के बीच के छिद्र पर स्थित; दाएं आलिंद में उल्टे प्रवाह को रोकता है"
+        },
+        "C": {
+          "en": "Guards base of pulmonary artery; prevents backflow into right ventricle",
+          "hi": "फुफ्फुस धमनी के आधार पर स्थित; दाएं निलय में उल्टे प्रवाह को रोकता है"
+        },
+        "D": {
+          "en": "Guards entrance of superior vena cava into right atrium",
+          "hi": "दाएं आलिंद में अग्र महाशिरा के प्रवेश द्वार पर स्थित"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "The bicuspid or mitral valve has two muscular cusps guarding the left atrioventricular orifice. During ventricular systole, high intraventricular pressure forces it shut, preventing regurgitation into the left atrium.",
+        "hi": "द्विवलनी या मिट्रल कपाट में दो पेशीय वलन होते हैं जो बाएं आलिंद-निलय छिद्र की रक्षा करते हैं। निलय प्रकुंचन के दौरान, उच्च दाब इसे बंद कर देता है, जिससे बाएं आलिंद में रक्त का उल्टा प्रवाह रुक जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "Why is the Sino-atrial Node (SA node) designated as the natural 'Pacemaker' of the human heart?",
+        "hi": "शिरा-आलिंद गांठ (SA नोड) को मानव हृदय का प्राकृतिक 'पेसमेकर' क्यों कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Because it has the thickest muscular wall in the heart",
+          "hi": "क्योंकि इसमें हृदय की सबसे मोटी पेशीय भित्ति होती है"
+        },
+        "B": {
+          "en": "Because it generates action potentials only when stimulated by hormones",
+          "hi": "क्योंकि यह हॉर्मोनों द्वारा उत्तेजित होने पर ही क्रिया विभव उत्पन्न करता है"
+        },
+        "C": {
+          "en": "Because it generates the maximum frequency of action potentials (70-75/min) and dictates the rhythmic pace of contraction",
+          "hi": "क्योंकि यह क्रिया विभव की अधिकतम आवृत्ति (70-75/मिनट) उत्पन्न करता है और संकुचन की लयबद्ध गति निर्धारित करता है"
+        },
+        "D": {
+          "en": "Because it is located inside the left ventricle",
+          "hi": "क्योंकि यह बाएं निलय के अंदर स्थित होता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "The SA node, situated in the upper right wall of the right atrium, exhibits the highest intrinsic rate of spontaneous depolarization, generating 70-75 action potentials per minute. It acts as the pacemaker, pacing the rhythmic contractions of the entire heart.",
+        "hi": "दाएं आलिंद की ऊपरी दाहिनी भित्ति में स्थित SA नोड स्वतः विध्रुवण की उच्चतम दर प्रदर्शित करता है, जो प्रति मिनट 70-75 क्रिया विभव उत्पन्न करता है। यह पेसमेकर के रूप में कार्य करता है और पूरे हृदय के लयबद्ध संकुचन को नियंत्रित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "The first heart sound ('Lub') heard during a cardiac cycle is produced by:",
+        "hi": "हृदय चक्र के दौरान सुनाई देने वाली पहली हृदय ध्वनि ('लब') किसके द्वारा उत्पन्न होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Closure of semilunar valves at the onset of ventricular diastole",
+          "hi": "निलय अनुशिथिलन की शुरुआत में अर्धचंद्राकार कपाटों के बंद होने से"
+        },
+        "B": {
+          "en": "Rapid inflow of blood into the ventricles during atrial systole",
+          "hi": "आलिंद प्रकुंचन के दौरान निलयों में रक्त के तेजी से अंतर्प्रवाह से"
+        },
+        "C": {
+          "en": "Opening of the tricuspid and bicuspid valves",
+          "hi": "त्रिवलनी और द्विवलनी कपाटों के खुलने से"
+        },
+        "D": {
+          "en": "Closure of the atrioventricular (tricuspid and bicuspid) valves at the onset of ventricular systole",
+          "hi": "निलय प्रकुंचन की शुरुआत में आलिंद-निलय (त्रिवलनी और द्विवलनी) कपाटों के बंद होने से"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The first heart sound ('Lub') is associated with the closure of the atrioventricular (tricuspid and bicuspid) valves at the beginning of ventricular systole. The second heart sound ('Dub') is caused by the closure of the semilunar valves at the start of ventricular diastole.",
+        "hi": "पहली हृदय ध्वनि ('लब') निलय प्रकुंचन की शुरुआत में आलिंद-निलय (त्रिवलनी और द्विवलनी) कपाटों के बंद होने से जुड़ी है। दूसरी हृदय ध्वनि ('डब') निलय अनुशिथिलन की शुरुआत में अर्धचंद्राकार कपाटों के बंद होने से उत्पन्न होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q05",
+      "category": "theory",
+      "question": {
+        "en": "During a cardiac cycle, atrial systole accounts for approximately what percentage of ventricular filling?",
+        "hi": "एक हृदय चक्र के दौरान, आलिंद प्रकुंचन निलय भरण का लगभग कितना प्रतिशत पूरा करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "~30% (with passive flow during joint diastole accounting for ~70%)",
+          "hi": "~30% (संयुक्त अनुशिथिलन के दौरान निष्क्रिय प्रवाह ~70% बनाता है)"
+        },
+        "B": {
+          "en": "100%",
+          "hi": "100%"
+        },
+        "C": {
+          "en": "~5%",
+          "hi": "~5%"
+        },
+        "D": {
+          "en": "~85%",
+          "hi": "~85%"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "During joint diastole, about 70% of ventricular filling occurs passively through open AV valves. Contraction of the atria (atrial systole) increases the flow of blood into the ventricles by about 30%, completing ventricular filling.",
+        "hi": "संयुक्त अनुशिथिलन के दौरान, खुले AV कपाटों के माध्यम से लगभग 70% निलय भरण निष्क्रिय रूप से होता है। आलिंदों का संकुचन (आलिंद प्रकुंचन) निलयों में रक्त के प्रवाह को लगभग 30% तक बढ़ा देता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q06",
+      "category": "theory",
+      "question": {
+        "en": "In a clinical electrocardiogram (ECG), counting the number of which specific waveforms in a given time interval determines the patient's heart rate?",
+        "hi": "एक नैदानिक विद्युत हृद्लेख (ECG) में, एक निश्चित समयांतराल में किस विशिष्ट तरंग रूप की संख्या की गणना करने से रोगी की हृदय गति निर्धारित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "P waves",
+          "hi": "P तरंगें"
+        },
+        "B": {
+          "en": "QRS complexes",
+          "hi": "QRS सम्मिश्र"
+        },
+        "C": {
+          "en": "T waves",
+          "hi": "T तरंगें"
+        },
+        "D": {
+          "en": "P-Q segments",
+          "hi": "P-Q खंड"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Each QRS complex corresponds to one ventricular depolarization and subsequent ventricular contraction (one heartbeat). Hence, counting the number of QRS complexes per minute gives the heart rate.",
+        "hi": "प्रत्येक QRS सम्मिश्र एक निलय विध्रुवण और उसके बाद के निलय संकुचन (एक हृदय धड़कन) से मेल खाता है। अतः प्रति मिनट QRS सम्मिश्रों की संख्या गिनने से हृदय गति प्राप्त होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "If a healthy individual has a resting stroke volume of 75 mL and a heart rate of 80 beats per minute, what is their calculated cardiac output?",
+        "hi": "यदि किसी व्यक्ति का विश्राम कालीन स्ट्रोक आयतन 75 mL और हृदय गति 80 धड़कन प्रति मिनट है, तो उनका परिकलित हृदय निर्गम (कार्डियक आउटपुट) क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "5040 mL/min",
+          "hi": "5040 mL/min"
+        },
+        "B": {
+          "en": "5600 mL/min",
+          "hi": "5600 mL/min"
+        },
+        "C": {
+          "en": "6000 mL/min (6.0 L/min)",
+          "hi": "6000 mL/min (6.0 L/min)"
+        },
+        "D": {
+          "en": "6400 mL/min",
+          "hi": "6400 mL/min"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Cardiac Output (CO) = Stroke Volume (SV) × Heart Rate (HR) = 75 mL × 80 beats/min = 6000 mL/min = 6.0 Liters/min.",
+        "hi": "कार्डियक आउटपुट (CO) = स्ट्रोक आयतन (SV) × हृदय गति (HR) = 75 mL × 80 धड़कन/मिनट = 6000 mL/मिनट = 6.0 लीटर/मिनट।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "In a resting adult with a heart rate of 75 beats per minute, what is the exact duration of a single cardiac cycle?",
+        "hi": "75 धड़कन प्रति मिनट की हृदय गति वाले एक विश्रामरत वयस्क में, एक एकल हृदय चक्र की सटीक अवधि क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "0.10 second",
+          "hi": "0.10 सेकंड"
+        },
+        "B": {
+          "en": "0.30 second",
+          "hi": "0.30 सेकंड"
+        },
+        "C": {
+          "en": "0.40 second",
+          "hi": "0.40 सेकंड"
+        },
+        "D": {
+          "en": "0.80 second",
+          "hi": "0.80 सेकंड"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Cycle duration = 60 seconds / Heart Rate = 60 / 75 = 0.8 seconds. This comprises atrial systole (0.1 s), ventricular systole (0.3 s), and joint diastole (0.4 s).",
+        "hi": "चक्र की अवधि = 60 सेकंड / हृदय गति = 60 / 75 = 0.8 सेकंड। इसमें आलिंद प्रकुंचन (0.1 s), निलय प्रकुंचन (0.3 s), और संयुक्त अनुशिथिलन (0.4 s) शामिल हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q09",
+      "category": "formula",
+      "question": {
+        "en": "What is stroke volume defined as, and what is its standard resting value in a healthy adult?",
+        "hi": "स्ट्रोक आयतन (प्रहार आयतन) को किस रूप में परिभाषित किया जाता है, और एक स्वस्थ वयस्क में इसका मानक विश्राम मान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Volume of blood pumped out by each ventricle per cardiac cycle (~70 mL)",
+          "hi": "प्रत्येक निलय द्वारा प्रति हृदय चक्र पंप किए गए रक्त का आयतन (~70 mL)"
+        },
+        "B": {
+          "en": "Volume of blood pumped by both ventricles combined per minute (~5000 mL)",
+          "hi": "एक मिनट में दोनों निलयों द्वारा मिलाकर पंप किए गए रक्त का आयतन (~5000 mL)"
+        },
+        "C": {
+          "en": "Volume of blood remaining in the ventricles after systole (~50 mL)",
+          "hi": "प्रकुंचन के बाद निलयों में शेष रक्त का आयतन (~50 mL)"
+        },
+        "D": {
+          "en": "Volume of blood entering the right atrium per second (~10 mL)",
+          "hi": "प्रति सेकंड दाएं आलिंद में प्रवेश करने वाले रक्त का आयतन (~10 mL)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Stroke volume is the volume of blood ejected by each ventricle during a single ventricular contraction, which normally averages around 70 mL in a resting adult.",
+        "hi": "स्ट्रोक आयतन एक एकल निलय संकुचन के दौरान प्रत्येक निलय द्वारा बाहर निकाले गए रक्त का आयतन है, जो सामान्यतः एक विश्रामरत वयस्क में लगभग 70 mL होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q10",
+      "category": "formula",
+      "question": {
+        "en": "During a standard 0.8-second human cardiac cycle, what is the total duration that the ventricles spend in diastole (ventricular diastole)?",
+        "hi": "एक मानक 0.8-सेकंड के मानव हृदय चक्र के दौरान, निलय कुल कितनी अवधि तक अनुशिथिलन (निलय अनुशिथिलन) में बिताते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "0.3 second",
+          "hi": "0.3 सेकंड"
+        },
+        "B": {
+          "en": "0.5 second",
+          "hi": "0.5 सेकंड"
+        },
+        "C": {
+          "en": "0.7 second",
+          "hi": "0.7 सेकंड"
+        },
+        "D": {
+          "en": "0.1 second",
+          "hi": "0.1 सेकंड"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "In a 0.8 s cycle, ventricular systole lasts 0.3 s. Therefore, ventricular diastole lasts 0.8 - 0.3 = 0.5 seconds (comprising 0.4 s joint diastole + 0.1 s atrial systole).",
+        "hi": "0.8 s के चक्र में, निलय प्रकुंचन 0.3 s रहता है। इसलिए, निलय अनुशिथिलन 0.8 - 0.3 = 0.5 सेकंड रहता है (जिसमें 0.4 s संयुक्त अनुशिथिलन + 0.1 s आलिंद प्रकुंचन शामिल है)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q11",
+      "category": "formula",
+      "question": {
+        "en": "A trained marathon runner exhibits a resting heart rate of 50 beats per minute and a normal cardiac output of 5.0 L/min. What is this athlete's resting stroke volume?",
+        "hi": "एक प्रशिक्षित मैराथन धावक की विश्राम हृदय गति 50 धड़कन प्रति मिनट और सामान्य हृदय निर्गम 5.0 L/min है। इस एथलीट का विश्राम स्ट्रोक आयतन क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "70 mL",
+          "hi": "70 mL"
+        },
+        "B": {
+          "en": "85 mL",
+          "hi": "85 mL"
+        },
+        "C": {
+          "en": "100 mL",
+          "hi": "100 mL"
+        },
+        "D": {
+          "en": "120 mL",
+          "hi": "120 mL"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Stroke Volume = Cardiac Output / Heart Rate = 5000 mL/min / 50 beats/min = 100 mL/beat. Athletes have enhanced myocardial contractility, resulting in higher stroke volumes and athletic bradycardia.",
+        "hi": "स्ट्रोक आयतन = कार्डियक आउटपुट / हृदय गति = 5000 mL/मिनट / 50 धड़कन/मिनट = 100 mL/धड़कन। एथलीटों में उच्च स्ट्रोक आयतन और धीमी विश्राम हृदय गति होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q12",
+      "category": "formula",
+      "question": {
+        "en": "If a person has a measured cardiac output of 5.25 L/min and an average stroke volume of 70 mL, what is their heart rate in beats per minute?",
+        "hi": "यदि किसी व्यक्ति का मापा गया हृदय निर्गम 5.25 L/min और औसत स्ट्रोक आयतन 70 mL है, तो उनकी हृदय गति धड़कन प्रति मिनट में क्या होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "75 bpm",
+          "hi": "75 bpm"
+        },
+        "B": {
+          "en": "70 bpm",
+          "hi": "70 bpm"
+        },
+        "C": {
+          "en": "80 bpm",
+          "hi": "80 bpm"
+        },
+        "D": {
+          "en": "90 bpm",
+          "hi": "90 bpm"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Heart Rate = Cardiac Output / Stroke Volume = 5250 mL/min / 70 mL/beat = 75 beats per minute (bpm).",
+        "hi": "हृदय गति = कार्डियक आउटपुट / स्ट्रोक आयतन = 5250 mL/मिनट / 70 mL/धड़कन = 75 धड़कन प्रति मिनट (bpm)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the ECG waveforms in Column I with their correct physiological events in Column II:\nColumn I:\n(a) P wave\n(b) QRS complex\n(c) T wave\n(d) End of T wave\nColumn II:\n(i) Ventricular repolarisation\n(ii) Marks the end of ventricular systole\n(iii) Atrial depolarisation\n(iv) Ventricular depolarisation",
+        "hi": "कॉलम I में ECG तरंग रूपों का कॉलम II में उनकी सही शारीरिक घटनाओं के साथ मिलान कीजिए:\nकॉलम I:\n(a) P तरंग\n(b) QRS सम्मिश्र\n(c) T तरंग\n(d) T तरंग का अंत\nकॉलम II:\n(i) निलयों का पुनर्ध्रुवण\n(ii) निलय प्रकुंचन के अंत का प्रतीक\n(iii) आलिंदों का विध्रुवण\n(iv) निलयों का विध्रुवण"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "P wave = Atrial depolarisation (a-iii); QRS complex = Ventricular depolarisation (b-iv); T wave = Ventricular repolarisation (c-i); End of T wave = End of ventricular systole (d-ii).",
+        "hi": "P तरंग = आलिंद विध्रुवण (a-iii); QRS सम्मिश्र = निलय विध्रुवण (b-iv); T तरंग = निलय पुनर्ध्रुवण (c-i); T तरंग का अंत = निलय प्रकुंचन का अंत (d-ii)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Which of the following correctly traces the chronological pathway of electrical impulse conduction through the human cardiac conduction system?",
+        "hi": "निम्नलिखित में से कौन मानव हृदय चालन तंत्र के माध्यम से विद्युत आवेग चालन के कालानुक्रमिक मार्ग को सही रूप से दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "AV node -> SA node -> Purkinje fibres -> Bundle of His",
+          "hi": "AV नोड -> SA नोड -> पुरकिंजे तंतु -> बंडल ऑफ हिस"
+        },
+        "B": {
+          "en": "SA node -> Purkinje fibres -> AV node -> Bundle of His",
+          "hi": "SA नोड -> पुरकिंजे तंतु -> AV नोड -> बंडल ऑफ हिस"
+        },
+        "C": {
+          "en": "SA node -> AV node -> AV Bundle (Bundle of His) -> Purkinje fibres",
+          "hi": "SA नोड -> AV नोड -> AV बंडल (बंडल ऑफ हिस) -> पुरकिंजे तंतु"
+        },
+        "D": {
+          "en": "Bundle of His -> Purkinje fibres -> SA node -> AV node",
+          "hi": "बंडल ऑफ हिस -> पुरकिंजे तंतु -> SA नोड -> AV नोड"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "The impulse originates in the SA node -> travels across atria to AV node -> passes down the atrioventricular bundle (Bundle of His) through the interventricular septum -> branches into left and right bundles -> spreads rapidly via Purkinje fibres into the ventricular myocardium.",
+        "hi": "आवेग SA नोड में उत्पन्न होता है -> AV नोड तक पहुंचता है -> बंडल ऑफ हिस में जाता है -> दाईं और बाईं शाखाओं में बंटता है -> पुरकिंजे तंतुओं द्वारा निलय भित्ति में फैलता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc03_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the cardiac valves in Column I with their precise anatomical locations in Column II:\nColumn I:\n(a) Tricuspid valve\n(b) Bicuspid (mitral) valve\n(c) Aortic semilunar valve\n(d) Pulmonary semilunar valve\nColumn II:\n(i) Base of aorta leaving left ventricle\n(ii) Base of pulmonary trunk leaving right ventricle\n(iii) Between right atrium and right ventricle\n(iv) Between left atrium and left ventricle",
+        "hi": "कॉलम I में हृदय कपाटों का कॉलम II में उनकी सटीक शारीरिक स्थितियों के साथ मिलान कीजिए:\nकॉलम I:\n(a) त्रिवलनी कपाट\n(b) द्विवलनी (मिट्रल) कपाट\n(c) महाधमनी अर्धचंद्राकार कपाट\n(d) फुफ्फुसीय अर्धचंद्राकार कपाट\nकॉलम II:\n(i) बाएं निलय से निकलने वाली महाधमनी का आधार\n(ii) दाएं निलय से निकलने वाले फुफ्फुस ट्रंक का आधार\n(iii) दाएं आलिंद और दाएं निलय के बीच\n(iv) बाएं आलिंद और बाएं निलय के बीच"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        "D": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Tricuspid = Between RA and RV (a-iii); Bicuspid = Between LA and LV (b-iv); Aortic semilunar = Exit of LV (c-i); Pulmonary semilunar = Exit of RV (d-ii).",
+        "hi": "त्रिवलनी = RA और RV के बीच (a-iii); द्विवलनी = LA और LV के बीच (b-iv); महाधमनी अर्धचंद्राकार = LV का निकास द्वार (c-i); फुफ्फुसीय अर्धचंद्राकार = RV का निकास द्वार (d-ii)।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc05_q01",
+      "category": "Theory",
+      "question": {
+        "en": "By thermodynamic convention, the standard enthalpy of formation (Δ_f H°) of a pure element in its most stable state of aggregation at 298.15 K and 1 bar is:",
+        "hi": "ऊष्मागतिक परिपाटी के अनुसार, 298.15 K और 1 बार पर अपनी सर्वाधिक स्थायी संकलन अवस्था में एक शुद्ध तत्व की मानक संभवन एन्थैल्पी (Δ_f H°) क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Zero (Δ_f H° = 0 kJ/mol)",
+          "hi": "शून्य (Δ_f H° = 0 kJ/mol)"
+        },
+        "B": {
+          "en": "+100 kJ/mol",
+          "hi": "+100 kJ/mol"
+        },
+        "C": {
+          "en": "-100 kJ/mol",
+          "hi": "-100 kJ/mol"
+        },
+        "D": {
+          "en": "Dependent on the volume of the container",
+          "hi": "पात्र के आयतन पर निर्भर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q02",
+      "category": "Theory",
+      "question": {
+        "en": "For which of the following allotropes of carbon is the standard enthalpy of formation (Δ_f H°) defined as exactly ZERO?",
+        "hi": "कार्बन के निम्नलिखित अपररूपों में से किसके लिए मानक संभवन एन्थैल्पी (Δ_f H°) ठीक शून्य परिभाषित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Carbon (graphite)",
+          "hi": "कार्बन (ग्रेफाइट)"
+        },
+        "B": {
+          "en": "Carbon (diamond)",
+          "hi": "कार्बन (हीरा)"
+        },
+        "C": {
+          "en": "Carbon (fullerene, C₆₀)",
+          "hi": "कार्बन (फुलरीन, C₆₀)"
+        },
+        "D": {
+          "en": "Carbon (amorphous coal)",
+          "hi": "कार्बन (अक्रिस्टलीय कोयला)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Hess's Law of Constant Heat Summation states that:",
+        "hi": "हेस का स्थिर ऊष्मा संकलन का नियम बताता है कि:"
+      },
+      "options": {
+        "A": {
+          "en": "The total enthalpy change for a chemical reaction is independent of the number of steps or path taken",
+          "hi": "रासायनिक अभिक्रिया का कुल एन्थैल्पी परिवर्तन चरणों की संख्या या लिए गए पथ से स्वतंत्र होता है"
+        },
+        "B": {
+          "en": "Enthalpy change depends on whether the reaction is carried out in open or closed air",
+          "hi": "एन्थैल्पी परिवर्तन इस बात पर निर्भर करता है कि अभिक्रिया खुली हवा में की जाती है या बंद हवा में"
+        },
+        "C": {
+          "en": "Exothermic reactions always occur in a single step",
+          "hi": "ऊष्माक्षेपी अभिक्रियाएं हमेशा एक ही चरण में होती हैं"
+        },
+        "D": {
+          "en": "All reactions require a catalyst to conserve enthalpy",
+          "hi": "एन्थैल्पी संरक्षण के लिए सभी अभिक्रियाओं को उत्प्रेरक की आवश्यकता होती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q04",
+      "category": "Theory",
+      "question": {
+        "en": "The Standard Enthalpy of Combustion (Δ_c H°) of a substance is defined as the enthalpy change when:",
+        "hi": "किसी पदार्थ के दहन की मानक एन्थैल्पी (Δ_c H°) को उस एन्थैल्पी परिवर्तन के रूप में परिभाषित किया जाता है जब:"
+      },
+      "options": {
+        "A": {
+          "en": "One mole of the substance undergoes complete oxidation in excess dioxygen at standard state",
+          "hi": "मानक अवस्था में अतिरिक्त डाइऑक्सीजन में पदार्थ के एक मोल का पूर्ण ऑक्सीकरण (दहन) होता है"
+        },
+        "B": {
+          "en": "One gram of the substance burns partially in air",
+          "hi": "वायु में पदार्थ का एक ग्राम आंशिक रूप से जलता है"
+        },
+        "C": {
+          "en": "Any amount of substance reacts with ozone",
+          "hi": "पदार्थ की कोई भी मात्रा ओजोन के साथ अभिक्रिया करती है"
+        },
+        "D": {
+          "en": "One mole of water is vaporized",
+          "hi": "एक मोल जल वाष्पीकृत होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following equations correctly represents the reaction for the standard enthalpy of formation of liquid water, Δ_f H°[H₂O(l)]?",
+        "hi": "निम्नलिखित में से कौन सा समीकरण द्रव जल की मानक संभवन एन्थैल्पी Δ_f H°[H₂O(l)] के लिए अभिक्रिया को सही ढंग से दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "H₂(g) + (1/2)O₂(g) → H₂O(l)",
+          "hi": "H₂(g) + (1/2)O₂(g) → H₂O(l)"
+        },
+        "B": {
+          "en": "2H₂(g) + O₂(g) → 2H₂O(l)",
+          "hi": "2H₂(g) + O₂(g) → 2H₂O(l)"
+        },
+        "C": {
+          "en": "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+          "hi": "H⁺(aq) + OH⁻(aq) → H₂O(l)"
+        },
+        "D": {
+          "en": "H₂(g) + O(g) → H₂O(l)",
+          "hi": "H₂(g) + O(g) → H₂O(l)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q06",
+      "category": "Theory",
+      "question": {
+        "en": "Why is the calorific value of hydrogen gas (143 kJ/g) much higher than that of methane (55 kJ/g) and octane (48 kJ/g)?",
+        "hi": "हाइड्रोजन गैस का उष्मीय मान (143 kJ/g) मीथेन (55 kJ/g) और ऑक्टेन (48 kJ/g) से काफी अधिक क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hydrogen has the highest heat of combustion per unit mass due to its exceptionally low molar mass (2 g/mol)",
+          "hi": "अपने अत्यंत कम मोलर द्रव्यमान (2 g/mol) के कारण हाइड्रोजन में प्रति इकाई द्रव्यमान दहन की ऊष्मा सर्वाधिक होती है"
+        },
+        "B": {
+          "en": "Hydrogen is an inert gas that resists heat loss",
+          "hi": "हाइड्रोजन एक अक्रिय गैस है जो ऊष्मा हानि का विरोध करती है"
+        },
+        "C": {
+          "en": "Hydrogen combustion does not require oxygen",
+          "hi": "हाइड्रोजन दहन के लिए ऑक्सीजन की आवश्यकता नहीं होती"
+        },
+        "D": {
+          "en": "Hydrogen produces radioactive energy upon combustion",
+          "hi": "हाइड्रोजन दहन पर रेडियोधर्मी ऊर्जा उत्पन्न करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q07",
+      "category": "Formula",
+      "question": {
+        "en": "Using Hess's Law, the standard enthalpy change of a reaction (Δ_r H°) is calculated from standard enthalpies of formation as:",
+        "hi": "हेस के नियम का उपयोग करते हुए, मानक संभवन एन्थैल्पियों से किसी अभिक्रिया के मानक एन्थैल्पी परिवर्तन (Δ_r H°) की गणना किस प्रकार की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Δ_r H° = Σ a_i Δ_f H°(products) - Σ b_i Δ_f H°(reactants)",
+          "hi": "Δ_r H° = Σ a_i Δ_f H°(उत्पाद) - Σ b_i Δ_f H°(अभिकारक)"
+        },
+        "B": {
+          "en": "Δ_r H° = Σ b_i Δ_f H°(reactants) - Σ a_i Δ_f H°(products)",
+          "hi": "Δ_r H° = Σ b_i Δ_f H°(अभिकारक) - Σ a_i Δ_f H°(उत्पाद)"
+        },
+        "C": {
+          "en": "Δ_r H° = Σ Δ_f H°(products) + Σ Δ_f H°(reactants)",
+          "hi": "Δ_r H° = Σ Δ_f H°(उत्पाद) + Σ Δ_f H°(अभिकारक)"
+        },
+        "D": {
+          "en": "Δ_r H° = Σ Δ_f H°(products) × Σ Δ_f H°(reactants)",
+          "hi": "Δ_r H° = Σ Δ_f H°(उत्पाद) × Σ Δ_f H°(अभिकारक)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q08",
+      "category": "Formula",
+      "question": {
+        "en": "Given standard enthalpies of formation:\nΔ_f H°[CO₂(g)] = -393.5 kJ/mol\nΔ_f H°[CO(g)] = -110.5 kJ/mol\nWhat is the standard enthalpy change for the reaction: CO(g) + (1/2)O₂(g) → CO₂(g)?",
+        "hi": "मानक संभवन एन्थैल्पियाँ दी गई हैं:\nΔ_f H°[CO₂(g)] = -393.5 kJ/mol\nΔ_f H°[CO(g)] = -110.5 kJ/mol\nअभिक्रिया CO(g) + (1/2)O₂(g) → CO₂(g) के लिए मानक एन्थैल्पी परिवर्तन क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "-283.0 kJ/mol",
+          "hi": "-283.0 kJ/mol"
+        },
+        "B": {
+          "en": "+283.0 kJ/mol",
+          "hi": "+283.0 kJ/mol"
+        },
+        "C": {
+          "en": "-504.0 kJ/mol",
+          "hi": "-504.0 kJ/mol"
+        },
+        "D": {
+          "en": "+504.0 kJ/mol",
+          "hi": "+504.0 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q09",
+      "category": "Formula",
+      "question": {
+        "en": "Given the thermochemical equations:\n1. C(graphite) + O₂(g) → CO₂(g); ΔH₁ = -393.5 kJ/mol\n2. H₂(g) + (1/2)O₂(g) → H₂O(l); ΔH₂ = -285.8 kJ/mol\n3. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l); ΔH₃ = -890.3 kJ/mol\nWhat is the standard enthalpy of formation of methane, Δ_f H°[CH₄(g)]?",
+        "hi": "ऊष्मारसायनिक समीकरण दिए गए हैं:\n1. C(ग्रेफाइट) + O₂(g) → CO₂(g); ΔH₁ = -393.5 kJ/mol\n2. H₂(g) + (1/2)O₂(g) → H₂O(l); ΔH₂ = -285.8 kJ/mol\n3. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l); ΔH₃ = -890.3 kJ/mol\nमीथेन की मानक संभवन एन्थैल्पी Δ_f H°[CH₄(g)] क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "-74.8 kJ/mol",
+          "hi": "-74.8 kJ/mol"
+        },
+        "B": {
+          "en": "+74.8 kJ/mol",
+          "hi": "+74.8 kJ/mol"
+        },
+        "C": {
+          "en": "-211.0 kJ/mol",
+          "hi": "-211.0 kJ/mol"
+        },
+        "D": {
+          "en": "+890.3 kJ/mol",
+          "hi": "+890.3 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q10",
+      "category": "Formula",
+      "question": {
+        "en": "Given standard enthalpies of formation:\nΔ_f H°[Fe₂O₃(s)] = -824.2 kJ/mol, Δ_f H°[Al₂O₃(s)] = -1675.7 kJ/mol\nCalculate the enthalpy change for the thermite reaction:\n2Al(s) + Fe₂O₃(s) → Al₂O₃(s) + 2Fe(s)",
+        "hi": "मानक संभवन एन्थैल्पियाँ दी गई हैं:\nΔ_f H°[Fe₂O₃(s)] = -824.2 kJ/mol, Δ_f H°[Al₂O₃(s)] = -1675.7 kJ/mol\nथर्माइट अभिक्रिया 2Al(s) + Fe₂O₃(s) → Al₂O₃(s) + 2Fe(s) के लिए एन्थैल्पी परिवर्तन की गणना करें:"
+      },
+      "options": {
+        "A": {
+          "en": "-851.5 kJ/mol",
+          "hi": "-851.5 kJ/mol"
+        },
+        "B": {
+          "en": "+851.5 kJ/mol",
+          "hi": "+851.5 kJ/mol"
+        },
+        "C": {
+          "en": "-2499.9 kJ/mol",
+          "hi": "-2499.9 kJ/mol"
+        },
+        "D": {
+          "en": "-412.1 kJ/mol",
+          "hi": "-412.1 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q11",
+      "category": "Formula",
+      "question": {
+        "en": "The enthalpy of transition for: C(graphite) → C(diamond) is +1.89 kJ/mol. This positive value proves that:",
+        "hi": "C(ग्रेफाइट) → C(हीरा) के लिए संक्रमण एन्थैल्पी +1.89 kJ/mol है। यह धनात्मक मान क्या सिद्ध करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Graphite is thermodynamically more stable than diamond by 1.89 kJ/mol at 298 K",
+          "hi": "298 K पर ग्रेफाइट ऊष्मागतिक रूप से हीरे से 1.89 kJ/mol अधिक स्थायी है"
+        },
+        "B": {
+          "en": "Diamond is more stable than graphite",
+          "hi": "हीरा ग्रेफाइट से अधिक स्थायी है"
+        },
+        "C": {
+          "en": "Diamond burns faster than graphite",
+          "hi": "हीरा ग्रेफाइट से तेजी से जलता है"
+        },
+        "D": {
+          "en": "Graphite has higher heat of combustion than diamond",
+          "hi": "ग्रेफाइट की दहन ऊष्मा हीरे से अधिक होती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q12",
+      "category": "Formula",
+      "question": {
+        "en": "If the enthalpy of combustion of carbon is -393.5 kJ/mol, how much heat is released when 3.0 g of diamond is completely burned into CO₂? (Assume Δ_c H°(diamond) ≈ -395.4 kJ/mol, atomic mass of C = 12 g/mol)",
+        "hi": "यदि कार्बन के दहन की एन्थैल्पी -393.5 kJ/mol है, तो 3.0 g हीरे को पूरी तरह से CO₂ में जलाने पर कितनी ऊष्मा मुक्त होती है? (Δ_c H°(हीरा) ≈ -395.4 kJ/mol, C = 12 g/mol)"
+      },
+      "options": {
+        "A": {
+          "en": "98.85 kJ",
+          "hi": "98.85 kJ"
+        },
+        "B": {
+          "en": "395.4 kJ",
+          "hi": "395.4 kJ"
+        },
+        "C": {
+          "en": "197.7 kJ",
+          "hi": "197.7 kJ"
+        },
+        "D": {
+          "en": "49.4 kJ",
+          "hi": "49.4 kJ"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following energy cycle for the combustion of carbon:\nPath 1 (Direct): C(s) + O₂(g) → CO₂(g); ΔH₁ = -393.5 kJ\nPath 2 (Two-step):\nStep A: C(s) + (1/2)O₂(g) → CO(g); ΔH_A = -110.5 kJ\nStep B: CO(g) + (1/2)O₂(g) → CO₂(g); ΔH_B\nAccording to Hess's Law, what must be the relationship between ΔH₁, ΔH_A, and ΔH_B?",
+        "hi": "कार्बन के दहन के लिए ऊर्जा चक्र की जाँच करें:\nपथ 1 (प्रत्यक्ष): C(s) + O₂(g) → CO₂(g); ΔH₁ = -393.5 kJ\nपथ 2 (दो-चरणीय):\nचरण A: C(s) + (1/2)O₂(g) → CO(g); ΔH_A = -110.5 kJ\nचरण B: CO(g) + (1/2)O₂(g) → CO₂(g); ΔH_B\nहेस के नियम के अनुसार, ΔH₁, ΔH_A और ΔH_B के बीच क्या संबंध होना चाहिए?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔH₁ = ΔH_A + ΔH_B",
+          "hi": "ΔH₁ = ΔH_A + ΔH_B"
+        },
+        "B": {
+          "en": "ΔH₁ = ΔH_A - ΔH_B",
+          "hi": "ΔH₁ = ΔH_A - ΔH_B"
+        },
+        "C": {
+          "en": "ΔH₁ = ΔH_A × ΔH_B",
+          "hi": "ΔH₁ = ΔH_A × ΔH_B"
+        },
+        "D": {
+          "en": "ΔH_B = ΔH₁ + ΔH_A",
+          "hi": "ΔH_B = ΔH₁ + ΔH_A"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following enthalpy diagram:\nReactants: N₂(g) + O₂(g) [Level: 0 kJ]\nProduct: 2NO(g) [Level: +180.6 kJ]\nWhat type of reaction is this, and what is the standard enthalpy of formation of NO(g)?",
+        "hi": "निम्नलिखित एन्थैल्पी आरेख का परीक्षण करें:\nअभिकारक: N₂(g) + O₂(g) [स्तर: 0 kJ]\nउत्पाद: 2NO(g) [स्तर: +180.6 kJ]\nयह किस प्रकार की अभिक्रिया है, और NO(g) की मानक संभवन एन्थैल्पी क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Endothermic reaction; Δ_f H°[NO(g)] = +90.3 kJ/mol",
+          "hi": "ऊष्माशोषी अभिक्रिया; Δ_f H°[NO(g)] = +90.3 kJ/mol"
+        },
+        "B": {
+          "en": "Exothermic reaction; Δ_f H°[NO(g)] = -90.3 kJ/mol",
+          "hi": "ऊष्माक्षेपी अभिक्रिया; Δ_f H°[NO(g)] = -90.3 kJ/mol"
+        },
+        "C": {
+          "en": "Endothermic reaction; Δ_f H°[NO(g)] = +180.6 kJ/mol",
+          "hi": "ऊष्माशोषी अभिक्रिया; Δ_f H°[NO(g)] = +180.6 kJ/mol"
+        },
+        "D": {
+          "en": "Spontaneous exothermic reaction",
+          "hi": "स्वतःप्रवर्तित ऊष्माक्षेपी अभिक्रिया"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc05_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "For which of the following substances is Δ_f H° NOT equal to zero at 298 K and 1 bar?",
+        "hi": "निम्नलिखित में से किस पदार्थ के लिए 298 K और 1 बार पर Δ_f H° शून्य के बराबर नहीं है?"
+      },
+      "options": {
+        "A": {
+          "en": "Br₂(g) and I₂(l)",
+          "hi": "Br₂(g) और I₂(l)"
+        },
+        "B": {
+          "en": "Br₂(l)",
+          "hi": "Br₂(l)"
+        },
+        "C": {
+          "en": "I₂(s)",
+          "hi": "I₂(s)"
+        },
+        "D": {
+          "en": "O₂(g)",
+          "hi": "O₂(g)"
+        }
+      }
+    }
+  ]
+}

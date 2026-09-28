@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc07_q01",
+      "category": "Theory",
+      "question": {
+        "en": "On what principle is the purification of an organic solid by fractional crystallisation based?",
+        "hi": "प्रभाजी क्रिस्टलन (Fractional crystallisation) द्वारा कार्बनिक ठोस के शोधन का क्या सिद्धांत है?"
+      },
+      "options": {
+        "A": {
+          "en": "Difference in solubilities of the organic compound and its impurities in a suitable solvent over a temperature range (soluble at boiling temperature, sparingly soluble at cold room temperature)",
+          "hi": "एक उपयुक्त विलायक में विभिन्न तापमानों पर कार्बनिक यौगिक तथा अशुद्धियों की विलेयताओं में अंतर (क्वथनांक पर अत्यधिक विलेय, ठंडे तापमान पर अल्प विलेय)"
+        },
+        "B": {
+          "en": "Difference in boiling points of the two components",
+          "hi": "दोनों घटकों के क्वथनांक में अंतर"
+        },
+        "C": {
+          "en": "Difference in electrical conductivity",
+          "hi": "वैद्युत चालकता में अंतर"
+        },
+        "D": {
+          "en": "Difference in magnetic susceptibility",
+          "hi": "चुंबकीय सुग्राहिता में अंतर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q02",
+      "category": "Theory",
+      "question": {
+        "en": "When is distillation under reduced pressure (vacuum distillation) employed?",
+        "hi": "कम दाब पर आसवन (निर्वात आसवन / Vacuum distillation) का उपयोग कब किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "For liquids having very high boiling points that tend to decompose at or below their normal boiling points (e.g. glycerol)",
+          "hi": "अत्यधिक उच्च क्वथनांक वाले द्रवों के लिए जो अपने सामान्य क्वथनांक पर या उससे पहले ही अपघटित हो जाते हैं (जैसे ग्लिसरॉल)"
+        },
+        "B": {
+          "en": "For liquids that boil below 30°C",
+          "hi": "30°C से नीचे उबलने वाले द्रवों हेतु"
+        },
+        "C": {
+          "en": "For separating immiscible liquids",
+          "hi": "अमिश्रणीय द्रवों को अलग करने हेतु"
+        },
+        "D": {
+          "en": "For testing the presence of nitrogen",
+          "hi": "नाइट्रोजन की उपस्थिति की जांच हेतु"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What condition must a substance fulfill to be purifiable by Steam Distillation?",
+        "hi": "भाप आसवन (Steam Distillation) द्वारा शोधित होने के लिए किसी पदार्थ में क्या गुण होने चाहिए?"
+      },
+      "options": {
+        "A": {
+          "en": "It must be steam-volatile, practically immiscible with water, and possess a significant vapor pressure (~10-15 mm Hg) at ~100°C (e.g. aniline, nitrobenzene)",
+          "hi": "यह भाप-वाष्पशील, जल में पूर्णतः अमिश्रणीय, तथा ~100°C पर पर्याप्त वाष्प दाब (~10-15 mm Hg) रखने वाला होना चाहिए (जैसे ऐनिलीन, नाइट्रोबेन्जीन)"
+        },
+        "B": {
+          "en": "It must be completely miscible with water in all proportions",
+          "hi": "यह सभी अनुपातों में जल में पूर्णतः मिश्रणीय होना चाहिए"
+        },
+        "C": {
+          "en": "It must be a gas at room temperature",
+          "hi": "यह कमरे के तापमान पर गैस होना चाहिए"
+        },
+        "D": {
+          "en": "It must react with steam to form an acid",
+          "hi": "यह भाप से क्रिया करके अम्ल बनाना चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In the Lassaigne's test for detecting heteroatoms (N, S, Halogens) in organic compounds, why is the organic compound first fused with metallic sodium?",
+        "hi": "कार्बनिक यौगिकों में विषम परमाणुओं (N, S, हैलोजन) की पहचान हेतु लैसेन परीक्षण (Lassaigne's test) में यौगिक को पहले धात्विक सोडियम के साथ संगलित क्यों किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "To convert the covalently bonded elements (N, S, X) into water-soluble ionic sodium salts (NaCN, Na2S, NaX) that can be easily tested using inorganic ionic reagents",
+          "hi": "सहसंयोजक रूप से बंधित तत्वों (N, S, हैलोजन) को जल-विलेय आयनिक सोडियम लवणों (NaCN, Na2S, NaX) में परिवर्तित करने हेतु जिनका परीक्षण अकार्बनिक आयनिक अभिकर्मकों द्वारा किया जा सके"
+        },
+        "B": {
+          "en": "To burn away all carbon and hydrogen atoms completely",
+          "hi": "कार्बन और हाइड्रोजन को पूर्णतः जलाने हेतु"
+        },
+        "C": {
+          "en": "To neutralize organic acids",
+          "hi": "कार्बनिक अम्लों को उदासीन करने हेतु"
+        },
+        "D": {
+          "en": "To produce explosive sodium vapor",
+          "hi": "सोडियम वाष्प बनाने हेतु"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the characteristic color and chemical formula of the precipitate formed in Lassaigne's test for NITROGEN upon adding FeSO4, dil. H2SO4, and FeCl3?",
+        "hi": "नाइट्रोजन के लैसेन परीक्षण में FeSO4, तनु H2SO4 तथा FeCl3 मिलाने पर बनने वाले अवक्षेप का विशिष्ट रंग तथा रासायनिक सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Prussian blue, Fe4[Fe(CN)6]3·xH2O (Ferric ferrocyanide / Iron(III) hexacyanoferrate(II))",
+          "hi": "प्रशियन नीला (Prussian blue), Fe4[Fe(CN)6]3 (फेरिक फेरोसायनाइड)"
+        },
+        "B": {
+          "en": "Blood red, Fe(SCN)3",
+          "hi": "रक्त जैसा लाल, Fe(SCN)3"
+        },
+        "C": {
+          "en": "Canary yellow, (NH4)3PO4·12MoO3",
+          "hi": "कैनरी पीला"
+        },
+        "D": {
+          "en": "Curdy white, AgCl",
+          "hi": "दही जैसा सफेद"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q06",
+      "category": "Theory",
+      "question": {
+        "en": "If an organic compound contains BOTH Nitrogen and Sulfur, what characteristic blood-red coloration is observed in the Lassaigne's test, and what species causes it?",
+        "hi": "यदि कार्बनिक यौगिक में नाइट्रोजन तथा सल्फर दोनों उपस्थित हों, तो लैसेन परीक्षण में कौन-सा रक्त जैसा लाल रंग दिखाई देता है, और यह किस स्पीशीज के कारण होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Blood red coloration due to Iron(III) thiocyanate complex, [Fe(SCN)]^2+ (or Fe(SCN)3)",
+          "hi": "आयरन(III) थायोसाइनेट संकुल, [Fe(SCN)]^2+ (या Fe(SCN)3) के कारण रक्त जैसा लाल रंग"
+        },
+        "B": {
+          "en": "Prussian blue precipitate due to Fe4[Fe(CN)6]3",
+          "hi": "प्रशियन नीला अवक्षेप"
+        },
+        "C": {
+          "en": "Purple coloration due to [Fe(CN)5NOS]^4-",
+          "hi": "बैंगनी रंग"
+        },
+        "D": {
+          "en": "Black precipitate of FeS",
+          "hi": "काला FeS अवक्षेप"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q07",
+      "category": "Reaction",
+      "question": {
+        "en": "In the sodium nitroprusside test for sulfur, what intense color is produced, and what is the chemical formula of the purple complex ion?",
+        "hi": "सल्फर के सोडियम नाइट्रोप्रुसाइड परीक्षण में कौन-सा गहरा रंग उत्पन्न होता है, तथा बनने वाले बैंगनी संकुल आयन का सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Violet / Purple coloration due to [Fe(CN)5NOS]^4- (Sodium thionitroprusside)",
+          "hi": "बैंगनी रंग, [Fe(CN)5NOS]^4- (सोडियम थायोनाइट्रोप्रुसाइड) बनने के कारण"
+        },
+        "B": {
+          "en": "Black precipitate due to PbS",
+          "hi": "PbS का काला अवक्षेप"
+        },
+        "C": {
+          "en": "Bright yellow due to CdS",
+          "hi": "CdS का पीला रंग"
+        },
+        "D": {
+          "en": "Green coloration due to FeSO4",
+          "hi": "FeSO4 का हरा रंग"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q08",
+      "category": "Reaction",
+      "question": {
+        "en": "Before testing for halogens with AgNO3 in Lassaigne's extract, why is the extract ALWAYS boiled with concentrated nitric acid (conc. HNO3)?",
+        "hi": "लैसेन निष्कर्ष में AgNO3 द्वारा हैलोजन परीक्षण से पूर्व निष्कर्ष को सदैव सांद्र नाइट्रिक अम्ल (HNO3) के साथ क्यों उबाला जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "To decompose any NaCN and Na2S present, expelling them as HCN and H2S gases which would otherwise form interfering precipitates (AgCN and Ag2S) with AgNO3",
+          "hi": "उपस्थित NaCN तथा Na2S को अपघटित करके HCN तथा H2S गैस के रूप में निकालने हेतु जो अन्यथा AgNO3 के साथ अवांछित अवक्षेप (AgCN व Ag2S) बनाते"
+        },
+        "B": {
+          "en": "To oxidize halide ions to halogens",
+          "hi": "हैलोजन आयनों का ऑक्सीकरण करने हेतु"
+        },
+        "C": {
+          "en": "To neutralize sodium hydroxide completely",
+          "hi": "सोडियम हाइड्रॉक्साइड को उदासीन करने हेतु"
+        },
+        "D": {
+          "en": "To dissolve the silver wire",
+          "hi": "सिल्वर के तार को घोलने हेतु"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q09",
+      "category": "Reaction",
+      "question": {
+        "en": "In the test for phosphorus, the organic compound is heated with sodium peroxide (Na2O2) to form sodium phosphate, which is then boiled with conc. HNO3 and treated with ammonium molybdate. What yellow precipitate confirms phosphorus?",
+        "hi": "फास्फोरस के परीक्षण में अमोनियम मॉलिब्डेट मिलाने पर कौन-सा पीला अवक्षेप बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ammonium phosphomolybdate, (NH4)3PO4·12MoO3 (Canary yellow precipitate)",
+          "hi": "अमोनियम फॉस्फोमॉलिब्डेट, (NH4)3PO4·12MoO3 (कैनरी पीला अवक्षेप)"
+        },
+        "B": {
+          "en": "Lead chromate, PbCrO4",
+          "hi": "लेड क्रोमेट, PbCrO4"
+        },
+        "C": {
+          "en": "Cadmium sulfide, CdS",
+          "hi": "कैडमियम सल्फाइड, CdS"
+        },
+        "D": {
+          "en": "Silver iodide, AgI",
+          "hi": "सिल्वर आयोडाइड, AgI"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q10",
+      "category": "Reaction",
+      "question": {
+        "en": "In the layer test for bromine and iodine using chlorine water and chloroform (CHCl3 or CCl4), what colors appear in the organic layer for Br2 and I2 respectively?",
+        "hi": "क्लोरीन जल तथा क्लोरोफॉर्म द्वारा लेयर परीक्षण (Layer test) में Br2 तथा I2 के लिए कार्बनिक परत में क्रमशः कौन-से रंग दिखाई देते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Orange / Reddish-brown layer for Br2, and Violet / Purple layer for I2",
+          "hi": "Br2 के लिए नारंगी / लाल-भूरा, तथा I2 के लिए बैंगनी (Violet) रंग"
+        },
+        "B": {
+          "en": "Blue layer for Br2, Yellow layer for I2",
+          "hi": "Br2 हेतु नीला तथा I2 हेतु पीला"
+        },
+        "C": {
+          "en": "Both give green color",
+          "hi": "दोनों हरा रंग देते हैं"
+        },
+        "D": {
+          "en": "Both layers remain completely colorless",
+          "hi": "दोनों परतें रंगहीन रहती हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q11",
+      "category": "Trend",
+      "question": {
+        "en": "In Thin Layer Chromatography (TLC), how is the retardation factor (Rf value) calculated, and what does a higher Rf value signify in normal-phase chromatography (silica gel plate)?",
+        "hi": "पतली परत क्रोमैटोग्राफी (TLC) में मंदन कारक (Rf मान) की गणना कैसे की जाती है, और सामान्य प्रावस्था में उच्च Rf मान क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Rf = (Distance traveled by substance) / (Distance traveled by solvent front); higher Rf indicates a less polar compound that is weakly adsorbed on the polar silica plate",
+          "hi": "Rf = (पदार्थ द्वारा तय दूरी) / (विलायक द्वारा तय दूरी); उच्च Rf मान कम ध्रुवीय यौगिक को दर्शाता है जो सिलिका प्लेट पर दुर्बल रूप से अधिशोषित होता है"
+        },
+        "B": {
+          "en": "Rf = (Distance traveled by solvent) / (Distance traveled by substance)",
+          "hi": "Rf = विलायक दूरी / पदार्थ दूरी"
+        },
+        "C": {
+          "en": "Higher Rf means the compound is completely insoluble",
+          "hi": "उच्च Rf का अर्थ है पदार्थ अविलेय है"
+        },
+        "D": {
+          "en": "Rf can have values up to 100",
+          "hi": "Rf का मान 100 तक हो सकता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q12",
+      "category": "Reaction",
+      "question": {
+        "en": "In Beilstein's flame test, an organic compound heated on a clean copper wire produces a green flame. What elements does this preliminary test indicate (though it is not conclusive)?",
+        "hi": "बाइलस्टीन ज्वाला परीक्षण में तांबे के तार पर कार्बनिक यौगिक को गर्म करने पर हरी ज्वाला उत्पन्न होती है। यह किसकी उपस्थिति का संकेत देता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Halogens (Chlorine, Bromine, Iodine) forming volatile copper halides",
+          "hi": "हैलोजन (क्लोरीन, ब्रोमीन, आयोडीन) जो वाष्पशील कॉपर हैलाइड बनाते हैं"
+        },
+        "B": {
+          "en": "Nitrogen only",
+          "hi": "केवल नाइट्रोजन"
+        },
+        "C": {
+          "en": "Sulfur only",
+          "hi": "केवल सल्फर"
+        },
+        "D": {
+          "en": "Oxygen only",
+          "hi": "केवल ऑक्सीजन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The schematic diagram shows a Thin Layer Chromatography (TLC) plate after development:\n    ----------------------- Solvent front (10.0 cm)\n               • Spot B (7.5 cm)\n         • Spot A (3.0 cm)\n    ----------------------- Baseline (Origin, 0.0 cm)\nWhat are the Rf values of compound A and compound B?",
+        "hi": "TLC प्लेट के आरेख में विलायक 10.0 cm चला है। स्पॉट A 3.0 cm तथा स्पॉट B 7.5 cm चला है। यौगिक A तथा B के Rf मान क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Rf(A) = 0.30 and Rf(B) = 0.75",
+          "hi": "Rf(A) = 0.30 तथा Rf(B) = 0.75"
+        },
+        "B": {
+          "en": "Rf(A) = 3.33 and Rf(B) = 1.33",
+          "hi": "Rf(A) = 3.33 तथा Rf(B) = 1.33"
+        },
+        "C": {
+          "en": "Rf(A) = 0.70 and Rf(B) = 0.25",
+          "hi": "Rf(A) = 0.70 तथा Rf(B) = 0.25"
+        },
+        "D": {
+          "en": "Rf(A) = 3.0 and Rf(B) = 7.5",
+          "hi": "Rf(A) = 3.0 तथा Rf(B) = 7.5"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of Lassaigne's test observations for halogens:\n| Halogen | Silver Nitrate (AgNO3) Precipitate Color | Solubility in Ammonium Hydroxide (NH4OH) |\n|---|---|---|\n| Chlorine | Curdy white (AgCl) | Completely soluble in dil. NH4OH |\n| Bromine | Pale yellow (AgBr) | Sparingly soluble in NH4OH |\n| Iodine | Bright yellow (AgI) | X |\nWhat is the solubility behavior X of Silver Iodide (AgI) in ammonium hydroxide?",
+        "hi": "लैसेन परीक्षण में हैलोजनों की तालिका का अवलोकन कीजिए:\nअमोनियम हाइड्रॉक्साइड (NH4OH) में सिल्वर आयोडाइड (AgI, पीला अवक्षेप) की विलेयता X क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Completely insoluble in both dilute and concentrated NH4OH",
+          "hi": "तनु तथा सांद्र दोनों NH4OH में पूर्णतः अविलेय"
+        },
+        "B": {
+          "en": "Completely soluble in cold water",
+          "hi": "ठंडे जल में पूर्ण विलेय"
+        },
+        "C": {
+          "en": "Dissolves forming a red solution",
+          "hi": "घुलकर लाल विलयन बनाता है"
+        },
+        "D": {
+          "en": "Dissolves only upon adding concentrated HCl",
+          "hi": "केवल सांद्र HCl में घुलता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc07_q15",
+      "category": "Graph",
+      "question": {
+        "en": "In a gas-liquid chromatography (GLC) chromatogram, peaks are detected for a mixture of methanol (b.p. 65°C), ethanol (b.p. 78°C), and propan-1-ol (b.p. 97°C) eluted from a non-polar column. What is the elution order of retention times (t_R)?",
+        "hi": "गैस क्रोमैटोग्राफी में मेथेनॉल (65°C), एथेनॉल (78°C) तथा प्रोपेन-1-ऑल (97°C) के निकलने का समय (Retention time) किस क्रम में होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Methanol emerges first (lowest t_R) -> Ethanol -> Propan-1-ol emerges last (highest t_R)",
+          "hi": "मेथेनॉल सबसे पहले (न्यूनतम t_R) -> एथेनॉल -> प्रोपेन-1-ऑल सबसे अंत में (अधिकतम t_R)"
+        },
+        "B": {
+          "en": "Propan-1-ol emerges first",
+          "hi": "प्रोपेन-1-ऑल सबसे पहले"
+        },
+        "C": {
+          "en": "Ethanol emerges first, then propan-1-ol, then methanol",
+          "hi": "एथेनॉल सबसे पहले"
+        },
+        "D": {
+          "en": "All three emerge simultaneously in a single unresolved peak",
+          "hi": "तीनों एक साथ निकलते हैं"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc04_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Le Chatelier's Principle states that if a system at equilibrium is subjected to a change in concentration, pressure, or temperature:",
+        "hi": "ला शातेलिए का नियम (Le Chatelier's Principle) बताता है कि यदि साम्यावस्था वाले निकाय पर सांद्रता, दाब या तापमान में परिवर्तन किया जाता है:"
+      },
+      "options": {
+        "A": {
+          "en": "The equilibrium shifts in the direction that tends to undo or counteract the effect of the applied change",
+          "hi": "साम्यावस्था उस दिशा में खिसक जाती है जो लगाए गए परिवर्तन के प्रभाव को निष्प्रभावी या कम करने की प्रवृत्ति रखती है"
+        },
+        "B": {
+          "en": "The equilibrium completely breaks down permanently",
+          "hi": "साम्यावस्था हमेशा के लिए पूरी तरह समाप्त हो जाती है"
+        },
+        "C": {
+          "en": "The equilibrium constant K increases by a factor of 100",
+          "hi": "साम्य स्थिरांक K 100 के गुणक से बढ़ जाता है"
+        },
+        "D": {
+          "en": "All reaction rates drop to zero",
+          "hi": "सभी अभिक्रिया दरें शून्य हो जाती हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q02",
+      "category": "Theory",
+      "question": {
+        "en": "According to Le Chatelier's principle, an increase in external pressure on a gaseous equilibrium system shifts the equilibrium toward:",
+        "hi": "ला शातेलिए के नियम के अनुसार, एक गैसीय साम्य निकाय पर बाह्य दाब बढ़ाने पर साम्यावस्था किस ओर खिसकती है?"
+      },
+      "options": {
+        "A": {
+          "en": "The side having fewer moles of gas (smaller volume)",
+          "hi": "उस ओर जहाँ गैस के मोलों की संख्या कम (कम आयतन) होती है"
+        },
+        "B": {
+          "en": "The side having more moles of gas",
+          "hi": "उस ओर जहाँ गैस के मोलों की संख्या अधिक होती है"
+        },
+        "C": {
+          "en": "The endothermic side always",
+          "hi": "सदैव ऊष्माशोषी दिशा में"
+        },
+        "D": {
+          "en": "Pressure has zero effect on any gaseous equilibrium",
+          "hi": "दाब का किसी गैसीय साम्य पर कोई प्रभाव नहीं पड़ता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q03",
+      "category": "Theory",
+      "question": {
+        "en": "For an exothermic reaction (ΔH < 0), what is the effect of increasing temperature on the equilibrium?",
+        "hi": "एक ऊष्माक्षेपी अभिक्रिया (ΔH < 0) के लिए, तापमान बढ़ाने पर साम्यावस्था पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The equilibrium shifts in the backward (reverse) direction, and the value of K decreases",
+          "hi": "साम्यावस्था पश्चगामी (विपरीत) दिशा में खिसकती है, और K का मान घटता है"
+        },
+        "B": {
+          "en": "The equilibrium shifts in the forward direction, and K increases",
+          "hi": "साम्यावस्था अग्रगामी दिशा में खिसकती है, और K बढ़ता है"
+        },
+        "C": {
+          "en": "The value of K remains unchanged while yield doubles",
+          "hi": "K का मान अपरिवर्तित रहता है जबकि लब्धि दोगुनी हो जाती है"
+        },
+        "D": {
+          "en": "The reaction stops completely",
+          "hi": "अभिक्रिया पूरी तरह रुक जाती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What is the effect of adding an inert gas (such as argon or helium) to a gaseous equilibrium system at CONSTANT VOLUME?",
+        "hi": "स्थिर आयतन पर एक गैसीय साम्य निकाय में एक अक्रिय गैस (जैसे आर्गन या हीलियम) मिलाने का क्या प्रभाव होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "No effect at all on the equilibrium position, because partial pressures and molar concentrations of reacting gases remain unchanged",
+          "hi": "साम्यावस्था की स्थिति पर कोई प्रभाव नहीं पड़ता, क्योंकि क्रियाकारी गैसों के आंशिक दाब और मोलर सांद्रता अपरिवर्तित रहते हैं"
+        },
+        "B": {
+          "en": "Shifts equilibrium toward products",
+          "hi": "साम्य को उत्पादों की ओर खिसकाता है"
+        },
+        "C": {
+          "en": "Shifts equilibrium toward reactants",
+          "hi": "साम्य को अभिकारकों की ओर खिसकाता है"
+        },
+        "D": {
+          "en": "Doubles the equilibrium constant K",
+          "hi": "साम्य स्थिरांक K को दोगुना कर देता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the effect of adding an inert gas to a gaseous equilibrium system at CONSTANT PRESSURE?",
+        "hi": "स्थिर दाब पर एक गैसीय साम्य निकाय में एक अक्रिय गैस मिलाने का क्या प्रभाव होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "It increases the volume, shifting the equilibrium in the direction having a GREATER number of moles of gas (Δn_g > 0 direction)",
+          "hi": "यह आयतन बढ़ाता है, जिससे साम्यावस्था उस दिशा में खिसक जाती है जहाँ गैस के मोलों की संख्या अधिक होती है (Δn_g > 0 दिशा)"
+        },
+        "B": {
+          "en": "It has zero effect under all conditions",
+          "hi": "सभी परिस्थितियों में इसका शून्य प्रभाव होता है"
+        },
+        "C": {
+          "en": "It shifts equilibrium strictly toward the side with fewer gas moles",
+          "hi": "यह साम्य को केवल कम गैस मोल वाले पक्ष की ओर खिसकाता है"
+        },
+        "D": {
+          "en": "It causes all reactants to solidify",
+          "hi": "यह सभी अभिकारकों को ठोस बना देता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is the exact effect of adding a CATALYST to a reversible chemical reaction at equilibrium?",
+        "hi": "साम्यावस्था पर उत्क्रमणीय रासायनिक अभिक्रिया में उत्प्रेरक (Catalyst) मिलाने का क्या प्रभाव होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "It increases the rates of forward and reverse reactions equally, establishing equilibrium faster without altering the equilibrium position or K",
+          "hi": "यह अग्रगामी और पश्चगामी अभिक्रियाओं की दरों को समान रूप से बढ़ाता है, जिससे साम्यावस्था की स्थिति या K को बदले बिना साम्य तेजी से स्थापित होता है"
+        },
+        "B": {
+          "en": "It shifts the equilibrium to increase the yield of products",
+          "hi": "यह उत्पादों की लब्धि बढ़ाने के लिए साम्य को विस्थापित करता है"
+        },
+        "C": {
+          "en": "It increases the equilibrium constant K_c",
+          "hi": "यह साम्य स्थिरांक K_c को बढ़ाता है"
+        },
+        "D": {
+          "en": "It eliminates the reverse reaction completely",
+          "hi": "यह पश्चगामी अभिक्रिया को पूरी तरह समाप्त कर देता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q07",
+      "category": "Formula",
+      "question": {
+        "en": "For Haber's synthesis of ammonia: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = -92.4 kJ/mol, which set of conditions maximizes the equilibrium yield of NH₃?",
+        "hi": "अमोनिया के हैबर प्रक्रम N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = -92.4 kJ/mol के लिए, कौन सी परिस्थितियाँ NH₃ की साम्य लब्धि को अधिकतम करती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "High pressure and low temperature (optimum ~200 atm, ~700 K with iron catalyst)",
+          "hi": "उच्च दाब और निम्न तापमान (आयरन उत्प्रेरक के साथ इष्टतम ~200 atm, ~700 K)"
+        },
+        "B": {
+          "en": "Low pressure and high temperature",
+          "hi": "निम्न दाब और उच्च तापमान"
+        },
+        "C": {
+          "en": "Low pressure and low temperature",
+          "hi": "निम्न दाब और निम्न तापमान"
+        },
+        "D": {
+          "en": "High pressure and high temperature",
+          "hi": "उच्च दाब और उच्च तापमान"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q08",
+      "category": "Formula",
+      "question": {
+        "en": "For the melting of ice: Ice ⇌ Water; ΔH_fus = +6.0 kJ/mol (Density of ice < Density of water). What is the effect of increasing external pressure on the melting point of ice?",
+        "hi": "बर्फ के पिघलने के लिए: बर्फ ⇌ जल; ΔH_गलन = +6.0 kJ/mol (बर्फ का घनत्व < जल का घनत्व)। बर्फ के गलनांक पर बाह्य दाब बढ़ाने का क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The melting point decreases (ice melts at a lower temperature under pressure)",
+          "hi": "गलनांक घट जाता है (दाब में बर्फ कम तापमान पर पिघलती है)"
+        },
+        "B": {
+          "en": "The melting point increases",
+          "hi": "गलनांक बढ़ जाता है"
+        },
+        "C": {
+          "en": "Ice can never melt under pressure",
+          "hi": "दाब में बर्फ कभी पिघल नहीं सकती"
+        },
+        "D": {
+          "en": "Pressure has no effect on melting point",
+          "hi": "गलनांक पर दाब का कोई प्रभाव नहीं पड़ता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q09",
+      "category": "Formula",
+      "question": {
+        "en": "For the endothermic dissociation: N₂O₄(g) [colorless] ⇌ 2NO₂(g) [brown]; ΔH = +57.2 kJ/mol.\nWhat observable color change occurs when the reaction container is cooled in an ice bath?",
+        "hi": "ऊष्माशोषी वियोजन N₂O₄(g) [रंगहीन] ⇌ 2NO₂(g) [भूरा]; ΔH = +57.2 kJ/mol के लिए।\nजब अभिक्रिया पात्र को बर्फ के कुंड में ठंडा किया जाता है, तो कौन सा रंग परिवर्तन दिखाई देता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The reddish-brown color fades (becomes lighter/colorless) as equilibrium shifts to the left",
+          "hi": "साम्यावस्था बाईं ओर खिसकने से लाल-भूरा रंग हल्का/रंगहीन हो जाता है"
+        },
+        "B": {
+          "en": "The reddish-brown color deepens intensely",
+          "hi": "लाल-भूरा रंग अत्यधिक गहरा हो जाता है"
+        },
+        "C": {
+          "en": "The gas turns bright green",
+          "hi": "गैस चमकीली हरी हो जाती है"
+        },
+        "D": {
+          "en": "No color change occurs",
+          "hi": "कोई रंग परिवर्तन नहीं होता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q10",
+      "category": "Formula",
+      "question": {
+        "en": "For the equilibrium: CO(g) + 2H₂(g) ⇌ CH₃OH(g), what will happen if the volume of the reaction vessel is halved at constant temperature?",
+        "hi": "साम्यावस्था CO(g) + 2H₂(g) ⇌ CH₃OH(g) के लिए, यदि स्थिर तापमान पर अभिक्रिया पात्र का आयतन आधा कर दिया जाए तो क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Equilibrium shifts forward (to the right), forming more CH₃OH",
+          "hi": "साम्य अग्रगामी (दाईं ओर) खिसकेगा, जिससे अधिक CH₃OH बनेगा"
+        },
+        "B": {
+          "en": "Equilibrium shifts backward (to the left)",
+          "hi": "साम्य पश्चगामी (बाईं ओर) खिसकेगा"
+        },
+        "C": {
+          "en": "The equilibrium is completely unaffected",
+          "hi": "साम्य पूरी तरह अप्रभावित रहेगा"
+        },
+        "D": {
+          "en": "K_c increases by 4 times",
+          "hi": "K_c 4 गुना बढ़ जाएगा"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q11",
+      "category": "Formula",
+      "question": {
+        "en": "For which of the following equilibria will a change in volume of the container have NO EFFECT on the position of equilibrium?",
+        "hi": "निम्नलिखित में से किस साम्यावस्था के लिए पात्र के आयतन में परिवर्तन का साम्यावस्था की स्थिति पर कोई प्रभाव नहीं पड़ेगा?"
+      },
+      "options": {
+        "A": {
+          "en": "H₂(g) + I₂(g) ⇌ 2HI(g)",
+          "hi": "H₂(g) + I₂(g) ⇌ 2HI(g)"
+        },
+        "B": {
+          "en": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+          "hi": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)"
+        },
+        "C": {
+          "en": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+          "hi": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)"
+        },
+        "D": {
+          "en": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+          "hi": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q12",
+      "category": "Formula",
+      "question": {
+        "en": "In the reaction: Fe³⁺(aq) [yellow] + SCN⁻(aq) ⇌ [Fe(SCN)]²⁺(aq) [deep red].\nWhat happens to the red color intensity when oxalic acid (H₂C₂O₄) is added to the equilibrium mixture?",
+        "hi": "अभिक्रिया Fe³⁺(aq) [पीला] + SCN⁻(aq) ⇌ [Fe(SCN)]²⁺(aq) [गहरा लाल] में।\nजब साम्यावस्था मिश्रण में ऑक्सालिक अम्ल (H₂C₂O₄) मिलाया जाता है, तो लाल रंग की तीव्रता पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The red color decreases in intensity because oxalate ions bind Fe³⁺ into a stable complex [Fe(C₂O₄)₃]³⁻, shifting equilibrium to the left",
+          "hi": "लाल रंग की तीव्रता घट जाती है क्योंकि ऑक्सालेट आयन Fe³⁺ को एक स्थायी संकुल [Fe(C₂O₄)₃]³⁻ में बांध लेते हैं, जिससे साम्य बाईं ओर खिसक जाता है"
+        },
+        "B": {
+          "en": "The red color intensifies further",
+          "hi": "लाल रंग और अधिक गहरा हो जाता है"
+        },
+        "C": {
+          "en": "A bright yellow precipitate of sulfur forms",
+          "hi": "सल्फर का चमकीला पीला अवक्षेप बनता है"
+        },
+        "D": {
+          "en": "No change in color is observed",
+          "hi": "रंग में कोई बदलाव नहीं देखा जाता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Match the applied stress on the equilibrium: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92.4 kJ with its effect on equilibrium position:\n| Stress | Effect on Equilibrium |\n| :--- | :--- |\n| 1. Addition of H₂ gas | P. Shifts backward (left) |\n| 2. Removal of NH₃ gas | Q. Shifts forward (right) |\n| 3. Increase in temperature | R. Shifts forward (right) |\nWhich matching is correct?",
+        "hi": "साम्यावस्था N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92.4 kJ पर लगाए गए तनाव का साम्यावस्था की स्थिति पर प्रभाव से मिलान करें:\n| तनाव | साम्यावस्था पर प्रभाव |\n| :--- | :--- |\n| 1. H₂ गैस मिलाना | P. पश्चगामी (बाईं) ओर विस्थापन |\n| 2. NH₃ गैस निकालना | Q. अग्रगामी (दाईं) ओर विस्थापन |\n| 3. तापमान में वृद्धि | R. अग्रगामी (दाईं) ओर विस्थापन |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        },
+        "D": {
+          "en": "1-P, 2-R, 3-Q",
+          "hi": "1-P, 2-R, 3-Q"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "For the heterogeneous equilibrium: CaCO₃(s) ⇌ CaO(s) + CO₂(g) in a sealed vessel at 800 °C:\nWhat happens to the equilibrium pressure of CO₂ (p_CO₂) if more solid CaCO₃ is added to the container?",
+        "hi": "800 °C पर एक सीलबंद पात्र में विषमांगी साम्य CaCO₃(s) ⇌ CaO(s) + CO₂(g) के लिए:\nयदि पात्र में और अधिक ठोस CaCO₃ मिला दिया जाए तो CO₂ के साम्य दाब (p_CO₂) पर क्या प्रभाव पड़ेगा?"
+      },
+      "options": {
+        "A": {
+          "en": "p_CO₂ remains completely unchanged because K_p = p_CO₂ depends only on temperature",
+          "hi": "p_CO₂ पूरी तरह अपरिवर्तित रहता है क्योंकि K_p = p_CO₂ केवल तापमान पर निर्भर करता है"
+        },
+        "B": {
+          "en": "p_CO₂ doubles immediately",
+          "hi": "p_CO₂ तुरंत दोगुना हो जाता है"
+        },
+        "C": {
+          "en": "p_CO₂ drops to zero",
+          "hi": "p_CO₂ गिरकर शून्य हो जाता है"
+        },
+        "D": {
+          "en": "The vessel explodes",
+          "hi": "पात्र फट जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc04_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Why does boiling water at high altitude require food to be cooked for a longer time, and how does Le Chatelier's principle explain the use of a pressure cooker?",
+        "hi": "अधिक ऊँचाई पर उबलते पानी में खाना पकाने में अधिक समय क्यों लगता है, और ला शातेलिए का नियम प्रेशर कुकर के उपयोग की व्याख्या कैसे करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "At high altitude, lower atmospheric pressure lowers the boiling point of water; a pressure cooker increases pressure, raising boiling point so food cooks at higher temperature",
+          "hi": "अधिक ऊँचाई पर कम वायुमंडलीय दाब जल के क्वथनांक को कम कर देता है; प्रेशर कुकर दाब बढ़ाता है, जिससे क्वथनांक बढ़ जाता है और भोजन उच्च तापमान पर पकता है"
+        },
+        "B": {
+          "en": "Pressure cookers cool the water to prevent burning",
+          "hi": "प्रेशर कुकर जलने से बचाने के लिए पानी को ठंडा करते हैं"
+        },
+        "C": {
+          "en": "Altitude destroys the heat of vaporization",
+          "hi": "ऊँचाई वाष्पीकरण की ऊष्मा को नष्ट कर देती है"
+        },
+        "D": {
+          "en": "High pressure breaks covalent O-H bonds instantly",
+          "hi": "उच्च दाब सहसंयोजक O-H आबंधों को तुरंत तोड़ देता है"
+        }
+      }
+    }
+  ]
+}

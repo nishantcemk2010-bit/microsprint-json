@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc04_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Compounds that possess the same molecular formula but differ in the connectivity of their atoms are termed:",
+        "hi": "समान अणुसूत्र वाले यौगिक जो अपने परमाणुओं के जुड़ने के क्रम (संयोजकता संरचना) में भिन्न होते हैं, कहलाते हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Structural (constitutional) isomers",
+          "hi": "संरचनात्मक समावयवी (Structural isomers)"
+        },
+        "B": {
+          "en": "Stereoisomers",
+          "hi": "त्रिविम समावयवी (Stereoisomers)"
+        },
+        "C": {
+          "en": "Homologs",
+          "hi": "समजात (Homologs)"
+        },
+        "D": {
+          "en": "Allotropes",
+          "hi": "अपररूप (Allotropes)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What type of isomerism is exhibited by n-butane and isobutane (2-methylpropane)?",
+        "hi": "n-ब्यूटेन तथा आइसोब्यूटेन (2-मेथिलप्रोपेन) किस प्रकार की समावयवता प्रदर्शित करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Chain (skeletal) isomerism",
+          "hi": "श्रृंखला समावयवता (Chain isomerism)"
+        },
+        "B": {
+          "en": "Position isomerism",
+          "hi": "स्थान समावयवता (Position isomerism)"
+        },
+        "C": {
+          "en": "Functional group isomerism",
+          "hi": "क्रियात्मक समूह समावयवता"
+        },
+        "D": {
+          "en": "Metamerism",
+          "hi": "मध्यावयवता (Metamerism)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Propan-1-ol and Propan-2-ol are classic examples of:",
+        "hi": "प्रोपेन-1-ऑल तथा प्रोपेन-2-ऑल किसके उत्कृष्ट उदाहरण हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Position isomers",
+          "hi": "स्थान समावयवी (Position isomers)"
+        },
+        "B": {
+          "en": "Chain isomers",
+          "hi": "श्रृंखला समावयवी"
+        },
+        "C": {
+          "en": "Functional isomers",
+          "hi": "क्रियात्मक समावयवी"
+        },
+        "D": {
+          "en": "Tautomers",
+          "hi": "चलावयवी (Tautomers)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What type of isomerism is shown by ethanol (C2H5OH) and methoxymethane (CH3-O-CH3)?",
+        "hi": "एथेनॉल (C2H5OH) तथा मेथॉक्सीमेथेन (CH3OCH3) के मध्य किस प्रकार की समावयवता पाई जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Functional group isomerism",
+          "hi": "क्रियात्मक समूह समावयवता (Functional group isomerism)"
+        },
+        "B": {
+          "en": "Metamerism",
+          "hi": "मध्यावयवता (Metamerism)"
+        },
+        "C": {
+          "en": "Chain isomerism",
+          "hi": "श्रृंखला समावयवता"
+        },
+        "D": {
+          "en": "Optical isomerism",
+          "hi": "प्रकाशिक समावयवता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Metamerism arises due to:",
+        "hi": "मध्यावयवता (Metamerism) किसके कारण उत्पन्न होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Unequal distribution of carbon atoms (different alkyl chains) on either side of a polyvalent functional group (such as -O-, -S-, -NH-, -CO-)",
+          "hi": "एक बहुसंयोजी क्रियात्मक समूह (जैसे -O-, -S-, -NH-, -CO-) के दोनों ओर कार्बन परमाणुओं (एल्किल श्रृंखलाओं) के असमान वितरण के कारण"
+        },
+        "B": {
+          "en": "Different positions of double bonds only",
+          "hi": "केवल द्विबंध की स्थिति में भिन्नता के कारण"
+        },
+        "C": {
+          "en": "Different spatial orientations of identical groups",
+          "hi": "समान समूहों के त्रिविम अभिविन्यास में अंतर के कारण"
+        },
+        "D": {
+          "en": "Presence of chiral carbon atoms",
+          "hi": "किरल कार्बन परमाणुओं की उपस्थिति के कारण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is 'Tautomerism' (specifically keto-enol tautomerism)?",
+        "hi": "'चलावयवता' (Tautomerism, विशेष रूप से कीटो-इनॉल चलावयवता) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "A dynamic equilibrium between two readily interconvertible structural isomers differing in the position of a mobile proton and a π bond",
+          "hi": "एक गतिशील प्रोटॉन तथा एक π बंध की स्थिति में भिन्नता वाले दो तेजी से अंतःपरिवर्तनीय संरचनात्मक समावयवियों के मध्य गतिक साम्यावस्था"
+        },
+        "B": {
+          "en": "Permanent destruction of the molecule by boiling",
+          "hi": "उबालने पर अणु का स्थायी विनाश"
+        },
+        "C": {
+          "en": "Static rotation of single bonds without proton transfer",
+          "hi": "बिना प्रोटॉन स्थानांतरण के एकल बंधों का घूर्णन"
+        },
+        "D": {
+          "en": "Formation of an ionic crystal lattice",
+          "hi": "आयनिक क्रिस्टल जालक का निर्माण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q07",
+      "category": "Calculation",
+      "question": {
+        "en": "How many structural isomers (chain isomers) are possible for the alkane with molecular formula C5H12 (pentane)?",
+        "hi": "अणुसूत्र C5H12 (पेन्टेन) वाले एल्केन के कुल कितने संरचनात्मक (श्रृंखला) समावयवी संभव हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "3 isomers: n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane)",
+          "hi": "3 समावयवी: n-पेन्टेन, आइसोपेंटेन (2-मेथिलब्यूटेन), तथा नियोपेंटेन (2,2-डाइमेथिलप्रोपेन)"
+        },
+        "B": {
+          "en": "2 isomers",
+          "hi": "2 समावयवी"
+        },
+        "C": {
+          "en": "4 isomers",
+          "hi": "4 समावयवी"
+        },
+        "D": {
+          "en": "5 isomers",
+          "hi": "5 समावयवी"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q08",
+      "category": "Calculation",
+      "question": {
+        "en": "How many structural isomers are possible for the alkyl group C4H9- (butyl isomers)?",
+        "hi": "एल्किल समूह C4H9- (ब्यूटिल समूह) के कुल कितने संरचनात्मक समावयवी संभव हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "4 isomers: n-butyl, sec-butyl, isobutyl, and tert-butyl",
+          "hi": "4 समावयवी: n-ब्यूटिल, sec-ब्यूटिल, आइसोब्यूटिल, तथा tert-ब्यूटिल"
+        },
+        "B": {
+          "en": "2 isomers",
+          "hi": "2 समावयवी"
+        },
+        "C": {
+          "en": "3 isomers",
+          "hi": "3 समावयवी"
+        },
+        "D": {
+          "en": "5 isomers",
+          "hi": "5 समावयवी"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q09",
+      "category": "Calculation",
+      "question": {
+        "en": "How many isomeric alcohols and ethers are represented by the molecular formula C4H10O?",
+        "hi": "अणुसूत्र C4H10O द्वारा कुल कितने समावयवी ऐल्कोहॉल तथा ईथर प्रदर्शित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "4 Alcohols and 3 Ethers (Total 7 structural isomers)",
+          "hi": "4 ऐल्कोहॉल तथा 3 ईथर (कुल 7 संरचनात्मक समावयवी)"
+        },
+        "B": {
+          "en": "3 Alcohols and 4 Ethers",
+          "hi": "3 ऐल्कोहॉल तथा 4 ईथर"
+        },
+        "C": {
+          "en": "2 Alcohols and 2 Ethers",
+          "hi": "2 ऐल्कोहॉल तथा 2 ईथर"
+        },
+        "D": {
+          "en": "5 Alcohols and 2 Ethers",
+          "hi": "5 ऐल्कोहॉल तथा 2 ईथर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q10",
+      "category": "Trend",
+      "question": {
+        "en": "Why does acetylacetone (pentane-2,4-dione, CH3-CO-CH2-CO-CH3) have an unusually HIGH percentage of enol form (~76%) at equilibrium compared to simple acetone (<0.001%)?",
+        "hi": "एसिटिलएसिटोन (पेन्टेन-2,4-डाइओन) में साधारण एसीटोन (<0.001%) की तुलना में इनॉल रूप का असामान्य रूप से उच्च प्रतिशत (~76%) क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Its enol form is stabilized by a conjugated double bond system and a very stable 6-membered intramolecular hydrogen-bonded pseudo-ring",
+          "hi": "इसका इनॉल रूप संयुग्मित द्विबंध तंत्र तथा अत्यधिक स्थायी 6-सदस्यीय अंतःअणुक हाइड्रोजन-आबंधित वलय द्वारा स्थायीकृत होता है"
+        },
+        "B": {
+          "en": "Because it has no alpha hydrogens",
+          "hi": "क्योंकि इसमें कोई अल्फा हाइड्रोजन नहीं होता"
+        },
+        "C": {
+          "en": "Because the keto form is aromatic",
+          "hi": "क्योंकि कीटो रूप ऐरोमैटिक होता है"
+        },
+        "D": {
+          "en": "Because enol form has lower molecular weight",
+          "hi": "क्योंकि इनॉल रूप का अणुभार कम होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q11",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following compounds CANNOT exhibit keto-enol tautomerism?",
+        "hi": "निम्नलिखित में से कौन-सा यौगिक कीटो-इनॉल चलावयवता प्रदर्शित नहीं कर सकता?"
+      },
+      "options": {
+        "A": {
+          "en": "Benzaldehyde (C6H5-CHO) and Trimethylacetaldehyde ((CH3)3C-CHO)",
+          "hi": "बेन्जैल्डिहाइड (C6H5CHO) तथा ट्राइमेथिलएसिटैल्डिहाइड ((CH3)3C-CHO)"
+        },
+        "B": {
+          "en": "Acetone (CH3-CO-CH3)",
+          "hi": "एसीटोन (CH3COCH3)"
+        },
+        "C": {
+          "en": "Acetaldehyde (CH3-CHO)",
+          "hi": "एसिटैल्डिहाइड (CH3CHO)"
+        },
+        "D": {
+          "en": "Cyclohexanone",
+          "hi": "साइक्लोहेक्सेनोन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q12",
+      "category": "Formula",
+      "question": {
+        "en": "What is the relationship between diethyl ether (C2H5-O-C2H5) and methyl propyl ether (CH3-O-C3H7)?",
+        "hi": "डाइएथिल ईथर (C2H5-O-C2H5) तथा मेथिल प्रोपिल ईथर (CH3-O-C3H7) के मध्य क्या संबंध है?"
+      },
+      "options": {
+        "A": {
+          "en": "Metamers",
+          "hi": "मध्यावयवी (Metamers)"
+        },
+        "B": {
+          "en": "Chain isomers",
+          "hi": "श्रृंखला समावयवी"
+        },
+        "C": {
+          "en": "Functional isomers",
+          "hi": "क्रियात्मक समावयवी"
+        },
+        "D": {
+          "en": "Stereoisomers",
+          "hi": "त्रिविम समावयवी"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The diagram illustrates keto-enol tautomerism in acetone:\n    H                          H\n    |                          |\n H - C - C - CH3   <====>   H - C = C - CH3\n    |   ||                     |   |\n    H   O                      H   O - H\n       (Keto)                     (Enol)\nWhat is the percentage of enol form present in pure acetone at dynamic equilibrium at room temperature?",
+        "hi": "एसीटोन में कीटो-इनॉल चलावयवता का आरेख देखिए:\nकमरे के तापमान पर गतिक साम्यावस्था में शुद्ध एसीटोन में इनॉल रूप का लगभग कितना प्रतिशत उपस्थित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Extremely small, approximately 0.0001% (Keto form is >99.999% predominant)",
+          "hi": "अत्यंत अल्प, लगभग 0.0001% (कीटो रूप >99.999% प्रभावी रहता है)"
+        },
+        "B": {
+          "en": "50% Keto and 50% Enol",
+          "hi": "50% कीटो तथा 50% इनॉल"
+        },
+        "C": {
+          "en": "75% Enol",
+          "hi": "75% इनॉल"
+        },
+        "D": {
+          "en": "100% Enol",
+          "hi": "100% इनॉल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of structural isomerism types:\n| Isomerism Type | Structural Difference | Example Pair |\n|---|---|---|\n| Chain | Carbon skeleton arrangement | Butane and 2-Methylpropane |\n| Position | Location of functional group / multiple bond | But-1-ene and But-2-ene |\n| Functional | Different functional groups | Ethanol and Dimethyl ether |\n| Metamerism | Alkyl groups on polyvalent atom | Diethyl ether and Methyl propyl ether |\n| Tautomerism | X | Keto and Enol forms |\nWhat structural difference X characterizes tautomerism?",
+        "hi": "संरचनात्मक समावयवता की तालिका का अवलोकन कीजिए:\nचलावयवता (Tautomerism) को परिभाषित करने वाला संरचनात्मक अंतर X क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Dynamic equilibrium involving rapid migration of a proton between alpha carbon and heteroatom with π-bond shift",
+          "hi": "अल्फा कार्बन तथा विषम परमाणु के मध्य प्रोटॉन का स्थानांतरण व π बंध का विस्थापन"
+        },
+        "B": {
+          "en": "Difference in carbon chain length only",
+          "hi": "केवल कार्बन श्रृंखला की लंबाई में अंतर"
+        },
+        "C": {
+          "en": "Different spatial arrangement of rigid groups",
+          "hi": "दृढ़ समूहों का भिन्न त्रिविम विन्यास"
+        },
+        "D": {
+          "en": "Exchange of coordinate bonds only",
+          "hi": "केवल उपसहसंयोजक बंधों का विनिमय"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc04_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A plot shows the number of possible constitutional isomers (y-axis) as a function of the number of carbon atoms N (x-axis) for acyclic alkanes CnH2n+2:\nN=4: 2 isomers\nN=5: 3 isomers\nN=6: 5 isomers\nN=7: 9 isomers\nN=8: 18 isomers\nN=10: 75 isomers\nWhat mathematical trend does this graph follow as N increases?",
+        "hi": "एल्केनों (CnH2n+2) में कार्बन परमाणुओं की संख्या (N) के सापेक्ष संभावित संरचनात्मक समावयवियों की संख्या का आलेख किस गणितीय प्रवृत्ति का अनुसरण करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Exponential / Combinatorial explosive growth with increasing N",
+          "hi": "N के बढ़ने के साथ चरघातांकी / संयोजनकारी विस्फोटक वृद्धि (Exponential growth)"
+        },
+        "B": {
+          "en": "Strictly linear growth (Isomers = N - 2)",
+          "hi": "पूर्णतः रैखिक वृद्धि"
+        },
+        "C": {
+          "en": "Logarithmic decay approaching a horizontal asymptote",
+          "hi": "लघुगणकीय ह्रास"
+        },
+        "D": {
+          "en": "Periodic sinusoidal oscillation",
+          "hi": "आवर्ती दोलन"
+        }
+      }
+    }
+  ]
+}

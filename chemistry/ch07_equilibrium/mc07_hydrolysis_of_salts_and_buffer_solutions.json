@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc07_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Salt hydrolysis is defined as the interaction of:",
+        "hi": "लवण का जल-अपघटन किसके मध्य की अन्योन्यक्रिया है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cation and/or anion of the salt with water to alter the pH of the solution",
+          "hi": "लवण के धनायन और/या ऋणायन की जल के साथ जिससे pH परिवर्तित होता है"
+        },
+        "B": {
+          "en": "Salt with dissolved oxygen",
+          "hi": "लवण की घुलित ऑक्सीजन के साथ"
+        },
+        "C": {
+          "en": "Pure acid with pure base without solvent",
+          "hi": "बिना विलायक के शुद्ध अम्ल की शुद्ध क्षार के साथ"
+        },
+        "D": {
+          "en": "Cation with anion in a crystal lattice",
+          "hi": "क्रिस्टल जालक में धनायन की ऋणायन के साथ"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following salts does NOT undergo hydrolysis in aqueous solution?",
+        "hi": "निम्नलिखित में से कौन-सा लवण जलीय विलयन में जल-अपघटित नहीं होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "NaCl (Salt of strong acid + strong base)",
+          "hi": "NaCl (प्रबल अम्ल + प्रबल क्षार का लवण)"
+        },
+        "B": {
+          "en": "CH3COONa (Salt of weak acid + strong base)",
+          "hi": "CH3COONa (दुर्बल अम्ल + प्रबल क्षार का लवण)"
+        },
+        "C": {
+          "en": "NH4Cl (Salt of strong acid + weak base)",
+          "hi": "NH4Cl (प्रबल अम्ल + दुर्बल क्षार का लवण)"
+        },
+        "D": {
+          "en": "CH3COONH4 (Salt of weak acid + weak base)",
+          "hi": "CH3COONH4 (दुर्बल अम्ल + दुर्बल क्षार का लवण)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q03",
+      "category": "Theory",
+      "question": {
+        "en": "An aqueous solution of ammonium chloride (NH4Cl) is:",
+        "hi": "अमोनियम क्लोराइड (NH4Cl) का जलीय विलयन होता है:"
+      },
+      "options": {
+        "A": {
+          "en": "Acidic (pH < 7) due to cationic hydrolysis",
+          "hi": "धनायन के जल-अपघटन के कारण अम्लीय (pH < 7)"
+        },
+        "B": {
+          "en": "Basic (pH > 7) due to anionic hydrolysis",
+          "hi": "ऋणायन के जल-अपघटन के कारण क्षारीय (pH > 7)"
+        },
+        "C": {
+          "en": "Completely neutral (pH = 7)",
+          "hi": "पूर्णतः उदासीन (pH = 7)"
+        },
+        "D": {
+          "en": "Strongly alkaline with pH > 12",
+          "hi": "अत्यधिक क्षारीय जिसका pH > 12 हो"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q04",
+      "category": "Theory",
+      "question": {
+        "en": "A buffer solution is defined as a solution which:",
+        "hi": "बफर विलयन को उस विलयन के रूप में परिभाषित किया जाता है जो:"
+      },
+      "options": {
+        "A": {
+          "en": "Resists changes in pH upon addition of small amounts of acid or base",
+          "hi": "अम्ल अथवा क्षार की अल्प मात्रा मिलाने पर pH में परिवर्तन का विरोध करता है"
+        },
+        "B": {
+          "en": "Completely neutralizes any quantity of concentrated acid",
+          "hi": "सांद्र अम्ल की किसी भी मात्रा को पूर्णतः उदासीन कर देता है"
+        },
+        "C": {
+          "en": "Has a permanent pH of exactly 7.00",
+          "hi": "जिसका pH सदैव ठीक 7.00 रहता है"
+        },
+        "D": {
+          "en": "Cannot dissolve any solute",
+          "hi": "जिसमें कोई भी विलेय नहीं घुल सकता"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following mixtures constitutes an acidic buffer?",
+        "hi": "निम्नलिखित में से कौन-सा मिश्रण एक अम्लीय बफर बनाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "CH3COOH + CH3COONa",
+          "hi": "CH3COOH + CH3COONa"
+        },
+        "B": {
+          "en": "NH4OH + NH4Cl",
+          "hi": "NH4OH + NH4Cl"
+        },
+        "C": {
+          "en": "HCl + NaCl",
+          "hi": "HCl + NaCl"
+        },
+        "D": {
+          "en": "NaOH + CH3COONa",
+          "hi": "NaOH + CH3COONa"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q06",
+      "category": "Theory",
+      "question": {
+        "en": "The buffer capacity of an acidic buffer is maximum when:",
+        "hi": "किसी अम्लीय बफर की बफर क्षमता अधिकतम तब होती है जब:"
+      },
+      "options": {
+        "A": {
+          "en": "[Salt] = [Acid] (i.e., pH = pKa)",
+          "hi": "[लवण] = [अम्ल] (अर्थात pH = pKa)"
+        },
+        "B": {
+          "en": "[Salt] >> [Acid]",
+          "hi": "[लवण] >> [अम्ल]"
+        },
+        "C": {
+          "en": "[Acid] >> [Salt]",
+          "hi": "[अम्ल] >> [लवण]"
+        },
+        "D": {
+          "en": "pH is equal to 14",
+          "hi": "pH का मान 14 हो"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the Henderson-Hasselbalch equation for the pH of an acidic buffer?",
+        "hi": "अम्लीय बफर के pH की गणना के लिए हेंडरसन-हैसेलबाल्च समीकरण कौन-सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "pH = pKa + log10([Salt] / [Acid])",
+          "hi": "pH = pKa + log10([लवण] / [अम्ल])"
+        },
+        "B": {
+          "en": "pH = pKa - log10([Salt] / [Acid])",
+          "hi": "pH = pKa - log10([लवण] / [अम्ल])"
+        },
+        "C": {
+          "en": "pH = pKb + log10([Acid] / [Salt])",
+          "hi": "pH = pKb + log10([अम्ल] / [लवण])"
+        },
+        "D": {
+          "en": "pH = pKw - pKa - log10([Salt] / [Acid])",
+          "hi": "pH = pKw - pKa - log10([लवण] / [अम्ल])"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q08",
+      "category": "Formula",
+      "question": {
+        "en": "What is the formula for the pH of a salt of weak acid and strong base (e.g., CH3COONa)?",
+        "hi": "दुर्बल अम्ल तथा प्रबल क्षार के लवण (उदा. CH3COONa) के जलीय विलयन के pH का सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "pH = 7 + (1/2) pKa + (1/2) log C",
+          "hi": "pH = 7 + (1/2) pKa + (1/2) log C"
+        },
+        "B": {
+          "en": "pH = 7 - (1/2) pKa - (1/2) log C",
+          "hi": "pH = 7 - (1/2) pKa - (1/2) log C"
+        },
+        "C": {
+          "en": "pH = 7 - (1/2) pKb - (1/2) log C",
+          "hi": "pH = 7 - (1/2) pKb - (1/2) log C"
+        },
+        "D": {
+          "en": "pH = 7 + (1/2) pKa - (1/2) pKb",
+          "hi": "pH = 7 + (1/2) pKa - (1/2) pKb"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the formula for the pH of a salt of weak acid and weak base (e.g., CH3COONH4)?",
+        "hi": "दुर्बल अम्ल तथा दुर्बल क्षार के लवण (उदा. CH3COONH4) के विलयन के pH का सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "pH = 7 + (1/2) pKa - (1/2) pKb",
+          "hi": "pH = 7 + (1/2) pKa - (1/2) pKb"
+        },
+        "B": {
+          "en": "pH = 7 + (1/2) pKa + (1/2) log C",
+          "hi": "pH = 7 + (1/2) pKa + (1/2) log C"
+        },
+        "C": {
+          "en": "pH = 7 - (1/2) pKb - (1/2) log C",
+          "hi": "pH = 7 - (1/2) pKb - (1/2) log C"
+        },
+        "D": {
+          "en": "pH = (1/2)(pKa + pKb + log C)",
+          "hi": "pH = (1/2)(pKa + pKb + log C)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q10",
+      "category": "Formula",
+      "question": {
+        "en": "What is the pH of a buffer solution prepared by mixing 0.1 M CH3COOH and 0.1 M CH3COONa? (pKa = 4.74)",
+        "hi": "0.1 M CH3COOH तथा 0.1 M CH3COONa को मिलाकर बनाए गए बफर विलयन का pH क्या होगा? (pKa = 4.74)"
+      },
+      "options": {
+        "A": {
+          "en": "4.74",
+          "hi": "4.74"
+        },
+        "B": {
+          "en": "5.74",
+          "hi": "5.74"
+        },
+        "C": {
+          "en": "3.74",
+          "hi": "3.74"
+        },
+        "D": {
+          "en": "7.00",
+          "hi": "7.00"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q11",
+      "category": "Reaction",
+      "question": {
+        "en": "What is the net hydrolysis reaction of sodium acetate (CH3COONa) in water?",
+        "hi": "जल में सोडियम एसीटेट (CH3COONa) की शुद्ध जल-अपघटन अभिक्रिया क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "CH3COO^-(aq) + H2O(l) <=> CH3COOH(aq) + OH^-(aq)",
+          "hi": "CH3COO^-(aq) + H2O(l) <=> CH3COOH(aq) + OH^-(aq)"
+        },
+        "B": {
+          "en": "Na^+(aq) + H2O(l) <=> NaOH(aq) + H^+(aq)",
+          "hi": "Na^+(aq) + H2O(l) <=> NaOH(aq) + H^+(aq)"
+        },
+        "C": {
+          "en": "CH3COONa(s) -> CH3COO^-(aq) + Na^+(aq)",
+          "hi": "CH3COONa(s) -> CH3COO^-(aq) + Na^+(aq)"
+        },
+        "D": {
+          "en": "CH3COOH + NaOH -> CH3COONa + H2O",
+          "hi": "CH3COOH + NaOH -> CH3COONa + H2O"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q12",
+      "category": "Trend",
+      "question": {
+        "en": "If the ratio of [Salt] to [Acid] in an acidic buffer is increased from 1 to 10, how does the pH change?",
+        "hi": "यदि अम्लीय बफर में [लवण] और [अम्ल] का अनुपात 1 से बढ़ाकर 10 कर दिया जाए, तो pH में क्या परिवर्तन होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "pH increases by 1 unit",
+          "hi": "pH 1 इकाई बढ़ जाता है"
+        },
+        "B": {
+          "en": "pH decreases by 1 unit",
+          "hi": "pH 1 इकाई घट जाता है"
+        },
+        "C": {
+          "en": "pH increases by 10 units",
+          "hi": "pH 10 इकाई बढ़ जाता है"
+        },
+        "D": {
+          "en": "pH remains strictly unchanged",
+          "hi": "pH पूर्णतः अपरिवर्तित रहता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The diagram illustrates buffer action in an acetic acid/acetate buffer upon addition of external H+:\nAdded H+  +  CH3COO^-  -->  CH3COOH\nHow does this reaction maintain nearly constant pH?",
+        "hi": "बाहरी H+ मिलाने पर एसिटिक अम्ल/एसीटेट बफर की क्रियाविधि का आरेख देखिए:\nAdded H+  +  CH3COO^-  -->  CH3COOH\nयह अभिक्रिया लगभग स्थिर pH कैसे बनाए रखती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Added H+ ions are consumed by acetate ions to form weakly dissociated acetic acid",
+          "hi": "मिलाए गए H+ आयन एसीटेट आयनों द्वारा उपभोग होकर अल्प वियोजित एसिटिक अम्ल बनाते हैं"
+        },
+        "B": {
+          "en": "Added H+ ions precipitate as solid acid",
+          "hi": "मिलाए गए H+ आयन ठोस अम्ल के रूप में अवक्षेपित हो जाते हैं"
+        },
+        "C": {
+          "en": "Acetate ions evaporate to balance pH",
+          "hi": "एसीटेट आयन वाष्पीकृत होकर pH संतुलित करते हैं"
+        },
+        "D": {
+          "en": "The reaction produces OH- directly",
+          "hi": "अभिक्रिया सीधे OH- उत्पन्न करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of salts and their aqueous solution nature:\n| Salt | Type of Salt | Aqueous pH Nature |\n|---|---|---|\n| Na2CO3 | Strong base + Weak acid | Basic (pH > 7) |\n| NH4NO3 | Weak base + Strong acid | Acidic (pH < 7) |\n| KCl | Strong base + Strong acid | Neutral (pH = 7) |\n| CH3COONH4 | Weak base + Weak acid (Ka = Kb) | X |\nWhat is the nature of solution X?",
+        "hi": "लवणों तथा उनके जलीय विलयन की pH प्रकृति की तालिका का अवलोकन कीजिए:\n| Salt | Type of Salt | Aqueous pH Nature |\n|---|---|---|\n| Na2CO3 | Strong base + Weak acid | Basic (pH > 7) |\n| NH4NO3 | Weak base + Strong acid | Acidic (pH < 7) |\n| KCl | Strong base + Strong acid | Neutral (pH = 7) |\n| CH3COONH4 | Weak base + Weak acid (Ka = Kb) | X |\nविलयन X की प्रकृति क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Neutral (pH = 7)",
+          "hi": "उदासीन (pH = 7)"
+        },
+        "B": {
+          "en": "Highly acidic (pH = 1)",
+          "hi": "अत्यधिक अम्लीय (pH = 1)"
+        },
+        "C": {
+          "en": "Highly alkaline (pH = 13)",
+          "hi": "अत्यधिक क्षारीय (pH = 13)"
+        },
+        "D": {
+          "en": "Amphoteric solid",
+          "hi": "उभयधर्मी ठोस"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc07_q15",
+      "category": "Graph",
+      "question": {
+        "en": "In a titration curve of weak acid with strong base, the relatively flat plateau region centered at half-neutralization is called:\n^ pH\n|         ____/-- equivalence point\n|   ____/ (X)\n| _/\n+-----------------> Volume of strong base",
+        "hi": "दुर्बल अम्ल और प्रबल क्षार के अनुमापन वक्र में अर्ध-उदासीनीकरण पर सपाट क्षेत्र (X) क्या कहलाता है?\n^ pH\n|         ____/-- equivalence point\n|   ____/ (X)\n| _/\n+-----------------> Volume of strong base"
+      },
+      "options": {
+        "A": {
+          "en": "Buffer region",
+          "hi": "बफर क्षेत्र"
+        },
+        "B": {
+          "en": "Precipitation region",
+          "hi": "अवक्षेपण क्षेत्र"
+        },
+        "C": {
+          "en": "Inversion region",
+          "hi": "प्रतिलोमन क्षेत्र"
+        },
+        "D": {
+          "en": "Super-saturation region",
+          "hi": "अति-संतृप्त क्षेत्र"
+        }
+      }
+    }
+  ]
+}

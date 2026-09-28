@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc04_q01",
+      "category": "Theory",
+      "question": {
+        "en": "In balancing redox equations by the oxidation number method, what fundamental principle must be satisfied?",
+        "hi": "ऑक्सीकरण संख्या विधि द्वारा रेडॉक्स समीकरणों को संतुलित करते समय किस मूलभूत सिद्धांत की संतुष्टि होनी चाहिए?"
+      },
+      "options": {
+        "A": {
+          "en": "Total increase in oxidation number must equal total decrease in oxidation number",
+          "hi": "ऑक्सीकरण संख्या में कुल वृद्धि, ऑक्सीकरण संख्या में कुल कमी के बराबर होनी चाहिए"
+        },
+        "B": {
+          "en": "Total mass of gases must exceed mass of liquids",
+          "hi": "गैसों का कुल द्रव्यमान द्रवों के द्रव्यमान से अधिक होना चाहिए"
+        },
+        "C": {
+          "en": "Oxidation state of oxygen must be forced to zero",
+          "hi": "ऑक्सीजन की ऑक्सीकरण अवस्था को शून्य बनाना आवश्यक है"
+        },
+        "D": {
+          "en": "All coefficients must be prime numbers",
+          "hi": "सभी गुणांक अभाज्य संख्याएं होने चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is the first step in balancing a redox reaction by the oxidation number method?",
+        "hi": "ऑक्सीकरण संख्या विधि द्वारा रेडॉक्स अभिक्रिया संतुलित करने का प्रथम चरण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Assign oxidation numbers to all elements and identify the atoms undergoing changes in oxidation state",
+          "hi": "सभी तत्वों को ऑक्सीकरण संख्याएं प्रदान करना तथा उन परमाणुओं की पहचान करना जिनकी ऑक्सीकरण अवस्था में परिवर्तन हो रहा है"
+        },
+        "B": {
+          "en": "Add H2O molecules randomly to both sides",
+          "hi": "दोनों ओर यादृच्छिक रूप से H2O अणु जोड़ना"
+        },
+        "C": {
+          "en": "Multiply all species by Avogadro's number",
+          "hi": "सभी स्पीशीज को आवोगाद्रो संख्या से गुणा करना"
+        },
+        "D": {
+          "en": "Balance hydrogen atoms before anything else",
+          "hi": "किसी भी अन्य तत्व से पहले हाइड्रोजन परमाणुओं को संतुलित करना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q03",
+      "category": "Theory",
+      "question": {
+        "en": "In balancing ionic redox reactions in ACIDIC medium by the oxidation number method, oxygen atoms are balanced by adding:",
+        "hi": "अम्लीय माध्यम में आयनिक रेडॉक्स अभिक्रिया संतुलित करते समय ऑक्सीजन परमाणुओं को संतुलित करने के लिए क्या जोड़ा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "H2O molecules to the oxygen-deficient side, and H+ ions to the opposite side",
+          "hi": "ऑक्सीजन की कमी वाली ओर H2O अणु, तथा विपरीत ओर H+ आयन"
+        },
+        "B": {
+          "en": "OH- ions to the oxygen-rich side",
+          "hi": "ऑक्सीजन अधिकता वाली ओर OH- आयन"
+        },
+        "C": {
+          "en": "O2 gas molecules to the deficient side",
+          "hi": "कमी वाली ओर O2 गैस के अणु"
+        },
+        "D": {
+          "en": "H2 gas to the oxygen-deficient side",
+          "hi": "कमी वाली ओर H2 गैस"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In balancing redox reactions in BASIC medium, how is an excess of H+ ions on one side converted to proper basic form?",
+        "hi": "क्षारीय माध्यम में रेडॉक्स अभिक्रिया संतुलित करते समय किसी एक ओर अतिरिक्त H+ आयनों को उपयुक्त क्षारीय रूप में कैसे परिवर्तित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Add equal number of OH- ions to BOTH sides of the equation (combining H+ + OH- into H2O)",
+          "hi": "समीकरण के दोनों ओर समान संख्या में OH- आयन जोड़कर (H+ + OH- को H2O बनाकर)"
+        },
+        "B": {
+          "en": "Remove all oxygen atoms from the equation",
+          "hi": "समीकरण से सभी ऑक्सीजन परमाणुओं को हटाकर"
+        },
+        "C": {
+          "en": "Multiply the entire equation by -1",
+          "hi": "पूरे समीकरण को -1 से गुणा करके"
+        },
+        "D": {
+          "en": "Replace all H+ directly with Na+ ions",
+          "hi": "सभी H+ को सीधे Na+ आयनों से प्रतिस्थापित करके"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q05",
+      "category": "Theory",
+      "question": {
+        "en": "When calculating the increase or decrease in oxidation number for a species like Cr2O7^2-, why must the change per atom be multiplied by 2?",
+        "hi": "Cr2O7^2- जैसी स्पीशीज के लिए ऑक्सीकरण संख्या में परिवर्तन की गणना करते समय प्रति परमाणु परिवर्तन को 2 से गुणा क्यों किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Because there are two chromium atoms in the formula unit Cr2O7^2-",
+          "hi": "क्योंकि सूत्र इकाई Cr2O7^2- में दो क्रोमियम परमाणु उपस्थित हैं"
+        },
+        "B": {
+          "en": "Because Cr has a valency of 2",
+          "hi": "क्योंकि Cr की संयोजकता 2 होती है"
+        },
+        "C": {
+          "en": "Because the charge on the ion is -2",
+          "hi": "क्योंकि आयन पर आवेश -2 है"
+        },
+        "D": {
+          "en": "Because oxygen has an oxidation state of -2",
+          "hi": "क्योंकि ऑक्सीजन की ऑक्सीकरण संख्या -2 है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q06",
+      "category": "Theory",
+      "question": {
+        "en": "In the reaction: MnO4^- + Fe^2+ + H+ -> Mn^2+ + Fe^3+ + H2O, what is the ratio of coefficients of Fe^2+ to MnO4^- in the balanced equation?",
+        "hi": "संतुलित समीकरण: MnO4^- + Fe^2+ + H+ -> Mn^2+ + Fe^3+ + H2O में Fe^2+ तथा MnO4^- के गुणांकों का अनुपात क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "5 : 1",
+          "hi": "5 : 1"
+        },
+        "B": {
+          "en": "1 : 5",
+          "hi": "1 : 5"
+        },
+        "C": {
+          "en": "2 : 5",
+          "hi": "2 : 5"
+        },
+        "D": {
+          "en": "5 : 2",
+          "hi": "5 : 2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q07",
+      "category": "Formula",
+      "question": {
+        "en": "Consider the unbalanced equation in acidic medium: Cr2O7^2- + SO3^2- + H+ -> Cr^3+ + SO4^2- + H2O. What are the stoichiometric coefficients of Cr2O7^2-, SO3^2-, and H+ respectively?",
+        "hi": "अम्लीय माध्यम में असंतुलित समीकरण पर विचार कीजिए: Cr2O7^2- + SO3^2- + H+ -> Cr^3+ + SO4^2- + H2O। Cr2O7^2-, SO3^2- तथा H+ के क्रमशः रससमीकरणमितीय (स्टॉइकियोमीट्री) गुणांक क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "1, 3, 8",
+          "hi": "1, 3, 8"
+        },
+        "B": {
+          "en": "1, 2, 4",
+          "hi": "1, 2, 4"
+        },
+        "C": {
+          "en": "2, 3, 8",
+          "hi": "2, 3, 8"
+        },
+        "D": {
+          "en": "1, 3, 14",
+          "hi": "1, 3, 14"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q08",
+      "category": "Calculation",
+      "question": {
+        "en": "In the balanced redox equation: a MnO4^- + b C2O4^2- + c H+ -> d Mn^2+ + e CO2 + f H2O, what are the values of a, b, and c?",
+        "hi": "संतुलित समीकरण: a MnO4^- + b C2O4^2- + c H+ -> d Mn^2+ + e CO2 + f H2O में a, b और c के मान क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "a = 2, b = 5, c = 16",
+          "hi": "a = 2, b = 5, c = 16"
+        },
+        "B": {
+          "en": "a = 1, b = 5, c = 8",
+          "hi": "a = 1, b = 5, c = 8"
+        },
+        "C": {
+          "en": "a = 2, b = 2, c = 16",
+          "hi": "a = 2, b = 2, c = 16"
+        },
+        "D": {
+          "en": "a = 5, b = 2, c = 8",
+          "hi": "a = 5, b = 2, c = 8"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q09",
+      "category": "Calculation",
+      "question": {
+        "en": "How many moles of electrons are transferred when 1 mole of Cr2O7^2- is completely reduced to Cr^3+ in acidic medium?",
+        "hi": "अम्लीय माध्यम में जब 1 मोल Cr2O7^2- पूर्णतः Cr^3+ में अपचयित होता है, तो कितने मोल इलेक्ट्रॉनों का स्थानांतरण होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "6 moles of electrons",
+          "hi": "6 मोल इलेक्ट्रॉन"
+        },
+        "B": {
+          "en": "3 moles of electrons",
+          "hi": "3 मोल इलेक्ट्रॉन"
+        },
+        "C": {
+          "en": "12 moles of electrons",
+          "hi": "12 मोल इलेक्ट्रॉन"
+        },
+        "D": {
+          "en": "2 moles of electrons",
+          "hi": "2 मोल इलेक्ट्रॉन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q10",
+      "category": "Calculation",
+      "question": {
+        "en": "How many moles of Fe^2+ can be oxidized by 1 mole of KMnO4 in acidic solution?",
+        "hi": "अम्लीय विलयन में 1 मोल KMnO4 द्वारा कितने मोल Fe^2+ का ऑक्सीकरण किया जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "5 moles",
+          "hi": "5 मोल"
+        },
+        "B": {
+          "en": "1 mole",
+          "hi": "1 मोल"
+        },
+        "C": {
+          "en": "2.5 moles",
+          "hi": "2.5 मोल"
+        },
+        "D": {
+          "en": "10 moles",
+          "hi": "10 मोल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q11",
+      "category": "Formula",
+      "question": {
+        "en": "In balancing the reaction in BASIC medium: MnO4^- + I^- -> MnO2 + I2, what is the number of OH^- ions produced in the balanced equation?",
+        "hi": "क्षारीय माध्यम में समीकरण: MnO4^- + I^- -> MnO2 + I2 को संतुलित करने पर कितने OH^- आयन प्राप्त होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "8 OH^- on the right side",
+          "hi": "दाईं ओर 8 OH^-"
+        },
+        "B": {
+          "en": "4 OH^- on the left side",
+          "hi": "बाईं ओर 4 OH^-"
+        },
+        "C": {
+          "en": "2 OH^- on the right side",
+          "hi": "दाईं ओर 2 OH^-"
+        },
+        "D": {
+          "en": "0 (no OH^- needed)",
+          "hi": "0 (कोई OH^- नहीं)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q12",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following compounds requires the GREATEST number of moles of electrons per mole of reactant for complete reduction to the indicated product?",
+        "hi": "प्रदर्शित उत्पाद में पूर्ण अपचयन हेतु निम्नलिखित में से किस अभिकारक के 1 मोल के लिए सर्वाधिक मोल इलेक्ट्रॉनों की आवश्यकता होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "IO4^- -> I^- (8 electrons)",
+          "hi": "IO4^- -> I^- (8 इलेक्ट्रॉन)"
+        },
+        "B": {
+          "en": "Cr2O7^2- -> 2Cr^3+ (6 electrons)",
+          "hi": "Cr2O7^2- -> 2Cr^3+ (6 इलेक्ट्रॉन)"
+        },
+        "C": {
+          "en": "MnO4^- -> Mn^2+ (5 electrons)",
+          "hi": "MnO4^- -> Mn^2+ (5 इलेक्ट्रॉन)"
+        },
+        "D": {
+          "en": "NO3^- -> NH4^+ (8 electrons)",
+          "hi": "NO3^- -> NH4^+ (8 इलेक्ट्रॉन)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The schematic diagram shows the oxidation number tracking for balancing the reaction:\n      +7                      +2   (Decrease of 5 per Mn)\n    [MnO4^-] -------------> [Mn^2+]\n        |                      ^\n        +--- cross-multiply ---+\n        v                      |\n     [Fe^2+] -------------> [Fe^3+] (Increase of 1 per Fe)\n       +2                      +3\nWhat are the balancing factors for Mn and Fe species?",
+        "hi": "अभिक्रिया संतुलन में ऑक्सीकरण संख्या ट्रैकिंग का आरेख देखिए:\nMnO4^- (Mn: +7 से +2, कमी 5) तथा Fe^2+ (Fe: +2 से +3, वृद्धि 1)।\nMn और Fe स्पीशीज के लिए संतुलन गुणक क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Multiply Mn species by 1 and Fe species by 5",
+          "hi": "Mn स्पीशीज को 1 से तथा Fe स्पीशीज को 5 से गुणा करना"
+        },
+        "B": {
+          "en": "Multiply Mn species by 5 and Fe species by 1",
+          "hi": "Mn स्पीशीज को 5 से तथा Fe स्पीशीज को 1 से गुणा करना"
+        },
+        "C": {
+          "en": "Multiply both by 2",
+          "hi": "दोनों को 2 से गुणा करना"
+        },
+        "D": {
+          "en": "Multiply both by 10",
+          "hi": "दोनों को 10 से गुणा करना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table for balancing acidic vs basic medium reactions:\n| Criterion | Acidic Medium | Basic Medium |\n|---|---|---|\n| Balancing Oxygen | Add H2O to O-deficient side | Add H2O to O-deficient side |\n| Balancing Hydrogen | Add H+ to H-deficient side | Add H2O to H-deficient side, and add X to other side |\nWhat is species X added in basic medium?",
+        "hi": "अम्लीय बनाम क्षारीय माध्यम अभिक्रिया संतुलन की तालिका का अवलोकन कीजिए:\nक्षारीय माध्यम में हाइड्रोजन संतुलन हेतु दूसरी ओर जोड़ी जाने वाली स्पीशीज X क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Equal number of OH- ions",
+          "hi": "समान संख्या में OH- आयन"
+        },
+        "B": {
+          "en": "Equal number of H+ ions",
+          "hi": "समान संख्या में H+ आयन"
+        },
+        "C": {
+          "en": "O2 gas molecules",
+          "hi": "O2 गैस अणु"
+        },
+        "D": {
+          "en": "H2 gas molecules",
+          "hi": "H2 गैस अणु"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc04_q15",
+      "category": "Graph",
+      "question": {
+        "en": "In a titration of acidified FeSO4 with 0.02 M KMnO4, the plot of volume of KMnO4 consumed (y-axis) vs moles of FeSO4 (x-axis) gives a straight line through the origin. What is the slope of this line (Volume in L / moles of FeSO4)?",
+        "hi": "अम्लीकृत FeSO4 का 0.02 M KMnO4 के साथ अनुमापन में FeSO4 के मोलों (x-अक्ष) के सापेक्ष प्रयुक्त KMnO4 के आयतन (y-अक्ष) का आलेख मूल बिंदु से जाने वाली सीधी रेखा है। इस रेखा की ढाल (लीटर/मोल) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "10 L/mol (Slope = 1 / (5 × Molarity) = 1 / (5 × 0.02) = 10)",
+          "hi": "10 L/mol (ढाल = 1 / (5 × मोलरता) = 1 / (5 × 0.02) = 10)"
+        },
+        "B": {
+          "en": "50 L/mol",
+          "hi": "50 L/mol"
+        },
+        "C": {
+          "en": "2 L/mol",
+          "hi": "2 L/mol"
+        },
+        "D": {
+          "en": "1 L/mol",
+          "hi": "1 L/mol"
+        }
+      }
+    }
+  ]
+}

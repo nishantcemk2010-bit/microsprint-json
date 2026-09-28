@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "According to IUPAC rules, what is the correct IUPAC name of the alkane with formula $(CH_3)_3C-CH_2-CH(CH_3)_2$?",
+        "hi": "IUPAC नियमों के अनुसार, सूत्र $(CH_3)_3C-CH_2-CH(CH_3)_2$ वाले ऐल्केन का सही IUPAC नाम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "2,2,4-Trimethylpentane",
+          "hi": "2,2,4-ट्राईमेथिलपेन्टेन"
+        },
+        "B": {
+          "en": "2,4,4-Trimethylpentane",
+          "hi": "2,4,4-ट्राईमेथिलपेन्टेन"
+        },
+        "C": {
+          "en": "2,2-Dimethylhexane",
+          "hi": "2,2-डाईमेथिलहेक्सेन"
+        },
+        "D": {
+          "en": "Diisobutylmethane",
+          "hi": "डाईआइसोब्यूटिलमेथेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following alkanes cannot be prepared in good yield by Wurtz reaction?",
+        "hi": "निम्नलिखित में से कौन-सा ऐल्केन वुर्ट्ज़ अभिक्रिया द्वारा अच्छी लब्धि (good yield) में तैयार नहीं किया जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethane",
+          "hi": "एथेन"
+        },
+        "B": {
+          "en": "n-Butane",
+          "hi": "n-ब्यूटेन"
+        },
+        "C": {
+          "en": "n-Heptane",
+          "hi": "n-हेप्टेन"
+        },
+        "D": {
+          "en": "n-Hexane",
+          "hi": "n-हेक्सेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "In Kolbe's electrolytic synthesis, electrolysis of an aqueous solution of sodium acetate produces which gas at the anode?",
+        "hi": "कोल्बे के विद्युत-अपघटनी संश्लेषण में, सोडियम एसीटेट के जलीय विलयन का विद्युत-अपघटन करने पर ऐनोड पर कौन-सी गैस उत्पन्न होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethane and $CO_2$",
+          "hi": "एथेन और $CO_2$"
+        },
+        "B": {
+          "en": "Methane and $CO_2$",
+          "hi": "मेथेन और $CO_2$"
+        },
+        "C": {
+          "en": "Hydrogen and $CO_2$",
+          "hi": "हाइड्रोजन और $CO_2$"
+        },
+        "D": {
+          "en": "Ethylene and $H_2$",
+          "hi": "एथिलीन और $H_2$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "When sodium propanoate is heated with soda lime ($NaOH + CaO$), the hydrocarbon formed is:",
+        "hi": "जब सोडियम प्रोपेनोएट को सोडा लाइम ($NaOH + CaO$) के साथ गर्म किया जाता है, तो बनने वाला हाइड्रोकार्बन है:"
+      },
+      "options": {
+        "A": {
+          "en": "Ethane",
+          "hi": "एथेन"
+        },
+        "B": {
+          "en": "Propane",
+          "hi": "प्रोपेन"
+        },
+        "C": {
+          "en": "Methane",
+          "hi": "मेथेन"
+        },
+        "D": {
+          "en": "Butane",
+          "hi": "ब्यूटेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "What is the primary role of $CaO$ in the soda lime decarboxylation mixture ($NaOH + CaO$)?",
+        "hi": "सोडा लाइम विकार्बोक्सिलीकरण मिश्रण ($NaOH + CaO$) में $CaO$ की प्राथमिक भूमिका क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "To keep $NaOH$ dry because it is hygroscopic, and reduce the fusion temperature of the glass tube",
+          "hi": "$NaOH$ को सूखा रखना क्योंकि यह आर्द्रताग्राही है, तथा कांच की नली के संगलन ताप को कम करना"
+        },
+        "B": {
+          "en": "To act as an oxidizing agent in the reaction",
+          "hi": "अभिक्रिया में ऑक्सीकारक के रूप में कार्य करना"
+        },
+        "C": {
+          "en": "To directly provide alkyl radicals",
+          "hi": "सीधे ऐल्किल मूलक प्रदान करना"
+        },
+        "D": {
+          "en": "To neutralize the alkane formed",
+          "hi": "निर्मित ऐल्केन को उदासीन करना"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "Why are alkanes called 'paraffins' historically?",
+        "hi": "ऐल्केनों को ऐतिहासिक रूप से 'पैराफिन' क्यों कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "From Latin 'parum affinis', meaning little affinity or chemical reactivity under ordinary conditions",
+          "hi": "लैटिन शब्द 'parum affinis' से, जिसका अर्थ है सामान्य परिस्थितियों में बहुत कम बंधुता या रासायनिक क्रियाशीलता"
+        },
+        "B": {
+          "en": "Because they are highly flammable and explode spontaneously in air",
+          "hi": "क्योंकि वे अत्यधिक ज्वलनशील होते हैं और वायु में स्वतः विस्फोटित होते हैं"
+        },
+        "C": {
+          "en": "Because they contain double bonds with high reactivity",
+          "hi": "क्योंकि इनमें उच्च क्रियाशीलता वाले द्वि-आबंध होते हैं"
+        },
+        "D": {
+          "en": "Because they are soluble in water at room temperature",
+          "hi": "क्योंकि वे कमरे के तापमान पर जल में विलेय होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "How many chain and positional structural isomers are possible for the alkane hexane ($C_6H_{14}$)?",
+        "hi": "ऐल्केन हेक्सेन ($C_6H_{14}$) के लिए कुल कितने श्रृंखला और स्थिति संरचनात्मक समावयव संभव हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "4",
+          "hi": "4"
+        },
+        "B": {
+          "en": "5",
+          "hi": "5"
+        },
+        "C": {
+          "en": "6",
+          "hi": "6"
+        },
+        "D": {
+          "en": "7",
+          "hi": "7"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "What is the correct increasing order of boiling points for the isomeric pentanes: n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane)?",
+        "hi": "समावयवी पेन्टेनों: n-पेन्टेन, आइसोपेंटेन (2-मेथिलब्यूटेन) और नियोपेंटेन (2,2-डाईमेथिलप्रोपेन) के क्वथनांक का सही बढ़ता क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Neopentane < Isopentane < n-Pentane",
+          "hi": "नियोपेंटेन < आइसोपेंटेन < n-पेन्टेन"
+        },
+        "B": {
+          "en": "n-Pentane < Isopentane < Neopentane",
+          "hi": "n-पेन्टेन < आइसोपेंटेन < नियोपेंटेन"
+        },
+        "C": {
+          "en": "Isopentane < Neopentane < n-Pentane",
+          "hi": "आइसोपेंटेन < नियोपेंटेन < n-पेन्टेन"
+        },
+        "D": {
+          "en": "Neopentane < n-Pentane < Isopentane",
+          "hi": "नियोपेंटेन < n-पेन्टेन < आइसोपेंटेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following isomeric pentanes has the highest melting point?",
+        "hi": "निम्नलिखित समावयवी पेन्टेनों में से किसका गलनांक (melting point) उच्चतम होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Neopentane (2,2-dimethylpropane)",
+          "hi": "नियोपेंटेन (2,2-डाईमेथिलप्रोपेन)"
+        },
+        "B": {
+          "en": "n-Pentane",
+          "hi": "n-पेन्टेन"
+        },
+        "C": {
+          "en": "Isopentane (2-methylbutane)",
+          "hi": "आइसोपेंटेन (2-मेथिलब्यूटेन)"
+        },
+        "D": {
+          "en": "All have identical melting points",
+          "hi": "सभी के गलनांक समान होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "In the reduction of alkyl halides to alkanes, which reagent combination is commonly used?",
+        "hi": "ऐल्किल हैलाइडों के ऐल्केनों में अपचयन में, आमतौर पर किस अभिकर्मक संयोजन का उपयोग किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "$Zn / dilute\\ HCl$",
+          "hi": "$Zn / तनु\\ HCl$"
+        },
+        "B": {
+          "en": "$KMnO_4 / H^+$",
+          "hi": "$KMnO_4 / H^+$"
+        },
+        "C": {
+          "en": "$K_2Cr_2O_7 / H_2SO_4$",
+          "hi": "$K_2Cr_2O_7 / H_2SO_4$"
+        },
+        "D": {
+          "en": "$P_2O_5 / \\Delta$",
+          "hi": "$P_2O_5 / \\Delta$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "How many moles of $O_2$ are required for the complete stoichiometric combustion of 1 mole of an alkane $C_n H_{2n+2}$?",
+        "hi": "एक ऐल्केन $C_n H_{2n+2}$ के 1 मोल के पूर्ण रससमीकरणमितीय दहन के लिए $O_2$ के कितने मोल आवश्यक हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "$\\frac{3n+1}{2}$",
+          "hi": "$\\frac{3n+1}{2}$"
+        },
+        "B": {
+          "en": "$\\frac{3n}{2}$",
+          "hi": "$\\frac{3n}{2}$"
+        },
+        "C": {
+          "en": "$n+1$",
+          "hi": "$n+1$"
+        },
+        "D": {
+          "en": "$\\frac{2n+1}{2}$",
+          "hi": "$\\frac{2n+1}{2}$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "When 1-bromopropane and 2-bromopropane are treated with sodium metal in dry ether, how many different alkanes can be formed in the product mixture?",
+        "hi": "जब 1-ब्रोमोप्रोपेन और 2-ब्रोमोप्रोपेन को शुष्क ईथर में सोडियम धातु के साथ उपचारित किया जाता है, तो उत्पाद मिश्रण में कितने भिन्न ऐल्केन बन सकते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "3",
+          "hi": "3"
+        },
+        "B": {
+          "en": "2",
+          "hi": "2"
+        },
+        "C": {
+          "en": "4",
+          "hi": "4"
+        },
+        "D": {
+          "en": "1",
+          "hi": "1"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following table of physical properties for straight-chain alkanes:\n| Alkane | Molecular Mass | Boiling Point ($K$) |\n| :--- | :--- | :--- |\n| Methane ($CH_4$) | 16 | 111.4 |\n| Ethane ($C_2H_6$) | 30 | 184.4 |\n| Propane ($C_3H_8$) | 44 | 230.9 |\n| Butane ($C_4H_{10}$) | 58 | 272.4 |\nWhat explains this steady increase in boiling point as molecular mass increases?",
+        "hi": "सीधी श्रृंखला वाले ऐल्केनों के भौतिक गुणों की निम्नलिखित सारणी पर विचार कीजिए:\n| ऐल्केन | आण्विक द्रव्यमान | क्वथनांक ($K$) |\n| :--- | :--- | :--- |\n| मेथेन ($CH_4$) | 16 | 111.4 |\n| एथेन ($C_2H_6$) | 30 | 184.4 |\n| प्रोपेन ($C_3H_8$) | 44 | 230.9 |\n| ब्यूटेन ($C_4H_{10}$) | 58 | 272.4 |\nआण्विक द्रव्यमान बढ़ने पर क्वथनांक में इस नियमित वृद्धि का क्या कारण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Increase in surface area leads to stronger intermolecular van der Waals dispersion forces",
+          "hi": "पृष्ठीय क्षेत्रफल में वृद्धि से अंतराआण्विक वाण्डर वाल्स परिक्षेपण बल अधिक प्रबल हो जाते हैं"
+        },
+        "B": {
+          "en": "Increase in dipole-dipole interactions between polar carbon atoms",
+          "hi": "ध्रुवीय कार्बन परमाणुओं के बीच द्विध्रुव-द्विध्रुव अन्योन्यक्रिया में वृद्धि"
+        },
+        "C": {
+          "en": "Formation of intermolecular hydrogen bonds in higher alkanes",
+          "hi": "उच्च ऐल्केनों में अंतराआण्विक हाइड्रोजन आबंधों का निर्माण"
+        },
+        "D": {
+          "en": "Increase in ionic character of carbon-hydrogen bonds",
+          "hi": "कार्बन-हाइड्रोजन आबंधों के आयनिक लक्षण में वृद्धि"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the following reaction flow diagram for alkane preparation:\n$CH_3-CH_2-COONa \\xrightarrow{NaOH + CaO, \\Delta} [X] + Na_2CO_3$\n$CH_3-Cl \\xrightarrow{Na / \\text{dry ether}} [Y] + 2NaCl$\nWhat are the identities of $[X]$ and $[Y]$?",
+        "hi": "ऐल्केन विरचन के लिए निम्नलिखित अभिक्रिया प्रवाह चित्र की जांच कीजिए:\n$CH_3-CH_2-COONa \\xrightarrow{NaOH + CaO, \\Delta} [X] + Na_2CO_3$\n$CH_3-Cl \\xrightarrow{Na / \\text{शुष्क ईथर}} [Y] + 2NaCl$\n$[X]$ और $[Y]$ की पहचान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$[X] = \\text{Ethane}$, $[Y] = \\text{Ethane}$",
+          "hi": "$[X] = \\text{एथेन}$, $[Y] = \\text{एथेन}$"
+        },
+        "B": {
+          "en": "$[X] = \\text{Propane}$, $[Y] = \\text{Methane}$",
+          "hi": "$[X] = \\text{प्रोपेन}$, $[Y] = \\text{मेथेन}$"
+        },
+        "C": {
+          "en": "$[X] = \\text{Methane}$, $[Y] = \\text{Ethane}$",
+          "hi": "$[X] = \\text{मेथेन}$, $[Y] = \\text{एथेन}$"
+        },
+        "D": {
+          "en": "$[X] = \\text{Ethane}$, $[Y] = \\text{Butane}$",
+          "hi": "$[X] = \\text{एथेन}$, $[Y] = \\text{ब्यूटेन}$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "The graph of melting point vs number of carbon atoms in n-alkanes exhibits an 'alternation effect' (odd-even effect). Which statement accurately explains this graph?",
+        "hi": "n-ऐल्केनों में गलनांक बनाम कार्बन परमाणुओं की संख्या का ग्राफ एक 'प्रत्यावर्तन प्रभाव' (विषम-सम प्रभाव) प्रदर्शित करता है। कौन-सा कथन इस ग्राफ की सही व्याख्या करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Alkanes with an even number of carbon atoms have terminal methyl groups on opposite sides, allowing tighter packing in the crystal lattice than odd-carbon alkanes",
+          "hi": "सम संख्या में कार्बन परमाणुओं वाले ऐल्केनों में अंतस्थ मेथिल समूह विपरीत दिशाओं में होते हैं, जिससे क्रिस्टल जालक में विषम-कार्बन ऐल्केनों की तुलना में अधिक सघन संकुलन होता है"
+        },
+        "B": {
+          "en": "Odd-carbon alkanes form stronger intermolecular hydrogen bonds",
+          "hi": "विषम-कार्बन ऐल्केन प्रबल अंतराआण्विक हाइड्रोजन आबंध बनाते हैं"
+        },
+        "C": {
+          "en": "Even-carbon alkanes have lower molecular masses than preceding odd-carbon alkanes",
+          "hi": "सम-कार्बन ऐल्केनों का आण्विक द्रव्यमान पूर्ववर्ती विषम-कार्बन ऐल्केनों से कम होता है"
+        },
+        "D": {
+          "en": "Odd-carbon alkanes pack in a cubic lattice while even-carbon alkanes do not form crystals",
+          "hi": "विषम-कार्बन ऐल्केन घनीय जालक में संकुलित होते हैं जबकि सम-कार्बन ऐल्केन क्रिस्टल नहीं बनाते"
+        }
+      }
+    }
+  ]
+}

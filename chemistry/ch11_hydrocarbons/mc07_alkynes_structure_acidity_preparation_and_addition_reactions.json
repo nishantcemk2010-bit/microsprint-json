@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc07_q01",
+      "category": "theory",
+      "question": {
+        "en": "What is the hybridisation of carbon atoms in ethyne ($HC\\equiv CH$), and what is the percentage of s-character?",
+        "hi": "एथाइन ($HC\\equiv CH$) में कार्बन परमाणुओं का संकरण क्या है, और s-लक्षण का प्रतिशत कितना है?"
+      },
+      "options": {
+        "A": {
+          "en": "$sp$ hybridisation with 50% s-character",
+          "hi": "$sp$ संकरण, 50% s-लक्षण के साथ"
+        },
+        "B": {
+          "en": "$sp^2$ hybridisation with 33.3% s-character",
+          "hi": "$sp^2$ संकरण, 33.3% s-लक्षण के साथ"
+        },
+        "C": {
+          "en": "$sp^3$ hybridisation with 25% s-character",
+          "hi": "$sp^3$ संकरण, 25% s-लक्षण के साथ"
+        },
+        "D": {
+          "en": "$dsp^2$ hybridisation with 50% s-character",
+          "hi": "$dsp^2$ संकरण, 50% s-लक्षण के साथ"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q02",
+      "category": "theory",
+      "question": {
+        "en": "Why are terminal alkynes like ethyne and propyne weakly acidic in nature?",
+        "hi": "एथाइन और प्रोपाइन जैसे अंतस्थ ऐल्काइन प्रकृति में दुर्बल अम्लीय क्यों होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "High s-character (50%) of the $sp$ hybrid orbital increases carbon's electronegativity, stabilizing the conjugate carbanion",
+          "hi": "$sp$ संकर कक्षक का उच्च s-लक्षण (50%) कार्बन की विद्युत-ऋणात्मकता को बढ़ाता है, जिससे संयुग्मी कार्बऋणायन स्थायी हो जाता है"
+        },
+        "B": {
+          "en": "Due to steric repulsion of the triple bond electrons",
+          "hi": "त्रि-आबंध इलेक्ट्रॉनों के त्रिविम प्रतिकर्षण के कारण"
+        },
+        "C": {
+          "en": "Because alkynes possess resonance stabilization in the neutral state",
+          "hi": "क्योंकि ऐल्काइन उदासीन अवस्था में अनुनाद स्थायित्व रखते हैं"
+        },
+        "D": {
+          "en": "Because hydrogen is attached via an ionic bond to carbon",
+          "hi": "क्योंकि हाइड्रोजन कार्बन से आयनिक आबंध द्वारा जुड़ा होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q03",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following hydrocarbons will react with sodium amide ($NaNH_2$) to evolve hydrogen gas or form an acetylide?",
+        "hi": "निम्नलिखित में से कौन-सा हाइड्रोकार्बन सोडियम एमाइड ($NaNH_2$) के साथ अभिक्रिया करके हाइड्रोजन गैस मुक्त करेगा या एसीटिलाइड बनाएगा?"
+      },
+      "options": {
+        "A": {
+          "en": "But-1-yne",
+          "hi": "ब्यूट-1-आइन"
+        },
+        "B": {
+          "en": "But-2-yne",
+          "hi": "ब्यूट-2-आइन"
+        },
+        "C": {
+          "en": "But-2-ene",
+          "hi": "ब्यूट-2-ईन"
+        },
+        "D": {
+          "en": "n-Butane",
+          "hi": "n-ब्यूटेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q04",
+      "category": "theory",
+      "question": {
+        "en": "What is the product when calcium carbide ($CaC_2$) reacts with water?",
+        "hi": "जब कैल्शियम कार्बाइड ($CaC_2$) जल के साथ अभिक्रिया करता है तो क्या उत्पाद बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethyne ($CH\\equiv CH$) and $Ca(OH)_2$",
+          "hi": "एथाइन ($CH\\equiv CH$) और $Ca(OH)_2$"
+        },
+        "B": {
+          "en": "Methane ($CH_4$) and $CaO$",
+          "hi": "मेथेन ($CH_4$) और $CaO$"
+        },
+        "C": {
+          "en": "Ethene ($CH_2=CH_2$) and $CaCO_3$",
+          "hi": "एथीन ($CH_2=CH_2$) और $CaCO_3$"
+        },
+        "D": {
+          "en": "Ethanol and $Ca(OH)_2$",
+          "hi": "एथनॉल और $Ca(OH)_2$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q05",
+      "category": "theory",
+      "question": {
+        "en": "In the hydration of alkynes (Kucherov's reaction), what catalytic combination is required to add water across the triple bond?",
+        "hi": "ऐल्काइनों के जलयोजन (कुचेरोव अभिक्रिया) में, त्रि-आबंध पर जल जोड़ने के लिए किस उत्प्रेरकीय संयोजन की आवश्यकता होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Mercuric sulphate and dilute sulfuric acid ($HgSO_4 / dil.\\ H_2SO_4$) at $333\\text{ K}$",
+          "hi": "$333\\text{ K}$ पर मरक्युरिक सल्फेट और तनु सल्फ्यूरिक अम्ल ($HgSO_4 / तनु\\ H_2SO_4$)"
+        },
+        "B": {
+          "en": "Concentrated hydrochloric acid and zinc dust",
+          "hi": "सांद्र हाइड्रोक्लोरिक अम्ल और जिंक चूर्ण"
+        },
+        "C": {
+          "en": "Alkaline $KMnO_4$",
+          "hi": "क्षारीय $KMnO_4$"
+        },
+        "D": {
+          "en": "Anhydrous $AlCl_3$",
+          "hi": "निर्जल $AlCl_3$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q06",
+      "category": "theory",
+      "question": {
+        "en": "When ethyne is passed through a red hot iron tube at $873\\text{ K}$, it undergoes cyclic trimerisation to yield:",
+        "hi": "जब एथाइन को $873\\text{ K}$ पर रक्त तप्त लोहे की नली से गुजारा जाता है, तो यह चक्रीय त्रितयीकरण द्वारा क्या बनाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Benzene ($C_6H_6$)",
+          "hi": "बेन्जीन ($C_6H_6$)"
+        },
+        "B": {
+          "en": "Cyclohexane ($C_6H_{12}$)",
+          "hi": "साइक्लोहेक्सेन ($C_6H_{12}$)"
+        },
+        "C": {
+          "en": "Toluene ($C_7H_8$)",
+          "hi": "टॉलूईन ($C_7H_8$)"
+        },
+        "D": {
+          "en": "Naphthalene ($C_{10}H_8$)",
+          "hi": "नेफ्थलीन ($C_{10}H_8$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q07",
+      "category": "formula",
+      "question": {
+        "en": "What is the correct decreasing order of acidity among ethyne, ethene, and ethane?",
+        "hi": "एथाइन, एथीन और एथेन के बीच अम्लता का सही घटता क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$HC\\equiv CH > H_2C=CH_2 > H_3C-CH_3$",
+          "hi": "$HC\\equiv CH > H_2C=CH_2 > H_3C-CH_3$"
+        },
+        "B": {
+          "en": "$H_3C-CH_3 > H_2C=CH_2 > HC\\equiv CH$",
+          "hi": "$H_3C-CH_3 > H_2C=CH_2 > HC\\equiv CH$"
+        },
+        "C": {
+          "en": "$H_2C=CH_2 > HC\\equiv CH > H_3C-CH_3$",
+          "hi": "$H_2C=CH_2 > HC\\equiv CH > H_3C-CH_3$"
+        },
+        "D": {
+          "en": "$HC\\equiv CH > H_3C-CH_3 > H_2C=CH_2$",
+          "hi": "$HC\\equiv CH > H_3C-CH_3 > H_2C=CH_2$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q08",
+      "category": "formula",
+      "question": {
+        "en": "What carbonyl compound is produced by the hydration ($HgSO_4 / dil.\\ H_2SO_4, 333\\text{ K}$) of propyne ($CH_3-C\\equiv CH$)?",
+        "hi": "प्रोपाइन ($CH_3-C\\equiv CH$) के जलयोजन ($HgSO_4 / तनु\\ H_2SO_4, 333\\text{ K}$) द्वारा कौन-सा कार्बोनिल यौगिक बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Propan-2-one (Acetone)",
+          "hi": "प्रोपेन-2-वन (एसीटोन)"
+        },
+        "B": {
+          "en": "Propanal",
+          "hi": "प्रोपेनैल"
+        },
+        "C": {
+          "en": "Propanoic acid",
+          "hi": "प्रोपेनोइक अम्ल"
+        },
+        "D": {
+          "en": "Ethanol and formic acid",
+          "hi": "एथनॉल और फॉर्मिक अम्ल"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q09",
+      "category": "formula",
+      "question": {
+        "en": "When 1,2-dibromoethane is treated with excess alcoholic $KOH$ followed by $NaNH_2$, what is the final product?",
+        "hi": "जब 1,2-डाईब्रोमोएथेन को अधिकता में ऐल्कोहॉली $KOH$ और उसके बाद $NaNH_2$ के साथ उपचारित किया जाता है, तो अंतिम उत्पाद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethyne ($HC\\equiv CH$)",
+          "hi": "एथाइन ($HC\\equiv CH$)"
+        },
+        "B": {
+          "en": "Ethene ($H_2C=CH_2$)",
+          "hi": "एथीन ($H_2C=CH_2$)"
+        },
+        "C": {
+          "en": "Bromoethene",
+          "hi": "ब्रोमोएथीन"
+        },
+        "D": {
+          "en": "Ethane",
+          "hi": "एथेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q10",
+      "category": "formula",
+      "question": {
+        "en": "When propyne is passed through a red hot iron tube at $873\\text{ K}$, what aromatic hydrocarbon is formed by cyclic trimerisation?",
+        "hi": "जब प्रोपाइन को $873\\text{ K}$ पर रक्त तप्त लोहे की नली से गुजारा जाता है, तो चक्रीय त्रितयीकरण द्वारा कौन-सा ऐरोमैटिक हाइड्रोकार्बन बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "1,3,5-Trimethylbenzene (Mesitylene)",
+          "hi": "1,3,5-ट्राईमेथिलबेन्जीन (मेसिटिलीन)"
+        },
+        "B": {
+          "en": "Toluene",
+          "hi": "टॉलूईन"
+        },
+        "C": {
+          "en": "Benzene",
+          "hi": "बेन्जीन"
+        },
+        "D": {
+          "en": "o-Xylene",
+          "hi": "o-जाइलीन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q11",
+      "category": "formula",
+      "question": {
+        "en": "When ethyne is treated with ammoniacal cuprous chloride solution ($Cu_2Cl_2 + NH_4OH$), what colored precipitate is formed?",
+        "hi": "जब एथाइन को अमोनियामय क्यूप्रस क्लोराइड विलयन ($Cu_2Cl_2 + NH_4OH$) के साथ उपचारित किया जाता है, तो किस रंग का अवक्षेप बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Red precipitate of copper acetylide ($Cu_2C_2$)",
+          "hi": "कॉपर एसीटिलाइड ($Cu_2C_2$) का लाल अवक्षेप"
+        },
+        "B": {
+          "en": "White precipitate of silver acetylide",
+          "hi": "सिल्वर एसीटिलाइड का सफेद अवक्षेप"
+        },
+        "C": {
+          "en": "Yellow precipitate of lead iodide",
+          "hi": "लेड आयोडाइड का पीला अवक्षेप"
+        },
+        "D": {
+          "en": "Black precipitate of copper sulfide",
+          "hi": "कॉपर सल्फाइड का काला अवक्षेप"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q12",
+      "category": "formula",
+      "question": {
+        "en": "When ethyne reacts with excess chlorine gas in the presence of $FeCl_3$ or light, what is the final product (commercially known as Westron)?",
+        "hi": "जब एथाइन $FeCl_3$ या प्रकाश की उपस्थिति में क्लोरीन गैस की अधिकता के साथ अभिक्रिया करता है, तो अंतिम उत्पाद क्या होता है (व्यावसायिक रूप से वेस्ट्रॉन के रूप में जाना जाता है)?"
+      },
+      "options": {
+        "A": {
+          "en": "1,1,2,2-Tetrachloroethane ($CHCl_2-CHCl_2$)",
+          "hi": "1,1,2,2-टेट्राक्लोरोएथेन ($CHCl_2-CHCl_2$)"
+        },
+        "B": {
+          "en": "1,2-Dichloroethene ($CHCl=CHCl$)",
+          "hi": "1,2-डाईक्लोरोएथीन ($CHCl=CHCl$)"
+        },
+        "C": {
+          "en": "Trichloroethene (Westrosol)",
+          "hi": "ट्राईक्लोरोएथीन (वेस्ट्रोसोल)"
+        },
+        "D": {
+          "en": "Hexachloroethane",
+          "hi": "हेक्साक्लोरोएथेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Observe the cylindrical electron cloud model of ethyne ($HC\\equiv CH$). What causes the cylindrical symmetry of the $\\pi$-electron cloud around the internuclear $C-C$ axis?",
+        "hi": "एथाइन ($HC\\equiv CH$) के बेलनाकार इलेक्ट्रॉन मेघ मॉडल का निरीक्षण कीजिए। अंतरनाभिकीय $C-C$ अक्ष के चारों ओर $\\pi$-इलेक्ट्रॉन मेघ की बेलनाकार सममिति का क्या कारण है?"
+      },
+      "options": {
+        "A": {
+          "en": "The two mutually perpendicular $\\pi$-bonds merge into a continuous barrel-shaped cylindrical sheath of electron density enclosing the $\\sigma$-bond",
+          "hi": "दो परस्पर लंबवत $\\pi$-आबंध आपस में मिलकर $\\sigma$-आबंध को घेरते हुए इलेक्ट्रॉन घनत्व का एक सतत ढोलक/बेलनाकार आवरण बना लेते हैं"
+        },
+        "B": {
+          "en": "The $sp$ orbitals rotate continuously at high speeds",
+          "hi": "$sp$ कक्षक उच्च गति से लगातार घूर्णन करते हैं"
+        },
+        "C": {
+          "en": "Hydrogen atoms repel the $\\sigma$-bond inward",
+          "hi": "हाइड्रोजन परमाणु $\\sigma$-आबंध को अंदर की ओर प्रतिकर्षित करते हैं"
+        },
+        "D": {
+          "en": "Ethyne is bent at an angle of $109.5^\\circ$",
+          "hi": "एथाइन $109.5^\\circ$ के कोण पर मुड़ा हुआ होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the distinguishing chemical tests in Column I with the pair of hydrocarbons in Column II:\n| Column I (Reagent / Test) | Column II (Pair Distinguished) |\n| :--- | :--- |\n| P. Ammoniacal $AgNO_3$ (Tollens' reagent) | 1. But-1-yne and But-2-yne |\n| Q. $Br_2 / CCl_4$ decolourisation | 2. Ethane and Ethene |\n| R. Soda lime decarboxylation | 3. Carboxylic acid salt to Alkane |\nSelect the correct matching combination:",
+        "hi": "स्तंभ I में विभेदक रासायनिक परीक्षणों को स्तंभ II में हाइड्रोकार्बन युग्म के साथ सुमेलित कीजिए:\n| स्तंभ I (अभिकर्मक / परीक्षण) | स्तंभ II (विभेदित युग्म) |\n| :--- | :--- |\n| P. अमोनियामय $AgNO_3$ (टॉलेन्स अभिकर्मक) | 1. ब्यूट-1-आइन और ब्यूट-2-आइन |\n| Q. $Br_2 / CCl_4$ का रंग उड़ना | 2. एथेन और एथीन |\n| R. सोडा लाइम विकार्बोक्सिलीकरण | 3. कार्बोक्सिलिक अम्ल लवण से ऐल्केन |\nसही सुमेलन संयोजन का चयन कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P-1, Q-2, R-3",
+          "hi": "P-1, Q-2, R-3"
+        },
+        "B": {
+          "en": "P-2, Q-1, R-3",
+          "hi": "P-2, Q-1, R-3"
+        },
+        "C": {
+          "en": "P-3, Q-2, R-1",
+          "hi": "P-3, Q-2, R-1"
+        },
+        "D": {
+          "en": "P-1, Q-3, R-2",
+          "hi": "P-1, Q-3, R-2"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc07_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the following conversion sequence:\n$CaCO_3 \\xrightarrow{\\Delta} [A] + CO_2$\n$[A] + 3C \\xrightarrow{\\text{electric furnace}} [B] + CO$\n$[B] + 2H_2O \\rightarrow [C] + Ca(OH)_2$\n$[C] \\xrightarrow{\\text{Red hot Fe tube, } 873\\text{ K}} [D]$\nWhat are the identities of $[B]$ and $[D]$?",
+        "hi": "निम्नलिखित रूपांतरण अनुक्रम का परीक्षण कीजिए:\n$CaCO_3 \\xrightarrow{\\Delta} [A] + CO_2$\n$[A] + 3C \\xrightarrow{\\text{विद्युत भट्टी}} [B] + CO$\n$[B] + 2H_2O \\rightarrow [C] + Ca(OH)_2$\n$[C] \\xrightarrow{\\text{रक्त तप्त Fe नली, } 873\\text{ K}} [D]$\n$[B]$ और $[D]$ की पहचान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$[B] = CaC_2$ (Calcium carbide), $[D] = C_6H_6$ (Benzene)",
+          "hi": "$[B] = CaC_2$ (कैल्शियम कार्बाइड), $[D] = C_6H_6$ (बेन्जीन)"
+        },
+        "B": {
+          "en": "$[B] = CaC_2$, $[D] = C_6H_{12}$ (Cyclohexane)",
+          "hi": "$[B] = CaC_2$, $[D] = C_6H_{12}$ (साइक्लोहेक्सेन)"
+        },
+        "C": {
+          "en": "$[B] = CaO$, $[D] = C_2H_2$",
+          "hi": "$[B] = CaO$, $[D] = C_2H_2$"
+        },
+        "D": {
+          "en": "$[B] = CaC_2$, $[D] = C_7H_8$ (Toluene)",
+          "hi": "$[B] = CaC_2$, $[D] = C_7H_8$ (टॉलूईन)"
+        }
+      }
+    }
+  ]
+}

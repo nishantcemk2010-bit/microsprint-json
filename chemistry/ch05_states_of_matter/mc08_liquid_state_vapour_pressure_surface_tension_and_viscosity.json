@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc08_q01",
+      "category": "Theory",
+      "question": {
+        "en": "What is the equilibrium vapour pressure of a liquid?",
+        "hi": "किसी द्रव का साम्यावस्था वाष्प दाब क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "The pressure exerted by vapours in dynamic equilibrium with the liquid at a given temperature in a closed system",
+          "hi": "एक बंद निकाय में दिए गए तापमान पर द्रव के साथ गतिक साम्यावस्था में वाष्प द्वारा लगाया गया दाब"
+        },
+        "B": {
+          "en": "The atmospheric pressure measured by an open barometer",
+          "hi": "एक खुले बैरोमीटर द्वारा मापा गया वायुमंडलीय दाब"
+        },
+        "C": {
+          "en": "The pressure inside air bubbles when liquid boils",
+          "hi": "द्रव के उबलने पर हवा के बुलबुलों के अंदर का दाब"
+        },
+        "D": {
+          "en": "The pressure at which liquid completely dissolves in gas",
+          "hi": "वह दाब जिस पर द्रव गैस में पूरी तरह घुल जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is the distinction between 'Normal Boiling Point' and 'Standard Boiling Point' of a liquid?",
+        "hi": "किसी द्रव के 'सामान्य क्वथनांक' (Normal Boiling Point) और 'मानक क्वथनांक' (Standard Boiling Point) के बीच क्या अंतर है?"
+      },
+      "options": {
+        "A": {
+          "en": "Normal boiling point is at 1 atm (1.013 bar); Standard boiling point is at 1 bar pressure (Standard bp is slightly lower than Normal bp)",
+          "hi": "सामान्य क्वथनांक 1 atm (1.013 बार) पर होता है; मानक क्वथनांक 1 बार दाब पर होता है (मानक क्वथनांक सामान्य क्वथनांक से थोड़ा कम होता है)"
+        },
+        "B": {
+          "en": "Normal boiling point is always higher than standard boiling point by 50 °C",
+          "hi": "सामान्य क्वथनांक मानक क्वथनांक से हमेशा 50 °C अधिक होता है"
+        },
+        "C": {
+          "en": "Normal boiling point is measured at sea level; standard boiling point is measured on Mount Everest",
+          "hi": "सामान्य क्वथनांक समुद्र तल पर मापा जाता है; मानक क्वथनांक माउंट एवरेस्ट पर"
+        },
+        "D": {
+          "en": "Both terms represent the exact same thermodynamic definition and numerical value",
+          "hi": "दोनों पद बिल्कुल समान ऊष्मागतिक परिभाषा और संख्यात्मक मान का प्रतिनिधित्व करते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Why do falling liquid droplets naturally assume a spherical shape?",
+        "hi": "गिरती हुई द्रव की बूँदें स्वाभाविक रूप से गोलाकार आकृति क्यों ग्रहण करती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Due to surface tension, the liquid minimizes its surface area, and a sphere has the minimum surface area for a given volume",
+          "hi": "पृष्ठ तनाव के कारण द्रव अपने पृष्ठीय क्षेत्रफल को न्यूनतम करता है, और दिए गए आयतन के लिए गोले का पृष्ठीय क्षेत्रफल न्यूनतम होता है"
+        },
+        "B": {
+          "en": "Because gravity pulls only from the center",
+          "hi": "क्योंकि गुरुत्वाकर्षण केवल केंद्र से खींचता है"
+        },
+        "C": {
+          "en": "Because atmospheric friction polishes the droplet into a sphere",
+          "hi": "क्योंकि वायुमंडलीय घर्षण बूँद को गोले के रूप में चमकाता है"
+        },
+        "D": {
+          "en": "Due to repulsion between inner liquid molecules",
+          "hi": "आंतरिक द्रव अणुओं के बीच प्रतिकर्षण के कारण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q04",
+      "category": "Theory",
+      "question": {
+        "en": "How do surface tension (γ) and viscosity (η) of typical liquids vary with an increase in temperature?",
+        "hi": "तापमान में वृद्धि के साथ सामान्य द्रवों के पृष्ठ तनाव (γ) और श्यानता (η) कैसे परिवर्तित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Both surface tension and viscosity decrease as temperature increases",
+          "hi": "तापमान बढ़ने पर पृष्ठ तनाव और श्यानता दोनों घटते हैं"
+        },
+        "B": {
+          "en": "Both surface tension and viscosity increase as temperature increases",
+          "hi": "तापमान बढ़ने पर पृष्ठ तनाव और श्यानता दोनों बढ़ते हैं"
+        },
+        "C": {
+          "en": "Surface tension increases while viscosity decreases",
+          "hi": "पृष्ठ तनाव बढ़ता है जबकि श्यानता घटती है"
+        },
+        "D": {
+          "en": "Neither surface tension nor viscosity depends on temperature",
+          "hi": "न तो पृष्ठ तनाव और न ही श्यानता तापमान पर निर्भर करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q05",
+      "category": "Formula",
+      "question": {
+        "en": "What are the SI units of Surface Tension (γ) and Coefficient of Viscosity (η) respectively?",
+        "hi": "पृष्ठ तनाव (γ) और श्यानता गुणांक (η) के क्रमशः SI मात्रक क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Surface tension: N · m⁻¹ (or J · m⁻²); Viscosity: N · s · m⁻² (or Pa · s)",
+          "hi": "पृष्ठ तनाव: N · m⁻¹ (या J · m⁻²); श्यानता: N · s · m⁻² (या Pa · s)"
+        },
+        "B": {
+          "en": "Surface tension: N · m; Viscosity: N / s",
+          "hi": "पृष्ठ तनाव: N · m; श्यानता: N / s"
+        },
+        "C": {
+          "en": "Surface tension: dyne · cm; Viscosity: poise · s",
+          "hi": "पृष्ठ तनाव: dyne · cm; श्यानता: poise · s"
+        },
+        "D": {
+          "en": "Surface tension: J · s; Viscosity: kg · m⁻¹",
+          "hi": "पृष्ठ तनाव: J · s; श्यानता: kg · m⁻¹"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q06",
+      "category": "Formula",
+      "question": {
+        "en": "The relationship between Poise (the CGS unit of viscosity) and the SI unit of viscosity (Pa · s or N · s · m⁻²) is:",
+        "hi": "प्वाइज़ (श्यानता का CGS मात्रक) और श्यानता के SI मात्रक (Pa · s या N · s · m⁻²) के बीच क्या संबंध है?"
+      },
+      "options": {
+        "A": {
+          "en": "1 Pa · s = 10 Poise (or 1 Poise = 0.1 Pa · s)",
+          "hi": "1 Pa · s = 10 प्वाइज़ (या 1 प्वाइज़ = 0.1 Pa · s)"
+        },
+        "B": {
+          "en": "1 Pa · s = 1 Poise",
+          "hi": "1 Pa · s = 1 प्वाइज़"
+        },
+        "C": {
+          "en": "1 Pa · s = 100 Poise",
+          "hi": "1 Pa · s = 100 प्वाइज़"
+        },
+        "D": {
+          "en": "1 Pa · s = 1000 Poise",
+          "hi": "1 Pa · s = 1000 प्वाइज़"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q07",
+      "category": "Formula",
+      "question": {
+        "en": "Why does food cook faster in a pressure cooker than in an open pot?",
+        "hi": "प्रेशर कुकर में खुले बर्तन की तुलना में खाना तेजी से क्यों पकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Trapped steam increases internal pressure, raising the boiling point of water above 100 °C so water transfers heat at higher temperature",
+          "hi": "रुकी हुई वाष्प आंतरिक दाब बढ़ाती है, जिससे जल का क्वथनांक 100 °C से ऊपर उठ जाता है और जल उच्च तापमान पर ऊष्मा स्थानांतरित करता है"
+        },
+        "B": {
+          "en": "Pressure cookers absorb microwaves from ambient space",
+          "hi": "प्रेशर कुकर परिवेश से सूक्ष्म तरंगों को अवशोषित करते हैं"
+        },
+        "C": {
+          "en": "The pressure reduces the heat capacity of food to zero",
+          "hi": "दाब भोजन की ऊष्मा धारिता को शून्य कर देता है"
+        },
+        "D": {
+          "en": "Water evaporates instantly without boiling",
+          "hi": "जल बिना उबले तुरंत वाष्पीकृत हो जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q08",
+      "category": "Formula",
+      "question": {
+        "en": "On top of Mount Everest where atmospheric pressure is only about 0.34 bar (255 mm Hg), at approximately what temperature will water boil?",
+        "hi": "माउंट एवरेस्ट की चोटी पर जहाँ वायुमंडलीय दाब केवल लगभग 0.34 बार (255 mm Hg) है, जल लगभग किस तापमान पर उबलेगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Around 70 °C (substantially below 100 °C)",
+          "hi": "लगभग 70 °C (100 °C से काफी नीचे)"
+        },
+        "B": {
+          "en": "100 °C exactly",
+          "hi": "ठीक 100 °C"
+        },
+        "C": {
+          "en": "120 °C",
+          "hi": "120 °C"
+        },
+        "D": {
+          "en": "0 °C",
+          "hi": "0 °C"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q09",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Why does water climb upward inside a clean glass capillary tube (forming a concave meniscus), whereas liquid mercury is depressed downward (forming a convex meniscus)?",
+        "hi": "कांच की एक साफ केशिका नली में जल ऊपर क्यों चढ़ता है (अवतल नवचंद्रक बनाते हुए), जबकि पारा नीचे दब जाता है (उत्तल नवचंद्रक बनाते हुए)?"
+      },
+      "options": {
+        "A": {
+          "en": "For water: Adhesive forces (water-glass) > Cohesive forces (water-water); For mercury: Cohesive forces (Hg-Hg) > Adhesive forces (Hg-glass)",
+          "hi": "जल के लिए: आसंजक बल (जल-कांच) > संसंजक बल (जल-जल); पारे के लिए: संसंजक बल (Hg-Hg) > आसंजक बल (Hg-कांच)"
+        },
+        "B": {
+          "en": "Mercury is less dense than water",
+          "hi": "पारा जल से कम घना होता है"
+        },
+        "C": {
+          "en": "Water has higher surface tension than mercury",
+          "hi": "जल का पृष्ठ तनाव पारे से अधिक होता है"
+        },
+        "D": {
+          "en": "Glass attracts mercury repelling water",
+          "hi": "कांच पारे को आकर्षित और जल को प्रतिकर्षित करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc08_q10",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table matching liquids with their relative viscosities at 20 °C:\n| Liquid | Viscosity (mPa · s) |\n| :--- | :--- |\n| 1. Acetone | 0.32 |\n| 2. Water | 1.00 |\n| 3. Glycerol | 1490.0 |\nWhat structural feature explains the extremely high viscosity of glycerol compared to water and acetone?",
+        "hi": "20 °C पर द्रवों और उनकी आपेक्षिक श्यानता की तालिका की जाँच करें:\n| द्रव | श्यानता (mPa · s) |\n| :--- | :--- |\n| 1. एसीटोन | 0.32 |\n| 2. जल | 1.00 |\n| 3. ग्लिसरॉल | 1490.0 |\nजल और एसीटोन की तुलना में ग्लिसरॉल की अत्यधिक उच्च श्यानता की क्या संरचनात्मक व्याख्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Glycerol has three -OH groups per molecule, forming extensive 3D networks of intermolecular hydrogen bonds that resist flow",
+          "hi": "ग्लिसरॉल में प्रति अणु तीन -OH समूह होते हैं, जो अंतराण्विक हाइड्रोजन आबंधों का एक व्यापक 3D जाल बनाते हैं जो प्रवाह का कड़ा विरोध करता है"
+        },
+        "B": {
+          "en": "Glycerol has no hydrogen bonding",
+          "hi": "ग्लिसरॉल में कोई हाइड्रोजन आबंधन नहीं होता"
+        },
+        "C": {
+          "en": "Glycerol has the lowest molecular mass",
+          "hi": "ग्लिसरॉल का आणविक द्रव्यमान सबसे कम होता है"
+        },
+        "D": {
+          "en": "Acetone forms metallic bonds",
+          "hi": "एसीटोन धात्विक आबंध बनाता है"
+        }
+      }
+    }
+  ]
+}

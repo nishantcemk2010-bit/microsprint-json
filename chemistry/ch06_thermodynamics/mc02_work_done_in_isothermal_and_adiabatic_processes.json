@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc02_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Pressure-volume (PV) work of expansion against a constant external pressure P_ext is given by:",
+        "hi": "एक स्थिर बाह्य दाब P_ext के विरुद्ध प्रसार का दाब-आयतन (PV) कार्य किसके द्वारा दिया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "w = -P_ext · ΔV = -P_ext (V₂ - V₁)",
+          "hi": "w = -P_ext · ΔV = -P_ext (V₂ - V₁)"
+        },
+        "B": {
+          "en": "w = +P_ext · ΔV",
+          "hi": "w = +P_ext · ΔV"
+        },
+        "C": {
+          "en": "w = -V · ΔP",
+          "hi": "w = -V · ΔP"
+        },
+        "D": {
+          "en": "w = -(P_ext / ΔV)",
+          "hi": "w = -(P_ext / ΔV)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is 'Free Expansion' of an ideal gas, and how much work is done during free expansion?",
+        "hi": "एक आदर्श गैस का 'मुक्त प्रसार' (Free Expansion) क्या है, और इस दौरान कितना कार्य किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Expansion against zero external pressure (vacuum, P_ext = 0); Work done w = 0",
+          "hi": "शून्य बाह्य दाब (निर्वात, P_ext = 0) के विरुद्ध प्रसार; किया गया कार्य w = 0"
+        },
+        "B": {
+          "en": "Expansion against 1 atm pressure; Work done is maximum",
+          "hi": "1 atm दाब के विरुद्ध प्रसार; किया गया कार्य अधिकतम होता है"
+        },
+        "C": {
+          "en": "Expansion at 0 Kelvin; Work done is infinite",
+          "hi": "0 केल्विन पर प्रसार; किया गया कार्य अनंत होता है"
+        },
+        "D": {
+          "en": "Adiabatic compression; Work done is negative",
+          "hi": "रुद्धोष्म संपीडन; किया गया कार्य ऋणात्मक होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Comparing reversible and irreversible isothermal expansions between the same initial (P₁, V₁) and final (P₂, V₂) states:",
+        "hi": "समान प्रारंभिक (P₁, V₁) और अंतिम (P₂, V₂) अवस्थाओं के बीच उत्क्रमणीय और अनुत्क्रमणीय समतापीय प्रसार की तुलना करने पर:"
+      },
+      "options": {
+        "A": {
+          "en": "The magnitude of work done in the reversible expansion is greater than in the irreversible expansion (|w_rev| > |w_irrev|)",
+          "hi": "उत्क्रमणीय प्रसार में किए गए कार्य का परिमाण अनुत्क्रमणीय प्रसार से अधिक होता है (|w_rev| > |w_irrev|)"
+        },
+        "B": {
+          "en": "The magnitude of work done is greater in irreversible expansion",
+          "hi": "अनुत्क्रमणीय प्रसार में कार्य का परिमाण अधिक होता है"
+        },
+        "C": {
+          "en": "Both perform identical work because initial and final states are identical",
+          "hi": "दोनों समान कार्य करते हैं क्योंकि प्रारंभिक और अंतिम अवस्थाएँ समान हैं"
+        },
+        "D": {
+          "en": "Reversible expansion performs zero work",
+          "hi": "उत्क्रमणीय प्रसार शून्य कार्य करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q04",
+      "category": "Theory",
+      "question": {
+        "en": "During reversible adiabatic expansion of an ideal gas, why does the temperature of the gas always decrease (cooling effect)?",
+        "hi": "एक आदर्श गैस के उत्क्रमणीय रुद्धोष्म प्रसार के दौरान गैस का तापमान हमेशा क्यों घटता है (शीतलन प्रभाव)?"
+      },
+      "options": {
+        "A": {
+          "en": "Since q = 0, work is done entirely at the expense of internal energy (ΔU = w < 0), causing temperature to fall",
+          "hi": "चूँकि q = 0 है, कार्य पूरी तरह से आंतरिक ऊर्जा की कीमत पर किया जाता है (ΔU = w < 0), जिससे तापमान गिरता है"
+        },
+        "B": {
+          "en": "Heat is rapidly conducted to the surroundings",
+          "hi": "ऊष्मा तेजी से परिवेश में चालित हो जाती है"
+        },
+        "C": {
+          "en": "The molar heat capacity of the gas becomes negative",
+          "hi": "गैस की मोलर ऊष्मा धारिता ऋणात्मक हो जाती है"
+        },
+        "D": {
+          "en": "Molecules lose their mass during expansion",
+          "hi": "प्रसार के दौरान अणु अपना द्रव्यमान खो देते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q05",
+      "category": "Theory",
+      "question": {
+        "en": "On a P-V indicator diagram, how does the slope of a reversible adiabatic curve compare with that of a reversible isothermal curve at the same point?",
+        "hi": "एक P-V आरेख पर, समान बिंदु पर एक उत्क्रमणीय रुद्धोष्म वक्र का ढाल उत्क्रमणीय समतापीय वक्र के ढाल से किस प्रकार तुलना करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The adiabatic curve is steeper (Slope_adia = γ × Slope_iso, where γ > 1)",
+          "hi": "रुद्धोष्म वक्र अधिक ढालू (steeper) होता है (ढाल_रुद्धोष्म = γ × ढाल_समतापी, जहाँ γ > 1)"
+        },
+        "B": {
+          "en": "The isothermal curve is steeper",
+          "hi": "समतापीय वक्र अधिक ढालू होता है"
+        },
+        "C": {
+          "en": "Both curves have identical slopes",
+          "hi": "दोनों वक्रों का ढाल समान होता है"
+        },
+        "D": {
+          "en": "The adiabatic curve has a horizontal slope of zero",
+          "hi": "रुद्धोष्म वक्र का क्षैतिज ढाल शून्य होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q06",
+      "category": "Formula",
+      "question": {
+        "en": "The work done in a reversible isothermal expansion of n moles of an ideal gas from volume V₁ to V₂ is given by:",
+        "hi": "n मोल आदर्श गैस के आयतन V₁ से V₂ तक उत्क्रमणीय समतापीय प्रसार में किया गया कार्य किसके द्वारा दिया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "w = -2.303 nRT log(V₂ / V₁) = -2.303 nRT log(P₁ / P₂)",
+          "hi": "w = -2.303 nRT log(V₂ / V₁) = -2.303 nRT log(P₁ / P₂)"
+        },
+        "B": {
+          "en": "w = +2.303 nRT log(V₂ / V₁)",
+          "hi": "w = +2.303 nRT log(V₂ / V₁)"
+        },
+        "C": {
+          "en": "w = -nRT (V₂ - V₁)",
+          "hi": "w = -nRT (V₂ - V₁)"
+        },
+        "D": {
+          "en": "w = -P_ext (V₂ - V₁)",
+          "hi": "w = -P_ext (V₂ - V₁)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q07",
+      "category": "Formula",
+      "question": {
+        "en": "Two moles of an ideal gas expand isothermally and reversibly from 10 L to 100 L at 300 K. What is the work done by the gas? (R = 8.314 J·K⁻¹·mol⁻¹, log 10 = 1)",
+        "hi": "300 K पर दो मोल आदर्श गैस 10 L से 100 L तक समतापीय और उत्क्रमणीय रूप से फैलती है। गैस द्वारा किया गया कार्य क्या है? (R = 8.314 J·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "-11.49 kJ",
+          "hi": "-11.49 kJ"
+        },
+        "B": {
+          "en": "+11.49 kJ",
+          "hi": "+11.49 kJ"
+        },
+        "C": {
+          "en": "-5.74 kJ",
+          "hi": "-5.74 kJ"
+        },
+        "D": {
+          "en": "-2.87 kJ",
+          "hi": "-2.87 kJ"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q08",
+      "category": "Formula",
+      "question": {
+        "en": "A gas expands from 2.0 L to 5.0 L against a constant external pressure of 3.0 bar. How much work is done on the gas in Joules? (1 bar·L = 100 J)",
+        "hi": "एक गैस 3.0 बार के स्थिर बाह्य दाब के विरुद्ध 2.0 L से 5.0 L तक फैलती है। गैस पर जूल में कितना कार्य किया गया है? (1 बार·L = 100 J)"
+      },
+      "options": {
+        "A": {
+          "en": "-900 J",
+          "hi": "-900 J"
+        },
+        "B": {
+          "en": "+900 J",
+          "hi": "+900 J"
+        },
+        "C": {
+          "en": "-300 J",
+          "hi": "-300 J"
+        },
+        "D": {
+          "en": "-1500 J",
+          "hi": "-1500 J"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q09",
+      "category": "Formula",
+      "question": {
+        "en": "In a reversible adiabatic process for an ideal gas, which of the following relations is correct?",
+        "hi": "एक आदर्श गैस के लिए उत्क्रमणीय रुद्धोष्म प्रक्रम में निम्नलिखित में से कौन सा संबंध सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "PV^γ = constant; TV^(γ-1) = constant; T^γ · P^(1-γ) = constant",
+          "hi": "PV^γ = स्थिरांक; TV^(γ-1) = स्थिरांक; T^γ · P^(1-γ) = स्थिरांक"
+        },
+        "B": {
+          "en": "PV = constant; TV = constant",
+          "hi": "PV = स्थिरांक; TV = स्थिरांक"
+        },
+        "C": {
+          "en": "P/V^γ = constant",
+          "hi": "P/V^γ = स्थिरांक"
+        },
+        "D": {
+          "en": "T/V^(γ-1) = constant",
+          "hi": "T/V^(γ-1) = स्थिरांक"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q10",
+      "category": "Formula",
+      "question": {
+        "en": "For a monoatomic ideal gas (γ = 5/3 = 1.67), if its volume is compressed adiabatically and reversibly to 1/8th of its original volume, by what factor does its absolute temperature increase?",
+        "hi": "एक एकपरमाणुक आदर्श गैस (γ = 5/3 = 1.67) के लिए, यदि इसके आयतन को रुद्धोष्म और उत्क्रमणीय रूप से उसके मूल आयतन के 1/8 भाग तक संपीड़ित किया जाता है, तो इसका परम तापमान कितने गुना बढ़ जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "4 times",
+          "hi": "4 गुना"
+        },
+        "B": {
+          "en": "2 times",
+          "hi": "2 गुना"
+        },
+        "C": {
+          "en": "8 times",
+          "hi": "8 गुना"
+        },
+        "D": {
+          "en": "16 times",
+          "hi": "16 गुना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q11",
+      "category": "Formula",
+      "question": {
+        "en": "What is the work done when 1 mole of an ideal gas expands into an evacuated bulb of 10 L capacity at 298 K?",
+        "hi": "298 K पर जब 1 मोल आदर्श गैस 10 L क्षमता वाले निर्वातित बल्ब में फैलती है, तो किया गया कार्य क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "0 J",
+          "hi": "0 J"
+        },
+        "B": {
+          "en": "-2.48 kJ",
+          "hi": "-2.48 kJ"
+        },
+        "C": {
+          "en": "+2.48 kJ",
+          "hi": "+2.48 kJ"
+        },
+        "D": {
+          "en": "-5.74 kJ",
+          "hi": "-5.74 kJ"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q12",
+      "category": "Formula",
+      "question": {
+        "en": "In a reversible adiabatic expansion, the work done (w) can be calculated using temperatures T₁ and T₂ as:",
+        "hi": "एक उत्क्रमणीय रुद्धोष्म प्रसार में, तापमान T₁ और T₂ का उपयोग करके किए गए कार्य (w) की गणना किस प्रकार की जा सकती है?"
+      },
+      "options": {
+        "A": {
+          "en": "w = n C_v (T₂ - T₁) = [nR / (γ - 1)] (T₂ - T₁)",
+          "hi": "w = n C_v (T₂ - T₁) = [nR / (γ - 1)] (T₂ - T₁)"
+        },
+        "B": {
+          "en": "w = n C_p (T₂ - T₁)",
+          "hi": "w = n C_p (T₂ - T₁)"
+        },
+        "C": {
+          "en": "w = nRT ln(T₂ / T₁)",
+          "hi": "w = nRT ln(T₂ / T₁)"
+        },
+        "D": {
+          "en": "w = 0",
+          "hi": "w = 0"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Look at the P-V diagram of an ideal gas expanding from V₁ to V₂ under three different pathways:\nPath I: Isobaric expansion\nPath II: Reversible isothermal expansion\nPath III: Reversible adiabatic expansion\nIn which pathway is the magnitude of work done by the gas the greatest?",
+        "hi": "तीन अलग-अलग पथों के तहत V₁ से V₂ तक फैलने वाली एक आदर्श गैस के P-V आरेख को देखें:\nपथ I: समदाबी प्रसार\nपथ II: उत्क्रमणीय समतापीय प्रसार\nपथ III: उत्क्रमणीय रुद्धोष्म प्रसार\nकिस पथ में गैस द्वारा किए गए कार्य का परिमाण सर्वाधिक है?"
+      },
+      "options": {
+        "A": {
+          "en": "Path I (Isobaric expansion has the largest area under the P-V curve)",
+          "hi": "पथ I (समदाबी प्रसार में P-V वक्र के नीचे का क्षेत्रफल सबसे अधिक होता है)"
+        },
+        "B": {
+          "en": "Path II (Isothermal)",
+          "hi": "पथ II (समतापीय)"
+        },
+        "C": {
+          "en": "Path III (Adiabatic)",
+          "hi": "पथ III (रुद्धोष्म)"
+        },
+        "D": {
+          "en": "All three paths have equal work",
+          "hi": "तीनों पथों में कार्य समान होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In an irreversible single-stage expansion against external pressure P_ext from V₁ to V₂, what geometrical shape on a P-V diagram represents the magnitude of work done?",
+        "hi": "V₁ से V₂ तक बाह्य दाब P_ext के विरुद्ध एकल-चरणीय अनुत्क्रमणीय प्रसार में, P-V आरेख पर कौन सी ज्यामितीय आकृति किए गए कार्य के परिमाण का प्रतिनिधित्व करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "A rectangle of height P_ext and base (V₂ - V₁)",
+          "hi": "ऊँचाई P_ext और आधार (V₂ - V₁) का एक आयत"
+        },
+        "B": {
+          "en": "A triangle with vertices at origin, (V₁, P₁) and (V₂, P₂)",
+          "hi": "मूल बिंदु पर शीर्षों वाला एक त्रिभुज"
+        },
+        "C": {
+          "en": "A trapezoid under a smooth hyperbola",
+          "hi": "एक समलम्ब चतुर्भुज"
+        },
+        "D": {
+          "en": "A circle of diameter (V₂ - V₁)",
+          "hi": "व्यास (V₂ - V₁) का एक वृत्त"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc02_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "During compression from V₁ to V₂, which requires MORE work done ON the gas: reversible compression or irreversible single-stage compression against final pressure P₂?",
+        "hi": "V₁ से V₂ तक संपीडन के दौरान, गैस पर किसमें अधिक कार्य करना पड़ता है: उत्क्रमणीय संपीडन में या अंतिम दाब P₂ के विरुद्ध एकल-चरणीय अनुत्क्रमणीय संपीडन में?"
+      },
+      "options": {
+        "A": {
+          "en": "Irreversible compression requires more work (|w_irrev| > |w_rev|)",
+          "hi": "अनुत्क्रमणीय संपीडन में अधिक कार्य की आवश्यकता होती है (|w_irrev| > |w_rev|)"
+        },
+        "B": {
+          "en": "Reversible compression requires more work",
+          "hi": "उत्क्रमणीय संपीडन में अधिक कार्य की आवश्यकता होती है"
+        },
+        "C": {
+          "en": "Both require exactly identical work",
+          "hi": "दोनों में बिल्कुल समान कार्य की आवश्यकता होती है"
+        },
+        "D": {
+          "en": "Neither requires any work",
+          "hi": "किसी में भी किसी कार्य की आवश्यकता नहीं होती"
+        }
+      }
+    }
+  ]
+}

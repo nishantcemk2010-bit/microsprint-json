@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc05_q01",
+      "category": "Theory",
+      "question": {
+        "en": "What is the key difference between homolytic and heterolytic cleavage of a covalent bond?",
+        "hi": "सहसंयोजक बंध के समांशी (Homolytic) तथा विषमांशी (Heterolytic) विदलन में क्या मुख्य अंतर होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "In homolytic cleavage each atom retains one of the bonded electrons forming neutral free radicals, whereas in heterolytic cleavage the shared electron pair is retained entirely by one of the atoms forming a cation and an anion",
+          "hi": "समांशी विदलन में प्रत्येक परमाणु एक-एक इलेक्ट्रॉन लेकर उदासीन मुक्त मूलक बनाता है, जबकि विषमांशी विदलन में दोनों इलेक्ट्रॉन एक ही परमाणु पर चले जाते हैं जिससे धनायन व ऋणायन बनते हैं"
+        },
+        "B": {
+          "en": "Homolytic cleavage creates ionic crystals, heterolytic creates gases",
+          "hi": "समांशी विदलन से आयनिक क्रिस्टल बनते हैं"
+        },
+        "C": {
+          "en": "Homolytic occurs only in basic medium",
+          "hi": "समांशी केवल क्षारीय माध्यम में होता है"
+        },
+        "D": {
+          "en": "Heterolytic cleavage does not involve electrons",
+          "hi": "विषमांशी विदलन में इलेक्ट्रॉन शामिल नहीं होते"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What is the hybridisation, shape, and valence electron count of a classical carbocation (carbonium ion, R3C^+)?",
+        "hi": "एक क्लासिकल कार्बधनायन (R3C^+) का संकरण, ज्यामिति तथा संयोजी इलेक्ट्रॉनों की संख्या क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "sp2 hybridised, trigonal planar shape, with 6 valence electrons (sextet) and an empty unhybridised p-orbital",
+          "hi": "sp2 संकरित, त्रिकोणीय समतलीय ज्यामिति, 6 संयोजी इलेक्ट्रॉन (षष्टक) तथा एक रिक्त असंकरित p-कक्षक"
+        },
+        "B": {
+          "en": "sp3 hybridised, tetrahedral shape, with 8 valence electrons",
+          "hi": "sp3 संकरित, चतुष्फलकीय ज्यामिति, 8 इलेक्ट्रॉन"
+        },
+        "C": {
+          "en": "sp hybridised, linear shape, with 4 valence electrons",
+          "hi": "sp संकरित, रेखीय ज्यामिति, 4 इलेक्ट्रॉन"
+        },
+        "D": {
+          "en": "sp3d hybridised, trigonal bipyramidal with 10 electrons",
+          "hi": "sp3d संकरित, 10 इलेक्ट्रॉन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What is the hybridisation, shape, and valence electron count of an unstabilized aliphatic carbanion (R3C^-)?",
+        "hi": "एक सरल ऐलिफैटिक कार्बऋणायन (R3C^-) का संकरण, आकृति तथा संयोजी इलेक्ट्रॉनों की संख्या क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "sp3 hybridised, pyramidal shape (like NH3), with 8 valence electrons including a lone pair",
+          "hi": "sp3 संकरित, पिरामिडीय आकृति (NH3 की भांति), 8 संयोजी इलेक्ट्रॉन (एक एकाकी युग्म सहित)"
+        },
+        "B": {
+          "en": "sp2 hybridised, trigonal planar with 6 electrons",
+          "hi": "sp2 संकरित, समतलीय, 6 इलेक्ट्रॉन"
+        },
+        "C": {
+          "en": "sp hybridised, linear with 4 electrons",
+          "hi": "sp संकरित, रेखीय, 4 इलेक्ट्रॉन"
+        },
+        "D": {
+          "en": "Octahedral with 12 electrons",
+          "hi": "अष्टफलकीय, 12 इलेक्ट्रॉन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q04",
+      "category": "Theory",
+      "question": {
+        "en": "An electrophile (electron-loving reagent) is defined as a chemical species that:",
+        "hi": "इलेक्ट्रॉनरागी (Electrophile) को उस रासायनिक स्पीशीज के रूप में परिभाषित किया जाता है जो:"
+      },
+      "options": {
+        "A": {
+          "en": "Is electron-deficient and attacks regions of high electron density, accepting an electron pair (Lewis acid)",
+          "hi": "इलेक्ट्रॉन-न्यून होती है और उच्च इलेक्ट्रॉन घनत्व वाले क्षेत्रों पर आक्रमण करके इलेक्ट्रॉन युग्म स्वीकार करती है (लुईस अम्ल)"
+        },
+        "B": {
+          "en": "Is electron-rich and donates an electron pair",
+          "hi": "इलेक्ट्रॉन-धनी होती है और इलेक्ट्रॉन युग्म दान करती है"
+        },
+        "C": {
+          "en": "Only reacts with noble gases",
+          "hi": "केवल अक्रिय गैसों से क्रिया करती है"
+        },
+        "D": {
+          "en": "Contains an odd unpaired electron and zero charge",
+          "hi": "जिसमें विषम इलेक्ट्रॉन होता है और शून्य आवेश"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following species behaves as an AMBIDENT nucleophile?",
+        "hi": "निम्नलिखित में से कौन-सी स्पीशीज एक उभयदंती नाभिकरागी (Ambident nucleophile) की भांति व्यवहार करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyanide ion (:C≡N:^-) and Nitrite ion (:O-N=O^-)",
+          "hi": "सायनाइड आयन (:C≡N:^-) तथा नाइट्राइट आयन (:O-N=O^-)"
+        },
+        "B": {
+          "en": "Hydroxide ion (OH^-)",
+          "hi": "हाइड्रॉक्साइड आयन (OH^-)"
+        },
+        "C": {
+          "en": "Hydronium ion (H3O^+)",
+          "hi": "हाइड्रोनियम आयन (H3O^+)"
+        },
+        "D": {
+          "en": "Fluoride ion (F^-)",
+          "hi": "फ्लोराइड आयन (F^-)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q06",
+      "category": "Theory",
+      "question": {
+        "en": "A carbene is a neutral divalent carbon reaction intermediate with formula :CR2. What are the spin states of singlet and triplet carbene respectively?",
+        "hi": "कार्बीन (:CR2) एक उदासीन द्विसंयोजी कार्बन मध्यवर्ती है। सिंगलेट तथा ट्रिपलेट कार्बीन की चक्रण अवस्थाएं क्रमशः क्या होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Singlet carbene: sp2 hybridised with paired electrons in one orbital (spin = 0); Triplet carbene: sp hybridised with two unpaired electrons in different orbitals (spin = 1)",
+          "hi": "सिंगलेट: sp2 संकरित जिसमें दोनों इलेक्ट्रॉन एक ही कक्षक में युग्मित होते हैं (चक्रण = 0); ट्रिपलेट: sp संकरित जिसमें दो अयुग्मित इलेक्ट्रॉन भिन्न कक्षकों में होते हैं (चक्रण = 1)"
+        },
+        "B": {
+          "en": "Both have paired electrons",
+          "hi": "दोनों में युग्मित इलेक्ट्रॉन होते हैं"
+        },
+        "C": {
+          "en": "Singlet has 3 electrons, triplet has 1",
+          "hi": "सिंगलेट में 3 तथा ट्रिपलेट में 1 इलेक्ट्रॉन होता है"
+        },
+        "D": {
+          "en": "Triplet carbene has zero spin",
+          "hi": "ट्रिपलेट का चक्रण शून्य होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q07",
+      "category": "Trend",
+      "question": {
+        "en": "What is the correct order of stability for simple alkyl carbocations in the gas phase / non-polar medium?",
+        "hi": "सरल एल्किल कार्बधनायनों के स्थायित्व का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Tertiary (3°) > Secondary (2°) > Primary (1°) > Methyl (^•CH3+)",
+          "hi": "तृतीयक (3°) > द्वितीयक (2°) > प्राथमिक (1°) > मेथिल (^•CH3+)"
+        },
+        "B": {
+          "en": "Methyl > Primary > Secondary > Tertiary",
+          "hi": "मेथिल > प्राथमिक > द्वितीयक > तृतीयक"
+        },
+        "C": {
+          "en": "Secondary > Tertiary > Primary > Methyl",
+          "hi": "द्वितीयक > तृतीयक > प्राथमिक > मेथिल"
+        },
+        "D": {
+          "en": "Primary > Secondary > Tertiary > Methyl",
+          "hi": "प्राथमिक > द्वितीयक > तृतीयक > मेथिल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q08",
+      "category": "Trend",
+      "question": {
+        "en": "What is the correct order of stability for simple alkyl carbanions?",
+        "hi": "सरल एल्किल कार्बऋणायनों के स्थायित्व का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Methyl (CH3^-) > Primary (1°) > Secondary (2°) > Tertiary (3°)",
+          "hi": "मेथिल (CH3^-) > प्राथमिक (1°) > द्वितीयक (2°) > तृतीयक (3°)"
+        },
+        "B": {
+          "en": "Tertiary > Secondary > Primary > Methyl",
+          "hi": "तृतीयक > द्वितीयक > प्राथमिक > मेथिल"
+        },
+        "C": {
+          "en": "Secondary > Primary > Tertiary > Methyl",
+          "hi": "द्वितीयक > प्राथमिक > तृतीयक > मेथिल"
+        },
+        "D": {
+          "en": "All simple alkyl carbanions have identical stability",
+          "hi": "सभी का स्थायित्व समान होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q09",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following carbocations is the MOST stable due to exceptional aromatic stabilization?",
+        "hi": "असाधारण ऐरोमैटिक स्थायित्व के कारण निम्नलिखित में से कौन-सा कार्बधनायन सर्वाधिक स्थायी है?"
+      },
+      "options": {
+        "A": {
+          "en": "Tropylium cation (Cycloheptatrienyl cation, C7H7^+)",
+          "hi": "ट्रोपिलियम धनायन (साइक्लोहेप्टाट्रायेनिल धनायन, C7H7^+)"
+        },
+        "B": {
+          "en": "Triphenylmethyl cation ((C6H5)3C^+)",
+          "hi": "ट्राइफेनिलमेथिल धनायन ((C6H5)3C^+)"
+        },
+        "C": {
+          "en": "tert-Butyl cation ((CH3)3C^+)",
+          "hi": "tert-ब्यूटिल धनायन ((CH3)3C^+)"
+        },
+        "D": {
+          "en": "Benzyl cation (C6H5-CH2^+)",
+          "hi": "बेन्जिल धनायन (C6H5-CH2^+)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q10",
+      "category": "Formula",
+      "question": {
+        "en": "Which of the following neutral molecules acts as an electrophile in Friedel-Crafts acylation/alkylation?",
+        "hi": "फ्रीडेल-क्राफ्ट्स अभिक्रियाओं में निम्नलिखित में से कौन-सा उदासीन अणु इलेक्ट्रॉनरागी उत्पन्न करने वाले लुईस अम्ल की भांति कार्य करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Anhydrous Aluminium chloride (AlCl3) and Boron trifluoride (BF3)",
+          "hi": "निर्जल ऐलुमिनियम क्लोराइड (AlCl3) तथा बोरॉन ट्राइफ्लोराइड (BF3)"
+        },
+        "B": {
+          "en": "Ammonia (NH3)",
+          "hi": "अमोनिया (NH3)"
+        },
+        "C": {
+          "en": "Methanol (CH3OH)",
+          "hi": "मेथेनॉल (CH3OH)"
+        },
+        "D": {
+          "en": "Water (H2O)",
+          "hi": "जल (H2O)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q11",
+      "category": "Trend",
+      "question": {
+        "en": "What is the stability order of alkyl free radicals?",
+        "hi": "एल्किल मुक्त मूलकों (Free radicals) के स्थायित्व का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Tertiary (3°) > Secondary (2°) > Primary (1°) > Methyl (^•CH3)",
+          "hi": "तृतीयक (3°) > द्वितीयक (2°) > प्राथमिक (1°) > मेथिल (^•CH3)"
+        },
+        "B": {
+          "en": "Methyl > Primary > Secondary > Tertiary",
+          "hi": "मेथिल > प्राथमिक > द्वितीयक > तृतीयक"
+        },
+        "C": {
+          "en": "Primary > Secondary > Tertiary > Methyl",
+          "hi": "प्राथमिक > द्वितीयक > तृतीयक > मेथिल"
+        },
+        "D": {
+          "en": "Secondary > Tertiary > Primary > Methyl",
+          "hi": "द्वितीयक > तृतीयक > प्राथमिक > मेथिल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q12",
+      "category": "Reaction",
+      "question": {
+        "en": "In the chlorination of methane in presence of ultraviolet light (photochemical reaction), what is the initiation step?",
+        "hi": "पराबैंगनी प्रकाश की उपस्थिति में मेथेन के क्लोरीनीकरण में प्रारंभिक (Initiation) पद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Homolytic cleavage of Cl-Cl bond by UV light: Cl2 --hν--> 2 Cl•",
+          "hi": "UV प्रकाश द्वारा Cl-Cl बंध का समांशी विदलन: Cl2 --hν--> 2 Cl•"
+        },
+        "B": {
+          "en": "Heterolytic cleavage of CH4 to CH3+ and H-",
+          "hi": "CH4 का विषमांशी विदलन"
+        },
+        "C": {
+          "en": "Reaction of CH4 directly with O2",
+          "hi": "CH4 की O2 से सीधी क्रिया"
+        },
+        "D": {
+          "en": "Electrolysis of methane",
+          "hi": "मेथेन का वैद्युत अपघटन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The diagram illustrates the orbital geometry of a methyl carbocation (CH3^+):\n        H\n        |\n   H -- C^+ -- H   (Planar, 120° angles, sp2 hybridised)\n        :\n      [ ]  <-- Unhybridised 2pz orbital perpendicular to plane\nWhat is the electron occupancy of this unhybridised 2pz orbital?",
+        "hi": "मेथिल कार्बधनायन (CH3^+) के कक्षक आरेख का परीक्षण कीजिए:\nतल के लंबवत असंकरित 2pz कक्षक में कितने इलेक्ट्रॉन उपस्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Vacant / Completely empty (0 electrons)",
+          "hi": "रिक्त / पूर्णतः खाली (0 इलेक्ट्रॉन)"
+        },
+        "B": {
+          "en": "Contains 1 unpaired electron",
+          "hi": "1 अयुग्मित इलेक्ट्रॉन युक्त"
+        },
+        "C": {
+          "en": "Contains a paired electron lone pair (2 electrons)",
+          "hi": "2 इलेक्ट्रॉनों का एकाकी युग्म"
+        },
+        "D": {
+          "en": "Contains 4 electrons",
+          "hi": "4 इलेक्ट्रॉन युक्त"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table comparing reaction intermediates:\n| Intermediate | Hybridisation | Geometry | Valence Electrons | Magnetic Character |\n|---|---|---|---|---|\n| Carbocation (R3C^+) | sp2 | Trigonal planar | 6 | Diamagnetic |\n| Free Radical (R3C•) | sp2 | Planar / near-planar | 7 | Paramagnetic |\n| Carbanion (R3C^-) | sp3 | Pyramidal | 8 | X |\nWhat is the magnetic character X of an aliphatic carbanion?",
+        "hi": "अभिक्रिया मध्यवर्तियों की तुलनात्मक तालिका का अवलोकन कीजिए:\nएक ऐलिफैटिक कार्बऋणायन का चुंबकीय लक्षण X क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Diamagnetic (all 8 electrons are paired)",
+          "hi": "प्रतिचुंबकीय (Diamagnetic, सभी 8 इलेक्ट्रॉन युग्मित हैं)"
+        },
+        "B": {
+          "en": "Paramagnetic (has unpaired electron)",
+          "hi": "अनुचुंबकीय (अयुग्मित इलेक्ट्रॉन युक्त)"
+        },
+        "C": {
+          "en": "Ferromagnetic",
+          "hi": "लौहचुंबकीय"
+        },
+        "D": {
+          "en": "Antiferromagnetic",
+          "hi": "प्रतिलौहचुंबकीय"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc05_q15",
+      "category": "Graph",
+      "question": {
+        "en": "An energy profile diagram for a two-step electrophilic addition of HBr to propene shows two transition states (TS1 and TS2) flanking an intermediate valley. Which intermediate resides in this energy well?",
+        "hi": "प्रोपीन पर HBr के दो-पदीय इलेक्ट्रॉनरागी योग के ऊर्जा आरेख में दोनों संक्रमण अवस्थाओं के मध्य स्थित ऊर्जा गर्त में कौन-सा मध्यवर्ती उपस्थित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Secondary carbocation intermediate: CH3-CH^+-CH3",
+          "hi": "द्वितीयक कार्बधनायन मध्यवर्ती: CH3-CH^+-CH3"
+        },
+        "B": {
+          "en": "Primary free radical: CH3-CH2-CH2•",
+          "hi": "प्राथमिक मुक्त मूलक"
+        },
+        "C": {
+          "en": "Carbanion: CH3-CH^--CH3",
+          "hi": "कार्बऋणायन"
+        },
+        "D": {
+          "en": "Bromonium radical",
+          "hi": "ब्रोमोनियम मूलक"
+        }
+      }
+    }
+  ]
+}

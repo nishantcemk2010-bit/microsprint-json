@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc07_q01",
+      "category": "Theory",
+      "question": {
+        "en": "The Critical Temperature (T_c) of a gas is defined as the temperature:",
+        "hi": "किसी गैस का क्रांतिक तापमान (Critical Temperature, T_c) उस तापमान के रूप में परिभाषित किया जाता है:"
+      },
+      "options": {
+        "A": {
+          "en": "Above which a gas cannot be liquefied, no matter how much pressure is applied",
+          "hi": "जिससे अधिक तापमान पर गैस को द्रवित नहीं किया जा सकता, चाहे कितना भी दाब क्यों न लगाया जाए"
+        },
+        "B": {
+          "en": "At which a gas spontaneously freezes to a solid",
+          "hi": "जिस पर गैस स्वतः ठोस में जम जाती है"
+        },
+        "C": {
+          "en": "At which the gas decomposes into constituent atoms",
+          "hi": "जिस पर गैस घटक परमाणुओं में विघटित हो जाती है"
+        },
+        "D": {
+          "en": "Below which a gas behaves 100% ideally",
+          "hi": "जिससे कम तापमान पर गैस 100% आदर्श व्यवहार करती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In Thomas Andrews' famous isotherms of carbon dioxide (CO₂), what does the horizontal portion of an isotherm below T_c (e.g., at 21.5 °C) represent?",
+        "hi": "थॉमस एंड्रयूज के कार्बन डाइऑक्साइड (CO₂) के प्रसिद्ध समतापी वक्रों में, T_c से नीचे (जैसे 21.5 °C पर) समतापी वक्र का क्षैतिज भाग क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Coexistence of gaseous and liquid CO₂ in dynamic equilibrium during phase change at constant vapour pressure",
+          "hi": "स्थिर वाष्प दाब पर प्रावस्था परिवर्तन के दौरान गैसीय और द्रव CO₂ का गतिक साम्यावस्था में सह-अस्तित्व"
+        },
+        "B": {
+          "en": "Decomposition of CO₂ into carbon and oxygen",
+          "hi": "CO₂ का कार्बन और ऑक्सीजन में विघटन"
+        },
+        "C": {
+          "en": "Pure ideal gas behavior with no liquefaction",
+          "hi": "बिना किसी द्रवण के विशुद्ध आदर्श गैस व्यवहार"
+        },
+        "D": {
+          "en": "Instantaneous solidification into dry ice",
+          "hi": "शुष्क बर्फ में तात्कालिक जमना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What happens to the meniscus separating liquid and gas phases at the critical point (critical temperature and critical pressure)?",
+        "hi": "क्रांतिक बिंदु (क्रांतिक तापमान और क्रांतिक दाब) पर द्रव और गैस प्रावस्थाओं को अलग करने वाले नवचंद्रक (meniscus) का क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The meniscus completely disappears because liquid and gas densities become identical (supercritical fluid)",
+          "hi": "नवचंद्रक पूरी तरह से गायब हो जाता है क्योंकि द्रव और गैस का घनत्व समान हो जाता है (अतिक्रांतिक तरल)"
+        },
+        "B": {
+          "en": "The meniscus becomes intensely black and opaque",
+          "hi": "नवचंद्रक अत्यधिक काला और अपारदर्शी हो जाता है"
+        },
+        "C": {
+          "en": "The meniscus becomes infinitely thick and solid",
+          "hi": "नवचंद्रक अनंत रूप से मोटा और ठोस हो जाता है"
+        },
+        "D": {
+          "en": "The liquid suddenly falls to the bottom as ice",
+          "hi": "द्रव अचानक बर्फ के रूप में पेंदे में गिर जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Gases like H₂, He, N₂, and O₂ were historically termed 'permanent gases' because:",
+        "hi": "H₂, He, N₂ और O₂ जैसी गैसों को ऐतिहासिक रूप से 'स्थायी गैसें' कहा गया था क्योंकि:"
+      },
+      "options": {
+        "A": {
+          "en": "Their critical temperatures are far below room temperature, so they could not be liquefied by pressure alone at room temperature",
+          "hi": "उनके क्रांतिक तापमान कमरे के तापमान से बहुत नीचे हैं, अतः कमरे के तापमान पर केवल दाब लगाकर उन्हें द्रवित नहीं किया जा सकता था"
+        },
+        "B": {
+          "en": "They never form chemical bonds with any element",
+          "hi": "वे कभी किसी तत्व के साथ रासायनिक आबंध नहीं बनाते"
+        },
+        "C": {
+          "en": "Their molecules have infinite lifetime",
+          "hi": "उनके अणुओं का जीवनकाल अनंत होता है"
+        },
+        "D": {
+          "en": "They do not obey the conservation of mass",
+          "hi": "वे द्रव्यमान संरक्षण का पालन नहीं करते"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q05",
+      "category": "Formula",
+      "question": {
+        "en": "In terms of the van der Waals constants 'a' and 'b', the Critical Temperature (T_c), Critical Pressure (P_c), and Critical Volume (V_c) are given by:",
+        "hi": "वान्डर वाल्स स्थिरांक 'a' और 'b' के पदों में, क्रांतिक तापमान (T_c), क्रांतिक दाब (P_c), और क्रांतिक आयतन (V_c) किसके द्वारा दिए जाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "T_c = 8a / (27Rb); P_c = a / (27b²); V_c = 3b",
+          "hi": "T_c = 8a / (27Rb); P_c = a / (27b²); V_c = 3b"
+        },
+        "B": {
+          "en": "T_c = a / (Rb); P_c = a / b²; V_c = b",
+          "hi": "T_c = a / (Rb); P_c = a / b²; V_c = b"
+        },
+        "C": {
+          "en": "T_c = 27a / (8Rb); P_c = 27a / b²; V_c = b / 3",
+          "hi": "T_c = 27a / (8Rb); P_c = 27a / b²; V_c = b / 3"
+        },
+        "D": {
+          "en": "T_c = 8a / b; P_c = a / (27b); V_c = 4b",
+          "hi": "T_c = 8a / b; P_c = a / (27b); V_c = 4b"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q06",
+      "category": "Formula",
+      "question": {
+        "en": "The critical compressibility factor (Z_c = P_c V_c / R T_c) for a gas obeying the van der Waals equation is theoretically equal to:",
+        "hi": "वान्डर वाल्स समीकरण का पालन करने वाली गैस के लिए क्रांतिक संपीड़्यता कारक (Z_c = P_c V_c / R T_c) सैद्धांतिक रूप से किसके बराबर होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "3/8 (or 0.375)",
+          "hi": "3/8 (या 0.375)"
+        },
+        "B": {
+          "en": "1.000",
+          "hi": "1.000"
+        },
+        "C": {
+          "en": "8/3 (or 2.667)",
+          "hi": "8/3 (या 2.667)"
+        },
+        "D": {
+          "en": "0.500",
+          "hi": "0.500"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q07",
+      "category": "Formula",
+      "question": {
+        "en": "The critical temperature and critical pressure of CO₂ are 30.98 °C (304.13 K) and 73.0 atm. Can CO₂ be liquefied at 40 °C by applying 100 atm pressure?",
+        "hi": "CO₂ का क्रांतिक तापमान और क्रांतिक दाब 30.98 °C (304.13 K) और 73.0 atm हैं। क्या 40 °C पर 100 atm दाब लगाकर CO₂ को द्रवित किया जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "No, because 40 °C is above the critical temperature T_c (30.98 °C)",
+          "hi": "नहीं, क्योंकि 40 °C क्रांतिक तापमान T_c (30.98 °C) से अधिक है"
+        },
+        "B": {
+          "en": "Yes, because 100 atm is greater than the critical pressure (73 atm)",
+          "hi": "हाँ, क्योंकि 100 atm क्रांतिक दाब (73 atm) से अधिक है"
+        },
+        "C": {
+          "en": "Yes, CO₂ liquefies at any temperature above 0 °C",
+          "hi": "हाँ, CO₂ 0 °C से ऊपर किसी भी तापमान पर द्रवित हो जाती है"
+        },
+        "D": {
+          "en": "Yes, but only in the presence of a catalyst",
+          "hi": "हाँ, लेकिन केवल उत्प्रेरक की उपस्थिति में"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q08",
+      "category": "Formula",
+      "question": {
+        "en": "The ratio of Boyle temperature (T_b = a/Rb) to Critical temperature (T_c = 8a/27Rb) for a van der Waals gas is:",
+        "hi": "एक वान्डर वाल्स गैस के लिए बॉयल तापमान (T_b = a/Rb) और क्रांतिक तापमान (T_c = 8a/27Rb) का अनुपात क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "27 / 8 (or 3.375)",
+          "hi": "27 / 8 (या 3.375)"
+        },
+        "B": {
+          "en": "8 / 27",
+          "hi": "8 / 27"
+        },
+        "C": {
+          "en": "1.000",
+          "hi": "1.000"
+        },
+        "D": {
+          "en": "2.000",
+          "hi": "2.000"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q09",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In the Andrews P-V isotherms of CO₂, what geometrical feature characterizes the critical isotherm (at 30.98 °C)?",
+        "hi": "CO₂ के एंड्रयूज P-V समतापी वक्रों में, क्रांतिक समतापी वक्र (30.98 °C पर) की क्या ज्यामितीय विशेषता होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "A point of horizontal inflection where (∂P/∂V)_T = 0 and (∂²P/∂V²)_T = 0",
+          "hi": "क्षैतिज नति-परिवर्तन का बिंदु जहाँ (∂P/∂V)_T = 0 और (∂²P/∂V²)_T = 0 होता है"
+        },
+        "B": {
+          "en": "A vertical straight line of infinite slope",
+          "hi": "अनंत ढाल की एक ऊर्ध्वाधर सीधी रेखा"
+        },
+        "C": {
+          "en": "A rectangular hyperbola with constant PV",
+          "hi": "स्थिर PV वाला एक आयताकार अतिपरवलय"
+        },
+        "D": {
+          "en": "A sharp 90-degree right angle",
+          "hi": "एक तीक्ष्ण 90-डिग्री का समकोण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc07_q10",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table of critical temperatures (T_c) for different gases:\n| Gas | Critical Temperature (T_c in K) |\n| :--- | :--- |\n| He | 5.3 K |\n| H₂ | 33.2 K |\n| N₂ | 126.0 K |\n| NH₃ | 405.5 K |\nWhich gas will be the FIRST to liquefy when a mixture of these four gases is gradually cooled from 500 K under pressure?",
+        "hi": "विभिन्न गैसों के क्रांतिक तापमान (T_c) की तालिका की जाँच करें:\n| गैस | क्रांतिक तापमान (K में T_c) |\n| :--- | :--- |\n| He | 5.3 K |\n| H₂ | 33.2 K |\n| N₂ | 126.0 K |\n| NH₃ | 405.5 K |\nजब इन चारों गैसों के मिश्रण को दाब में 500 K से धीरे-धीरे ठंडा किया जाता है, तो कौन सी गैस सबसे पहले द्रवित होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "NH₃ (highest T_c = 405.5 K)",
+          "hi": "NH₃ (उच्चतम T_c = 405.5 K)"
+        },
+        "B": {
+          "en": "He (lowest T_c = 5.3 K)",
+          "hi": "He (न्यूनतम T_c = 5.3 K)"
+        },
+        "C": {
+          "en": "H₂",
+          "hi": "H₂"
+        },
+        "D": {
+          "en": "N₂",
+          "hi": "N₂"
+        }
+      }
+    }
+  ]
+}

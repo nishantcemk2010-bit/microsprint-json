@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc02_q01",
+      "category": "Theory",
+      "question": {
+        "en": "The oxidation number of an element in its free or uncombined elemental state (e.g., O2, P4, S8, Na) is always:",
+        "hi": "किसी तत्व की मुक्त अथवा असंबद्ध तात्विक अवस्था (जैसे O2, P4, S8, Na) में ऑक्सीकरण संख्या सदैव होती है:"
+      },
+      "options": {
+        "A": {
+          "en": "Zero (0)",
+          "hi": "शून्य (0)"
+        },
+        "B": {
+          "en": "+1",
+          "hi": "+1"
+        },
+        "C": {
+          "en": "-1",
+          "hi": "-1"
+        },
+        "D": {
+          "en": "Equal to its group number",
+          "hi": "उसके वर्ग संख्या के बराबर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Fluorine exhibits an oxidation state of -1 in all its compounds because:",
+        "hi": "फ्लोरीन अपने सभी यौगिकों में -1 ऑक्सीकरण अवस्था प्रदर्शित करता है, इसका कारण है:"
+      },
+      "options": {
+        "A": {
+          "en": "It is the most electronegative element known and lacks d-orbitals",
+          "hi": "यह ज्ञात तत्वों में सर्वाधिक ऋणविद्युती तत्व है और इसमें d-कक्षक अनुपस्थित होते हैं"
+        },
+        "B": {
+          "en": "It is a halogen gas",
+          "hi": "यह एक हैलोजन गैस है"
+        },
+        "C": {
+          "en": "It has 7 valence electrons and accepts two electrons",
+          "hi": "इसके संयोजी कोश में 7 इलेक्ट्रॉन होते हैं और यह दो इलेक्ट्रॉन स्वीकार करता है"
+        },
+        "D": {
+          "en": "Its atomic mass is 19",
+          "hi": "इसका परमाणु द्रव्यमान 19 है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q03",
+      "category": "Theory",
+      "question": {
+        "en": "In peroxides (such as H2O2, Na2O2, BaO2), what is the oxidation number of oxygen?",
+        "hi": "परॉक्साइडों (जैसे H2O2, Na2O2, BaO2) में ऑक्सीजन की ऑक्सीकरण संख्या क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "-1",
+          "hi": "-1"
+        },
+        "B": {
+          "en": "-2",
+          "hi": "-2"
+        },
+        "C": {
+          "en": "-1/2",
+          "hi": "-1/2"
+        },
+        "D": {
+          "en": "+2",
+          "hi": "+2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What is the algebraic sum of the oxidation numbers of all atoms in a neutral molecule and in a polyatomic ion respectively?",
+        "hi": "एक उदासीन अणु तथा एक बहुपरमाणुक आयन में सभी परमाणुओं की ऑक्सीकरण संख्याओं का बीजगणितीय योग क्रमशः क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Zero in a neutral molecule, and equal to the net charge in a polyatomic ion",
+          "hi": "उदासीन अणु में शून्य, तथा बहुपरमाणुक आयन में उस पर उपस्थित कुल आवेश के बराबर"
+        },
+        "B": {
+          "en": "Equal to +1 in both",
+          "hi": "दोनों में +1 के बराबर"
+        },
+        "C": {
+          "en": "Equal to atomic number in both",
+          "hi": "दोनों में परमाणु क्रमांक के बराबर"
+        },
+        "D": {
+          "en": "Always zero in both",
+          "hi": "दोनों में सदैव शून्य"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the reason behind the apparent fractional oxidation state in compounds like C3O2 (carbon suboxide) and Br3O8 (tribromooctoxide)?",
+        "hi": "C3O2 (कार्बन सबऑक्साइड) और Br3O8 जैसे यौगिकों में दृश्य भिन्नात्मक ऑक्सीकरण अवस्था का क्या कारण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Atoms of the same element are present in different structural environments with different integer oxidation states, and the observed value is an average",
+          "hi": "समान तत्व के परमाणु अलग-अलग संरचनात्मक परिवेश में भिन्न पूर्णांक ऑक्सीकरण अवस्थाओं में होते हैं, और प्रेक्षित मान उनका औसत होता है"
+        },
+        "B": {
+          "en": "Electrons can be split into halves and quarters",
+          "hi": "इलेक्ट्रॉनों को आधे और चौथाई भागों में विभाजित किया जा सकता है"
+        },
+        "C": {
+          "en": "The compounds are radioactive",
+          "hi": "यौगिक रेडियोधर्मी हैं"
+        },
+        "D": {
+          "en": "Fractional charge violates Pauli's principle",
+          "hi": "भिन्नात्मक आवेश पाउली नियम का उल्लंघन करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is the oxidation number of hydrogen in metal hydrides like NaH, CaH2, and LiAlH4?",
+        "hi": "NaH, CaH2 और LiAlH4 जैसे धात्विक हाइड्राइडों में हाइड्रोजन की ऑक्सीकरण संख्या क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "-1",
+          "hi": "-1"
+        },
+        "B": {
+          "en": "+1",
+          "hi": "+1"
+        },
+        "C": {
+          "en": "0",
+          "hi": "0"
+        },
+        "D": {
+          "en": "+2",
+          "hi": "+2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the oxidation state of Manganese (Mn) in potassium permanganate (KMnO4)?",
+        "hi": "पोटेशियम परमैंगनेट (KMnO4) में मैंगनीज (Mn) की ऑक्सीकरण अवस्था क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+7",
+          "hi": "+7"
+        },
+        "B": {
+          "en": "+6",
+          "hi": "+6"
+        },
+        "C": {
+          "en": "+5",
+          "hi": "+5"
+        },
+        "D": {
+          "en": "+4",
+          "hi": "+4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q08",
+      "category": "Formula",
+      "question": {
+        "en": "What is the oxidation state of Chromium (Cr) in potassium dichromate (K2Cr2O7)?",
+        "hi": "पोटेशियम डाइक्रोमेट (K2Cr2O7) में क्रोमियम (Cr) की ऑक्सीकरण अवस्था क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+6",
+          "hi": "+6"
+        },
+        "B": {
+          "en": "+3",
+          "hi": "+3"
+        },
+        "C": {
+          "en": "+7",
+          "hi": "+7"
+        },
+        "D": {
+          "en": "+12",
+          "hi": "+12"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the oxidation number of Chromium in butterfly-structured chromium pentoxide (CrO5)?",
+        "hi": "तितलीनुमा संरचना वाले क्रोमियम पेंटाऑक्साइड (CrO5) में क्रोमियम की वास्तविक ऑक्सीकरण संख्या क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+6 (due to two peroxy linkages and one oxo oxygen)",
+          "hi": "+6 (दो परॉक्सी बंधों तथा एक ऑक्सो ऑक्सीजन के कारण)"
+        },
+        "B": {
+          "en": "+10",
+          "hi": "+10"
+        },
+        "C": {
+          "en": "+5",
+          "hi": "+5"
+        },
+        "D": {
+          "en": "+3",
+          "hi": "+3"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q10",
+      "category": "Formula",
+      "question": {
+        "en": "What is the oxidation state of sulfur in Caro's acid (peroxomonosulfuric acid, H2SO5)?",
+        "hi": "कैरो अम्ल (परॉक्सोमोनोसल्फ्यूरिक अम्ल, H2SO5) में सल्फर की ऑक्सीकरण अवस्था क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+6",
+          "hi": "+6"
+        },
+        "B": {
+          "en": "+8",
+          "hi": "+8"
+        },
+        "C": {
+          "en": "+5",
+          "hi": "+5"
+        },
+        "D": {
+          "en": "+4",
+          "hi": "+4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q11",
+      "category": "Calculation",
+      "question": {
+        "en": "What are the oxidation states of the four sulfur atoms in tetrathionate ion (S4O6^2-)?",
+        "hi": "टेट्राथायोनेट आयन (S4O6^2-) में चारों सल्फर परमाणुओं की ऑक्सीकरण अवस्थाएं क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Two atoms are +5 and two central atoms are 0 (average = +2.5)",
+          "hi": "दो परमाणु +5 तथा दो केंद्रीय परमाणु 0 हैं (औसत = +2.5)"
+        },
+        "B": {
+          "en": "All four atoms are exactly +2.5",
+          "hi": "सभी चारों परमाणु ठीक +2.5 हैं"
+        },
+        "C": {
+          "en": "All four atoms are +6",
+          "hi": "सभी चारों परमाणु +6 हैं"
+        },
+        "D": {
+          "en": "Two atoms are +6 and two atoms are -1",
+          "hi": "दो परमाणु +6 तथा दो -1 हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q12",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following compounds exhibits the HIGHEST oxidation state for nitrogen?",
+        "hi": "निम्नलिखित में से किस यौगिक में नाइट्रोजन की ऑक्सीकरण अवस्था उच्चतम है?"
+      },
+      "options": {
+        "A": {
+          "en": "HNO3 (+5)",
+          "hi": "HNO3 (+5)"
+        },
+        "B": {
+          "en": "NO2 (+4)",
+          "hi": "NO2 (+4)"
+        },
+        "C": {
+          "en": "N2O (+1)",
+          "hi": "N2O (+1)"
+        },
+        "D": {
+          "en": "NH3 (-3)",
+          "hi": "NH3 (-3)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q13",
+      "category": "Diagram",
+      "question": {
+        "en": "The Lewis structure of carbon suboxide (C3O2) is:\nO = C = C* = C = O\nBased on electronegativity differences between C and O, what are the individual oxidation states of the carbons?",
+        "hi": "कार्बन सबऑक्साइड (C3O2) की लुईस संरचना है:\nO = C = C* = C = O\nC तथा O के मध्य ऋणविद्युतता के आधार पर प्रत्येक कार्बन परमाणु की व्यक्तिगत ऑक्सीकरण अवस्था क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Terminal carbons = +2 each, Central carbon C* = 0",
+          "hi": "किनारे वाले कार्बन = प्रत्येक +2, केंद्रीय कार्बन C* = 0"
+        },
+        "B": {
+          "en": "All three carbons = +4/3 each",
+          "hi": "तीनों कार्बन = प्रत्येक +4/3"
+        },
+        "C": {
+          "en": "Terminal carbons = 0, Central carbon = +4",
+          "hi": "किनारे वाले कार्बन = 0, केंद्रीय कार्बन = +4"
+        },
+        "D": {
+          "en": "All three carbons = +2",
+          "hi": "तीनों कार्बन = +2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q14",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of chlorine oxides and oxoacids:\n| Species | Formula | Oxidation state of Cl |\n|---|---|---|\n| Hypochlorite | ClO^- | +1 |\n| Chlorite | ClO2^- | +3 |\n| Chlorate | ClO3^- | +5 |\n| Perchlorate | ClO4^- | X |\nWhat is the oxidation state X of chlorine in perchlorate ion?",
+        "hi": "क्लोरीन के ऑक्साइडों तथा ऑक्सोअम्लों की तालिका का अवलोकन कीजिए:\n| स्पीशीज | सूत्र | Cl की ऑक्सीकरण अवस्था |\n|---|---|---|\n| हाइपोक्लोराइट | ClO^- | +1 |\n| क्लोराइट | ClO2^- | +3 |\n| क्लोरेट | ClO3^- | +5 |\n| परक्लोरेट | ClO4^- | X |\nपरक्लोरेट आयन में क्लोरीन की ऑक्सीकरण अवस्था X क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+7",
+          "hi": "+7"
+        },
+        "B": {
+          "en": "+8",
+          "hi": "+8"
+        },
+        "C": {
+          "en": "+6",
+          "hi": "+6"
+        },
+        "D": {
+          "en": "+4",
+          "hi": "+4"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc02_q15",
+      "category": "Graph",
+      "question": {
+        "en": "A plot shows the maximum possible oxidation state (y-axis) for 3d transition elements from Sc (Z=21) to Mn (Z=25):\nSc (+3) -> Ti (+4) -> V (+5) -> Cr (+6) -> Mn (+7)\nWhy does the maximum oxidation state increase linearly by 1 unit across this series?",
+        "hi": "Sc (Z=21) से Mn (Z=25) तक 3d संक्रमण तत्वों के लिए अधिकतम ऑक्सीकरण अवस्था में रैखिक वृद्धि (+3 से +7) का क्या कारण है?"
+      },
+      "options": {
+        "A": {
+          "en": "All 4s electrons and unpaired 3d electrons are available for bonding up to Mn: Max O.S. = 2 + (Z - 20)",
+          "hi": "Mn तक सभी 4s तथा अयुग्मित 3d इलेक्ट्रॉन बंध बनाने में भाग ले सकते हैं: अधिकतम = 2 + (Z - 20)"
+        },
+        "B": {
+          "en": "Nuclear charge decreases continuously",
+          "hi": "नाभिकीय आवेश में लगातार कमी आती है"
+        },
+        "C": {
+          "en": "Effective nuclear shielding increases to infinity",
+          "hi": "प्रभावी नाभिकीय परिरक्षण अनंत तक बढ़ जाता है"
+        },
+        "D": {
+          "en": "The elements lose all inner core 1s electrons",
+          "hi": "तत्व आंतरिक 1s इलेक्ट्रॉनों को त्याग देते हैं"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc06_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Why is potassium permanganate (KMnO4) described as a 'self-indicator' in redox titrations?",
+        "hi": "रेडॉक्स अनुमापन में पोटेशियम परमैंगनेट (KMnO4) को 'स्व-सूचक' (Self-indicator) क्यों कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Its intensely purple MnO4^- ion is reduced to nearly colorless Mn^2+, and the first slight excess of KMnO4 imparts a persistent permanent pink color at the endpoint without adding an external indicator",
+          "hi": "इसका गहरा बैंगनी MnO4^- आयन रंगहीन Mn^2+ में अपचयित होता है, और अंतिम बिंदु पर KMnO4 की पहली अतिरिक्त बूंद बिना बाहरी सूचक के स्थायी गुलाबी रंग देती है"
+        },
+        "B": {
+          "en": "It emits visible light photons upon oxidation",
+          "hi": "यह ऑक्सीकरण पर दृश्य प्रकाश उत्सर्जित करता है"
+        },
+        "C": {
+          "en": "It changes pH drastically at equivalence point",
+          "hi": "यह तुल्यता बिंदु पर pH को तेजी से बदलता है"
+        },
+        "D": {
+          "en": "It forms a white precipitate at endpoint",
+          "hi": "यह अंतिम बिंदु पर सफेद अवक्षेप बनाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In titrations using potassium dichromate (K2Cr2O7) as oxidant, why is an external indicator like diphenylamine required?",
+        "hi": "पोटेशियम डाइक्रोमेट (K2Cr2O7) द्वारा अनुमापन में डाइफेनिलऐमीन जैसे आंतरिक/बाहरी सूचक की आवश्यकता क्यों होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "The color change from orange Cr2O7^2- to green Cr^3+ is not sharp enough to visually detect the exact equivalence point without an indicator",
+          "hi": "नारंगी Cr2O7^2- से हरे Cr^3+ में रंग परिवर्तन इतना तीक्ष्ण नहीं होता कि बिना सूचक के ठीक तुल्यता बिंदु देखा जा सके"
+        },
+        "B": {
+          "en": "K2Cr2O7 is completely colorless in solution",
+          "hi": "K2Cr2O7 विलयन में पूर्णतः रंगहीन होता है"
+        },
+        "C": {
+          "en": "K2Cr2O7 cannot oxidize Fe^2+",
+          "hi": "K2Cr2O7 Fe^2+ का ऑक्सीकरण नहीं कर सकता"
+        },
+        "D": {
+          "en": "Diphenylamine acts as the main reducing agent",
+          "hi": "डाइफेनिलऐमीन मुख्य अपचायक के रूप में कार्य करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What is the primary difference between iodimetry and iodometry?",
+        "hi": "आयोडिमिति (Iodimetry) तथा आयोडोमिति (Iodometry) के मध्य मुख्य अंतर क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Iodimetry is direct titration with standard I2 solution, while iodometry is indirect titration of liberated I2 using standard sodium thiosulfate (hypo)",
+          "hi": "आयोडिमिति में मानक I2 विलयन द्वारा सीधा अनुमापन किया जाता है, जबकि आयोडोमिति में मुक्त हुई I2 का मानक सोडियम थायोसल्फेट (हाइपो) द्वारा अप्रत्यक्ष अनुमापन किया जाता है"
+        },
+        "B": {
+          "en": "Iodimetry uses hypo only, iodometry uses KMnO4 only",
+          "hi": "आयोडिमिति में केवल हाइपो तथा आयोडोमिति में केवल KMnO4 प्रयुक्त होता है"
+        },
+        "C": {
+          "en": "Iodimetry is a precipitation titration",
+          "hi": "आयोडिमिति एक अवक्षेपण अनुमापन है"
+        },
+        "D": {
+          "en": "Both methods are completely identical in every step",
+          "hi": "दोनों विधियां प्रत्येक चरण में पूर्णतः समान हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In iodometric titrations, when should the starch indicator be added to the reaction flask?",
+        "hi": "आयोडोमितीय अनुमापन में स्टार्च सूचक को अनुमापन फ्लास्क में कब मिलाया जाना चाहिए?"
+      },
+      "options": {
+        "A": {
+          "en": "Near the end point, when the brown color of iodine has faded to a pale straw yellow",
+          "hi": "अंतिम बिंदु के समीप, जब आयोडीन का भूरा रंग फीका पड़कर हल्का पीला (पुआल जैसा) हो जाए"
+        },
+        "B": {
+          "en": "Right at the beginning before adding any thiosulfate",
+          "hi": "प्रारंभ में ही, थायोसल्फेट मिलाने से पहले"
+        },
+        "C": {
+          "en": "After the end point has completely passed",
+          "hi": "अंतिम बिंदु के पूरी तरह बीत जाने के बाद"
+        },
+        "D": {
+          "en": "Starch must never be added to iodine solutions",
+          "hi": "स्टार्च को आयोडीन में कभी नहीं मिलाना चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q05",
+      "category": "Reaction",
+      "question": {
+        "en": "What is the stoichiometric reaction between liberated iodine and sodium thiosulfate (hypo) in iodometry?",
+        "hi": "आयोडोमिति में मुक्त आयोडीन तथा सोडियम थायोसल्फेट (हाइपो) के मध्य रससमीकरणमितीय अभिक्रिया क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "I2 + 2Na2S2O3 -> 2NaI + Na2S4O6 (Sodium tetrathionate)",
+          "hi": "I2 + 2Na2S2O3 -> 2NaI + Na2S4O6 (सोडियम टेट्राथायोनेट)"
+        },
+        "B": {
+          "en": "I2 + Na2S2O3 + H2O -> 2NaI + Na2SO4",
+          "hi": "I2 + Na2S2O3 + H2O -> 2NaI + Na2SO4"
+        },
+        "C": {
+          "en": "2I2 + Na2S2O3 -> 4NaI + SO2",
+          "hi": "2I2 + Na2S2O3 -> 4NaI + SO2"
+        },
+        "D": {
+          "en": "I2 + 4Na2S2O3 -> 2NaI + 2Na2S3O6",
+          "hi": "I2 + 4Na2S2O3 -> 2NaI + 2Na2S3O6"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q06",
+      "category": "Formula",
+      "question": {
+        "en": "Why is dilute H2SO4 used to acidify KMnO4 solution in redox titrations, rather than dilute HCl or dilute HNO3?",
+        "hi": "रेडॉक्स अनुमापन में KMnO4 विलयन को अम्लीय बनाने के लिए तनु HCl या तनु HNO3 के स्थान पर तनु H2SO4 का उपयोग क्यों किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "HCl is oxidized to Cl2 by KMnO4 (consuming oxidant), and HNO3 is itself a strong oxidant (competing with KMnO4), whereas H2SO4 is stable and inert",
+          "hi": "HCl को KMnO4 द्वारा Cl2 में ऑक्सीकृत कर दिया जाता है, और HNO3 स्वयं एक प्रबल ऑक्सीकारक है, जबकि H2SO4 स्थिर व अक्रिय रहता है"
+        },
+        "B": {
+          "en": "H2SO4 is completely non-polar",
+          "hi": "H2SO4 पूर्णतः अध्रुवीय है"
+        },
+        "C": {
+          "en": "HCl precipitates KMnO4 as insoluble salt",
+          "hi": "HCl, KMnO4 को अविलेय लवण के रूप में अवक्षेपित करता है"
+        },
+        "D": {
+          "en": "HNO3 reduces MnO4^- to metallic Mn",
+          "hi": "HNO3, MnO4^- को धात्विक Mn में अपचयित करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q07",
+      "category": "Calculation",
+      "question": {
+        "en": "20.0 mL of 0.1 M Mohr's salt solution [FeSO4·(NH4)2SO4·6H2O] requires what volume of 0.02 M KMnO4 solution in acidic medium for complete titration?",
+        "hi": "अम्लीय माध्यम में 0.1 M मोहर लवण विलयन के 20.0 mL के पूर्ण अनुमापन के लिए 0.02 M KMnO4 विलयन के कितने आयतन की आवश्यकता होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "20.0 mL",
+          "hi": "20.0 mL"
+        },
+        "B": {
+          "en": "10.0 mL",
+          "hi": "10.0 mL"
+        },
+        "C": {
+          "en": "40.0 mL",
+          "hi": "40.0 mL"
+        },
+        "D": {
+          "en": "5.0 mL",
+          "hi": "5.0 mL"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q08",
+      "category": "Trend",
+      "question": {
+        "en": "During a redox titration of oxalic acid (H2C2O4) with acidified KMnO4 at 60°C, the reaction starts very slowly, but after the first few drops, the purple color disappears almost instantaneously. This acceleration is caused by:",
+        "hi": "60°C पर अम्लीकृत KMnO4 के साथ ऑक्सालिक अम्ल के अनुमापन में अभिक्रिया प्रारंभ में अत्यंत धीमी होती है, परंतु कुछ बूंदों के बाद तेजी से होने लगती है। इस त्वरण का कारण है:"
+      },
+      "options": {
+        "A": {
+          "en": "Autocatalysis by the product Mn^2+ ions formed during the reaction",
+          "hi": "अभिक्रिया में बने उत्पाद Mn^2+ आयनों द्वारा स्व-उत्प्रेरण (Autocatalysis)"
+        },
+        "B": {
+          "en": "Sudden boiling of the solution",
+          "hi": "विलयन का अचानक उबलना"
+        },
+        "C": {
+          "en": "Complete evaporation of water",
+          "hi": "जल का पूर्ण वाष्पीकरण"
+        },
+        "D": {
+          "en": "Formation of solid precipitate",
+          "hi": "ठोस अवक्षेप का बनना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q09",
+      "category": "Diagram",
+      "question": {
+        "en": "The apparatus diagram shows a standard redox titration setup:\n[Burette: contains KMnO4 solution (purple)]\n     |\n     v (dropwise addition)\n[Conical Flask: contains acidified FeSO4 solution (pale green)]\nWhat visual change marks the exact equivalence endpoint?",
+        "hi": "रेडॉक्स अनुमापन का उपकरण आरेख देखिए:\nब्यूरेट में KMnO4 तथा शंक्वाकार फ्लास्क में अम्लीकृत FeSO4 है।\nकौन-सा दृश्य परिवर्तन ठीक तुल्यता अंतिम बिंदु को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Appearance of a permanent faint pink color in the flask",
+          "hi": "फ्लास्क में एक स्थायी हल्के गुलाबी रंग का प्रकट होना"
+        },
+        "B": {
+          "en": "Formation of a dark blue precipitate",
+          "hi": "गहरे नीले अवक्षेप का बनना"
+        },
+        "C": {
+          "en": "Complete disappearance of all liquid",
+          "hi": "सारे द्रव का पूरी तरह गायब हो जाना"
+        },
+        "D": {
+          "en": "Evolution of brown nitrogen dioxide fumes",
+          "hi": "भूरे रंग के नाइट्रोजन डाइऑक्साइड धुएं का निकलना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc06_q10",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table comparing three common redox titration systems:\n| System | Titrant | Primary Indicator | Endpoint Color Change |\n|---|---|---|---|\n| Permanganometry | KMnO4 | Self-indicator | Colorless -> Permanent pink |\n| Dichromatometry | K2Cr2O7 | Diphenylamine | Green -> Deep violet-blue |\n| Iodometry | Na2S2O3 | Starch | X |\nWhat is the endpoint color change X in iodometric titrations?",
+        "hi": "तीन सामान्य रेडॉक्स अनुमापन प्रणालियों की तालिका का अवलोकन कीजिए:\nआयोडोमितीय अनुमापन में अंतिम बिंदु पर रंग परिवर्तन X क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Deep blue -> Completely colorless",
+          "hi": "गहरा नीला -> पूर्णतः रंगहीन"
+        },
+        "B": {
+          "en": "Colorless -> Bright orange",
+          "hi": "रंगहीन -> चमकीला नारंगी"
+        },
+        "C": {
+          "en": "Yellow -> Red precipitate",
+          "hi": "पीला -> लाल अवक्षेप"
+        },
+        "D": {
+          "en": "Pink -> Green",
+          "hi": "गुलाबी -> हरा"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc03_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Enthalpy (H) is defined mathematically as:",
+        "hi": "एन्थैल्पी (H) को गणितीय रूप से किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "H = U + PV",
+          "hi": "H = U + PV"
+        },
+        "B": {
+          "en": "H = U - PV",
+          "hi": "H = U - PV"
+        },
+        "C": {
+          "en": "H = U + TS",
+          "hi": "H = U + TS"
+        },
+        "D": {
+          "en": "H = q + w",
+          "hi": "H = q + w"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Under which condition is the heat exchanged (q) exactly equal to the change in enthalpy (ΔH)?",
+        "hi": "किस परिस्थिति में आदान-प्रदान की गई ऊष्मा (q) ठीक एन्थैल्पी में परिवर्तन (ΔH) के बराबर होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "At constant pressure (q_p = ΔH)",
+          "hi": "स्थिर दाब पर (q_p = ΔH)"
+        },
+        "B": {
+          "en": "At constant volume (q_v = ΔH)",
+          "hi": "स्थिर आयतन पर (q_v = ΔH)"
+        },
+        "C": {
+          "en": "In an adiabatic process",
+          "hi": "एक रुद्धोष्म प्रक्रम में"
+        },
+        "D": {
+          "en": "At constant temperature only",
+          "hi": "केवल स्थिर तापमान पर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q03",
+      "category": "Theory",
+      "question": {
+        "en": "For a chemical reaction involving gases, how are ΔH and ΔU related at constant temperature T?",
+        "hi": "गैसों से युक्त एक रासायनिक अभिक्रिया के लिए, स्थिर तापमान T पर ΔH और ΔU कैसे संबंधित हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔH = ΔU + Δn_g RT",
+          "hi": "ΔH = ΔU + Δn_g RT"
+        },
+        "B": {
+          "en": "ΔH = ΔU - Δn_g RT",
+          "hi": "ΔH = ΔU - Δn_g RT"
+        },
+        "C": {
+          "en": "ΔH = ΔU + RT / Δn_g",
+          "hi": "ΔH = ΔU + RT / Δn_g"
+        },
+        "D": {
+          "en": "ΔH = ΔU · Δn_g RT",
+          "hi": "ΔH = ΔU · Δn_g RT"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Under which of the following circumstances is ΔH strictly equal to ΔU for a chemical reaction?",
+        "hi": "निम्नलिखित में से किस परिस्थिति में रासायनिक अभिक्रिया के लिए ΔH कड़ाई से ΔU के बराबर होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "When Δn_g = 0 (equal moles of gaseous products and gaseous reactants)",
+          "hi": "जब Δn_g = 0 हो (गैसीय उत्पादों और अभिकारकों के मोल समान हों)"
+        },
+        "B": {
+          "en": "When Δn_g > 0",
+          "hi": "जब Δn_g > 0 हो"
+        },
+        "C": {
+          "en": "When the reaction is carried out in an open vessel",
+          "hi": "जब अभिक्रिया एक खुले पात्र में की जाती है"
+        },
+        "D": {
+          "en": "Only at 0 °C",
+          "hi": "केवल 0 °C पर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Why is the molar heat capacity at constant pressure (C_p) always greater than that at constant volume (C_v) for an ideal gas?",
+        "hi": "एक आदर्श गैस के लिए स्थिर दाब पर मोलर ऊष्मा धारिता (C_p) हमेशा स्थिर आयतन पर मोलर ऊष्मा धारिता (C_v) से अधिक क्यों होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "At constant pressure, supplied heat not only raises temperature (increases internal energy) but also does expansion work against surroundings",
+          "hi": "स्थिर दाब पर, दी गई ऊष्मा न केवल तापमान बढ़ाती है (आंतरिक ऊर्जा बढ़ाती है) बल्कि परिवेश के विरुद्ध प्रसार कार्य भी करती है"
+        },
+        "B": {
+          "en": "At constant volume, the gas molecules destroy heat",
+          "hi": "स्थिर आयतन पर गैस के अणु ऊष्मा नष्ट करते हैं"
+        },
+        "C": {
+          "en": "Because C_p is measured in Kelvin while C_v is in Celsius",
+          "hi": "क्योंकि C_p केल्विन में मापा जाता है जबकि C_v सेल्सियस में"
+        },
+        "D": {
+          "en": "Because atmospheric pressure adds extra heat to the gas",
+          "hi": "क्योंकि वायुमंडलीय दाब गैस में अतिरिक्त ऊष्मा जोड़ता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q06",
+      "category": "Theory",
+      "question": {
+        "en": "Mayer's relation connecting the molar heat capacities of an ideal gas is:",
+        "hi": "एक आदर्श गैस की मोलर ऊष्मा धारिताओं को जोड़ने वाला मेयर का संबंध क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "C_p - C_v = R",
+          "hi": "C_p - C_v = R"
+        },
+        "B": {
+          "en": "C_p + C_v = R",
+          "hi": "C_p + C_v = R"
+        },
+        "C": {
+          "en": "C_v - C_p = R",
+          "hi": "C_v - C_p = R"
+        },
+        "D": {
+          "en": "C_p / C_v = R",
+          "hi": "C_p / C_v = R"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q07",
+      "category": "Formula",
+      "question": {
+        "en": "For the reaction: N₂(g) + 3H₂(g) → 2NH₃(g), what is the value of Δn_g?",
+        "hi": "अभिक्रिया N₂(g) + 3H₂(g) → 2NH₃(g) के लिए Δn_g का मान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "-2",
+          "hi": "-2"
+        },
+        "B": {
+          "en": "+2",
+          "hi": "+2"
+        },
+        "C": {
+          "en": "0",
+          "hi": "0"
+        },
+        "D": {
+          "en": "-1",
+          "hi": "-1"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q08",
+      "category": "Formula",
+      "question": {
+        "en": "For the combustion of benzene: C₆H₆(l) + (15/2)O₂(g) → 6CO₂(g) + 3H₂O(l) at 298 K, ΔH - ΔU is equal to:",
+        "hi": "298 K पर बेंजीन के दहन C₆H₆(l) + (15/2)O₂(g) → 6CO₂(g) + 3H₂O(l) के लिए ΔH - ΔU किसके बराबर है?"
+      },
+      "options": {
+        "A": {
+          "en": "-1.5 RT",
+          "hi": "-1.5 RT"
+        },
+        "B": {
+          "en": "+1.5 RT",
+          "hi": "+1.5 RT"
+        },
+        "C": {
+          "en": "-0.5 RT",
+          "hi": "-0.5 RT"
+        },
+        "D": {
+          "en": "+0.5 RT",
+          "hi": "+0.5 RT"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q09",
+      "category": "Formula",
+      "question": {
+        "en": "If ΔU for the combustion of 1 mole of methane: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l) is -885 kJ/mol at 298 K, calculate ΔH. (R = 8.314 J·K⁻¹·mol⁻¹)",
+        "hi": "यदि 298 K पर मीथेन के 1 मोल के दहन CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l) के लिए ΔU = -885 kJ/mol है, तो ΔH की गणना करें। (R = 8.314 J·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "-889.95 kJ/mol",
+          "hi": "-889.95 kJ/mol"
+        },
+        "B": {
+          "en": "-880.05 kJ/mol",
+          "hi": "-880.05 kJ/mol"
+        },
+        "C": {
+          "en": "-885.00 kJ/mol",
+          "hi": "-885.00 kJ/mol"
+        },
+        "D": {
+          "en": "-895.20 kJ/mol",
+          "hi": "-895.20 kJ/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q10",
+      "category": "Formula",
+      "question": {
+        "en": "What are the values of C_v and C_p for one mole of a monoatomic ideal gas (such as He or Ar)?",
+        "hi": "एक एकपरमाणुक आदर्श गैस (जैसे He या Ar) के एक मोल के लिए C_v और C_p के मान क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "C_v = (3/2)R; C_p = (5/2)R",
+          "hi": "C_v = (3/2)R; C_p = (5/2)R"
+        },
+        "B": {
+          "en": "C_v = (5/2)R; C_p = (7/2)R",
+          "hi": "C_v = (5/2)R; C_p = (7/2)R"
+        },
+        "C": {
+          "en": "C_v = 3R; C_p = 4R",
+          "hi": "C_v = 3R; C_p = 4R"
+        },
+        "D": {
+          "en": "C_v = R; C_p = 2R",
+          "hi": "C_v = R; C_p = 2R"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q11",
+      "category": "Formula",
+      "question": {
+        "en": "What is the ratio of molar heat capacities γ = C_p / C_v for a rigid diatomic gas (such as N₂ or O₂ at moderate temperatures)?",
+        "hi": "मध्यम तापमान पर एक दृढ़ द्विपरमाणुक गैस (जैसे N₂ या O₂) के लिए मोलर ऊष्मा धारिताओं का अनुपात γ = C_p / C_v क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "7/5 = 1.40",
+          "hi": "7/5 = 1.40"
+        },
+        "B": {
+          "en": "5/3 = 1.67",
+          "hi": "5/3 = 1.67"
+        },
+        "C": {
+          "en": "4/3 = 1.33",
+          "hi": "4/3 = 1.33"
+        },
+        "D": {
+          "en": "9/7 = 1.28",
+          "hi": "9/7 = 1.28"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q12",
+      "category": "Formula",
+      "question": {
+        "en": "For which of the following reactions is ΔH > ΔU?",
+        "hi": "निम्नलिखित में से किस अभिक्रिया के लिए ΔH > ΔU होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "PCl₅(g) → PCl₃(g) + Cl₂(g)",
+          "hi": "PCl₅(g) → PCl₃(g) + Cl₂(g)"
+        },
+        "B": {
+          "en": "N₂(g) + 3H₂(g) → 2NH₃(g)",
+          "hi": "N₂(g) + 3H₂(g) → 2NH₃(g)"
+        },
+        "C": {
+          "en": "H₂(g) + I₂(g) → 2HI(g)",
+          "hi": "H₂(g) + I₂(g) → 2HI(g)"
+        },
+        "D": {
+          "en": "2SO₂(g) + O₂(g) → 2SO₃(g)",
+          "hi": "2SO₂(g) + O₂(g) → 2SO₃(g)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table matching reactions with their Δn_g values:\n| Reaction | Δn_g |\n| :--- | :--- |\n| 1. C(s) + O₂(g) → CO₂(g) | P. +1 |\n| 2. CaCO₃(s) → CaO(s) + CO₂(g) | Q. 0 |\n| 3. 2H₂(g) + O₂(g) → 2H₂O(l) | R. -3 |\nWhich matching is correct?",
+        "hi": "अभिक्रियाओं और उनके Δn_g मानों का मिलान करने वाली तालिका की जाँच करें:\n| अभिक्रिया | Δn_g |\n| :--- | :--- |\n| 1. C(s) + O₂(g) → CO₂(g) | P. +1 |\n| 2. CaCO₃(s) → CaO(s) + CO₂(g) | Q. 0 |\n| 3. 2H₂(g) + O₂(g) → 2H₂O(l) | R. -3 |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        },
+        "D": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "How much heat is required to raise the temperature of 2.0 moles of a monoatomic ideal gas by 10 °C at constant volume? (R = 8.314 J·K⁻¹·mol⁻¹)",
+        "hi": "स्थिर आयतन पर एक एकपरमाणुक आदर्श गैस के 2.0 मोल का तापमान 10 °C बढ़ाने के लिए कितनी ऊष्मा की आवश्यकता होगी? (R = 8.314 J·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "249.42 J",
+          "hi": "249.42 J"
+        },
+        "B": {
+          "en": "415.70 J",
+          "hi": "415.70 J"
+        },
+        "C": {
+          "en": "166.28 J",
+          "hi": "166.28 J"
+        },
+        "D": {
+          "en": "83.14 J",
+          "hi": "83.14 J"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc03_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "For an endothermic reaction where Δn_g = +2, how do ΔH and ΔU compare?",
+        "hi": "एक ऊष्माशोषी अभिक्रिया के लिए जहाँ Δn_g = +2 है, ΔH और ΔU की तुलना कैसे होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔH is greater than ΔU (ΔH > ΔU)",
+          "hi": "ΔH, ΔU से अधिक होता है (ΔH > ΔU)"
+        },
+        "B": {
+          "en": "ΔH is less than ΔU (ΔH < ΔU)",
+          "hi": "ΔH, ΔU से कम होता है (ΔH < ΔU)"
+        },
+        "C": {
+          "en": "ΔH is exactly equal to ΔU",
+          "hi": "ΔH, ΔU के ठीक बराबर होता है"
+        },
+        "D": {
+          "en": "ΔU is negative while ΔH is positive",
+          "hi": "ΔU ऋणात्मक जबकि ΔH धनात्मक होता है"
+        }
+      }
+    }
+  ]
+}

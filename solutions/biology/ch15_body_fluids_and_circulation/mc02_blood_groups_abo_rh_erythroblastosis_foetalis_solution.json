@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch15_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "The ABO blood group antigens (antigen A and antigen B) in humans are chemically located on the surface of:",
+        "hi": "मनुष्यों में ABO रक्त समूह प्रतिजन (एंटीजन A और एंटीजन B) रासायनिक रूप से किसकी सतह पर स्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Plasma membrane of erythrocytes (RBCs)",
+          "hi": "रक्ताणुओं (RBCs) की प्लाज्मा झिल्ली"
+        },
+        "B": {
+          "en": "Outer membrane of blood platelets",
+          "hi": "रक्त पट्टिकाणुओं की बाह्य झिल्ली"
+        },
+        "C": {
+          "en": "Nuclear envelope of monocytes",
+          "hi": "मोनोसाइट्स की केंद्रक झिल्ली"
+        },
+        "D": {
+          "en": "Membrane of blood basophils",
+          "hi": "रक्त बेसोफिल्स की झिल्ली"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "ABO blood group antigens are surface glycoproteins/glycolipids extending outwards from the external leaflet of the erythrocyte (RBC) plasma membrane.",
+        "hi": "ABO रक्त समूह एंटीजन सतही ग्लाइकोप्रोटीन/ग्लाइकोलिपिड होते हैं जो रक्ताणुओं (RBCs) की प्लाज्मा झिल्ली की बाहरी सतह पर पाए जाते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "An individual with blood group AB positive is designated as the 'universal recipient' because:",
+        "hi": "रक्त समूह AB धनात्मक (AB+) वाले व्यक्ति को 'सार्वभौमिक ग्राही' कहा जाता है क्योंकि:"
+      },
+      "options": {
+        "A": {
+          "en": "Their plasma has both anti-A and anti-B antibodies but lacks Rh antigen",
+          "hi": "उनके प्लाज्मा में एंटी-A और एंटी-B दोनों एंटीबॉडी होते हैं लेकिन Rh एंटीजन नहीं होता"
+        },
+        "B": {
+          "en": "Their RBCs lack all surface antigens",
+          "hi": "उनकी RBCs पर सभी सतही एंटीजन का अभाव होता है"
+        },
+        "C": {
+          "en": "Their RBCs have A, B, and Rh antigens, and their plasma lacks anti-A and anti-B antibodies",
+          "hi": "उनकी RBCs में A, B और Rh एंटीजन होते हैं, तथा प्लाज्मा में एंटी-A और एंटी-B एंटीबॉडी का अभाव होता है"
+        },
+        "D": {
+          "en": "They can safely donate blood to all ABO blood groups",
+          "hi": "वे सभी ABO रक्त समूहों को सुरक्षित रूप से रक्तदान कर सकते हैं"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Individuals with AB+ blood group have A, B, and Rh antigens on their RBCs and possess neither anti-A nor anti-B antibodies in their plasma. Therefore, their plasma will not attack donor RBCs from any ABO/Rh group.",
+        "hi": "AB+ रक्त समूह वाले व्यक्तियों की RBCs पर A, B और Rh एंटीजन होते हैं और उनके प्लाज्मा में न तो एंटी-A और न ही एंटी-B एंटीबॉडी होते हैं। इसलिए उनका प्लाज्मा किसी भी दाता समूह की RBCs को नष्ट नहीं करेगा।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "Blood group O negative (O -ve) is universally regarded as the true universal red blood cell donor because:",
+        "hi": "रक्त समूह O ऋणात्मक (O -ve) को वास्तविक सार्वभौमिक लाल रक्त कोशिका दाता माना जाता है क्योंकि:"
+      },
+      "options": {
+        "A": {
+          "en": "Its plasma lacks both anti-A and anti-B antibodies",
+          "hi": "इसके प्लाज्मा में एंटी-A और एंटी-B दोनों एंटीबॉडी का अभाव होता है"
+        },
+        "B": {
+          "en": "Its erythrocyte surface completely lacks antigen A, antigen B, and the Rh antigen",
+          "hi": "इसकी रक्ताणु सतह पर एंटीजन A, एंटीजन B और Rh एंटीजन का पूर्ण अभाव होता है"
+        },
+        "C": {
+          "en": "It has both antigen A and B along with Rh antigen",
+          "hi": "इसमें Rh एंटीजन के साथ-साथ एंटीजन A और B दोनों होते हैं"
+        },
+        "D": {
+          "en": "It stimulates antibody production in all recipients",
+          "hi": "यह सभी प्राप्तकर्ताओं में एंटीबॉडी उत्पादन को उत्तेजित करता है"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "O negative RBCs possess neither A, B, nor Rh antigens. When transfused into any recipient, these RBCs do not trigger an immune reaction from the recipient's pre-existing anti-A, anti-B, or anti-Rh antibodies.",
+        "hi": "O ऋणात्मक RBCs में न तो A, न B, और न ही Rh एंटीजन होता है। जब किसी भी प्राप्तकर्ता में यह रक्त चढ़ाया जाता है, तो ये RBCs प्राप्तकर्ता की एंटीबॉडी द्वारा नष्ट नहीं होती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "Erythroblastosis foetalis (hemolytic disease of the newborn) is triggered under which of the following specific parental and fetal Rh combinations?",
+        "hi": "गर्भ रक्ताणुकोरकता (नवजात का रक्तलायी रोग) निम्नलिखित में से किस विशिष्ट मातृ और भ्रूणीय Rh संयोजन के तहत शुरू होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Rh-positive mother carrying an Rh-negative fetus",
+          "hi": "Rh-धनात्मक माता द्वारा Rh-ऋणात्मक भ्रूण का वहन"
+        },
+        "B": {
+          "en": "Rh-positive mother carrying an Rh-positive fetus",
+          "hi": "Rh-धनात्मक माता द्वारा Rh-धनात्मक भ्रूण का वहन"
+        },
+        "C": {
+          "en": "Rh-negative mother carrying an Rh-negative fetus",
+          "hi": "Rh-ऋणात्मक माता द्वारा Rh-ऋणात्मक भ्रूण का वहन"
+        },
+        "D": {
+          "en": "Rh-negative mother carrying an Rh-positive fetus",
+          "hi": "Rh-ऋणात्मक माता द्वारा Rh-धनात्मक भ्रूण का वहन"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Erythroblastosis foetalis occurs when an Rh-negative mother is carrying an Rh-positive fetus (inherited from an Rh-positive father). Exposure during the first delivery sensitizes the mother, leading to antibody attack in subsequent Rh-positive pregnancies.",
+        "hi": "गर्भ रक्ताणुकोरकता तब होती है जब एक Rh-ऋणात्मक माता Rh-धनात्मक भ्रूण (Rh-धनात्मक पिता से प्राप्त) को धारण करती है। पहले प्रसव के दौरान संवेदीकरण के बाद, परवर्ती Rh-धनात्मक गर्भधारण में माता की एंटीबॉडी भ्रूण की RBCs को नष्ट कर देती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "How does administering anti-Rh antibodies (RhoGAM) to an Rh-negative mother immediately following the delivery of an Rh-positive baby prevent erythroblastosis foetalis?",
+        "hi": "एक Rh-धनात्मक बच्चे के जन्म के तुरंत बाद एक Rh-ऋणात्मक माता को एंटी-Rh एंटीबॉडी (RhoGAM) देने से गर्भ रक्ताणुकोरकता की रोकथाम कैसे होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "It clears leaked fetal Rh-positive RBCs before maternal immune cells are sensitized to produce memory B cells",
+          "hi": "यह मातृ प्रतिरक्षा तंत्र द्वारा संवेदीकरण और स्मृति B कोशिकाओं के निर्माण से पहले लीक हुई भ्रूणीय Rh+ RBCs को नष्ट कर देता है"
+        },
+        "B": {
+          "en": "It permanently changes the mother's genotype to Rh-positive",
+          "hi": "यह माता के जीनोटाइप को स्थायी रूप से Rh-धनात्मक में बदल देता है"
+        },
+        "C": {
+          "en": "It blocks Rh antigens from ever expressing in the next child",
+          "hi": "यह अगले बच्चे में Rh एंटीजन की अभिव्यक्ति को रोक देता है"
+        },
+        "D": {
+          "en": "It suppresses placental hormone synthesis",
+          "hi": "यह अपरा हॉर्मोन संश्लेषण को दबा देता है"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "RhoGAM provides passive anti-Rh antibodies that bind and eliminate fetal Rh+ RBCs in maternal circulation before the maternal immune system mounts an active immune response and forms anti-Rh memory B-lymphocytes.",
+        "hi": "RhoGAM निष्क्रिय एंटी-Rh एंटीबॉडी प्रदान करता है जो मातृ परिसंचरण में आई भ्रूणीय Rh+ RBCs को मातृ प्रतिरक्षा तंत्र द्वारा सक्रिय अनुक्रिया और स्मृति कोशिकाओं के निर्माण से पहले ही नष्ट कर देता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "Which immunoglobulin isotype crosses the human placenta from mother to fetus, causing immune hemolysis of fetal RBCs in erythroblastosis foetalis?",
+        "hi": "गर्भ रक्ताणुकोरकता में भ्रूणीय RBCs के प्रतिरक्षा रक्तलयन का कारण बनने वाला कौन सा इम्यूनोग्लोबुलिन वर्ग माता से भ्रूण में अपरा को पार करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "IgM",
+          "hi": "IgM"
+        },
+        "B": {
+          "en": "IgG",
+          "hi": "IgG"
+        },
+        "C": {
+          "en": "IgA",
+          "hi": "IgA"
+        },
+        "D": {
+          "en": "IgE",
+          "hi": "IgE"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "IgG is the only antibody class capable of crossing the placenta via maternal-fetal Fc receptors. Anti-Rh antibodies are monomeric IgG antibodies, whereas natural anti-A and anti-B antibodies are pentameric IgM antibodies that do not cross the placenta.",
+        "hi": "IgG एकमात्र एंटीबॉडी वर्ग है जो अपरा को पार कर सकता है। एंटी-Rh एंटीबॉडी मोनोमेरिक IgG होती हैं, जबकि प्राकृतिक एंटी-A और एंटी-B एंटीबॉडी पेंटामेरिक IgM होती हैं जो अपरा को पार नहीं कर सकती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "What proportion of the human population globally is estimated to possess the Rh antigen on the surface of their erythrocytes (Rh-positive)?",
+        "hi": "वैश्विक स्तर पर मानव जनसंख्या के कितने अनुपात में उनकी रक्ताणुओं की सतह पर Rh एंटीजन (Rh-धनात्मक) उपस्थित होने का अनुमान है?"
+      },
+      "options": {
+        "A": {
+          "en": "~20%",
+          "hi": "~20%"
+        },
+        "B": {
+          "en": "~50%",
+          "hi": "~50%"
+        },
+        "C": {
+          "en": "~80%",
+          "hi": "~80%"
+        },
+        "D": {
+          "en": "~99%",
+          "hi": "~99%"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Approximately 80 percent of humans possess the Rh antigen on the surface of their RBCs and are termed Rh-positive (Rh+ve). The remaining ~20% lack this antigen and are Rh-negative (Rh-ve).",
+        "hi": "लगभग 80 प्रतिशत मनुष्यों की RBCs की सतह पर Rh एंटीजन उपस्थित होता है और उन्हें Rh-धनात्मक (Rh+ve) कहा जाता है। शेष ~20% में यह एंटीजन नहीं होता और वे Rh-ऋणात्मक (Rh-ve) होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "A man with blood group A (whose father had group O) marries a woman with blood group B (whose mother had group O). What are the possible blood groups among their biological offspring?",
+        "hi": "रक्त समूह A वाला एक पुरुष (जिसके पिता का रक्त समूह O था) रक्त समूह B वाली एक महिला (जिसकी माता का रक्त समूह O था) से विवाह करता है। उनकी संतानों में कौन से संभावित रक्त समूह हो सकते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Only AB",
+          "hi": "केवल AB"
+        },
+        "B": {
+          "en": "Only A and B",
+          "hi": "केवल A और B"
+        },
+        "C": {
+          "en": "Only A, B, and AB",
+          "hi": "केवल A, B और AB"
+        },
+        "D": {
+          "en": "A, B, AB, and O (all four groups)",
+          "hi": "A, B, AB और O (चारों समूह)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Man has genotype I^A i; Woman has genotype I^B i. Offspring genotypes: I^A I^B (Group AB), I^A i (Group A), I^B i (Group B), and ii (Group O) in a 1:1:1:1 ratio. All four blood groups are possible.",
+        "hi": "पुरुष का जीनोटाइप I^A i है; महिला का जीनोटाइप I^B i है। संतानों के जीनोटाइप: I^A I^B (समूह AB), I^A i (समूह A), I^B i (समूह B), और ii (समूह O) 1:1:1:1 के अनुपात में होंगे। चारों रक्त समूह संभव हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "In the human ABO blood group system governed by three alleles (I^A, I^B, i), how many total distinct genotypes and phenotypes are possible in the population?",
+        "hi": "तीन युग्मविकल्पियों (I^A, I^B, i) द्वारा नियंत्रित मानव ABO रक्त समूह तंत्र में, जनसंख्या में कुल कितने भिन्न जीनोटाइप और फीनोटाइप संभव हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "6 genotypes and 4 phenotypes",
+          "hi": "6 जीनोटाइप और 4 फीनोटाइप"
+        },
+        "B": {
+          "en": "4 genotypes and 6 phenotypes",
+          "hi": "4 जीनोटाइप और 6 फीनोटाइप"
+        },
+        "C": {
+          "en": "3 genotypes and 3 phenotypes",
+          "hi": "3 जीनोटाइप और 3 फीनोटाइप"
+        },
+        "D": {
+          "en": "9 genotypes and 6 phenotypes",
+          "hi": "9 जीनोटाइप और 6 फीनोटाइप"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "For 3 alleles, the number of genotypes is n(n+1)/2 = 3(4)/2 = 6 genotypes (I^A I^A, I^A i, I^B I^B, I^B i, I^A I^B, ii). These yield 4 phenotypes (Blood groups A, B, AB, and O).",
+        "hi": "3 एलील्स के लिए जीनोटाइप की संख्या n(n+1)/2 = 3(4)/2 = 6 जीनोटाइप होती है। ये 4 फीनोटाइप (रक्त समूह A, B, AB और O) उत्पन्न करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "A recipient with blood group A receives a whole blood transfusion from a donor with blood group B. What immediate immune event occurs in the recipient?",
+        "hi": "रक्त समूह A वाला एक प्राप्तकर्ता रक्त समूह B वाले दाता से पूर्ण रक्त आधान प्राप्त करता है। प्राप्तकर्ता में कौन सी तात्कालिक प्रतिरक्षा घटना घटित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Donor anti-A antibodies multiply and destroy recipient WBCs",
+          "hi": "दाता के एंटी-A एंटीबॉडी बहुगुणित होकर प्राप्तकर्ता की WBCs को नष्ट कर देते हैं"
+        },
+        "B": {
+          "en": "Recipient's plasma anti-B antibodies agglutinate and hemolyze donor RBCs",
+          "hi": "प्राप्तकर्ता के प्लाज्मा के एंटी-B एंटीबॉडी दाता की RBCs का समूहन और रक्तलयन कर देते हैं"
+        },
+        "C": {
+          "en": "No reaction occurs because group B is compatible with A",
+          "hi": "कोई प्रतिक्रिया नहीं होती क्योंकि समूह B, A के अनुकूल है"
+        },
+        "D": {
+          "en": "Recipient blood converts permanently to AB",
+          "hi": "प्राप्तकर्ता का रक्त स्थायी रूप से AB में बदल जाता है"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "A recipient with blood group A has natural anti-B antibodies in plasma. Transfusing group B blood introduces B antigens on RBCs, causing recipient anti-B antibodies to bind, agglutinate, and destroy the transfused donor RBCs.",
+        "hi": "रक्त समूह A वाले प्राप्तकर्ता के प्लाज्मा में प्राकृतिक रूप से एंटी-B एंटीबॉडी होते हैं। समूह B रक्त चढ़ाने पर प्राप्तकर्ता के एंटी-B एंटीबॉडी दाता की RBCs के B एंटीजन से जुड़कर उनका समूहन और विनाश कर देते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "An Rh-negative woman (rr) marries a heterozygous Rh-positive man (Rr). What is the probability that their first child will be Rh-positive?",
+        "hi": "एक Rh-ऋणात्मक महिला (rr) का विवाह एक विषमयुग्मजी Rh-धनात्मक पुरुष (Rr) से होता है। उनकी पहली संतान के Rh-धनात्मक होने की प्रायिकता क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "0%",
+          "hi": "0%"
+        },
+        "B": {
+          "en": "25%",
+          "hi": "25%"
+        },
+        "C": {
+          "en": "50%",
+          "hi": "50%"
+        },
+        "D": {
+          "en": "100%",
+          "hi": "100%"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Mother produces gametes with allele 'r' (100%). Father produces gametes with allele 'R' (50%) and 'r' (50%). Offspring genotypes are 50% Rr (Rh-positive) and 50% rr (Rh-negative). Hence, the probability is 50% (0.5).",
+        "hi": "माता केवल 'r' एलील वाले युग्मक बनाती है (100%)। पिता 'R' (50%) और 'r' (50%) एलील वाले युग्मक बनाता है। संतानों के जीनोटाइप 50% Rr (Rh-धनात्मक) और 50% rr (Rh-ऋणात्मक) होंगे। अतः प्रायिकता 50% है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "If one biological parent has blood group AB and the other parent has blood group O, which blood groups CANNOT appear in any of their offspring?",
+        "hi": "यदि एक जैविक माता या पिता का रक्त समूह AB है और दूसरे का रक्त समूह O है, तो निम्नलिखित में से कौन से रक्त समूह उनकी संतानों में प्रकट नहीं हो सकते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Group A only",
+          "hi": "केवल समूह A"
+        },
+        "B": {
+          "en": "Group B only",
+          "hi": "केवल समूह B"
+        },
+        "C": {
+          "en": "Group A and Group B",
+          "hi": "समूह A और समूह B"
+        },
+        "D": {
+          "en": "Group AB and Group O",
+          "hi": "समूह AB और समूह O"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Parent 1 has genotype I^A I^B and Parent 2 has genotype ii. Offspring can only be I^A i (Group A) or I^B i (Group B). Therefore, neither Group AB nor Group O can appear in their offspring.",
+        "hi": "जनक 1 का जीनोटाइप I^A I^B तथा जनक 2 का ii है। संतानों में केवल I^A i (समूह A) या I^B i (समूह B) हो सकते हैं। इसलिए समूह AB और समूह O कभी उत्पन्न नहीं हो सकते।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the blood groups in Column I with their corresponding surface antigens and plasma antibodies in Column II:\nColumn I:\n(a) Blood Group A\n(b) Blood Group B\n(c) Blood Group AB\n(d) Blood Group O\nColumn II:\n(i) No surface antigens; Both anti-A and anti-B antibodies in plasma\n(ii) Antigen B on RBC; Anti-A antibody in plasma\n(iii) Both Antigens A and B on RBC; No antibodies in plasma\n(iv) Antigen A on RBC; Anti-B antibody in plasma",
+        "hi": "कॉलम I में रक्त समूहों का कॉलम II में उनकी संबंधित सतही एंटीजन और प्लाज्मा एंटीबॉडी के साथ मिलान कीजिए:\nकॉलम I:\n(a) रक्त समूह A\n(b) रक्त समूह B\n(c) रक्त समूह AB\n(d) रक्त समूह O\nकॉलम II:\n(i) कोई सतही एंटीजन नहीं; प्लाज्मा में एंटी-A और एंटी-B दोनों एंटीबॉडी\n(ii) RBC पर एंटीजन B; प्लाज्मा में एंटी-A एंटीबॉडी\n(iii) RBC पर एंटीजन A और B दोनों; प्लाज्मा में कोई एंटीबॉडी नहीं\n(iv) RBC पर एंटीजन A; प्लाज्मा में एंटी-B एंटीबॉडी"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+        },
+        "B": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        },
+        "C": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        },
+        "D": {
+          "en": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "hi": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Group A = Antigen A, Anti-B (a-iv); Group B = Antigen B, Anti-A (b-ii); Group AB = Both antigens, No antibodies (c-iii); Group O = No antigens, Both antibodies (d-i).",
+        "hi": "समूह A = एंटीजन A, एंटी-B (a-iv); समूह B = एंटीजन B, एंटी-A (b-ii); समूह AB = दोनों एंटीजन, कोई एंटीबॉडी नहीं (c-iii); समूह O = कोई एंटीजन नहीं, दोनों एंटीबॉडी (d-i)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Consider an Rh-negative mother married to an Rh-positive father (heterozygous). She delivers an Rh-positive first baby without receiving RhoGAM. In her third pregnancy, the fetus is Rh-negative.\nWhat will be the clinical status of this third baby?",
+        "hi": "एक Rh-ऋणात्मक माता का विवाह एक Rh-धनात्मक पिता (विषमयुग्मजी) से होता है। वह बिना RhoGAM लिए पहले Rh-धनात्मक बच्चे को जन्म देती है। उसके तीसरे गर्भ में, भ्रूण Rh-ऋणात्मक है।\nइस तीसरे बच्चे की नैदानिक स्थिति क्या होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "Severe erythroblastosis foetalis resulting in stillbirth",
+          "hi": "गंभीर गर्भ रक्ताणुकोरकता जिसके परिणामस्वरूप मृत जन्म होगा"
+        },
+        "B": {
+          "en": "Completely normal and healthy baby because the fetus lacks Rh antigen on its RBCs",
+          "hi": "पूरी तरह से सामान्य और स्वस्थ बच्चा क्योंकि भ्रूण की RBCs पर Rh एंटीजन का अभाव होता है"
+        },
+        "C": {
+          "en": "The child will develop sickle-cell anemia",
+          "hi": "बच्चे में सिकल-सेल एनीमिया विकसित हो जाएगा"
+        },
+        "D": {
+          "en": "The child develops acute thalassemia major",
+          "hi": "बच्चे में थैलेसीमिया मेजर विकसित हो जाएगा"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Even though maternal circulation contains anti-Rh antibodies, the third fetus is Rh-negative (lacks the Rh antigen). Hence, maternal anti-Rh antibodies have no antigen to bind to, and the baby remains completely normal and unaffected.",
+        "hi": "यद्यपि माता के परिसंचरण में एंटी-Rh एंटीबॉडी मौजूद हैं, तीसरा भ्रूण Rh-ऋणात्मक है (Rh एंटीजन का अभाव)। अतः माता की एंटी-Rh एंटीबॉडी के पास जुड़ने के लिए कोई लक्ष्य नहीं होता, और बच्चा पूरी तरह से अप्रभावित और स्वस्थ रहता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the blood grouping discoveries and concepts in Column I with the correct terms in Column II:\nColumn I:\n(a) Discovery of ABO blood grouping\n(b) Universal donor blood group\n(c) Universal recipient blood group\n(d) Hemolytic disease of the newborn\nColumn II:\n(i) Blood Group AB\n(ii) Karl Landsteiner\n(iii) Erythroblastosis foetalis\n(iv) Blood Group O",
+        "hi": "कॉलम I में रक्त समूहन खोजों और अवधारणाओं का कॉलम II में सही शब्दों के साथ मिलान कीजिए:\nकॉलम I:\n(a) ABO रक्त समूहन की खोज\n(b) सार्वभौमिक दाता रक्त समूह\n(c) सार्वभौमिक ग्राही रक्त समूह\n(d) नवजात का रक्तलायी रोग\nकॉलम II:\n(i) रक्त समूह AB\n(ii) कार्ल लैंडस्टीनर\n(iii) गर्भ रक्ताणुकोरकता\n(iv) रक्त समूह O"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+          "hi": "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+        },
+        "B": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        "D": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Karl Landsteiner discovered the ABO system (a-ii); Group O is the universal donor (b-iv); Group AB is the universal recipient (c-i); Hemolytic disease of the newborn is erythroblastosis foetalis (d-iii).",
+        "hi": "कार्ल लैंडस्टीनर ने ABO तंत्र की खोज की (a-ii); समूह O सार्वभौमिक दाता है (b-iv); समूह AB सार्वभौमिक ग्राही है (c-i); नवजात का रक्तलायी रोग गर्भ रक्ताणुकोरकता है (d-iii)।"
+      }
+    }
+  ]
+}

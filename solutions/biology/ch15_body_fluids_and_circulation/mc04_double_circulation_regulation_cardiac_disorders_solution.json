@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch15_mc04_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following correctly outlines the complete anatomical pathway of pulmonary circulation in the human body?",
+        "hi": "निम्नलिखित में से कौन मानव शरीर में फुफ्फुसीय परिसंचरण के पूर्ण शारीरिक मार्ग की सही रूपरेखा प्रस्तुत करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Right ventricle -> Pulmonary artery -> Lungs -> Pulmonary veins -> Left atrium",
+          "hi": "दायां निलय -> फुफ्फुस धमनी -> फेफड़े -> फुफ्फुस शिराएं -> बायां आलिंद"
+        },
+        "B": {
+          "en": "Left ventricle -> Systemic aorta -> Tissues -> Vena cava -> Right atrium",
+          "hi": "बायां निलय -> दैहिक महाधमनी -> ऊतक -> महाशिरा -> दायां आलिंद"
+        },
+        "C": {
+          "en": "Right atrium -> Pulmonary veins -> Lungs -> Pulmonary artery -> Left ventricle",
+          "hi": "दायां आलिंद -> फुफ्फुस शिराएं -> फेफड़े -> फुफ्फुस धमनी -> बायां निलय"
+        },
+        "D": {
+          "en": "Left atrium -> Pulmonary artery -> Lungs -> Pulmonary veins -> Right ventricle",
+          "hi": "बायां आलिंद -> फुफ्फुस धमनी -> फेफड़े -> फुफ्फुस शिराएं -> दायां निलय"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Pulmonary circulation begins in the right ventricle, which pumps deoxygenated blood through the pulmonary artery to the lungs for gas exchange, and returns oxygenated blood through four pulmonary veins into the left atrium.",
+        "hi": "फुफ्फुसीय परिसंचरण दाएं निलय से शुरू होता है, जो फुफ्फुस धमनी के माध्यम से फेफड़ों में ऑक्सीजन रहित रक्त पंप करता है, और चार फुफ्फुस शिराओं के माध्यम से ऑक्सीजन युक्त रक्त बाएं आलिंद में वापस आता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q02",
+      "category": "theory",
+      "question": {
+        "en": "What is the specialized vascular connection provided by the Hepatic Portal System in humans?",
+        "hi": "मनुष्यों में यकृत निवाहिका तंत्र (हिपेटिक पोर्टल सिस्टम) द्वारा प्रदान किया जाने वाला विशिष्ट संवहनी संबंध क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Carries oxygenated blood directly from lungs to liver",
+          "hi": "फेफड़ों से सीधे यकृत तक ऑक्सीजन युक्त रक्त ले जाता है"
+        },
+        "B": {
+          "en": "Transports bile directly from liver to the right atrium",
+          "hi": "यकृत से पित्त को सीधे दाएं आलिंद में ले जाता है"
+        },
+        "C": {
+          "en": "Carries nutrient-rich deoxygenated blood from the gastrointestinal tract to the liver before reaching systemic circulation",
+          "hi": "गैस्ट्रोइंटेस्टाइनल ट्रैक्ट (पाचक नाल) से पोषक तत्वों से भरपूर रक्त को दैहिक परिसंचरण में पहुंचने से पहले यकृत तक ले जाता है"
+        },
+        "D": {
+          "en": "Drains renal blood into the portal vein",
+          "hi": "वृक्क रक्त को पोर्टल शिरा में प्रवाहित करता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "The hepatic portal system collects venous blood from the intestines, stomach, and spleen via the hepatic portal vein and conveys it directly to the liver sinusoids for nutrient processing and detoxification before it drains into the systemic vena cava via hepatic veins.",
+        "hi": "यकृत निवाहिका तंत्र हिपेटिक पोर्टल शिरा के माध्यम से आंतों से रक्त एकत्र करता है और दैहिक परिसंचरण (महाशिरा) में प्रवेश करने से पहले इसे पोषक तत्व प्रसंस्करण और विषहरण के लिए यकृत में पहुंचाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q03",
+      "category": "theory",
+      "question": {
+        "en": "In comparison to systemic veins, systemic arteries possess:",
+        "hi": "दैहिक शिराओं की तुलना में, दैहिक धमनियों में होता है:"
+      },
+      "options": {
+        "A": {
+          "en": "Thinner tunica media, wider lumen, and internal pocket valves",
+          "hi": "पतली ट्यूनिका मीडिया, चौड़ी गुहा और आंतरिक पॉकेट कपाट"
+        },
+        "B": {
+          "en": "Thicker tunica media (smooth muscle and elastic fibers), narrower lumen, and absence of valves",
+          "hi": "मोटी ट्यूनिका मीडिया (चिकनी पेशी और प्रत्यास्थ तंतु), संकीर्ण गुहा और कपाटों की अनुपस्थिति"
+        },
+        "C": {
+          "en": "Absence of tunica externa",
+          "hi": "ट्यूनिका एक्सटर्ना की अनुपस्थिति"
+        },
+        "D": {
+          "en": "No smooth muscle in their walls",
+          "hi": "उनकी भित्तियों में चिकनी पेशी का अभाव"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Arteries withstand high pulsating pressures from ventricular systole and therefore have a substantially thicker muscular and elastic tunica media, a narrower lumen, and no valves (unlike veins which contain valves to prevent backflow under low pressure).",
+        "hi": "धमनियां निलय प्रकुंचन से उत्पन्न उच्च दाब को सहन करती हैं, इसलिए उनकी ट्यूनिका मीडिया काफी मोटी होती है, गुहा संकीर्ण होती है और उनमें कपाट नहीं होते (शिराओं के विपरीत जिनमें कपाट होते हैं)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q04",
+      "category": "theory",
+      "question": {
+        "en": "How do parasympathetic neural signals transmitted via the Vagus nerve regulate cardiac performance?",
+        "hi": "वेगस तंत्रिका के माध्यम से प्रेषित परानुकंपी तंत्रिका संकेत हृदय की कार्यप्रणाली को कैसे नियंत्रित करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Increase heart rate and increase stroke volume",
+          "hi": "हृदय गति बढ़ाते हैं और स्ट्रोक आयतन बढ़ाते हैं"
+        },
+        "B": {
+          "en": "Constrict coronary arteries and increase blood pressure",
+          "hi": "कोरोनरी धमनियों को संकुचित करते हैं और रक्तचाप बढ़ाते हैं"
+        },
+        "C": {
+          "en": "Increase speed of impulse conduction through Purkinje fibers",
+          "hi": "पुरकिंजे तंतुओं के माध्यम से आवेग चालन की गति बढ़ाते हैं"
+        },
+        "D": {
+          "en": "Decrease heart rate, decrease speed of action potential conduction, and reduce cardiac output",
+          "hi": "हृदय गति कम करते हैं, क्रिया विभव चालन की गति धीमी करते हैं और हृदय निर्गम घटाते हैं"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Parasympathetic fibers of the autonomic nervous system (via the vagus nerve) release acetylcholine onto the SA and AV nodes, hyperpolarizing nodal cells, slowing action potential generation and AV conduction, thereby decreasing heart rate and cardiac output.",
+        "hi": "परानुकंपी तंत्रिका तंतु (वेगस तंत्रिका) SA और AV नोड पर एसिटाइलकोलीन मुक्त करते हैं, जो क्रिया विभव उत्पन्न होने की दर और चालन गति को धीमा कर देते हैं, जिससे हृदय गति और कार्डियक आउटपुट कम हो जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q05",
+      "category": "theory",
+      "question": {
+        "en": "Consider the following statements regarding cardiac pathology:\n(I) Heart Failure: The heart does not pump blood effectively to meet bodily metabolic needs.\n(II) Cardiac Arrest: The heart completely stops beating.\n(III) Heart Attack: Sudden damage to heart muscle caused by acute ischemia.\nWhich of the above statements are factually correct according to NCERT?",
+        "hi": "हृदय विकृति विज्ञान के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n(I) हृद्पात (हार्ट फेलियर): हृदय शरीर की चयापचयी आवश्यकताओं को पूरा करने के लिए प्रभावी रूप से रक्त पंप नहीं करता है।\n(II) हृदय रोध (कार्डियक अरेस्ट): हृदय पूरी तरह से धड़कना बंद कर देता है।\n(III) हृदयाघात (हार्ट अटैक): तीव्र इस्कीमिया (रक्ताल्पता) के कारण हृदय की पेशी अचानक क्षतिग्रस्त हो जाती है।\nNCERT के अनुसार उपरोक्त में से कौन से कथन तथ्यात्मक रूप से सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "All I, II, and III are correct",
+          "hi": "I, II और III सभी सही हैं"
+        },
+        "B": {
+          "en": "Only I is correct",
+          "hi": "केवल I सही है"
+        },
+        "C": {
+          "en": "Only II and III are correct",
+          "hi": "केवल II और III सही हैं"
+        },
+        "D": {
+          "en": "Only I and II are correct",
+          "hi": "केवल I और II सही हैं"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "NCERT clearly distinguishes all three: Heart failure is ineffective pumping (often congestive heart failure with lung congestion). Cardiac arrest is when the heart abruptly stops beating. Heart attack (myocardial infarction) is acute ischemic necrosis of heart muscle.",
+        "hi": "NCERT तीनों में स्पष्ट अंतर करता है: हार्ट फेलियर अप्रभावी पंपिंग है (फेफड़ों का संकुलन)। कार्डियक अरेस्ट तब होता है जब हृदय धड़कना बंद कर देता है। हार्ट अटैक हृदय पेशी की तीव्र क्षति है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q06",
+      "category": "theory",
+      "question": {
+        "en": "Coronary Artery Disease (CAD), commonly known as Atherosclerosis, is primarily caused by:",
+        "hi": "कोरोनरी धमनी रोग (CAD), जिसे सामान्यतः एथेरोस्क्लेरोसिस कहा जाता है, मुख्य रूप से किसके कारण होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Bacterial inflammation of the endocardium",
+          "hi": "एंडोकार्डियम की जीवाणु जनित सूजन"
+        },
+        "B": {
+          "en": "Sudden rupture of the pericardial sac",
+          "hi": "पेरिकार्डियल थैली का अचानक फटना"
+        },
+        "C": {
+          "en": "Deposition of calcium, fat, cholesterol, and fibrous tissue narrowing the lumen of coronary arteries",
+          "hi": "कोरोनरी धमनियों की गुहा को संकीर्ण करने वाले कैल्शियम, वसा, कोलेस्ट्रॉल और रेशेदार ऊतक का जमाव"
+        },
+        "D": {
+          "en": "Hypersecretion of adrenaline by the adrenal cortex",
+          "hi": "अधिवृक्क वल्कुट द्वारा एड्रेनालाईन का अतिस्राव"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Atherosclerosis is characterized by the formation of atheromatous plaques containing cholesterol, lipid droplets, calcium deposits, and fibrous connective tissue within the intima and media of coronary arteries, restricting myocardial blood supply.",
+        "hi": "एथेरोस्क्लेरोसिस कोरोनरी धमनियों की भित्तियों में कोलेस्ट्रॉल, वसा, कैल्शियम और रेशेदार ऊतकों के जमाव से बनता है, जिससे धमनी की गुहा संकीर्ण हो जाती है और हृदय की मांसपेशियों को रक्त आपूर्ति बाधित होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q07",
+      "category": "formula",
+      "question": {
+        "en": "In a standard resting human blood pressure measurement of 120/80 mm Hg, what do the numbers '120' and '80' represent?",
+        "hi": "एक मानक विश्रामरत मानव रक्तचाप माप 120/80 mm Hg में, संख्याएँ '120' और '80' क्या दर्शाती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "120 is Diastolic pressure; 80 is Systolic pressure",
+          "hi": "120 अनुशिथिलन दाब है; 80 प्रकुंचन दाब है"
+        },
+        "B": {
+          "en": "120 is Systolic (pumping) pressure; 80 is Diastolic (resting) pressure",
+          "hi": "120 प्रकुंचन (पंपिंग) दाब है; 80 अनुशिथिलन (विश्राम) दाब है"
+        },
+        "C": {
+          "en": "120 is Venous pressure; 80 is Arterial pressure",
+          "hi": "120 शिरापरक दाब है; 80 धमनीय दाब है"
+        },
+        "D": {
+          "en": "120 is Pulmonary pressure; 80 is Systemic pressure",
+          "hi": "120 फुफ्फुसीय दाब है; 80 दैहिक दाब है"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "120 mm Hg represents systolic pressure (peak arterial pressure during ventricular systole/contraction) and 80 mm Hg represents diastolic pressure (baseline arterial pressure during ventricular diastole/relaxation).",
+        "hi": "120 mm Hg प्रकुंचन दाब (निलय संकुचन के दौरान अधिकतम धमनी दाब) और 80 mm Hg अनुशिथिलन दाब (निलय अनुशिथिलन के दौरान न्यूनतम धमनी दाब) को दर्शाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q08",
+      "category": "formula",
+      "question": {
+        "en": "According to standard clinical criteria (NCERT), hypertension is diagnosed when persistent blood pressure checks consistently measure at or above:",
+        "hi": "मानक नैदानिक मानदंडों (NCERT) के अनुसार, अतिरक्तदाब (उच्च रक्तचाप) का निदान तब किया जाता है जब निरंतर रक्तचाप माप कम से कम कितना या उससे अधिक हो:"
+      },
+      "options": {
+        "A": {
+          "en": "110/70 mm Hg",
+          "hi": "110/70 mm Hg"
+        },
+        "B": {
+          "en": "120/80 mm Hg",
+          "hi": "120/80 mm Hg"
+        },
+        "C": {
+          "en": "130/85 mm Hg",
+          "hi": "130/85 mm Hg"
+        },
+        "D": {
+          "en": "140/90 mm Hg",
+          "hi": "140/90 mm Hg"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "If repeated checks show a sustained blood pressure of 140/90 mm Hg or higher (140 systolic and 90 diastolic), it indicates hypertension. Chronic hypertension damages vital organs such as the kidneys and brain.",
+        "hi": "यदि बार-बार जांच करने पर रक्तचाप 140/90 mm Hg या उससे अधिक (140 प्रकुंचन और 90 अनुशिथिलन) आता है, तो यह अतिरक्तदाब (हाइपरटेंशन) को दर्शाता है, जो वृक्कों और मस्तिष्क को नुकसान पहुंचाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following sequences accurately depicts the decreasing gradient of hydrostatic blood pressure across different systemic blood vessels?",
+        "hi": "निम्नलिखित में से कौन सा क्रम विभिन्न दैहिक रक्त वाहिकाओं में द्रवस्थैतिक रक्तचाप के सही घटते क्रम को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Aorta > Systemic Arteries > Capillaries > Venules > Vena Cava",
+          "hi": "महाधमनी > दैहिक धमनियां > केशिकाएं > शिराएं > महाशिरा"
+        },
+        "B": {
+          "en": "Vena Cava > Capillaries > Arteries > Aorta",
+          "hi": "महाशिरा > केशिकाएं > धमनियां > महाधमनी"
+        },
+        "C": {
+          "en": "Capillaries > Aorta > Arteries > Vena Cava",
+          "hi": "केशिकाएं > महाधमनी > धमनियां > महाशिरा"
+        },
+        "D": {
+          "en": "Arteries > Vena Cava > Capillaries > Aorta",
+          "hi": "धमनियां > महाशिरा > केशिकाएं > महाधमनी"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Blood flows from high pressure to low pressure: Aorta (~100-120 mm Hg) -> large arteries -> arterioles -> capillaries (~35 to 15 mm Hg) -> venules -> large veins -> vena cava (~0-5 mm Hg).",
+        "hi": "रक्त उच्च दाब से निम्न दाब की ओर बहता है: महाधमनी (~100-120 mm Hg) -> धमनियां -> केशिकाएं (~35 से 15 mm Hg) -> शिराएं -> महाशिरा (~0-5 mm Hg)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q10",
+      "category": "formula",
+      "question": {
+        "en": "If a patient presents with a blood pressure reading of 130/90 mm Hg, what is their calculated pulse pressure?",
+        "hi": "यदि कोई रोगी 130/90 mm Hg के रक्तचाप पाठ्यांक के साथ आता है, तो उनका परिकलित नाड़ी दाब (पल्स प्रेशर) क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "90 mm Hg",
+          "hi": "90 mm Hg"
+        },
+        "B": {
+          "en": "130 mm Hg",
+          "hi": "130 mm Hg"
+        },
+        "C": {
+          "en": "40 mm Hg",
+          "hi": "40 mm Hg"
+        },
+        "D": {
+          "en": "220 mm Hg",
+          "hi": "220 mm Hg"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Pulse Pressure (PP) = Systolic Blood Pressure - Diastolic Blood Pressure = 130 mm Hg - 90 mm Hg = 40 mm Hg.",
+        "hi": "नाड़ी दाब (पल्स प्रेशर) = प्रकुंचन रक्तचाप - अनुशिथिलन रक्तचाप = 130 mm Hg - 90 mm Hg = 40 mm Hg।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q11",
+      "category": "formula",
+      "question": {
+        "en": "During acute emergency situations, hormones secreted by the adrenal medulla (epinephrine and norepinephrine) affect the cardiovascular system by:",
+        "hi": "तीव्र आपातकालीन स्थितियों के दौरान, अधिवृक्क मज्जा द्वारा स्रावित हॉर्मोन (एपिनेफ्रीन और नॉरएपिनेफ्रीन) हृदय प्रणाली को किस प्रकार प्रभावित करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Decreasing heart rate and decreasing cardiac output",
+          "hi": "हृदय गति को कम करना और कार्डियक आउटपुट को घटाना"
+        },
+        "B": {
+          "en": "Increasing heart rate, strength of ventricular contraction, and cardiac output",
+          "hi": "हृदय गति, निलय संकुचन की शक्ति और कार्डियक आउटपुट को बढ़ाना"
+        },
+        "C": {
+          "en": "Inactivating the SA node",
+          "hi": "SA नोड को निष्क्रिय करना"
+        },
+        "D": {
+          "en": "Decreasing peripheral vascular resistance to zero",
+          "hi": "परिधीय संवहनी प्रतिरोध को शून्य तक कम करना"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Adrenal medullary hormones (adrenaline and noradrenaline) act on beta-1 adrenergic receptors in the heart, increasing the firing rate of the SA node, enhancing myocardial contractility, and significantly raising cardiac output.",
+        "hi": "अधिवृक्क मज्जा हॉर्मोन (एड्रेनालाईन और नॉरएड्रेनालाईन) SA नोड की गति को बढ़ाते हैं, निलय संकुचन की शक्ति को बढ़ाते हैं और कार्डियक आउटपुट में उल्लेखनीय वृद्धि करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q12",
+      "category": "formula",
+      "question": {
+        "en": "A hypertensive patient has a blood pressure reading of 160/100 mm Hg. What is their Mean Arterial Pressure (MAP)? [Use: MAP = Diastolic Pressure + 1/3 (Pulse Pressure)]",
+        "hi": "एक उच्च रक्तचाप रोगी का रक्तचाप 160/100 mm Hg है। उनका माध्य धमनी दाब (MAP) क्या है? [सूत्र: MAP = अनुशिथिलन दाब + 1/3 (नाड़ी दाब)]"
+      },
+      "options": {
+        "A": {
+          "en": "110 mm Hg",
+          "hi": "110 mm Hg"
+        },
+        "B": {
+          "en": "130 mm Hg",
+          "hi": "130 mm Hg"
+        },
+        "C": {
+          "en": "140 mm Hg",
+          "hi": "140 mm Hg"
+        },
+        "D": {
+          "en": "120 mm Hg",
+          "hi": "120 mm Hg"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Diastolic Pressure = 100 mm Hg. Pulse Pressure = 160 - 100 = 60 mm Hg. MAP = 100 + (1/3 × 60) = 100 + 20 = 120 mm Hg.",
+        "hi": "अनुशिथिलन दाब = 100 mm Hg। नाड़ी दाब = 160 - 100 = 60 mm Hg। MAP = 100 + (1/3 × 60) = 100 + 20 = 120 mm Hg।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the circulatory disorders in Column I with their clinical hallmarks in Column II:\nColumn I:\n(a) Angina pectoris\n(b) Atherosclerosis\n(c) Hypertension\n(d) Heart Failure\nColumn II:\n(i) Lumen of arteries narrowed by lipid and calcium deposition\n(ii) Acute chest pain due to inadequate myocardial oxygenation\n(iii) Sustained blood pressure >= 140/90 mm Hg\n(iv) Inability to pump blood effectively, often with pulmonary congestion",
+        "hi": "कॉलम I में परिसंचरण विकारों का कॉलम II में उनके नैदानिक लक्षणों के साथ मिलान कीजिए:\nकॉलम I:\n(a) एन्जाइना पेक्टोरिस\n(b) एथेरोस्क्लेरोसिस\n(c) अतिरक्तदाब\n(d) हृद्पात (हार्ट फेलियर)\nकॉलम II:\n(i) लिपिड और कैल्शियम जमाव से धमनियों की गुहा का संकीर्ण होना\n(ii) अपर्याप्त मायोकार्डियल ऑक्सीजनेशन के कारण सीने में तेज दर्द\n(iii) निरंतर रक्तचाप >= 140/90 mm Hg\n(iv) प्रभावी रूप से रक्त पंप करने में असमर्थता, अक्सर फेफड़ों के संकुलन के साथ"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        },
+        "B": {
+          "en": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "hi": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+          "hi": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+        },
+        "D": {
+          "en": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Angina = Acute chest pain from ischemia (a-ii); Atherosclerosis = Narrowed arterial lumen (b-i); Hypertension = BP >= 140/90 mm Hg (c-iii); Heart failure = Ineffective pumping / congestion (d-iv).",
+        "hi": "एन्जाइना = रक्ताल्पता से सीने में दर्द (a-ii); एथेरोस्क्लेरोसिस = धमनी गुहा का संकीर्ण होना (b-i); अतिरक्तदाब = BP >= 140/90 mm Hg (c-iii); हार्ट फेलियर = अप्रभावी पंपिंग / संकुलन (d-iv)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the blood vessel layers in Column I with their histological tissue composition in Column II:\nColumn I:\n(a) Tunica intima\n(b) Tunica media\n(c) Tunica externa\nColumn II:\n(i) Smooth muscle and elastic fibers\n(ii) Squamous endothelium\n(iii) Fibrous connective tissue with collagen fibers",
+        "hi": "कॉलम I में रक्त वाहिका परतों का कॉलम II में उनकी ऊतकीय संरचना के साथ मिलान कीजिए:\nकॉलम I:\n(a) ट्यूनिका इंटिमा\n(b) ट्यूनिका मीडिया\n(c) ट्यूनिका एक्सटर्ना\nकॉलम II:\n(i) चिकनी पेशी और प्रत्यास्थ तंतु\n(ii) शल्की अंतःकला (स्क्वैमस एंडोथीलियम)\n(iii) कोलेजन तंतुओं से युक्त रेशेदार संयोजी ऊतक"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(i), (b)-(ii), (c)-(iii)",
+          "hi": "(a)-(i), (b)-(ii), (c)-(iii)"
+        },
+        "B": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(i), (c)-(ii)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(ii)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(iii), (c)-(i)",
+          "hi": "(a)-(ii), (b)-(iii), (c)-(i)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Tunica intima = Endothelium of flat squamous cells (a-ii); Tunica media = Smooth muscle and elastic tissue (b-i); Tunica externa = Dense fibrous connective tissue with collagen fibers (c-iii).",
+        "hi": "ट्यूनिका इंटिमा = शल्की अंतःकला (a-ii); ट्यूनिका मीडिया = चिकनी पेशी और प्रत्यास्थ ऊतक (b-i); ट्यूनिका एक्सटर्ना = कोलेजन युक्त रेशेदार संयोजी ऊतक (c-iii)।"
+      }
+    },
+    {
+      "id": "bio_11_ch15_mc04_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In systemic circulation:\nLeft Ventricle -> Systemic Aorta -> Arteries -> Arterioles -> Capillaries in Tissues -> [P] -> [Q] -> Right Atrium.\nIdentify P and Q:",
+        "hi": "दैहिक परिसंचरण में:\nबायां निलय -> दैहिक महाधमनी -> धमनियां -> धमनिकाएं -> ऊतकों में केशिकाएं -> [P] -> [Q] -> दायां आलिंद।\nP और Q की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P = Pulmonary veins, Q = Pulmonary trunk",
+          "hi": "P = फुफ्फुस शिराएं, Q = फुफ्फुस ट्रंक"
+        },
+        "B": {
+          "en": "P = Hepatic portal vein, Q = Coeliac artery",
+          "hi": "P = हिपेटिक पोर्टल शिरा, Q = सीलिएक धमनी"
+        },
+        "C": {
+          "en": "P = Venules and Veins, Q = Vena Cava (Superior and Inferior)",
+          "hi": "P = शिराएं (वेन्यूल्स और वेन्स), Q = महाशिरा (अग्र व पश्च)"
+        },
+        "D": {
+          "en": "P = Lymph lacteals, Q = Thoracic duct",
+          "hi": "P = लसिका लैक्टियल्स, Q = वक्षीय वाहिनी"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Following gas exchange in tissue capillaries, deoxygenated blood is drained by venules which converge into systemic veins (P), and ultimately into the superior and inferior vena cava (Q), which empty into the right atrium.",
+        "hi": "ऊतक केशिकाओं में विनिमय के बाद, विऑक्सीकृत रक्त शिराओं (P) द्वारा एकत्र होता है, जो अंततः अग्र और पश्च महाशिरा (Q) में खुलती हैं और दाएं आलिंद में रक्त खाली करती हैं।"
+      }
+    }
+  ]
+}

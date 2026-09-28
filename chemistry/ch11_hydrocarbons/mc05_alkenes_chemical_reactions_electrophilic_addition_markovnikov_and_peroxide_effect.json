@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc05_q01",
+      "category": "theory",
+      "question": {
+        "en": "According to Markovnikov's rule, when an unsymmetrical reagent like $HX$ adds to an unsymmetrical alkene, where does the negative part of the addendum attach?",
+        "hi": "मार्कोवनीकॉव नियम के अनुसार, जब $HX$ जैसा असममित अभिकर्मक किसी असममित ऐल्कीन पर जुड़ता है, तो योजी अभिकर्मक (addendum) का ऋणात्मक भाग कहाँ जुड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "To that carbon atom of the double bond which carries fewer hydrogen atoms",
+          "hi": "द्वि-आबंध के उस कार्बन परमाणु से जिस पर हाइड्रोजन परमाणुओं की संख्या कम होती है"
+        },
+        "B": {
+          "en": "To that carbon atom of the double bond which carries more hydrogen atoms",
+          "hi": "द्वि-आबंध के उस कार्बन परमाणु से जिस पर हाइड्रोजन परमाणुओं की संख्या अधिक होती है"
+        },
+        "C": {
+          "en": "Equally to both double-bonded carbon atoms",
+          "hi": "दोनों द्वि-आबंधित कार्बन परमाणुओं पर समान रूप से"
+        },
+        "D": {
+          "en": "To the saturated adjacent carbon atom",
+          "hi": "संतृप्त निकटवर्ती कार्बन परमाणु से"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q02",
+      "category": "theory",
+      "question": {
+        "en": "Why does the Kharasch (peroxide) effect occur only with $HBr$ and not with $HCl$ or $HI$?",
+        "hi": "खराश (परॉक्साइड) प्रभाव केवल $HBr$ के साथ ही क्यों होता है और $HCl$ या $HI$ के साथ क्यों नहीं?"
+      },
+      "options": {
+        "A": {
+          "en": "For $HCl$, the $H-Cl$ bond is too strong to be cleaved homolytically; for $HI$, the iodine radicals combine to form $I_2$ rather than adding to the double bond",
+          "hi": "$HCl$ के लिए, $H-Cl$ आबंध समांश विखंडन के लिए बहुत मजबूत होता है; $HI$ के लिए, आयोडीन मूलक द्वि-आबंध से जुड़ने के बजाय $I_2$ बनाने के लिए आपस में जुड़ जाते हैं"
+        },
+        "B": {
+          "en": "$HCl$ and $HI$ do not react with alkenes under any conditions",
+          "hi": "$HCl$ और $HI$ किसी भी परिस्थिति में ऐल्कीनों के साथ अभिक्रिया नहीं करते"
+        },
+        "C": {
+          "en": "$HBr$ is the strongest acid among all hydrogen halides",
+          "hi": "$HBr$ सभी हाइड्रोजन हैलाइडों में सबसे प्रबल अम्ल है"
+        },
+        "D": {
+          "en": "Peroxides react only with bromine atoms specifically",
+          "hi": "परॉक्साइड केवल ब्रोमीन परमाणुओं के साथ विशेष रूप से अभिक्रिया करते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q03",
+      "category": "theory",
+      "question": {
+        "en": "In the addition of bromine ($Br_2$) in $CCl_4$ to an alkene, what intermediate is formed and what stereochemical outcome is observed?",
+        "hi": "$CCl_4$ में ब्रोमीन ($Br_2$) के ऐल्कीन पर योग में, कौन-सा मध्यवर्ती बनता है और क्या त्रिविम-रसायनिक परिणाम देखा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A cyclic bromonium ion intermediate; anti-addition of bromine atoms",
+          "hi": "एक चक्रीय ब्रोमोनियम आयन मध्यवर्ती; ब्रोमीन परमाणुओं का ऐंटी-योग"
+        },
+        "B": {
+          "en": "A planar classical carbocation; syn-addition of bromine atoms",
+          "hi": "एक समतलीय क्लासिकल कार्बधनायन; ब्रोमीन परमाणुओं का सिन-योग"
+        },
+        "C": {
+          "en": "A free radical intermediate; random addition",
+          "hi": "एक मुक्त मूलक मध्यवर्ती; यादृच्छिक योग"
+        },
+        "D": {
+          "en": "A carbanion intermediate; retention of configuration",
+          "hi": "एक कार्बऋणायन मध्यवर्ती; विन्यास का प्रतिधारण"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q04",
+      "category": "theory",
+      "question": {
+        "en": "What is the initial rate-determining step in the electrophilic addition of $HX$ to an alkene?",
+        "hi": "ऐल्कीन पर $HX$ के इलेक्ट्रॉनरागी योग में प्रारंभिक दर-निर्धारक पद (rate-determining step) क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Electrophilic attack of $H^+$ on the $\\pi$-electron cloud to form a carbocation intermediate",
+          "hi": "कार्बधनायन मध्यवर्ती बनाने के लिए $\\pi$-इलेक्ट्रॉन मेघ पर $H^+$ का इलेक्ट्रॉनरागी आक्रमण"
+        },
+        "B": {
+          "en": "Nucleophilic attack of $X^-$ on the double bond",
+          "hi": "द्वि-आबंध पर $X^-$ का नाभिकरागी आक्रमण"
+        },
+        "C": {
+          "en": "Homolytic cleavage of the $H-X$ bond",
+          "hi": "$H-X$ आबंध का समांश विखंडन"
+        },
+        "D": {
+          "en": "Elimination of halide ion to yield an alkyne",
+          "hi": "ऐल्काइन प्राप्त करने के लिए हैलाइड आयन का विलोपन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q05",
+      "category": "theory",
+      "question": {
+        "en": "What is the visual indication when an alkene undergoes addition with bromine dissolved in carbon tetrachloride ($Br_2 / CCl_4$)?",
+        "hi": "जब कोई ऐल्कीन कार्बन टेट्राक्लोराइड में घुले ब्रोमीन ($Br_2 / CCl_4$) के साथ योगात्मक अभिक्रिया करता है, तो क्या दृश्य संकेत मिलता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Discharge of the reddish-orange colour of bromine, serving as a test for unsaturation",
+          "hi": "ब्रोमीन के लाल-नारंगी रंग का उड़ जाना (रंगहीन होना), जो असंतृप्तता के परीक्षण के रूप में कार्य करता है"
+        },
+        "B": {
+          "en": "Formation of a dense white precipitate of silver bromide",
+          "hi": "सिल्वर ब्रोमाइड का गाढ़ा सफेद अवक्षेप बनना"
+        },
+        "C": {
+          "en": "Evolution of brisk effervescence of $CO_2$ gas",
+          "hi": "$CO_2$ गैस की तीव्र बुदबुदाहट निकलना"
+        },
+        "D": {
+          "en": "Formation of a deep blue colored complex",
+          "hi": "गहरे नीले रंग के संकुल का बनना"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q06",
+      "category": "theory",
+      "question": {
+        "en": "When propene is treated with cold concentrated sulfuric acid followed by boiling with water, what alcohol is formed?",
+        "hi": "जब प्रोपीन को ठंडे सांद्र सल्फ्यूरिक अम्ल के साथ उपचारित किया जाता है और उसके बाद जल के साथ उबाला जाता है, तो कौन-सा ऐल्कोहॉल बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Propan-2-ol (Isopropyl alcohol)",
+          "hi": "प्रोपेन-2-ऑल (आइसोप्रोपिल ऐल्कोहॉल)"
+        },
+        "B": {
+          "en": "Propan-1-ol (n-Propyl alcohol)",
+          "hi": "प्रोपेन-1-ऑल (n-प्रोपिल ऐल्कोहॉल)"
+        },
+        "C": {
+          "en": "Propane-1,2-diol",
+          "hi": "प्रोपेन-1,2-डाईऑल"
+        },
+        "D": {
+          "en": "Ethanol and methanol mixture",
+          "hi": "एथनॉल और मेथनॉल का मिश्रण"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q07",
+      "category": "formula",
+      "question": {
+        "en": "What is the major product when propene reacts with $HBr$ in the presence of benzoyl peroxide ($C_6H_5CO-O-O-COC_6H_5$)?",
+        "hi": "जब प्रोपीन बेन्जॉयल परॉक्साइड ($C_6H_5CO-O-O-COC_6H_5$) की उपस्थिति में $HBr$ के साथ अभिक्रिया करता है, तो मुख्य उत्पाद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Bromopropane",
+          "hi": "1-ब्रोमोप्रोपेन"
+        },
+        "B": {
+          "en": "2-Bromopropane",
+          "hi": "2-ब्रोमोप्रोपेन"
+        },
+        "C": {
+          "en": "1,2-Dibromopropane",
+          "hi": "1,2-डाईब्रोमोप्रोपेन"
+        },
+        "D": {
+          "en": "2,2-Dibromopropane",
+          "hi": "2,2-डाईब्रोमोप्रोपेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q08",
+      "category": "formula",
+      "question": {
+        "en": "What is the major product obtained when 3-methylbut-1-ene reacts with $HBr$ in the absence of peroxides?",
+        "hi": "परॉक्साइड की अनुपस्थिति में जब 3-मेथिलब्यूट-1-ईन $HBr$ के साथ अभिक्रिया करता है, तो प्राप्त मुख्य उत्पाद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "2-Bromo-2-methylbutane (due to 1,2-hydride shift)",
+          "hi": "2-ब्रोमो-2-मेथिलब्यूटेन (1,2-हाइड्राइड स्थानांतरण के कारण)"
+        },
+        "B": {
+          "en": "2-Bromo-3-methylbutane",
+          "hi": "2-ब्रोमो-3-मेथिलब्यूटेन"
+        },
+        "C": {
+          "en": "1-Bromo-3-methylbutane",
+          "hi": "1-ब्रोमो-3-मेथिलब्यूटेन"
+        },
+        "D": {
+          "en": "1,2-Dibromo-3-methylbutane",
+          "hi": "1,2-डाईब्रोमो-3-मेथिलब्यूटेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q09",
+      "category": "formula",
+      "question": {
+        "en": "When propene reacts with chlorine water ($Cl_2 + H_2O \\rightleftharpoons HOCl + HCl$), the major product formed is:",
+        "hi": "जब प्रोपीन क्लोरीन जल ($Cl_2 + H_2O \\rightleftharpoons HOCl + HCl$) के साथ अभिक्रिया करता है, तो बनने वाला मुख्य उत्पाद है:"
+      },
+      "options": {
+        "A": {
+          "en": "1-Chloropropan-2-ol (Propylene chlorohydrin)",
+          "hi": "1-क्लोरोप्रोपेन-2-ऑल (प्रोपिलीन क्लोरोहाइड्रिन)"
+        },
+        "B": {
+          "en": "2-Chloropropan-1-ol",
+          "hi": "2-क्लोरोप्रोपेन-1-ऑल"
+        },
+        "C": {
+          "en": "1,2-Dichloropropane",
+          "hi": "1,2-डाईक्लोरोप्रोपेन"
+        },
+        "D": {
+          "en": "Propan-1-ol",
+          "hi": "प्रोपेन-1-ऑल"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q10",
+      "category": "formula",
+      "question": {
+        "en": "In the reaction of propene with $HCl$ in the presence of benzoyl peroxide, what is the major product?",
+        "hi": "बेन्जॉयल परॉक्साइड की उपस्थिति में प्रोपीन की $HCl$ के साथ अभिक्रिया में मुख्य उत्पाद क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "2-Chloropropane (Markovnikov product)",
+          "hi": "2-क्लोरोप्रोपेन (मार्कोवनीकॉव उत्पाद)"
+        },
+        "B": {
+          "en": "1-Chloropropane (Anti-Markovnikov product)",
+          "hi": "1-क्लोरोप्रोपेन (ऐंटी-मार्कोवनीकॉव उत्पाद)"
+        },
+        "C": {
+          "en": "1,2-Dichloropropane",
+          "hi": "1,2-डाईक्लोरोप्रोपेन"
+        },
+        "D": {
+          "en": "Propane",
+          "hi": "प्रोपेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q11",
+      "category": "formula",
+      "question": {
+        "en": "Addition of $Br_2$ to cis-but-2-ene in $CCl_4$ yields which stereochemical product?",
+        "hi": "$CCl_4$ में समपक्ष-ब्यूट-2-ईन (cis-but-2-ene) पर $Br_2$ का योग कौन-सा त्रिविम-रसायनिक उत्पाद देता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Racemic $(\\pm)$-2,3-dibromobutane",
+          "hi": "रेसिमिक $(\\pm)$-2,3-डाईब्रोमोब्यूटेन"
+        },
+        "B": {
+          "en": "meso-2,3-Dibromobutane",
+          "hi": "मीसो-2,3-डाईब्रोमोब्यूटेन"
+        },
+        "C": {
+          "en": "Optically active (2R, 3R)-2,3-dibromobutane exclusively",
+          "hi": "केवल ध्रुवण घूर्णक (2R, 3R)-2,3-डाईब्रोमोब्यूटेन"
+        },
+        "D": {
+          "en": "1,4-Dibromobutane",
+          "hi": "1,4-डाईब्रोमोब्यूटेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q12",
+      "category": "formula",
+      "question": {
+        "en": "Addition of $Br_2$ to trans-but-2-ene in $CCl_4$ yields which stereochemical product?",
+        "hi": "$CCl_4$ में विपक्ष-ब्यूट-2-ईन (trans-but-2-ene) पर $Br_2$ का योग कौन-सा त्रिविम-रसायनिक उत्पाद देता है?"
+      },
+      "options": {
+        "A": {
+          "en": "meso-2,3-Dibromobutane (optically inactive)",
+          "hi": "मीसो-2,3-डाईब्रोमोब्यूटेन (ध्रुवण अघूर्णक)"
+        },
+        "B": {
+          "en": "Racemic $(\\pm)$-2,3-dibromobutane",
+          "hi": "रेसिमिक $(\\pm)$-2,3-डाईब्रोमोब्यूटेन"
+        },
+        "C": {
+          "en": "A mixture of 1-bromobutane and 2-bromobutane",
+          "hi": "1-ब्रोमोब्यूटेन और 2-ब्रोमोब्यूटेन का मिश्रण"
+        },
+        "D": {
+          "en": "Optically active trans-1,2-dibromobutane",
+          "hi": "ध्रुवण घूर्णक विपक्ष-1,2-डाईब्रोमोब्यूटेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Observe the reaction pathways for the addition of $HBr$ to propene:\nPathway I: Propene $+ HBr \\xrightarrow{\\text{no peroxide}} [X]$\nPathway II: Propene $+ HBr \\xrightarrow{\\text{peroxide}} [Y]$\nWhat are $[X]$ and $[Y]$ and what are their respective reaction intermediates?",
+        "hi": "प्रोपीन पर $HBr$ के योग के लिए अभिक्रिया पथों का अवलोकन कीजिए:\nपथ I: प्रोपीन $+ HBr \\xrightarrow{\\text{कोई परॉक्साइड नहीं}} [X]$\nपथ II: प्रोपीन $+ HBr \\xrightarrow{\\text{परॉक्साइड}} [Y]$\n$[X]$ और $[Y]$ क्या हैं और उनके संबंधित अभिक्रिया मध्यवर्ती क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "$[X] = \\text{2-Bromopropane}$ (via secondary carbocation); $[Y] = \\text{1-Bromopropane}$ (via secondary free radical)",
+          "hi": "$[X] = \\text{2-ब्रोमोप्रोपेन}$ (द्वितीयक कार्बधनायन द्वारा); $[Y] = \\text{1-ब्रोमोप्रोपेन}$ (द्वितीयक मुक्त मूलक द्वारा)"
+        },
+        "B": {
+          "en": "$[X] = \\text{1-Bromopropane}$ (via carbanion); $[Y] = \\text{2-Bromopropane}$ (via carbocation)",
+          "hi": "$[X] = \\text{1-ब्रोमोप्रोपेन}$ (कार्बऋणायन द्वारा); $[Y] = \\text{2-ब्रोमोप्रोपेन}$ (कार्बधनायन द्वारा)"
+        },
+        "C": {
+          "en": "$[X] = \\text{2-Bromopropane}$ (via free radical); $[Y] = \\text{2-Bromopropane}$ (via carbocation)",
+          "hi": "$[X] = \\text{2-ब्रोमोप्रोपेन}$ (मुक्त मूलक द्वारा); $[Y] = \\text{2-ब्रोमोप्रोपेन}$ (कार्बधनायन द्वारा)"
+        },
+        "D": {
+          "en": "$[X] = \\text{1-Bromopropane}$; $[Y] = \\text{1-Bromopropane}$ (both identical)",
+          "hi": "$[X] = \\text{1-ब्रोमोप्रोपेन}$; $[Y] = \\text{1-ब्रोमोप्रोपेन}$ (दोनों सर्वसम)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following table comparing the enthalpy changes ($\\Delta H$) for the two propagation steps of free radical addition of $HX$ to an alkene:\n| Hydrogen Halide ($HX$) | Step 1: Addition of $\\dot{X}$ to alkene | Step 2: H-abstraction from $HX$ |\n| :--- | :--- | :--- |\n| $HF$ | Exothermic ($-188\\text{ kJ/mol}$) | Endothermic ($+159\\text{ kJ/mol}$) |\n| $HCl$ | Exothermic ($-105\\text{ kJ/mol}$) | Endothermic ($+38\\text{ kJ/mol}$) |\n| $HBr$ | Exothermic ($-42\\text{ kJ/mol}$) | Exothermic ($-38\\text{ kJ/mol}$) |\n| $HI$ | Endothermic ($+46\\text{ kJ/mol}$) | Exothermic ($-113\\text{ kJ/mol}$) |\nWhich deduction is directly verified by this energetic data?",
+        "hi": "ऐल्कीन पर $HX$ के मुक्त मूलक योग के दो संचरण पदों के लिए एन्थैल्पी परिवर्तनों ($\\Delta H$) की तुलना करने वाली निम्नलिखित सारणी पर विचार कीजिए:\n| हाइड्रोजन हैलाइड ($HX$) | पद 1: ऐल्कीन पर $\\dot{X}$ का योग | पद 2: $HX$ से H-निष्कासन |\n| :--- | :--- | :--- |\n| $HF$ | ऊष्माक्षेपी ($-188\\text{ kJ/mol}$) | ऊष्माशोषी ($+159\\text{ kJ/mol}$) |\n| $HCl$ | ऊष्माक्षेपी ($-105\\text{ kJ/mol}$) | ऊष्माशोषी ($+38\\text{ kJ/mol}$) |\n| $HBr$ | ऊष्माक्षेपी ($-42\\text{ kJ/mol}$) | ऊष्माक्षेपी ($-38\\text{ kJ/mol}$) |\n| $HI$ | ऊष्माशोषी ($+46\\text{ kJ/mol}$) | ऊष्माक्षेपी ($-113\\text{ kJ/mol}$) |\nइस ऊर्जा संबंधी डेटा द्वारा कौन-सा निष्कर्ष सीधे सत्यापित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Only for $HBr$ are both propagation steps exothermic, allowing a self-sustaining radical chain reaction (peroxide effect)",
+          "hi": "केवल $HBr$ के लिए ही दोनों संचरण पद ऊष्माक्षेपी हैं, जो एक स्वतः-पोषी मूलक श्रृंखला अभिक्रिया (परॉक्साइड प्रभाव) की अनुमति देते हैं"
+        },
+        "B": {
+          "en": "$HF$ exhibits the strongest peroxide effect because its Step 1 is most exothermic",
+          "hi": "$HF$ सबसे प्रबल परॉक्साइड प्रभाव प्रदर्शित करता है क्योंकि इसका पद 1 सबसे अधिक ऊष्माक्षेपी है"
+        },
+        "C": {
+          "en": "$HI$ reacts most rapidly via free radical mechanism",
+          "hi": "$HI$ मुक्त मूलक क्रियाविधि द्वारा सबसे तेजी से अभिक्रिया करता है"
+        },
+        "D": {
+          "en": "All four hydrogen halides undergo the peroxide effect under suitable catalysts",
+          "hi": "सभी चारों हाइड्रोजन हैलाइड उपयुक्त उत्प्रेरकों के तहत परॉक्साइड प्रभाव से गुजरते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc05_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In the hydration of propene catalyzed by dilute $H_2SO_4$, consider the potential energy profile diagram:\n$CH_3-CH=CH_2 + H_3O^+ \\xrightarrow{\\text{Step 1}} [Intermediate\\ 1] \\xrightarrow{\\text{Step 2}} [Intermediate\\ 2] \\xrightarrow{\\text{Step 3}} CH_3-CH(OH)-CH_3$\nWhich species represents $[Intermediate\\ 1]$ at the first energy minimum?",
+        "hi": "तनु $H_2SO_4$ द्वारा उत्प्रेरित प्रोपीन के जलयोजन में, स्थितिज ऊर्जा प्रोफाइल आरेख पर विचार कीजिए:\n$CH_3-CH=CH_2 + H_3O^+ \\xrightarrow{\\text{पद 1}} [मध्यवर्ती\\ 1] \\xrightarrow{\\text{पद 2}} [मध्यवर्ती\\ 2] \\xrightarrow{\\text{पद 3}} CH_3-CH(OH)-CH_3$\nप्रथम ऊर्जा निम्निष्ठ पर कौन-सी स्पीशीज $[मध्यवर्ती\\ 1]$ को दर्शाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Secondary carbocation: $CH_3-\\overset{+}{C}H-CH_3$",
+          "hi": "द्वितीयक कार्बधनायन: $CH_3-\\overset{+}{C}H-CH_3$"
+        },
+        "B": {
+          "en": "Primary carbocation: $CH_3-CH_2-\\overset{+}{C}H_2$",
+          "hi": "प्राथमिक कार्बधनायन: $CH_3-CH_2-\\overset{+}{C}H_2$"
+        },
+        "C": {
+          "en": "Protonated alcohol: $CH_3-CH(\\overset{+}{O}H_2)-CH_3$",
+          "hi": "प्रोटॉनीकृत ऐल्कोहॉल: $CH_3-CH(\\overset{+}{O}H_2)-CH_3$"
+        },
+        "D": {
+          "en": "Carbanion: $CH_3-\\bar{C}H-CH_2OH$",
+          "hi": "कार्बऋणायन: $CH_3-\\bar{C}H-CH_2OH$"
+        }
+      }
+    }
+  ]
+}

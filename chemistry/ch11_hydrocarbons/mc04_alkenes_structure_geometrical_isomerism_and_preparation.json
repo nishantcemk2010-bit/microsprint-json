@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc04_q01",
+      "category": "theory",
+      "question": {
+        "en": "What is the hybridisation of carbon atoms involved in the double bond of ethene ($C_2H_4$), and what is the bond angle?",
+        "hi": "एथीन ($C_2H_4$) के द्वि-आबंध में शामिल कार्बन परमाणुओं का संकरण क्या है, और आबंध कोण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$sp^2$ hybridized with an angle of approximately $120^\\circ$",
+          "hi": "$sp^2$ संकरित, लगभग $120^\\circ$ के आबंध कोण के साथ"
+        },
+        "B": {
+          "en": "$sp^3$ hybridized with an angle of $109.5^\\circ$",
+          "hi": "$sp^3$ संकरित, $109.5^\\circ$ के आबंध कोण के साथ"
+        },
+        "C": {
+          "en": "$sp$ hybridized with an angle of $180^\\circ$",
+          "hi": "$sp$ संकरित, $180^\\circ$ के आबंध कोण के साथ"
+        },
+        "D": {
+          "en": "$sp^2$ hybridized with an angle of $90^\\circ$",
+          "hi": "$sp^2$ संकरित, $90^\\circ$ के आबंध कोण के साथ"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q02",
+      "category": "theory",
+      "question": {
+        "en": "What is the fundamental condition required for an alkene of the type $abC=Ccd$ to exhibit geometrical (cis-trans) isomerism?",
+        "hi": "$abC=Ccd$ प्रकार के ऐल्कीन के लिए ज्यामितीय (समपक्ष-विपक्ष) समावयवता प्रदर्शित करने के लिए आवश्यक मूलभूत शर्त क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$a \\neq b$ and $c \\neq d$",
+          "hi": "$a \\neq b$ और $c \\neq d$"
+        },
+        "B": {
+          "en": "$a = b$ and $c = d$",
+          "hi": "$a = b$ और $c = d$"
+        },
+        "C": {
+          "en": "$a = c$ and $b = d$ only",
+          "hi": "केवल $a = c$ और $b = d$"
+        },
+        "D": {
+          "en": "All four groups $a, b, c, d$ must be hydrogen atoms",
+          "hi": "सभी चारों समूह $a, b, c, d$ हाइड्रोजन परमाणु होने चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q03",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following alkenes cannot show geometrical (cis-trans) isomerism?",
+        "hi": "निम्नलिखित में से कौन-सा ऐल्कीन ज्यामितीय (समपक्ष-विपक्ष) समावयवता प्रदर्शित नहीं कर सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Propene ($CH_3-CH=CH_2$)",
+          "hi": "प्रोपीन ($CH_3-CH=CH_2$)"
+        },
+        "B": {
+          "en": "But-2-ene ($CH_3-CH=CH-CH_3$)",
+          "hi": "ब्यूट-2-ईन ($CH_3-CH=CH-CH_3$)"
+        },
+        "C": {
+          "en": "Pent-2-ene ($CH_3-CH=CH-CH_2-CH_3$)",
+          "hi": "पेन्ट-2-ईन ($CH_3-CH=CH-CH_2-CH_3$)"
+        },
+        "D": {
+          "en": "1-Chloropropene ($CH_3-CH=CHCl$)",
+          "hi": "1-क्लोरोप्रोपीन ($CH_3-CH=CHCl$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q04",
+      "category": "theory",
+      "question": {
+        "en": "According to Saytzeff's (Zaitsev's) rule, dehydrohalogenation of an alkyl halide with alcoholic $KOH$ yields predominantly:",
+        "hi": "सैत्ज़ेफ़ (ज़ैत्सेव) नियम के अनुसार, ऐल्कोहॉली $KOH$ के साथ ऐल्किल हैलाइड का विहाइड्रोहैलोजनीकरण मुख्य रूप से क्या देता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The more highly substituted alkene (having greater number of alkyl groups attached to the double bond)",
+          "hi": "अधिक प्रतिस्थापित ऐल्कीन (द्वि-आबंध से जुड़े ऐल्किल समूहों की अधिक संख्या वाला)"
+        },
+        "B": {
+          "en": "The least substituted alkene (Hoffmann product)",
+          "hi": "न्यूनतम प्रतिस्थापित ऐल्कीन (हॉफमान उत्पाद)"
+        },
+        "C": {
+          "en": "A terminal alkyne exclusively",
+          "hi": "केवल अंतस्थ ऐल्काइन"
+        },
+        "D": {
+          "en": "An alcohol by nucleophilic substitution",
+          "hi": "नाभिकरागी प्रतिस्थापन द्वारा एक ऐल्कोहॉल"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q05",
+      "category": "theory",
+      "question": {
+        "en": "What is 'Lindlar's catalyst' and what stereochemical outcome does it produce upon hydrogenation of alkynes?",
+        "hi": "'लिंडलार उत्प्रेरक' क्या है और ऐल्काइनों के हाइड्रोजनीकरण पर यह क्या त्रिविम-रसायनिक परिणाम देता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Palladised charcoal partially deactivated with quinoline or lead acetate; yields cis-alkene",
+          "hi": "क्विनोलिन या लेड एसीटेट द्वारा आंशिक रूप से निष्क्रिय पैलाडीकृत चारकोल; समपक्ष (cis) ऐल्कीन देता है"
+        },
+        "B": {
+          "en": "Sodium in liquid ammonia; yields trans-alkene",
+          "hi": "द्रव अमोनिया में सोडियम; विपक्ष (trans) ऐल्कीन देता है"
+        },
+        "C": {
+          "en": "Nickel at $300^\\circ\\text{C}$; yields alkane directly",
+          "hi": "$300^\\circ\\text{C}$ पर निकेल; सीधे ऐल्केन देता है"
+        },
+        "D": {
+          "en": "Anhydrous $AlCl_3$; yields branched isomers",
+          "hi": "निर्जल $AlCl_3$; शाखित समावयव देता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q06",
+      "category": "theory",
+      "question": {
+        "en": "Reduction of an alkyne with sodium in liquid ammonia (Birch reduction) stereoselectively produces which isomer?",
+        "hi": "द्रव अमोनिया में सोडियम (बर्च अपचयन) द्वारा ऐल्काइन का अपचयन त्रिविम-चयनात्मक रूप से कौन-सा समावयव उत्पन्न करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "trans-Alkene via anti-addition of hydrogen",
+          "hi": "हाइड्रोजन के ऐंटी-योग द्वारा विपक्ष (trans) ऐल्कीन"
+        },
+        "B": {
+          "en": "cis-Alkene via syn-addition of hydrogen",
+          "hi": "हाइड्रोजन के सिन-योग द्वारा समपक्ष (cis) ऐल्कीन"
+        },
+        "C": {
+          "en": "Geminal diol",
+          "hi": "जेमिनल डाईऑल"
+        },
+        "D": {
+          "en": "Alkane via complete reduction",
+          "hi": "पूर्ण अपचयन द्वारा ऐल्केन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q07",
+      "category": "formula",
+      "question": {
+        "en": "Comparing cis-but-2-ene and trans-but-2-ene, which statement regarding their dipole moment ($\\mu$) and boiling point ($b.p.$) is correct?",
+        "hi": "समपक्ष-ब्यूट-2-ईन और विपक्ष-ब्यूट-2-ईन की तुलना करने पर, उनके द्विध्रुव आघूर्ण ($\\mu$) और क्वथनांक ($b.p.$) के संबंध में कौन-सा कथन सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "cis-But-2-ene has a higher dipole moment and higher boiling point than trans-but-2-ene",
+          "hi": "समपक्ष-ब्यूट-2-ईन का द्विध्रुव आघूर्ण और क्वथनांक विपक्ष-ब्यूट-2-ईन की तुलना में अधिक होता है"
+        },
+        "B": {
+          "en": "trans-But-2-ene has a higher dipole moment and higher boiling point",
+          "hi": "विपक्ष-ब्यूट-2-ईन का द्विध्रुव आघूर्ण और क्वथनांक अधिक होता है"
+        },
+        "C": {
+          "en": "Both isomers have $\\mu = 0$ and identical boiling points",
+          "hi": "दोनों समावयवों का $\\mu = 0$ होता है और क्वथनांक समान होते हैं"
+        },
+        "D": {
+          "en": "cis-But-2-ene has $\\mu = 0$ while trans-but-2-ene has $\\mu > 0$",
+          "hi": "समपक्ष-ब्यूट-2-ईन का $\\mu = 0$ होता है जबकि विपक्ष-ब्यूट-2-ईन का $\\mu > 0$ होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q08",
+      "category": "formula",
+      "question": {
+        "en": "Why does trans-but-2-ene have a higher melting point than cis-but-2-ene?",
+        "hi": "विपक्ष-ब्यूट-2-ईन का गलनांक समपक्ष-ब्यूट-2-ईन से अधिक क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "trans-Isomer is symmetrical and packs more efficiently into the solid crystal lattice",
+          "hi": "विपक्ष-समावयव सममित होता है और ठोस क्रिस्टल जालक में अधिक कुशलता से संकुलित होता है"
+        },
+        "B": {
+          "en": "trans-Isomer has stronger dipole-dipole attractions",
+          "hi": "विपक्ष-समावयव में प्रबल द्विध्रुव-द्विध्रुव आकर्षण होता है"
+        },
+        "C": {
+          "en": "trans-Isomer has stronger hydrogen bonding",
+          "hi": "विपक्ष-समावयव में प्रबल हाइड्रोजन आबंधन होता है"
+        },
+        "D": {
+          "en": "trans-Isomer has higher molecular mass",
+          "hi": "विपक्ष-समावयव का आण्विक द्रव्यमान अधिक होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q09",
+      "category": "formula",
+      "question": {
+        "en": "When 2-bromobutane is heated with alcoholic $KOH$, what is the percentage proportion of but-2-ene (Saytzeff product) to but-1-ene (Hoffmann product)?",
+        "hi": "जब 2-ब्रोमोब्यूटेन को ऐल्कोहॉली $KOH$ के साथ गर्म किया जाता है, तो ब्यूट-2-ईन (सैत्ज़ेफ़ उत्पाद) और ब्यूट-1-ईन (हॉफमान उत्पाद) का प्रतिशत अनुपात क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Approximately 80% but-2-ene and 20% but-1-ene",
+          "hi": "लगभग 80% ब्यूट-2-ईन और 20% ब्यूट-1-ईन"
+        },
+        "B": {
+          "en": "100% but-1-ene exclusively",
+          "hi": "केवल 100% ब्यूट-1-ईन"
+        },
+        "C": {
+          "en": "50% but-2-ene and 50% but-1-ene",
+          "hi": "50% ब्यूट-2-ईन और 50% ब्यूट-1-ईन"
+        },
+        "D": {
+          "en": "20% but-2-ene and 80% but-1-ene",
+          "hi": "20% ब्यूट-2-ईन और 80% ब्यूट-1-ईन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q10",
+      "category": "formula",
+      "question": {
+        "en": "What is the product when 1,2-dibromoethane is heated with zinc dust in ethanol?",
+        "hi": "जब 1,2-डाईब्रोमोएथेन को एथेनॉल में जिंक चूर्ण के साथ गर्म किया जाता है, तो क्या उत्पाद बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethene ($CH_2=CH_2$) and $ZnBr_2$",
+          "hi": "एथीन ($CH_2=CH_2$) और $ZnBr_2$"
+        },
+        "B": {
+          "en": "Ethyne ($CH\\equiv CH$) and $ZnBr_2$",
+          "hi": "एथाइन ($CH\\equiv CH$) और $ZnBr_2$"
+        },
+        "C": {
+          "en": "Ethane and $ZnBr_2$",
+          "hi": "एथेन और $ZnBr_2$"
+        },
+        "D": {
+          "en": "Bromoethane and $ZnO$",
+          "hi": "ब्रोमोएथेन और $ZnO$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q11",
+      "category": "formula",
+      "question": {
+        "en": "What is the order of ease of dehydration of alcohols using concentrated $H_2SO_4$ at elevated temperatures?",
+        "hi": "उच्च तापमान पर सांद्र $H_2SO_4$ का उपयोग करके ऐल्कोहॉलों के निर्जलीकरण की सुगमता का क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$3^\\circ > 2^\\circ > 1^\\circ$",
+          "hi": "$3^\\circ > 2^\\circ > 1^\\circ$"
+        },
+        "B": {
+          "en": "$1^\\circ > 2^\\circ > 3^\\circ$",
+          "hi": "$1^\\circ > 2^\\circ > 3^\\circ$"
+        },
+        "C": {
+          "en": "$2^\\circ > 1^\\circ > 3^\\circ$",
+          "hi": "$2^\\circ > 1^\\circ > 3^\\circ$"
+        },
+        "D": {
+          "en": "All alcohols dehydrate at the same rate and temperature",
+          "hi": "सभी ऐल्कोहॉल समान दर और तापमान पर निर्जलीकृत होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q12",
+      "category": "formula",
+      "question": {
+        "en": "How many geometrical isomers are possible for the polyene compound: $CH_3-CH=CH-CH=CH-CH_3$?",
+        "hi": "पॉलीईन यौगिक: $CH_3-CH=CH-CH=CH-CH_3$ के लिए कितने ज्यामितीय समावयव संभव हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "3",
+          "hi": "3"
+        },
+        "B": {
+          "en": "4",
+          "hi": "4"
+        },
+        "C": {
+          "en": "2",
+          "hi": "2"
+        },
+        "D": {
+          "en": "6",
+          "hi": "6"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Observe the orbital overlap diagram of the ethylene ($C_2H_4$) molecule. What type of overlap constitutes the carbon-carbon $\\pi$-bond?",
+        "hi": "एथिलीन ($C_2H_4$) अणु के कक्षक अतिव्यापन आरेख का निरीक्षण कीजिए। कार्बन-कार्बन $\\pi$-आबंध किस प्रकार के अतिव्यापन से बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Sidewise (lateral) overlap of two unhybridized parallel $2p_z$ orbitals above and below the molecular plane",
+          "hi": "आण्विक तल के ऊपर और नीचे दो असंकरित समानांतर $2p_z$ कक्षकों का पार्श्व (lateral) अतिव्यापन"
+        },
+        "B": {
+          "en": "Head-on coaxial overlap of two $sp^2$ hybrid orbitals",
+          "hi": "दो $sp^2$ संकर कक्षकों का सम्मुख समाक्षीय अतिव्यापन"
+        },
+        "C": {
+          "en": "End-to-end overlap of a $2p$ and a $1s$ orbital",
+          "hi": "एक $2p$ और एक $1s$ कक्षक का अंत-से-अंत अतिव्यापन"
+        },
+        "D": {
+          "en": "Overlap of two $sp^3$ hybrid orbitals along the internuclear axis",
+          "hi": "अंतरनाभिकीय अक्ष के अनुदिश दो $sp^3$ संकर कक्षकों का अतिव्यापन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the following reaction scheme for but-2-yne hydrogenation:\n$\\text{But-2-yne} \\xrightarrow{H_2, Pd/CaCO_3, \\text{quinoline}} [P]$\n$\\text{But-2-yne} \\xrightarrow{Na / \\text{liquid } NH_3} [Q]$\nWhat are the stereochemical structures of $[P]$ and $[Q]$?",
+        "hi": "ब्यूट-2-आइन के हाइड्रोजनीकरण के लिए निम्नलिखित अभिक्रिया योजना की जांच कीजिए:\n$\\text{ब्यूट-2-आइन} \\xrightarrow{H_2, Pd/CaCO_3, \\text{क्विनोलिन}} [P]$\n$\\text{ब्यूट-2-आइन} \\xrightarrow{Na / \\text{द्रव } NH_3} [Q]$\n$[P]$ और $[Q]$ की त्रिविम-रसायनिक संरचनाएं क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "$[P] = \\text{cis-but-2-ene}$, $[Q] = \\text{trans-but-2-ene}$",
+          "hi": "$[P] = \\text{समपक्ष-ब्यूट-2-ईन}$, $[Q] = \\text{विपक्ष-ब्यूट-2-ईन}$"
+        },
+        "B": {
+          "en": "$[P] = \\text{trans-but-2-ene}$, $[Q] = \\text{cis-but-2-ene}$",
+          "hi": "$[P] = \\text{विपक्ष-ब्यूट-2-ईन}$, $[Q] = \\text{समपक्ष-ब्यूट-2-ईन}$"
+        },
+        "C": {
+          "en": "$[P] = \\text{n-butane}$, $[Q] = \\text{cis-but-2-ene}$",
+          "hi": "$[P] = \\text{n-ब्यूटेन}$, $[Q] = \\text{समपक्ष-ब्यूट-2-ईन}$"
+        },
+        "D": {
+          "en": "$[P] = \\text{cis-but-2-ene}$, $[Q] = \\text{n-butane}$",
+          "hi": "$[P] = \\text{समपक्ष-ब्यूट-2-ईन}$, $[Q] = \\text{n-ब्यूटेन}$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc04_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following table comparing physical properties of maleic acid (cis) and fumaric acid (trans):\n| Property | Maleic Acid (cis) | Fumaric Acid (trans) |\n| :--- | :--- | :--- |\n| Melting Point | $130^\\circ\\text{C}$ | $287^\\circ\\text{C}$ |\n| Water Solubility | $79\\text{ g/100 mL}$ | $0.7\\text{ g/100 mL}$ |\n| Action of Heat ($150^\\circ\\text{C}$) | Readily forms anhydride | Does not form anhydride easily |\nWhat causes maleic acid to readily dehydrate to maleic anhydride upon mild heating, while fumaric acid requires much higher temperature?",
+        "hi": "मैलेइक अम्ल (समपक्ष) और फ्यूमेरिक अम्ल (विपक्ष) के भौतिक गुणों की तुलना करने वाली निम्नलिखित सारणी पर विचार कीजिए:\n| गुण | मैलेइक अम्ल (समपक्ष) | फ्यूमेरिक अम्ल (विपक्ष) |\n| :--- | :--- | :--- |\n| गलनांक | $130^\\circ\\text{C}$ | $287^\\circ\\text{C}$ |\n| जल में विलेयता | $79\\text{ g/100 mL}$ | $0.7\\text{ g/100 mL}$ |\n| ऊष्मा का प्रभाव ($150^\\circ\\text{C}$) | सरलता से एनहाइड्राइड बनाता है | आसानी से एनहाइड्राइड नहीं बनाता |\nमैलेइक अम्ल के हल्के गर्म करने पर सरलता से निर्जलीकृत होकर मैलेइक एनहाइड्राइड बनाने का क्या कारण है, जबकि फ्यूमेरिक अम्ल के लिए बहुत उच्च तापमान की आवश्यकता होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "In maleic acid, the two $-COOH$ groups are on the same side of the double bond, bringing them close enough to eliminate water and form a stable cyclic anhydride",
+          "hi": "मैलेइक अम्ल में, दोनों $-COOH$ समूह द्वि-आबंध के एक ही तरफ होते हैं, जिससे वे जल निष्कासित करके एक स्थायी चक्रीय एनहाइड्राइड बनाने के लिए पर्याप्त पास आ जाते हैं"
+        },
+        "B": {
+          "en": "Fumaric acid has lower molecular mass than maleic acid",
+          "hi": "फ्यूमेरिक अम्ल का आण्विक द्रव्यमान मैलेइक अम्ल से कम होता है"
+        },
+        "C": {
+          "en": "Maleic acid is a trans isomer and has higher crystal lattice energy",
+          "hi": "मैलेइक अम्ल एक विपक्ष समावयव है और इसकी क्रिस्टल जालक ऊर्जा उच्च होती है"
+        },
+        "D": {
+          "en": "Fumaric acid undergoes decarboxylation instead of dehydration",
+          "hi": "फ्यूमेरिक अम्ल निर्जलीकरण के बजाय विकार्बोक्सिलीकरण से गुजरता है"
+        }
+      }
+    }
+  ]
+}

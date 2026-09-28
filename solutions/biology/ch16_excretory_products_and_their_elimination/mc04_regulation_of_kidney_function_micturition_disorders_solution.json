@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch16_mc04_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following statements correctly identifies the site of synthesis, release, and renal target of Antidiuretic Hormone (ADH / Vasopressin)?",
+        "hi": "निम्नलिखित में से कौन सा कथन एंटीडाइयूरेटिक हार्मोन (ADH / वैसोप्रेसिन) के संश्लेषण स्थल, स्राव और वृक्क लक्ष्य की सही पहचान करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Synthesized by adrenal cortex, released by kidney, acts on Bowman's capsule",
+          "hi": "अधिवृक्क वल्कुट द्वारा संश्लेषित, वृक्क द्वारा स्रावित, बोमन संपुट पर कार्य करता है"
+        },
+        "B": {
+          "en": "Synthesized by anterior pituitary, released by JG cells, acts on Henle's loop",
+          "hi": "अग्र पीयूष द्वारा संश्लेषित, JG कोशिकाओं द्वारा स्रावित, हेनले के लूप पर कार्य करता है"
+        },
+        "C": {
+          "en": "Synthesized by liver, released by heart atria, acts on afferent arteriole",
+          "hi": "यकृत द्वारा संश्लेषित, हृदय आलिंद द्वारा स्रावित, अभिवाही धमनिका पर कार्य करता है"
+        },
+        "D": {
+          "en": "Synthesized by hypothalamus, released from neurohypophysis (posterior pituitary), acts on DCT and collecting duct",
+          "hi": "हाइपोथैलेमस द्वारा संश्लेषित, न्यूरोहाइपोफिसिस (पश्च पीयूष) से स्रावित, DCT और संग्रह नलिका पर कार्य करता है"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Osmoreceptors in the body are activated by changes in blood volume, body fluid volume, and ionic concentration. An excessive loss of fluid stimulates the hypothalamus to release antidiuretic hormone (ADH) or vasopressin from the neurohypophysis. ADH facilitates water reabsorption from later parts of the tubule (DCT and Collecting Duct), preventing diuresis.",
+        "hi": "शरीर में परासरणग्राही (osmoreceptors) रक्त आयतन, शारीरिक द्रव आयतन और आयनिक सांद्रता में परिवर्तन से सक्रिय होते हैं। अत्यधिक द्रव हानि हाइपोथैलेमस को न्यूरोहाइपोफिसिस (पश्च पीयूष) से एंटीडाइयूरेटिक हार्मोन (ADH) या वैसोप्रेसिन स्रावित करने के लिए प्रेरित करती है। ADH नलिका के बाद के भागों (DCT और संग्रह नलिका) से जल के पुनरवशोषण को सुगम बनाता है, जिससे मूत्रलता (diuresis) रुकती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q02",
+      "category": "theory",
+      "question": {
+        "en": "What is the correct biochemical sequence of the Renin-Angiotensin-Aldosterone System (RAAS) activated upon a fall in glomerular blood flow?",
+        "hi": "केशिकागुच्छ रक्त प्रवाह में गिरावट आने पर सक्रिय होने वाले रेनिन-एंजियोटेंसिन-एल्डोस्टेरोन तंत्र (RAAS) का सही जैव रासायनिक क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Angiotensin II -> Renin -> Angiotensin I -> Aldosterone -> Angiotensinogen",
+          "hi": "एंजियोटेंसिन II -> रेनिन -> एंजियोटेंसिन I -> एल्डोस्टेरोन -> एंजियोटेंसिनोजेन"
+        },
+        "B": {
+          "en": "Fall in GFR/BP -> JG cells release Renin -> Angiotensinogen converted to Angiotensin I -> Angiotensin II -> Aldosterone release from adrenal cortex",
+          "hi": "GFR/रक्तचाप में गिरावट -> JG कोशिकाएं रेनिन स्रावित करती हैं -> एंजियोटेंसिनोजेन एंजियोटेंसिन I में परिवर्तित -> एंजियोटेंसिन II -> अधिवृक्क वल्कुट से एल्डोस्टेरोन का स्राव"
+        },
+        "C": {
+          "en": "Aldosterone -> Renin -> Angiotensinogen -> Angiotensin I -> Vasodilation",
+          "hi": "एल्डोस्टेरोन -> रेनिन -> एंजियोटेंसिनोजेन -> एंजियोटेंसिन I -> वाहिकाविस्फार"
+        },
+        "D": {
+          "en": "ANF -> Renin -> Angiotensin II -> Na+ excretion in loop of Henle",
+          "hi": "ANF -> रेनिन -> एंजियोटेंसिन II -> हेनले के लूप में Na+ उत्सर्जन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "A fall in glomerular blood flow/GFR/blood pressure activates Juxtaglomerular (JG) cells to release the enzyme renin. Renin converts angiotensinogen in blood to angiotensin I and further to angiotensin II. Angiotensin II, being a powerful vasoconstrictor, increases glomerular blood pressure and GFR. It also activates the adrenal cortex to release aldosterone, which causes reabsorption of Na+ and water from DCT.",
+        "hi": "केशिकागुच्छ रक्त प्रवाह/GFR/रक्तचाप में गिरावट से सन्निकट केशिकागुच्छ (JG) कोशिकाएं रेनिन एंजाइम स्रावित करती हैं। रेनिन रक्त में उपस्थित एंजियोटेंसिनोजेन को एंजियोटेंसिन I और फिर एंजियोटेंसिन II में बदलता है। एंजियोटेंसिन II एक शक्तिशाली वाहिकासंकीर्णक (vasoconstrictor) होने के कारण केशिकागुच्छ रक्तचाप और GFR को बढ़ाता है। यह अधिवृक्क वल्कुट को एल्डोस्टेरोन स्रावित करने के लिए भी प्रेरित करता है, जो DCT से Na+ और जल का पुनरवशोषण करवाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q03",
+      "category": "theory",
+      "question": {
+        "en": "Which factor acts as an antagonistic check on the Renin-Angiotensin-Aldosterone mechanism to prevent excessive rise in blood pressure?",
+        "hi": "रक्तचाप में अत्यधिक वृद्धि को रोकने के लिए रेनिन-एंजियोटेंसिन-एल्डोस्टेरोन तंत्र पर विरोधी नियंत्रक (check) के रूप में कौन सा कारक कार्य करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Atrial Natriuretic Factor (ANF) secreted by the atrial walls of the heart",
+          "hi": "हृदय की आलिंद भित्तियों द्वारा स्रावित एट्रियल नैट्रियूरेटिक कारक (ANF)"
+        },
+        "B": {
+          "en": "Erythropoietin secreted by the juxtaglomerular cells",
+          "hi": "सन्निकट केशिकागुच्छ कोशिकाओं द्वारा स्रावित एरिथ्रोपॉइटिन"
+        },
+        "C": {
+          "en": "Calcitonin secreted by the thyroid gland",
+          "hi": "थाइरॉइड ग्रंथि द्वारा स्रावित कैल्सीटोनिन"
+        },
+        "D": {
+          "en": "Cholecystokinin secreted by the duodenal mucosa",
+          "hi": "ग्रहणी श्लेष्मा द्वारा स्रावित कोलेसिस्टोकाइनिन"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "An increase in blood flow to the atria of the heart causes the release of Atrial Natriuretic Factor (ANF). ANF causes vasodilation (dilation of blood vessels) and promotes excretion of Na+ (natriuresis), thereby decreasing blood pressure. ANF mechanism, therefore, acts as a check on the renin-angiotensin mechanism.",
+        "hi": "हृदय के आलिंदों में रक्त प्रवाह बढ़ने से एट्रियल नैट्रियूरेटिक कारक (ANF) का स्राव होता है। ANF वाहिकाविस्फार (रक्त वाहिकाओं का चौड़ा होना) करता है और Na+ के उत्सर्जन को बढ़ावा देता है, जिससे रक्तचाप कम हो जाता है। अतः ANF क्रियाविधि रेनिन-एंजियोटेंसिन क्रियाविधि पर एक नियंत्रक के रूप में कार्य करती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following neural events triggers the expulsion of urine during the micturition reflex?",
+        "hi": "मूत्रण प्रतिवर्त (micturition reflex) के दौरान निम्नलिखित में से कौन सी तंत्रिकीय घटना मूत्र निष्कासन को प्रेरित करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Sympathetic stimulation contracting the urethral sphincter and relaxing the detrusor muscle",
+          "hi": "मूत्रमार्ग अवरोधिनी को संकुचित और डेट्रूसर पेशी को शिथिल करने वाला अनुकंपी उद्दीपन"
+        },
+        "B": {
+          "en": "Somatic motor signals completely paralyzing the abdominal wall muscles",
+          "hi": "उदर भित्ति की मांसपेशियों को पूरी तरह से पंगु बनाने वाले कायिक प्रेरक संकेत"
+        },
+        "C": {
+          "en": "Parasympathetic motor signals causing contraction of bladder smooth muscle and relaxation of urethral sphincter",
+          "hi": "मूत्राशय की चिकनी पेशी के संकुचन और मूत्रमार्ग अवरोधिनी के शिथिलन का कारण बनने वाले परानुकंपी प्रेरक संकेत"
+        },
+        "D": {
+          "en": "Cerebellar impulses causing continuous constriction of renal pelvis",
+          "hi": "वृक्क श्रोणि के निरंतर संकुचन का कारण बनने वाले अनुमस्तिष्क आवेग"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "As the urinary bladder gets filled with urine, stretch receptors on the wall send signals to the CNS. The CNS passes on motor messages via parasympathetic motor fibers to initiate simultaneous contraction of smooth muscles (detrusor) of the bladder and relaxation of the urethral sphincter causing the release of urine (micturition).",
+        "hi": "जैसे ही मूत्राशय मूत्र से भरता है, भित्ति पर उपस्थित खिंचाव ग्राही CNS को संकेत भेजते हैं। CNS परानुकंपी प्रेरक तंतुओं के माध्यम से प्रेरक संदेश भेजता है जिससे मूत्राशय की चिकनी पेशियों (डेट्रूसर) का संकुचन और मूत्रमार्ग अवरोधिनी का शिथिलन एक साथ होता है, जिससे मूत्र का निष्कासन (मूत्रण) होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q05",
+      "category": "theory",
+      "question": {
+        "en": "An adult human excretes on average how much urine per day, what is its typical pH, and how much urea is eliminated daily?",
+        "hi": "एक वयस्क मानव प्रतिदिन औसतन कितना मूत्र उत्सर्जित करता है, इसका विशिष्ट pH क्या है, और प्रतिदिन कितना यूरिया निष्कासित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "3 to 4 L/day; pH 8.5; 5-10 g urea/day",
+          "hi": "3 से 4 L/दिन; pH 8.5; 5-10 ग्राम यूरिया/दिन"
+        },
+        "B": {
+          "en": "1 to 1.5 L/day; slightly acidic pH 6.0; 25-30 g urea/day",
+          "hi": "1 से 1.5 L/दिन; थोड़ा अम्लीय pH 6.0; 25-30 ग्राम यूरिया/दिन"
+        },
+        "C": {
+          "en": "0.2 to 0.5 L/day; neutral pH 7.0; 50-60 g urea/day",
+          "hi": "0.2 से 0.5 L/दिन; उदासीन pH 7.0; 50-60 ग्राम यूरिया/दिन"
+        },
+        "D": {
+          "en": "5 to 6 L/day; strongly acidic pH 4.0; 100 g urea/day",
+          "hi": "5 से 6 L/दिन; तीव्र अम्लीय pH 4.0; 100 ग्राम यूरिया/दिन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "An adult human on average excretes 1 to 1.5 litres of urine per day. The urine formed is a light yellow coloured watery fluid which is slightly acidic (average pH 6.0) and has a characteristic odour. On average, 25-30 grams of urea is excreted per day.",
+        "hi": "एक वयस्क मानव प्रतिदिन औसतन 1 से 1.5 लीटर मूत्र उत्सर्जित करता है। बनने वाला मूत्र हल्के पीले रंग का जलीय द्रव होता है जो थोड़ा अम्लीय (औसत pH 6.0) होता है और इसमें एक विशिष्ट गंध होती है। प्रतिदिन औसतन 25-30 ग्राम यूरिया उत्सर्जित होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q06",
+      "category": "theory",
+      "question": {
+        "en": "During hemodialysis in patients with uremia, which of the following statements correctly describes the composition of the dialysing fluid and anticoagulant management?",
+        "hi": "यूरिमिया के रोगियों में हीमोडायलिसिस के दौरान, निम्नलिखित में से कौन सा कथन अपोहन द्रव (dialysing fluid) के संघटन और थक्कारोधी प्रबंधन का सही वर्णन करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Fluid contains double the plasma urea concentration; anti-heparin added before dialysis",
+          "hi": "द्रव में प्लाज्मा यूरिया की दोगुनी सांद्रता होती है; अपोहन से पहले एंटी-हेपरिन मिलाया जाता है"
+        },
+        "B": {
+          "en": "Fluid is pure distilled water; heparin is added after returning blood to the vein",
+          "hi": "द्रव शुद्ध आसुत जल होता है; शिरा में रक्त लौटाने के बाद हेपरिन मिलाया जाता है"
+        },
+        "C": {
+          "en": "Fluid has no electrolytes; no anticoagulants are ever used",
+          "hi": "द्रव में कोई विद्युत-अपघट्य नहीं होते; किसी भी थक्कारोधी का उपयोग नहीं किया जाता"
+        },
+        "D": {
+          "en": "Fluid has the exact composition as plasma except it lacks nitrogenous wastes; heparin is added before dialysis, anti-heparin after",
+          "hi": "द्रव का संघटन प्लाज्मा के समान होता है सिवाय इसके कि इसमें नाइट्रोजनी अपशिष्ट नहीं होते; अपोहन से पहले हेपरिन और बाद में एंटी-हेपरिन मिलाया जाता है"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "In hemodialysis, blood drained from a convenient artery is pumped into a dialysing unit after adding heparin. The dialysing unit contains cellophane tubing surrounded by dialysing fluid having the same composition as plasma except for nitrogenous wastes. As nitrogenous wastes diffuse down concentration gradient into dialysing fluid, cleared blood is pumped back through a vein after adding anti-heparin.",
+        "hi": "हीमोडायलिसिस में, उपयुक्त धमनी से निकाले गए रक्त में हेपरिन मिलाकर अपोहन इकाई में भेजा जाता है। अपोहन इकाई में सेलोफेन नलिका होती है जो अपोहन द्रव से घिरी होती है, जिसका संघटन नाइट्रोजनी अपशिष्टों को छोड़कर सामान्य प्लाज्मा के समान होता है। जब अपशिष्ट सांद्रता प्रवणता के अनुसार विसरित हो जाते हैं, तो शुद्ध रक्त में एंटी-हेपरिन मिलाकर उसे शिरा के माध्यम से वापस शरीर में भेजा जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q07",
+      "category": "formula",
+      "question": {
+        "en": "A patient presents with extreme thirst (polydipsia) and large daily volumes of dilute urine (polyuria), but urine analysis shows ZERO glucose and normal blood glucose levels. What condition does this clinical picture indicate?",
+        "hi": "एक रोगी अत्यधिक प्यास (पॉलीडिप्सिया) और बड़ी मात्रा में तनु मूत्र (पॉलीयूरिया) के साथ आता है, लेकिन मूत्र परीक्षण में शून्य ग्लूकोज और सामान्य रक्त शर्करा स्तर पाया जाता है। यह नैदानिक स्थिति क्या दर्शाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Diabetes insipidus, caused by deficiency or hyposecretion of ADH (Vasopressin)",
+          "hi": "डायबिटीज इन्सिपिड्स, जो ADH (वैसोप्रेसिन) की कमी या अल्पस्राव के कारण होता है"
+        },
+        "B": {
+          "en": "Diabetes mellitus, caused by complete insulin deficiency",
+          "hi": "डायबिटीज मेलिटस, जो इंसुलिन की पूर्ण कमी के कारण होता है"
+        },
+        "C": {
+          "en": "Acute glomerulonephritis with basement membrane rupture",
+          "hi": "आधारीय झिल्ली फटने के साथ तीव्र ग्लोमेरुलोनेफ्राइटिस"
+        },
+        "D": {
+          "en": "Cushing's syndrome due to excess aldosterone secretion",
+          "hi": "अत्यधिक एल्डोस्टेरोन स्राव के कारण कुशिंग सिंड्रोम"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Deficiency of ADH (Vasopressin) leads to Diabetes insipidus. Due to lack of ADH, the distal tubule and collecting duct cannot reabsorb water, resulting in excessive excretion of dilute urine (polyuria) and intense thirst (polydipsia), but without glycosuria or hyperglycemia (which occur in Diabetes mellitus).",
+        "hi": "ADH (वैसोप्रेसिन) की कमी से डायबिटीज इन्सिपिड्स होता है। ADH के अभाव में दूरस्थ नलिका और संग्रह नलिका जल का पुनरवशोषण नहीं कर पाती हैं, जिसके परिणामस्वरूप अत्यधिक तनु मूत्र (पॉलीयूरिया) और तीव्र प्यास (पॉलीडिप्सिया) होती है, लेकिन इसमें ग्लाइकोसुरिया या हाइपरग्लाइसीमिया नहीं होता (जो डायबिटीज मेलिटस में होता है)।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q08",
+      "category": "formula",
+      "question": {
+        "en": "What is the expected hormonal response of the RAAS and ANF systems following an acute hemorrhage causing severe systemic hypotension?",
+        "hi": "तीव्र रक्तस्राव जिसके कारण गंभीर प्रणालीगत अल्प-रक्तचाप (हाइपोटेंशन) होता है, के बाद RAAS और ANF प्रणालियों की अपेक्षित हार्मोनल प्रतिक्रिया क्या होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "ANF increases markedly; Renin and Aldosterone decrease to zero",
+          "hi": "ANF में उल्लेखनीय वृद्धि; रेनिन और एल्डोस्टेरोन घटकर शून्य हो जाते हैं"
+        },
+        "B": {
+          "en": "Both ANF and Aldosterone decrease simultaneously to zero",
+          "hi": "ANF और एल्डोस्टेरोन दोनों एक साथ घटकर शून्य हो जाते हैं"
+        },
+        "C": {
+          "en": "Renin, Angiotensin II, and Aldosterone secretion increases; ANF release is inhibited",
+          "hi": "रेनिन, एंजियोटेंसिन II और एल्डोस्टेरोन स्राव बढ़ता है; ANF स्राव संदमित होता है"
+        },
+        "D": {
+          "en": "Renin decreases; Angiotensin II acts solely on cardiac pacemakers",
+          "hi": "रेनिन घटता है; एंजियोटेंसिन II केवल कार्डियक पेसमेकर पर कार्य करता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Hemorrhage causes a sharp drop in blood volume and pressure. The fall in GFR and renal perfusion stimulates JG cells to secrete Renin, triggering the RAAS cascade to produce Angiotensin II and Aldosterone to restore blood pressure and volume. Meanwhile, decreased atrial stretch suppresses ANF release.",
+        "hi": "रक्तस्राव से रक्त आयतन और रक्तचाप में भारी गिरावट आती है। GFR और वृक्क रक्त प्रवाह में कमी JG कोशिकाओं को रेनिन स्रावित करने के लिए प्रेरित करती है, जिससे RAAS कैस्केड सक्रिय होकर एंजियोटेंसिन II और एल्डोस्टेरोन बनाता है ताकि रक्तचाप और आयतन बहाल हो सके। इस दौरान आलिंद खिंचाव कम होने से ANF स्राव संदमित हो जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q09",
+      "category": "formula",
+      "question": {
+        "en": "If a healthy individual produces 1.5 L of urine per day and excretes 30 g of urea daily, what is the approximate concentration of urea in the excreted urine?",
+        "hi": "यदि कोई स्वस्थ व्यक्ति प्रतिदिन 1.5 L मूत्र का उत्पादन करता है और प्रतिदिन 30 ग्राम यूरिया उत्सर्जित करता है, तो उत्सर्जित मूत्र में यूरिया की अनुमानित सांद्रता क्या होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "2 g/L (0.2%)",
+          "hi": "2 g/L (0.2%)"
+        },
+        "B": {
+          "en": "20 g/L (2.0%)",
+          "hi": "20 g/L (2.0%)"
+        },
+        "C": {
+          "en": "200 g/L (20%)",
+          "hi": "200 g/L (20%)"
+        },
+        "D": {
+          "en": "0.5 g/L (0.05%)",
+          "hi": "0.5 g/L (0.05%)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Urea concentration = Total urea excreted / Volume of urine = 30 g / 1.5 L = 20 g/L (which is 2.0 g/100 mL or 2%). Normal urine consists of roughly 95% water and ~2% urea, along with other dissolved ions and organic solutes.",
+        "hi": "यूरिया सांद्रता = कुल उत्सर्जित यूरिया / मूत्र का आयतन = 30 g / 1.5 L = 20 g/L (जो 2.0 g/100 mL या 2% है)। सामान्य मूत्र में लगभग 95% जल और ~2% यूरिया होता है, साथ ही अन्य घुले हुए आयन और कार्बनिक विलेय होते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q10",
+      "category": "formula",
+      "question": {
+        "en": "Consumption of alcohol leads to frequent and copious urination (diuresis). What is the endocrine mechanism behind this physiological response?",
+        "hi": "शराब (अल्कोहल) का सेवन बार-बार और प्रचुर मात्रा में मूत्र विसर्जन (मूत्रलता) का कारण बनता है। इस कार्यिकीय प्रतिक्रिया के पीछे का अंतःस्रावी तंत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Alcohol stimulates excess secretion of Aldosterone from adrenal cortex",
+          "hi": "शराब अधिवृक्क वल्कुट से एल्डोस्टेरोन के अत्यधिक स्राव को उत्तेजित करती है"
+        },
+        "B": {
+          "en": "Alcohol stimulates ANF release by binding directly to atrial myocytes",
+          "hi": "शराब आलिंद मायोसाइट्स से सीधे जुड़कर ANF स्राव को उत्तेजित करती है"
+        },
+        "C": {
+          "en": "Alcohol enhances renin synthesis in JG cells by 10-fold",
+          "hi": "शराब JG कोशिकाओं में रेनिन संश्लेषण को 10 गुना बढ़ा देती है"
+        },
+        "D": {
+          "en": "Alcohol inhibits the release of ADH (Vasopressin) from the neurohypophysis",
+          "hi": "शराब न्यूरोहाइपोफिसिस (पश्च पीयूष) से ADH (वैसोप्रेसिन) के स्राव को संदमित करती है"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Ethanol acts on the central nervous system to inhibit the release of Antidiuretic Hormone (ADH) from the posterior pituitary. In the absence of adequate ADH, the collecting duct and DCT become impermeable to water, preventing facultative water reabsorption and causing excretion of copious dilute urine, which can lead to dehydration.",
+        "hi": "एथेनॉल केंद्रीय तंत्रिका तंत्र पर कार्य करके पश्च पीयूष ग्रंथि से एंटीडाइयूरेटिक हार्मोन (ADH) के स्राव को संदमित करता है। पर्याप्त ADH के अभाव में, संग्रह नलिका और DCT जल के लिए अपारगम्य हो जाते हैं, जिससे वैकल्पिक जल पुनरवशोषण रुक जाता है और प्रचुर मात्रा में तनु मूत्र उत्सर्जित होता है, जिससे निर्जलीकरण हो सकता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q11",
+      "category": "formula",
+      "question": {
+        "en": "Why does a diet rich in animal proteins tend to make human urine more acidic (pH < 6.0)?",
+        "hi": "पशु प्रोटीन से भरपूर आहार मानव मूत्र को अधिक अम्लीय (pH < 6.0) क्यों बनाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Catabolism of sulfur-containing amino acids (cysteine, methionine) generates sulfuric acid and hydrogen ions that are secreted into the filtrate",
+          "hi": "सल्फर युक्त अमीनो अम्लों (सिस्टीन, मेथिओनिन) के अपचय से सल्फ्यूरिक अम्ल और हाइड्रोजन आयन उत्पन्न होते हैं जो निस्यंद में स्रावित होते हैं"
+        },
+        "B": {
+          "en": "Animal protein directly prevents tubular secretion of potassium ions",
+          "hi": "पशु प्रोटीन सीधे पोटेशियम आयनों के नलिका स्राव को रोकता है"
+        },
+        "C": {
+          "en": "High protein intake blocks the Na+/K+ ATPase pump in the PCT",
+          "hi": "उच्च प्रोटीन सेवन PCT में Na+/K+ ATPase पंप को अवरुद्ध करता है"
+        },
+        "D": {
+          "en": "Proteins bind bicarbonate irreversibly inside the lumen of the ureter",
+          "hi": "प्रोटीन मूत्रवाहिनी की गुहा के भीतर बाइकार्बोनेट को अपरिवर्तनीय रूप से बांधते हैं"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Metabolism of sulfur-containing and phosphorus-containing amino acids in protein creates non-volatile fixed acids (sulfuric and phosphoric acids). The kidneys excrete these extra protons (H+) via tubular secretion into the urine while reabsorbing bicarbonate, resulting in an acidic urine (pH ~5.0 - 5.5).",
+        "hi": "प्रोटीन में सल्फर युक्त और फास्फोरस युक्त अमीनो अम्लों के उपापचय से गैर-वाष्पशील स्थिर अम्ल (सल्फ्यूरिक और फॉस्फोरिक अम्ल) बनते हैं। वृक्क इन अतिरिक्त प्रोटॉनों (H+) को नलिका स्राव द्वारा मूत्र में उत्सर्जित करते हैं और बाइकार्बोनेट का पुनरवशोषण करते हैं, जिसके परिणामस्वरूप मूत्र अम्लीय (pH ~5.0 - 5.5) हो जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q12",
+      "category": "formula",
+      "question": {
+        "en": "In a hemodialysis apparatus, what physical property of the semipermeable cellophane membrane ensures that blood cells and plasma proteins are retained while urea is cleared?",
+        "hi": "हीमोडायलिसिस उपकरण में, अर्धपारगम्य सेलोफेन झिल्ली का कौन सा भौतिक गुण यह सुनिश्चित करता है कि रक्त कोशिकाएं और प्लाज्मा प्रोटीन बने रहें जबकि यूरिया निष्कासित हो जाए?"
+      },
+      "options": {
+        "A": {
+          "en": "Presence of active proton antiporters powered by artificial ATP",
+          "hi": "कृत्रिम ATP द्वारा संचालित सक्रिय प्रोटॉन एंटीपोर्टर्स की उपस्थिति"
+        },
+        "B": {
+          "en": "Positive electrical charge that repels all nitrogen atoms",
+          "hi": "धनात्मक विद्युत आवेश जो सभी नाइट्रोजन परमाणुओं को प्रतिकर्षित करता है"
+        },
+        "C": {
+          "en": "Pore size diameter that permits micro-solutes (urea, creatinine, ions) to pass but excludes large macromolecules (proteins) and cellular elements",
+          "hi": "छिद्र का आकार जो सूक्ष्म विलेयों (यूरिया, क्रिएटिनिन, आयन) को गुजरने देता है लेकिन बड़े वृहद्-अणुओं (प्रोटीन) और कोशिकीय तत्वों को रोक देता है"
+        },
+        "D": {
+          "en": "Hydrophobic lipid bilayer identical to the outer mitochondrial membrane",
+          "hi": "बाहरी माइटोकॉन्ड्रियल झिल्ली के समान हाइड्रोफोबिक लिपिड द्विपरत"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Cellophane is a porous, semipermeable membrane whose microscopic pore size allows small solute molecules such as urea, uric acid, creatinine, and mineral ions to freely diffuse along concentration gradients into the dialysate, while blocking large colloidal plasma proteins (albumin, globulins) and blood cells.",
+        "hi": "सेलोफेन एक सरंध्र, अर्धपारगम्य झिल्ली है जिसके सूक्ष्म छिद्र यूरिया, यूरिक अम्ल, क्रिएटिनिन और खनिज आयनों जैसे छोटे विलेय अणुओं को सांद्रता प्रवणता के अनुसार अपोहन द्रव में स्वतंत्र रूप से विसरित होने देते हैं, जबकि बड़े कोलॉइडी प्लाज्मा प्रोटीन (एल्बुमिन, ग्लोब्युलिन) और रक्त कोशिकाओं को रोक देते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the excretory system disorders in Column-I with their characteristic features in Column-II:\nColumn-I:\n(a) Uremia\n(b) Renal calculi\n(c) Glomerulonephritis\n(d) Glycosuria and Ketonuria\n\nColumn-II:\n(i) Insoluble mass of crystallized salts (e.g., oxalates) formed within kidney\n(ii) Accumulation of urea in blood due to kidney malfunction\n(iii) Presence of glucose and ketone bodies in urine indicative of Diabetes mellitus\n(iv) Inflammation of the glomeruli of kidney",
+        "hi": "कॉलम-I में दिए गए उत्सर्जी तंत्र के विकारों का कॉलम-II में दी गई उनकी विशिष्ट विशेषताओं से मिलान कीजिए:\nकॉलम-I:\n(a) यूरिमिया\n(b) वृक्क पथरी (Renal calculi)\n(c) ग्लोमेरुलोनेफ्राइटिस\n(d) ग्लाइकोसुरिया और कीटोनुरिया\n\nकॉलम-II:\n(i) वृक्क के भीतर बने क्रिस्टलीकृत लवणों (जैसे ऑक्सालेट) का अघुलनशील द्रव्यमान\n(ii) वृक्क की खराबी के कारण रक्त में यूरिया का संचय\n(iii) डायबिटीज मेलिटस का संकेत देने वाले मूत्र में ग्लूकोज और कीटोन निकायों की उपस्थिति\n(iv) वृक्क के केशिकागुच्छों की सूजन (शोथ)"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "hi": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        },
+        "B": {
+          "en": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+          "hi": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Correct match:\n(a) Uremia -> (ii) Accumulation of urea in blood due to kidney malfunction\n(b) Renal calculi -> (i) Insoluble mass of crystallized salts formed within kidney\n(c) Glomerulonephritis -> (iv) Inflammation of glomeruli of kidney\n(d) Glycosuria and Ketonuria -> (iii) Indicative of Diabetes mellitus",
+        "hi": "सही मिलान:\n(a) यूरिमिया -> (ii) वृक्क की खराबी के कारण रक्त में यूरिया का संचय\n(b) वृक्क पथरी -> (i) वृक्क के भीतर बने क्रिस्टलीकृत लवणों का अघुलनशील द्रव्यमान\n(c) ग्लोमेरुलोनेफ्राइटिस -> (iv) वृक्क के केशिकागुच्छों की सूजन\n(d) ग्लाइकोसुरिया और कीटोनुरिया -> (iii) डायबिटीज मेलिटस का संकेत"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the regulatory hormones in Column-I with their primary anatomical origin and target action in Column-II:\nColumn-I:\n(a) Renin\n(b) Aldosterone\n(c) Atrial Natriuretic Factor (ANF)\n(d) Antidiuretic Hormone (ADH)\n\nColumn-II:\n(i) Adrenal cortex; enhances Na+ and water reabsorption in DCT\n(ii) Juxtaglomerular cells; converts angiotensinogen to angiotensin I\n(iii) Hypothalamus/Neurohypophysis; increases water permeability of DCT and CD\n(iv) Heart atria; causes vasodilation and lowers blood pressure",
+        "hi": "कॉलम-I में दिए गए नियामक हार्मोनों का कॉलम-II में उनके प्राथमिक शारीरिक उद्गम और लक्ष्य क्रिया से मिलान कीजिए:\nकॉलम-I:\n(a) रेनिन\n(b) एल्डोस्टेरोन\n(c) एट्रियल नैट्रियूरेटिक कारक (ANF)\n(d) एंटीडाइयूरेटिक हार्मोन (ADH)\n\nकॉलम-II:\n(i) अधिवृक्क वल्कुट; DCT में Na+ और जल के पुनरवशोषण को बढ़ाता है\n(ii) सन्निकट केशिकागुच्छ कोशिकाएं; एंजियोटेंसिनोजेन को एंजियोटेंसिन I में बदलता है\n(iii) हाइपोथैलेमस/पश्च पीयूष; DCT और संग्रह नलिका की जल पारगम्यता बढ़ाता है\n(iv) हृदय आलिंद; वाहिकाविस्फार करता है और रक्तचाप कम करता है"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "hi": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        },
+        "B": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        "D": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Correct match:\n(a) Renin -> (ii) Juxtaglomerular cells; converts angiotensinogen to angiotensin I\n(b) Aldosterone -> (i) Adrenal cortex; enhances Na+ and water reabsorption in DCT\n(c) ANF -> (iv) Heart atria; causes vasodilation and lowers blood pressure\n(d) ADH -> (iii) Hypothalamus/Neurohypophysis; increases water permeability of DCT and CD",
+        "hi": "सही मिलान:\n(a) रेनिन -> (ii) JG कोशिकाएं; एंजियोटेंसिनोजेन को एंजियोटेंसिन I में बदलता है\n(b) एल्डोस्टेरोन -> (i) अधिवृक्क वल्कुट; DCT में Na+ और जल के पुनरवशोषण को बढ़ाता है\n(c) ANF -> (iv) हृदय आलिंद; वाहिकाविस्फार करता है और रक्तचाप कम करता है\n(d) ADH -> (iii) हाइपोथैलेमस/पश्च पीयूष; DCT और CD की जल पारगम्यता बढ़ाता है"
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc04_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following statements regarding the regulation of kidney function and micturition:\nI. An increase in body fluid volume can switch off the osmoreceptors and suppress the ADH release to complete the feedback.\nII. Angiotensin II is a powerful vasodilator that decreases glomerular blood pressure.\nIII. Micturition reflex can be voluntarily initiated and inhibited to a certain extent by higher cortical centers in adults.\nIV. Presence of glucose (glycosuria) and ketone bodies (ketonuria) in urine are indicative of diabetes mellitus.\nWhich of the above statements are CORRECT?",
+        "hi": "वृक्क कार्य के नियमन और मूत्रण के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nI. शारीरिक द्रव के आयतन में वृद्धि परासरणग्राहियों को बंद कर सकती है और पुनर्भरण (feedback) पूरा करने के लिए ADH के स्राव को दबा सकती है।\nII. एंजियोटेंसिन II एक शक्तिशाली वाहिकाविस्फारक (vasodilator) है जो केशिकागुच्छ रक्तचाप को कम करता है।\nIII. वयस्कों में उच्च प्रमस्तिष्क वल्कुट केंद्रों द्वारा मूत्रण प्रतिवर्त को एक निश्चित सीमा तक ऐच्छिक रूप से शुरू और संदमित किया जा सकता है।\nIV. मूत्र में ग्लूकोज (ग्लाइकोसुरिया) और कीटोन निकायों (कीटोनुरिया) की उपस्थिति डायबिटीज मेलिटस का संकेत है।\nउपरोक्त में से कौन-से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I, III, and IV only",
+          "hi": "केवल I, III और IV"
+        },
+        "B": {
+          "en": "I and II only",
+          "hi": "केवल I और II"
+        },
+        "C": {
+          "en": "II, III, and IV only",
+          "hi": "केवल II, III और IV"
+        },
+        "D": {
+          "en": "I, II, III, and IV",
+          "hi": "I, II, III और IV सभी"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Statements I, III, and IV are correct. Statement II is incorrect because Angiotensin II is a powerful vasoconstrictor (not vasodilator) that increases glomerular blood pressure and thereby GFR.",
+        "hi": "कथन I, III और IV सही हैं। कथन II गलत है क्योंकि एंजियोटेंसिन II एक शक्तिशाली वाहिकासंकीर्णक (vasoconstrictor) है (न कि विस्फारक), जो केशिकागुच्छ रक्तचाप और फलस्वरूप GFR को बढ़ाता है।"
+      }
+    }
+  ]
+}

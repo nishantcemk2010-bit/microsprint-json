@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc05_q01",
+      "category": "Theory",
+      "question": {
+        "en": "According to the Kinetic Molecular Theory of Gases, the actual volume occupied by the gas molecules themselves is considered:",
+        "hi": "गैसों के गतिज आणविक सिद्धांत के अनुसार, गैस के अणुओं द्वारा स्वयं घेरा गया वास्तविक आयतन क्या माना जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Negligibly small compared to the total volume occupied by the gas",
+          "hi": "गैस द्वारा घेरे गए कुल आयतन की तुलना में नगण्य"
+        },
+        "B": {
+          "en": "Equal to half the total volume of the container",
+          "hi": "पात्र के कुल आयतन के आधे के बराबर"
+        },
+        "C": {
+          "en": "Directly proportional to the molecular mass",
+          "hi": "आणविक द्रव्यमान के सीधे समानुपाती"
+        },
+        "D": {
+          "en": "Greater than the empty space between molecules",
+          "hi": "अणुओं के बीच के खाली स्थान से अधिक"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Which of the following is an explicit postulate of the Kinetic Molecular Theory of ideal gases?",
+        "hi": "निम्नलिखित में से कौन सा आदर्श गैसों के गतिज आणविक सिद्धांत का एक स्पष्ट अभिगृहीत है?"
+      },
+      "options": {
+        "A": {
+          "en": "Collisions of gas molecules are perfectly elastic, meaning total kinetic energy is conserved",
+          "hi": "गैस अणुओं की टक्करें पूर्णतः प्रत्यास्थ होती हैं, अर्थात कुल गतिज ऊर्जा संरक्षित रहती है"
+        },
+        "B": {
+          "en": "There are strong gravitational attractive forces between gas molecules",
+          "hi": "गैस अणुओं के बीच प्रबल गुरुत्वाकर्षण आकर्षण बल होते हैं"
+        },
+        "C": {
+          "en": "Molecules lose kinetic energy continuously upon each collision",
+          "hi": "अणु प्रत्येक टक्कर पर लगातार गतिज ऊर्जा खोते हैं"
+        },
+        "D": {
+          "en": "All gas molecules move with the exact same identical speed at a given temperature",
+          "hi": "दिए गए तापमान पर सभी गैस अणु बिल्कुल समान गति से चलते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q03",
+      "category": "Theory",
+      "question": {
+        "en": "According to the kinetic theory of gases, the average kinetic energy of gas molecules is directly proportional to:",
+        "hi": "गैसों के गतिज सिद्धांत के अनुसार, गैस अणुओं की औसत गतिज ऊर्जा किसके सीधे समानुपाती होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Absolute temperature in Kelvin (E_k ∝ T)",
+          "hi": "केल्विन में परम तापमान के (E_k ∝ T)"
+        },
+        "B": {
+          "en": "Pressure of the gas container",
+          "hi": "गैस पात्र के दाब के"
+        },
+        "C": {
+          "en": "Molar mass of the gas molecules",
+          "hi": "गैस अणुओं के मोलर द्रव्यमान के"
+        },
+        "D": {
+          "en": "Volume of the container",
+          "hi": "पात्र के आयतन के"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In the Maxwell-Boltzmann distribution of molecular speeds, as temperature increases, the peak of the curve:",
+        "hi": "आणविक गति के मैक्सवेल-बोल्ट्जमान वितरण में, तापमान बढ़ने पर वक्र का शीर्ष (peak):"
+      },
+      "options": {
+        "A": {
+          "en": "Shifts to the right (higher speed) and flattens downward (lower fraction of molecules)",
+          "hi": "दाईं ओर (उच्च गति) खिसकता है और नीचे की ओर चपटा (अणुओं का कम अंश) हो जाता है"
+        },
+        "B": {
+          "en": "Shifts to the left and becomes sharper and taller",
+          "hi": "बाईं ओर खिसकता है और अधिक तीक्ष्ण व ऊँचा हो जाता है"
+        },
+        "C": {
+          "en": "Remains at the exact same speed position but doubles in height",
+          "hi": "बिल्कुल उसी गति स्थिति पर रहता है लेकिन ऊँचाई में दोगुना हो जाता है"
+        },
+        "D": {
+          "en": "Shifts directly to zero speed",
+          "hi": "सीधे शून्य गति पर खिसक जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q05",
+      "category": "Theory",
+      "question": {
+        "en": "What is the definition of the 'Most Probable Speed' (u_mp) of gas molecules?",
+        "hi": "गैस अणुओं की 'अधिकतम संभावित गति' (Most Probable Speed, u_mp) की परिभाषा क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "The speed possessed by the maximum fraction of molecules at a given temperature",
+          "hi": "दिए गए तापमान पर अणुओं के अधिकतम अंश द्वारा रखी गई गति"
+        },
+        "B": {
+          "en": "The arithmetic average of all molecular speeds",
+          "hi": "सभी आणविक गतियों का अंकगणितीय औसत"
+        },
+        "C": {
+          "en": "The square root of the mean of squared speeds",
+          "hi": "वर्ग गतियों के माध्य का वर्गमूल"
+        },
+        "D": {
+          "en": "The maximum speed achievable by any single molecule",
+          "hi": "किसी एकल अणु द्वारा प्राप्त की जा सकने वाली अधिकतम गति"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q06",
+      "category": "Theory",
+      "question": {
+        "en": "For two different gases (e.g., H₂ and O₂) at the exact same temperature, which statement regarding their kinetic energy is correct?",
+        "hi": "समान तापमान पर दो अलग-अलग गैसों (जैसे H₂ और O₂) के लिए उनकी गतिज ऊर्जा के संबंध में कौन सा कथन सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "Both gases have the exact same average translational kinetic energy per mole ((3/2)RT)",
+          "hi": "दोनों गैसों की प्रति मोल औसत स्थानांतरण गतिज ऊर्जा बिल्कुल समान ((3/2)RT) होती है"
+        },
+        "B": {
+          "en": "H₂ has 16 times higher average kinetic energy because it is lighter",
+          "hi": "H₂ की औसत गतिज ऊर्जा 16 गुना अधिक होती है क्योंकि यह हल्की है"
+        },
+        "C": {
+          "en": "O₂ has higher average kinetic energy because it has greater mass",
+          "hi": "O₂ की औसत गतिज ऊर्जा अधिक होती है क्योंकि इसका द्रव्यमान अधिक है"
+        },
+        "D": {
+          "en": "Neither gas has any kinetic energy at room temperature",
+          "hi": "कमरे के तापमान पर किसी भी गैस में कोई गतिज ऊर्जा नहीं होती"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q07",
+      "category": "Formula",
+      "question": {
+        "en": "What is the ratio between Most Probable Speed (u_mp), Average Speed (u_av), and Root Mean Square Speed (u_rms) for a gas at a given temperature?",
+        "hi": "दिए गए तापमान पर किसी गैस के लिए अधिकतम संभावित गति (u_mp), औसत गति (u_av), और वर्ग माध्य मूल गति (u_rms) के बीच का अनुपात क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "u_mp : u_av : u_rms = 1 : 1.128 : 1.224 (or √2 : √(8/π) : √3)",
+          "hi": "u_mp : u_av : u_rms = 1 : 1.128 : 1.224 (या √2 : √(8/π) : √3)"
+        },
+        "B": {
+          "en": "u_rms : u_av : u_mp = 1 : 1.128 : 1.224",
+          "hi": "u_rms : u_av : u_mp = 1 : 1.128 : 1.224"
+        },
+        "C": {
+          "en": "u_mp : u_av : u_rms = 1 : 1 : 1",
+          "hi": "u_mp : u_av : u_rms = 1 : 1 : 1"
+        },
+        "D": {
+          "en": "u_mp : u_av : u_rms = √3 : √(8/π) : √2",
+          "hi": "u_mp : u_av : u_rms = √3 : √(8/π) : √2"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q08",
+      "category": "Formula",
+      "question": {
+        "en": "The kinetic gas equation derived from the kinetic theory is expressed as:",
+        "hi": "गतिज सिद्धांत से व्युत्पन्न गतिज गैस समीकरण को किस रूप में व्यक्त किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "PV = (1/3) m N u_rms²",
+          "hi": "PV = (1/3) m N u_rms²"
+        },
+        "B": {
+          "en": "PV = (1/2) m N u_rms²",
+          "hi": "PV = (1/2) m N u_rms²"
+        },
+        "C": {
+          "en": "PV = (2/3) m N u_rms",
+          "hi": "PV = (2/3) m N u_rms"
+        },
+        "D": {
+          "en": "PV = m N u_rms²",
+          "hi": "PV = m N u_rms²"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q09",
+      "category": "Formula",
+      "question": {
+        "en": "What is the root mean square speed (u_rms) of oxygen (O₂) molecules at 27 °C? (M = 0.032 kg/mol, R = 8.314 J·K⁻¹·mol⁻¹)",
+        "hi": "27 °C पर ऑक्सीजन (O₂) अणुओं की वर्ग माध्य मूल गति (u_rms) क्या है? (M = 0.032 kg/mol, R = 8.314 J·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "483.6 m/s",
+          "hi": "483.6 m/s"
+        },
+        "B": {
+          "en": "241.8 m/s",
+          "hi": "241.8 m/s"
+        },
+        "C": {
+          "en": "684.0 m/s",
+          "hi": "684.0 m/s"
+        },
+        "D": {
+          "en": "153.2 m/s",
+          "hi": "153.2 m/s"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q10",
+      "category": "Formula",
+      "question": {
+        "en": "At what temperature will the root mean square speed of SO₂ molecules (M=64 g/mol) be equal to that of O₂ molecules (M=32 g/mol) at 27 °C (300 K)?",
+        "hi": "किस तापमान पर SO₂ अणुओं (M=64 g/mol) की वर्ग माध्य मूल गति 27 °C (300 K) पर O₂ अणुओं (M=32 g/mol) के बराबर होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "600 K (327 °C)",
+          "hi": "600 K (327 °C)"
+        },
+        "B": {
+          "en": "150 K (-123 °C)",
+          "hi": "150 K (-123 °C)"
+        },
+        "C": {
+          "en": "300 K (27 °C)",
+          "hi": "300 K (27 °C)"
+        },
+        "D": {
+          "en": "1200 K (927 °C)",
+          "hi": "1200 K (927 °C)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q11",
+      "category": "Formula",
+      "question": {
+        "en": "The total translational kinetic energy of 2.0 moles of an ideal gas at 300 K is: (R = 8.314 J·K⁻¹·mol⁻¹)",
+        "hi": "300 K पर एक आदर्श गैस के 2.0 मोल की कुल स्थानांतरण गतिज ऊर्जा क्या है? (R = 8.314 J·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "7482.6 J",
+          "hi": "7482.6 J"
+        },
+        "B": {
+          "en": "3741.3 J",
+          "hi": "3741.3 J"
+        },
+        "C": {
+          "en": "4988.4 J",
+          "hi": "4988.4 J"
+        },
+        "D": {
+          "en": "1247.1 J",
+          "hi": "1247.1 J"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q12",
+      "category": "Formula",
+      "question": {
+        "en": "If the absolute temperature of an ideal gas is increased from 100 K to 400 K, by what factor does the root mean square speed of its molecules increase?",
+        "hi": "यदि किसी आदर्श गैस का परम तापमान 100 K से बढ़ाकर 400 K कर दिया जाए, तो उसके अणुओं की वर्ग माध्य मूल गति कितने गुना बढ़ जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "2 times (doubles)",
+          "hi": "2 गुना (दोगुनी हो जाती है)"
+        },
+        "B": {
+          "en": "4 times",
+          "hi": "4 गुना"
+        },
+        "C": {
+          "en": "16 times",
+          "hi": "16 गुना"
+        },
+        "D": {
+          "en": "1.414 times",
+          "hi": "1.414 गुना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the Maxwell-Boltzmann speed distribution curve for a gas at three temperatures T₁, T₂, and T₃ where T₃ > T₂ > T₁:\nWhich temperature has the broadest distribution curve and the highest most-probable speed?",
+        "hi": "तीन तापमानों T₁, T₂ और T₃ (जहाँ T₃ > T₂ > T₁) पर एक गैस के लिए मैक्सवेल-बोल्ट्जमान गति वितरण वक्र का परीक्षण करें:\nकिस तापमान का वितरण वक्र सबसे चौड़ा और अधिकतम संभावित गति उच्चतम होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "Temperature T₃",
+          "hi": "तापमान T₃"
+        },
+        "B": {
+          "en": "Temperature T₁",
+          "hi": "तापमान T₁"
+        },
+        "C": {
+          "en": "Temperature T₂",
+          "hi": "तापमान T₂"
+        },
+        "D": {
+          "en": "All three curves are identical in shape and peak",
+          "hi": "तीनों वक्र आकृति और शीर्ष में समान हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Consider the following table matching molecular speeds with their mathematical formulas:\n| Speed Type | Formula |\n| :--- | :--- |\n| 1. Most Probable Speed (u_mp) | P. √(3RT/M) |\n| 2. Average Speed (u_av) | Q. √(8RT/πM) |\n| 3. Root Mean Square Speed (u_rms) | R. √(2RT/M) |\nWhich matching is correct?",
+        "hi": "आणविक गतियों और उनके गणितीय सूत्रों का मिलान करने वाली तालिका की जाँच करें:\n| गति का प्रकार | सूत्र |\n| :--- | :--- |\n| 1. अधिकतम संभावित गति (u_mp) | P. √(3RT/M) |\n| 2. औसत गति (u_av) | Q. √(8RT/πM) |\n| 3. वर्ग माध्य मूल गति (u_rms) | R. √(2RT/M) |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-R, 2-Q, 3-P",
+          "hi": "1-R, 2-Q, 3-P"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        },
+        "D": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc05_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "At a constant temperature of 300 K, which of the following gases has the highest root mean square speed?\n(M_H₂ = 2, M_He = 4, M_CH₄ = 16, M_O₂ = 32)",
+        "hi": "300 K के स्थिर तापमान पर, निम्नलिखित में से किस गैस की वर्ग माध्य मूल गति सर्वाधिक होगी?\n(M_H₂ = 2, M_He = 4, M_CH₄ = 16, M_O₂ = 32)"
+      },
+      "options": {
+        "A": {
+          "en": "H₂ gas",
+          "hi": "H₂ गैस"
+        },
+        "B": {
+          "en": "He gas",
+          "hi": "He गैस"
+        },
+        "C": {
+          "en": "CH₄ gas",
+          "hi": "CH₄ गैस"
+        },
+        "D": {
+          "en": "O₂ gas",
+          "hi": "O₂ गैस"
+        }
+      }
+    }
+  ]
+}

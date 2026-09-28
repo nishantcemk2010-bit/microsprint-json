@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch06_mc07_q01",
+      "category": "Theory",
+      "question": {
+        "en": "What is the thermodynamic definition of a 'Spontaneous Process'?",
+        "hi": "'स्वतःप्रवर्तित प्रक्रम' (Spontaneous Process) की ऊष्मागतिक परिभाषा क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "A process that has an inherent tendency to occur on its own in a given direction without requiring continuous external work",
+          "hi": "एक ऐसा प्रक्रम जिसमें निरंतर बाह्य कार्य की आवश्यकता के बिना दी गई दिशा में स्वतः होने की अंतर्निहित प्रवृत्ति होती है"
+        },
+        "B": {
+          "en": "A process that occurs infinitely fast with zero activation energy",
+          "hi": "एक ऐसा प्रक्रम जो शून्य सक्रियण ऊर्जा के साथ अनंत तेजी से होता है"
+        },
+        "C": {
+          "en": "A process that is 100% reversible at any moment",
+          "hi": "एक ऐसा प्रक्रम जो किसी भी क्षण 100% उत्क्रमणीय होता है"
+        },
+        "D": {
+          "en": "A process in which total enthalpy increases continuously",
+          "hi": "एक ऐसा प्रक्रम जिसमें कुल एन्थैल्पी लगातार बढ़ती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Entropy (S) is a thermodynamic state property that serves as a quantitative measure of:",
+        "hi": "एन्ट्रॉपी (S) एक ऊष्मागतिक अवस्था गुण है जो किसका मात्रात्मक माप है?"
+      },
+      "options": {
+        "A": {
+          "en": "The randomness or molecular disorder of the system",
+          "hi": "निकाय की यादृच्छिकता (randomness) या आणविक अव्यवस्था का"
+        },
+        "B": {
+          "en": "The total pressure exerted by the gas molecules",
+          "hi": "गैस अणुओं द्वारा लगाए गए कुल दाब का"
+        },
+        "C": {
+          "en": "The rate at which a chemical reaction proceeds",
+          "hi": "उस दर का जिससे रासायनिक अभिक्रिया आगे बढ़ती है"
+        },
+        "D": {
+          "en": "The density of the atomic nuclei",
+          "hi": "परमाण्विक नाभिकों के घनत्व का"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q03",
+      "category": "Theory",
+      "question": {
+        "en": "The Second Law of Thermodynamics states that for any spontaneous (irreversible) process occurring in the universe:",
+        "hi": "ऊष्मागतिकी का दूसरा नियम बताता है कि ब्रह्मांड में होने वाले किसी भी स्वतःप्रवर्तित (अनुत्क्रमणीय) प्रक्रम के लिए:"
+      },
+      "options": {
+        "A": {
+          "en": "The total entropy of the universe increases (ΔS_total = ΔS_sys + ΔS_surr > 0)",
+          "hi": "ब्रह्मांड की कुल एन्ट्रॉपी बढ़ती है (ΔS_कुल = ΔS_निकाय + ΔS_परिवेश > 0)"
+        },
+        "B": {
+          "en": "The total entropy of the universe remains strictly constant",
+          "hi": "ब्रह्मांड की कुल एन्ट्रॉपी कड़ाई से स्थिर रहती है"
+        },
+        "C": {
+          "en": "The total internal energy of the universe drops to zero",
+          "hi": "ब्रह्मांड की कुल आंतरिक ऊर्जा शून्य हो जाती है"
+        },
+        "D": {
+          "en": "The entropy of the system itself must always increase",
+          "hi": "निकाय की अपनी एन्ट्रॉपी हमेशा बढ़नी चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q04",
+      "category": "Theory",
+      "question": {
+        "en": "For a reversible process at temperature T, the change in entropy (ΔS) is defined mathematically as:",
+        "hi": "तापमान T पर एक उत्क्रमणीय प्रक्रम के लिए, एन्ट्रॉपी में परिवर्तन (ΔS) को गणितीय रूप से किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔS = q_rev / T",
+          "hi": "ΔS = q_rev / T"
+        },
+        "B": {
+          "en": "ΔS = q_rev × T",
+          "hi": "ΔS = q_rev × T"
+        },
+        "C": {
+          "en": "ΔS = w_rev / T",
+          "hi": "ΔS = w_rev / T"
+        },
+        "D": {
+          "en": "ΔS = ΔH / T²",
+          "hi": "ΔS = ΔH / T²"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q05",
+      "category": "Theory",
+      "question": {
+        "en": "In which of the following physical or chemical processes does entropy (S) DECREASE (ΔS < 0)?",
+        "hi": "निम्नलिखित में से किस भौतिक या रासायनिक प्रक्रम में एन्ट्रॉपी (S) घटती है (ΔS < 0)?"
+      },
+      "options": {
+        "A": {
+          "en": "Freezing of liquid water into ice at 0 °C",
+          "hi": "0 °C पर द्रव जल का बर्फ में जमना"
+        },
+        "B": {
+          "en": "Vaporization of liquid water into steam",
+          "hi": "द्रव जल का वाष्प में वाष्पीकरण"
+        },
+        "C": {
+          "en": "Sublimation of solid iodine into gas",
+          "hi": "ठोस आयोडीन का गैस में ऊर्ध्वपातन"
+        },
+        "D": {
+          "en": "Dissolution of solid sugar in water",
+          "hi": "जल में ठोस चीनी का घुलना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What happens to the entropy of an egg when it is boiled hard?",
+        "hi": "जब किसी अंडे को उबालकर सख्त किया जाता है, तो उसकी एन्ट्रॉपी पर क्या प्रभाव पड़ता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Entropy increases due to the denaturation of globular proteins into randomly disordered coiled chains",
+          "hi": "गोलाकार प्रोटीनों के यादृच्छिक रूप से अव्यवस्थित कुंडलित श्रृंखलाओं में विकृतीकरण के कारण एन्ट्रॉपी बढ़ती है"
+        },
+        "B": {
+          "en": "Entropy decreases because liquid becomes solid",
+          "hi": "एन्ट्रॉपी घटती है क्योंकि द्रव ठोस बन जाता है"
+        },
+        "C": {
+          "en": "Entropy drops to zero",
+          "hi": "एन्ट्रॉपी शून्य हो जाती है"
+        },
+        "D": {
+          "en": "Entropy remains completely unchanged",
+          "hi": "एन्ट्रॉपी पूरी तरह अपरिवर्तित रहती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q07",
+      "category": "Formula",
+      "question": {
+        "en": "The entropy of fusion (Δ_fus S) of a substance at its normal melting point T_f is calculated as:",
+        "hi": "किसी पदार्थ के सामान्य गलनांक T_f पर गलन की एन्ट्रॉपी (Δ_fus S) की गणना किस प्रकार की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Δ_fus S = Δ_fus H / T_f",
+          "hi": "Δ_fus S = Δ_fus H / T_f"
+        },
+        "B": {
+          "en": "Δ_fus S = Δ_fus H × T_f",
+          "hi": "Δ_fus S = Δ_fus H × T_f"
+        },
+        "C": {
+          "en": "Δ_fus S = T_f / Δ_fus H",
+          "hi": "Δ_fus S = T_f / Δ_fus H"
+        },
+        "D": {
+          "en": "Δ_fus S = Δ_fus H - T_f",
+          "hi": "Δ_fus S = Δ_fus H - T_f"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q08",
+      "category": "Formula",
+      "question": {
+        "en": "If the enthalpy of fusion of ice is 6.0 kJ/mol at 0 °C (273.15 K), what is the entropy change of fusion (Δ_fus S)?",
+        "hi": "यदि 0 °C (273.15 K) पर बर्फ के गलन की एन्थैल्पी 6.0 kJ/mol है, तो गलन का एन्ट्रॉपी परिवर्तन (Δ_fus S) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "+21.98 J · K⁻¹ · mol⁻¹",
+          "hi": "+21.98 J · K⁻¹ · mol⁻¹"
+        },
+        "B": {
+          "en": "-21.98 J · K⁻¹ · mol⁻¹",
+          "hi": "-21.98 J · K⁻¹ · mol⁻¹"
+        },
+        "C": {
+          "en": "+2.198 J · K⁻¹ · mol⁻¹",
+          "hi": "+2.198 J · K⁻¹ · mol⁻¹"
+        },
+        "D": {
+          "en": "+60.0 J · K⁻¹ · mol⁻¹",
+          "hi": "+60.0 J · K⁻¹ · mol⁻¹"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q09",
+      "category": "Formula",
+      "question": {
+        "en": "Trouton's Rule states that for most non-associated liquids, the standard entropy of vaporization at their normal boiling points is approximately equal to:",
+        "hi": "ट्राउटन का नियम बताता है कि अधिकांश असंगुणित द्रवों के लिए उनके सामान्य क्वथनांक पर वाष्पीकरण की मानक एन्ट्रॉपी लगभग किसके बराबर होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "85 to 88 J · K⁻¹ · mol⁻¹ (or ~10.5 R)",
+          "hi": "85 से 88 J · K⁻¹ · mol⁻¹ (या ~10.5 R)"
+        },
+        "B": {
+          "en": "21 J · K⁻¹ · mol⁻¹",
+          "hi": "21 J · K⁻¹ · mol⁻¹"
+        },
+        "C": {
+          "en": "0 J · K⁻¹ · mol⁻¹",
+          "hi": "0 J · K⁻¹ · mol⁻¹"
+        },
+        "D": {
+          "en": "200 J · K⁻¹ · mol⁻¹",
+          "hi": "200 J · K⁻¹ · mol⁻¹"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q10",
+      "category": "Formula",
+      "question": {
+        "en": "For an isothermal expansion of n moles of an ideal gas from volume V₁ to V₂, the change in entropy is given by:",
+        "hi": "n मोल आदर्श गैस के आयतन V₁ से V₂ तक समतापीय प्रसार के लिए एन्ट्रॉपी में परिवर्तन किसके द्वारा दिया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔS = 2.303 nR log(V₂ / V₁) = 2.303 nR log(P₁ / P₂)",
+          "hi": "ΔS = 2.303 nR log(V₂ / V₁) = 2.303 nR log(P₁ / P₂)"
+        },
+        "B": {
+          "en": "ΔS = 0",
+          "hi": "ΔS = 0"
+        },
+        "C": {
+          "en": "ΔS = n C_v log(V₂ / V₁)",
+          "hi": "ΔS = n C_v log(V₂ / V₁)"
+        },
+        "D": {
+          "en": "ΔS = nRT (V₂ - V₁)",
+          "hi": "ΔS = nRT (V₂ - V₁)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q11",
+      "category": "Formula",
+      "question": {
+        "en": "One mole of an ideal gas expands isothermally and reversibly from a pressure of 10 atm to 1 atm at 300 K. What is the change in entropy of the gas? (R = 8.314 J·K⁻¹·mol⁻¹, log 10 = 1)",
+        "hi": "300 K पर 1 मोल आदर्श गैस 10 atm से 1 atm दाब तक समतापीय और उत्क्रमणीय रूप से फैलती है। गैस की एन्ट्रॉपी में क्या परिवर्तन होता है? (R = 8.314 J·K⁻¹·mol⁻¹)"
+      },
+      "options": {
+        "A": {
+          "en": "+19.15 J/K",
+          "hi": "+19.15 J/K"
+        },
+        "B": {
+          "en": "-19.15 J/K",
+          "hi": "-19.15 J/K"
+        },
+        "C": {
+          "en": "+8.31 J/K",
+          "hi": "+8.31 J/K"
+        },
+        "D": {
+          "en": "0 J/K",
+          "hi": "0 J/K"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q12",
+      "category": "Formula",
+      "question": {
+        "en": "For a reversible adiabatic expansion of an ideal gas, what is the change in entropy (ΔS)?",
+        "hi": "एक आदर्श गैस के उत्क्रमणीय रुद्धोष्म प्रसार के लिए एन्ट्रॉपी में परिवर्तन (ΔS) क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "ΔS = 0 (isentropic process)",
+          "hi": "ΔS = 0 (सम-एन्ट्रॉपिक प्रक्रम)"
+        },
+        "B": {
+          "en": "ΔS > 0",
+          "hi": "ΔS > 0"
+        },
+        "C": {
+          "en": "ΔS < 0",
+          "hi": "ΔS < 0"
+        },
+        "D": {
+          "en": "ΔS = n C_p ln(T₂ / T₁)",
+          "hi": "ΔS = n C_p ln(T₂ / T₁)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Match the following processes with the sign of entropy change of the system (ΔS_sys):\n| Process | Sign of ΔS_sys |\n| :--- | :--- |\n| 1. N₂(g) + 3H₂(g) → 2NH₃(g) | P. Positive (ΔS > 0) |\n| 2. CaCO₃(s) → CaO(s) + CO₂(g) | Q. Negative (ΔS < 0) |\n| 3. I₂(s) → I₂(g) | R. Positive (ΔS > 0) |\nWhich matching is correct?",
+        "hi": "निम्नलिखित प्रक्रमों का निकाय के एन्ट्रॉपी परिवर्तन के चिह्न (ΔS_निकाय) से मिलान करें:\n| प्रक्रम | ΔS_निकाय का चिह्न |\n| :--- | :--- |\n| 1. N₂(g) + 3H₂(g) → 2NH₃(g) | P. धनात्मक (ΔS > 0) |\n| 2. CaCO₃(s) → CaO(s) + CO₂(g) | Q. ऋणात्मक (ΔS < 0) |\n| 3. I₂(s) → I₂(g) | R. धनात्मक (ΔS > 0) |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        },
+        "D": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In a spontaneous exothermic reaction at constant T and P where ΔS_sys is negative, what condition ensures that the overall process is spontaneous (ΔS_total > 0)?",
+        "hi": "स्थिर T और P पर एक स्वतःप्रवर्तित ऊष्माक्षेपी अभिक्रिया में जहाँ ΔS_निकाय ऋणात्मक है, कौन सी शर्त सुनिश्चित करती है कि समग्र प्रक्रम स्वतःप्रवर्तित है (ΔS_कुल > 0)?"
+      },
+      "options": {
+        "A": {
+          "en": "The heat released increases surroundings entropy by an amount greater than the system's entropy decrease (|ΔS_surr| > |ΔS_sys|)",
+          "hi": "मुक्त ऊष्मा परिवेश की एन्ट्रॉपी को निकाय की एन्ट्रॉपी में कमी से अधिक मात्रा में बढ़ाती है (|ΔS_परिवेश| > |ΔS_निकाय|)"
+        },
+        "B": {
+          "en": "The surroundings entropy must decrease to zero",
+          "hi": "परिवेश की एन्ट्रॉपी शून्य तक घटनी चाहिए"
+        },
+        "C": {
+          "en": "The reaction must occur at ultra-high temperature",
+          "hi": "अभिक्रिया अत्यधिक उच्च तापमान पर होनी चाहिए"
+        },
+        "D": {
+          "en": "The reaction cannot be spontaneous under any condition",
+          "hi": "अभिक्रिया किसी भी परिस्थिति में स्वतःप्रवर्तित नहीं हो सकती"
+        }
+      }
+    },
+    {
+      "id": "chem_ch06_mc07_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Which of the following substances has the highest molar entropy at 298 K?",
+        "hi": "298 K पर निम्नलिखित में से किस पदार्थ की मोलर एन्ट्रॉपी सर्वाधिक है?"
+      },
+      "options": {
+        "A": {
+          "en": "H₂O(g) [water vapor]",
+          "hi": "H₂O(g) [जलवाष्प]"
+        },
+        "B": {
+          "en": "H₂O(l) [liquid water]",
+          "hi": "H₂O(l) [द्रव जल]"
+        },
+        "C": {
+          "en": "H₂O(s) [ice]",
+          "hi": "H₂O(s) [बर्फ]"
+        },
+        "D": {
+          "en": "All three have identical molar entropy",
+          "hi": "तीनों की मोलर एन्ट्रॉपी समान होती है"
+        }
+      }
+    }
+  ]
+}

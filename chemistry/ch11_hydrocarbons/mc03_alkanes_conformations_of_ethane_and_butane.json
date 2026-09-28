@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "What is the primary cause of torsional strain in the eclipsed conformation of ethane?",
+        "hi": "एथेन के ग्रसित संरूपण (eclipsed conformation) में मरोड़ी विकृति (torsional strain) का प्राथमिक कारण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Repulsive electron-electron interaction between the adjacent carbon-hydrogen bonding electron pairs",
+          "hi": "निकटवर्ती कार्बन-हाइड्रोजन आबंधी इलेक्ट्रॉन युग्मों के मध्य प्रतिकर्षी इलेक्ट्रॉन-इलेक्ट्रॉन अन्योन्यक्रिया"
+        },
+        "B": {
+          "en": "Steric hindrance between bulky methyl groups",
+          "hi": "विशाल मेथिल समूहों के मध्य त्रिविम बाधा"
+        },
+        "C": {
+          "en": "Attraction between carbon nuclei",
+          "hi": "कार्बन नाभिकों के बीच आकर्षण"
+        },
+        "D": {
+          "en": "Angle strain due to deviation from the tetrahedral $109.5^\\circ$ angle",
+          "hi": "चतुष्फलकीय $109.5^\\circ$ कोण से विचलन के कारण कोण विकृति"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "What is the dihedral (torsion) angle between adjacent $C-H$ bonds in the staggered conformation of ethane?",
+        "hi": "एथेन के विविव संरूपण (staggered conformation) में निकटवर्ती $C-H$ आबंधों के बीच द्वितल (मरोड़) कोण (dihedral angle) कितना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "$60^\\circ$",
+          "hi": "$60^\\circ$"
+        },
+        "B": {
+          "en": "$0^\\circ$",
+          "hi": "$0^\\circ$"
+        },
+        "C": {
+          "en": "$120^\\circ$",
+          "hi": "$120^\\circ$"
+        },
+        "D": {
+          "en": "$180^\\circ$",
+          "hi": "$180^\\circ$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "Why can the different conformers (rotamers) of ethane not be isolated at room temperature?",
+        "hi": "कमरे के तापमान पर एथेन के विभिन्न संरूपणों (rotamers) को पृथक क्यों नहीं किया जा सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The energy barrier of rotation is very small (~$12.5\\text{ kJ/mol}$), readily overcome by room-temperature thermal collisions",
+          "hi": "घूर्णन का ऊर्जा अवरोध बहुत कम (~$12.5\\text{ kJ/mol}$) होता है, जिसे कमरे के तापमान पर तापीय संघट्टों द्वारा आसानी से पार कर लिया जाता है"
+        },
+        "B": {
+          "en": "Carbon-carbon single bonds cannot rotate under any conditions",
+          "hi": "कार्बन-कार्बन एकल आबंध किसी भी परिस्थिति में घूर्णन नहीं कर सकते"
+        },
+        "C": {
+          "en": "All conformers have identical potential energy",
+          "hi": "सभी संरूपणों की स्थितिज ऊर्जा समान होती है"
+        },
+        "D": {
+          "en": "Ethane exists only as a solid at room temperature",
+          "hi": "कमरे के तापमान पर एथेन केवल ठोस के रूप में मौजूद होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following representations uses a circle to represent the rear carbon atom and lines intersecting at the center for the front carbon atom?",
+        "hi": "निम्नलिखित में से कौन-सा निरूपण पीछे के कार्बन परमाणु को दर्शाने के लिए एक वृत्त और आगे के कार्बन परमाणु के लिए केंद्र पर प्रतिच्छेद करने वाली रेखाओं का उपयोग करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Newman projection",
+          "hi": "न्यूमैन प्रक्षेप (Newman projection)"
+        },
+        "B": {
+          "en": "Sawhorse projection",
+          "hi": "सॉहॉर्स प्रक्षेप (Sawhorse projection)"
+        },
+        "C": {
+          "en": "Fischer projection",
+          "hi": "फिशर प्रक्षेप (Fischer projection)"
+        },
+        "D": {
+          "en": "Wedge-dash representation",
+          "hi": "वेज-डैश निरूपण"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q05",
+      "category": "formula",
+      "question": {
+        "en": "What is the energy difference between the staggered and eclipsed conformations of ethane?",
+        "hi": "एथेन के विविव और ग्रसित संरूपणों के बीच ऊर्जा का अंतर कितना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "$12.55\\text{ kJ/mol}$ ($3\\text{ kcal/mol}$)",
+          "hi": "$12.55\\text{ kJ/mol}$ ($3\\text{ kcal/mol}$)"
+        },
+        "B": {
+          "en": "$45.2\\text{ kJ/mol}$",
+          "hi": "$45.2\\text{ kJ/mol}$"
+        },
+        "C": {
+          "en": "$1.5\\text{ kJ/mol}$",
+          "hi": "$1.5\\text{ kJ/mol}$"
+        },
+        "D": {
+          "en": "$105\\text{ kJ/mol}$",
+          "hi": "$105\\text{ kJ/mol}$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q06",
+      "category": "formula",
+      "question": {
+        "en": "For n-butane ($CH_3-CH_2-CH_2-CH_3$) rotating about the $C_2-C_3$ bond, what is the dihedral angle between the two methyl groups in the anti (staggered) conformation?",
+        "hi": "n-ब्यूटेन ($CH_3-CH_2-CH_2-CH_3$) में $C_2-C_3$ आबंध के परितः घूर्णन के लिए, ऐंटी (विविव) संरूपण में दो मेथिल समूहों के बीच द्वितल कोण क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$180^\\circ$",
+          "hi": "$180^\\circ$"
+        },
+        "B": {
+          "en": "$60^\\circ$",
+          "hi": "$60^\\circ$"
+        },
+        "C": {
+          "en": "$0^\\circ$",
+          "hi": "$0^\\circ$"
+        },
+        "D": {
+          "en": "$120^\\circ$",
+          "hi": "$120^\\circ$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "What is the correct order of relative stability among the conformations of n-butane?",
+        "hi": "n-ब्यूटेन के संरूपणों के मध्य आपेक्षिक स्थायित्व का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Anti > Gauche > Partially Eclipsed > Fully Eclipsed",
+          "hi": "ऐंटी > गौश (Gauche) > आंशिक ग्रसित > पूर्ण ग्रसित"
+        },
+        "B": {
+          "en": "Fully Eclipsed > Partially Eclipsed > Gauche > Anti",
+          "hi": "पूर्ण ग्रसित > आंशिक ग्रसित > गौश > ऐंटी"
+        },
+        "C": {
+          "en": "Gauche > Anti > Partially Eclipsed > Fully Eclipsed",
+          "hi": "गौश > ऐंटी > आंशिक ग्रसित > पूर्ण ग्रसित"
+        },
+        "D": {
+          "en": "Anti > Partially Eclipsed > Gauche > Fully Eclipsed",
+          "hi": "ऐंटी > आंशिक ग्रसित > गौश > पूर्ण ग्रसित"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "In ethylene glycol ($HO-CH_2-CH_2-OH$), which conformation is exceptionally more stable than the anti conformation in non-polar media?",
+        "hi": "एथिलीन ग्लाइकॉल ($HO-CH_2-CH_2-OH$) में, अध्रुवीय विलायकों में कौन-सा संरूपण असाधारण रूप से ऐंटी संरूपण से अधिक स्थायी होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gauche conformation, due to intramolecular hydrogen bonding",
+          "hi": "गौश (Gauche) संरूपण, अंतराआण्विक (intramolecular) हाइड्रोजन आबंधन के कारण"
+        },
+        "B": {
+          "en": "Fully eclipsed conformation, due to dipole attraction",
+          "hi": "पूर्ण ग्रसित संरूपण, द्विध्रुव आकर्षण के कारण"
+        },
+        "C": {
+          "en": "Anti conformation remains the most stable always",
+          "hi": "ऐंटी संरूपण सदैव सर्वाधिक स्थायी रहता है"
+        },
+        "D": {
+          "en": "Partially eclipsed conformation, due to resonance",
+          "hi": "आंशिक ग्रसित संरूपण, अनुनाद के कारण"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q09",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the potential energy curve of ethane as a function of dihedral angle ($0^\\circ$ to $360^\\circ$). How many energy maxima and minima are observed in one complete $360^\\circ$ rotation?",
+        "hi": "द्वितल कोण ($0^\\circ$ से $360^\\circ$) के फलन के रूप में एथेन के स्थितिज ऊर्जा वक्र का परीक्षण कीजिए। एक पूर्ण $360^\\circ$ घूर्णन में कितने ऊर्जा उच्चिष्ठ (maxima) और निम्निष्ठ (minima) देखे जाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "3 maxima (eclipsed forms) and 3 minima (staggered forms)",
+          "hi": "3 उच्चिष्ठ (ग्रसित रूप) और 3 निम्निष्ठ (विविव रूप)"
+        },
+        "B": {
+          "en": "2 maxima and 2 minima",
+          "hi": "2 उच्चिष्ठ और 2 निम्निष्ठ"
+        },
+        "C": {
+          "en": "1 maximum and 1 minimum",
+          "hi": "1 उच्चिष्ठ और 1 निम्निष्ठ"
+        },
+        "D": {
+          "en": "6 maxima and 6 minima",
+          "hi": "6 उच्चिष्ठ और 6 निम्निष्ठ"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc03_q10",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following Newman projection of a butane conformer where the two methyl groups have a dihedral angle of $\\theta = 60^\\circ$:\nWhich conformer is represented, and what is its relative potential energy compared to the anti conformer?",
+        "hi": "ब्यूटेन के एक संरूपण के निम्नलिखित न्यूमैन प्रक्षेप पर विचार कीजिए जहाँ दो मेथिल समूहों का द्वितल कोण $\\theta = 60^\\circ$ है:\nयह किस संरूपण को दर्शाता है, और ऐंटी संरूपण की तुलना में इसकी आपेक्षिक स्थितिज ऊर्जा क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gauche conformer; higher energy by ~$3.8\\text{ kJ/mol}$ due to gauche-butane steric interaction",
+          "hi": "गौश (Gauche) संरूपण; गौश-ब्यूटेन त्रिविम अन्योन्यक्रिया के कारण लगभग $3.8\\text{ kJ/mol}$ उच्च ऊर्जा"
+        },
+        "B": {
+          "en": "Anti conformer; lowest possible energy",
+          "hi": "ऐंटी संरूपण; न्यूनतम संभव ऊर्जा"
+        },
+        "C": {
+          "en": "Fully eclipsed conformer; highest possible energy",
+          "hi": "पूर्ण ग्रसित संरूपण; उच्चतम संभव ऊर्जा"
+        },
+        "D": {
+          "en": "Partially eclipsed conformer; energy higher by $16\\text{ kJ/mol}$",
+          "hi": "आंशिक ग्रसित संरूपण; ऊर्जा $16\\text{ kJ/mol}$ अधिक"
+        }
+      }
+    }
+  ]
+}

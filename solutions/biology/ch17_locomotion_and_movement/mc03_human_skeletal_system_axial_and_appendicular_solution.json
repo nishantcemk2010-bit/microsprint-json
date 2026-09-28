@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch17_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "The human skeletal system in an adult consists of how many total bones, and how are they distributed between axial and appendicular skeletons?",
+        "hi": "एक वयस्क में मानव कंकाल तंत्र में कुल कितनी अस्थियाँ होती हैं, और वे अक्षीय तथा उपांगी कंकालों के बीच किस प्रकार वितरित होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "206 bones: 80 in Axial skeleton and 126 in Appendicular skeleton",
+          "hi": "206 अस्थियाँ: 80 अक्षीय कंकाल में और 126 उपांगी कंकाल में"
+        },
+        "B": {
+          "en": "206 bones: 126 in Axial skeleton and 80 in Appendicular skeleton",
+          "hi": "206 अस्थियाँ: 126 अक्षीय कंकाल में और 80 उपांगी कंकाल में"
+        },
+        "C": {
+          "en": "212 bones: 90 in Axial skeleton and 122 in Appendicular skeleton",
+          "hi": "212 अस्थियाँ: 90 अक्षीय कंकाल में और 122 उपांगी कंकाल में"
+        },
+        "D": {
+          "en": "200 bones: 80 in Axial skeleton and 120 in Appendicular skeleton",
+          "hi": "200 अस्थियाँ: 80 अक्षीय कंकाल में और 120 उपांगी कंकाल में"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Human skeletal system consists of a framework of bones and a few cartilages. It is made up of 206 bones and a few cartilages. It is grouped into two principal divisions: the axial skeleton (80 bones) and the appendicular skeleton (126 bones).",
+        "hi": "मानव कंकाल तंत्र अस्थियों और कुछ उपास्थियों के एक ढांचे से बना होता है। यह 206 अस्थियों और कुछ उपास्थियों से मिलकर बना है। इसे दो मुख्य भागों में बांटा गया है: अक्षीय कंकाल (80 अस्थियाँ) और उपांगी कंकाल (126 अस्थियाँ)।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following statements regarding the human skull is INCORRECT according to NCERT?",
+        "hi": "NCERT के अनुसार मानव करोटि (खोपड़ी) के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+      },
+      "options": {
+        "A": {
+          "en": "The skull is composed of two sets of bones: 8 cranial bones and 14 facial bones (total 22 bones)",
+          "hi": "करोटि दो प्रकार की अस्थियों से बनी होती है: 8 कपालीय अस्थियाँ और 14 आननी अस्थियाँ (कुल 22 अस्थियाँ)"
+        },
+        "B": {
+          "en": "A single U-shaped bone called hyoid is present at the base of the buccal cavity",
+          "hi": "मुख गुहा के आधार पर हायॉइड नामक एक एकल U-आकार की अस्थि उपस्थित होती है"
+        },
+        "C": {
+          "en": "The human skull is monocondylic, articulating with the first vertebra by a single median occipital condyle",
+          "hi": "मानव करोटि मोनोकॉन्डाइलिक होती है, जो एकल मध्य अनुकपाल अस्थिकंद (ऑसीपिटल कॉन्डाइल) द्वारा प्रथम कशेरुक के साथ संधि करती है"
+        },
+        "D": {
+          "en": "Each middle ear contains three tiny bones: Malleus, Incus, and Stapes, collectively called ear ossicles",
+          "hi": "प्रत्येक मध्य कर्ण में तीन सूक्ष्म अस्थियाँ होती हैं: मैलियस, इंकस और स्टेप्स, जिन्हें सामूहिक रूप से कर्णस्थिकाएँ कहा जाता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Statement C is incorrect because the human skull is dicondylic, meaning it possesses two occipital condyles that articulate with the superior articular facets of the first vertebra (Atlas).",
+        "hi": "कथन C गलत है क्योंकि मानव करोटि डाइकॉन्डाइलिक (द्विकंदीय) होती है, जिसका अर्थ है कि इसमें दो अनुकपाल अस्थिकंद (ऑसीपिटल कॉन्डाइल) होते हैं जो प्रथम कशेरुक (एटलस) के साथ संधि करते हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "The human vertebral column is formed by 26 serially arranged units called vertebrae. What is the correct sequence and number of vertebrae from anterior to posterior?",
+        "hi": "मानव कशेरुक दंड 26 क्रमिक रूप से व्यवस्थित इकाइयों द्वारा बनता है जिन्हें कशेरुक कहते हैं। अग्र से पश्च की ओर कशेरुकों का सही क्रम और संख्या क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cervical (8), Thoracic (12), Lumbar (5), Sacral (1), Coccygeal (1)",
+          "hi": "ग्रीवा (8), वक्षीय (12), कटि (5), त्रिक (1), अनुत्रिक (1)"
+        },
+        "B": {
+          "en": "Cervical (7), Thoracic (12), Lumbar (5), Sacral (1 fused), Coccygeal (1 fused)",
+          "hi": "ग्रीवा (7), वक्षीय (12), कटि (5), त्रिक (1 संयुक्त), अनुत्रिक (1 संयुक्त)"
+        },
+        "C": {
+          "en": "Cervical (7), Thoracic (10), Lumbar (6), Sacral (2), Coccygeal (1)",
+          "hi": "ग्रीवा (7), वक्षीय (10), कटि (6), त्रिक (2), अनुत्रिक (1)"
+        },
+        "D": {
+          "en": "Cervical (5), Thoracic (12), Lumbar (7), Sacral (1), Coccygeal (1)",
+          "hi": "ग्रीवा (5), वक्षीय (12), कटि (7), त्रिक (1), अनुत्रिक (1)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused), and coccygeal (1-fused) regions starting from the skull. The number of cervical vertebrae are seven in almost all mammals including human beings.",
+        "hi": "कशेरुक दंड खोपड़ी से शुरू होकर ग्रीवा (7), वक्षीय (12), कटि (5), त्रिक (1-संयुक्त) और अनुत्रिक (1-संयुक्त) क्षेत्रों में विभेदित होता है। मनुष्य सहित लगभग सभी स्तनधारियों में ग्रीवा कशेरुकों की संख्या सात होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "Why are the 11th and 12th pairs of ribs in humans called 'floating ribs'?",
+        "hi": "मनुष्यों में पसलियों के 11वें और 12वें जोड़े को 'प्लावी पसलियाँ' (फ्लोटिंग रिब्स) क्यों कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "They are attached directly to the clavicle and float above the lung apex",
+          "hi": "वे सीधे जत्रुक (क्लैविकल) से जुड़ी होती हैं और फेफड़ों के शीर्ष के ऊपर तैरती हैं"
+        },
+        "B": {
+          "en": "They lack dorsal articulation with the thoracic vertebrae",
+          "hi": "इनका वक्षीय कशेरुकों के साथ पृष्ठीय जुड़ाव नहीं होता है"
+        },
+        "C": {
+          "en": "They join the sternum via elastic ligaments instead of hyaline cartilage",
+          "hi": "वे काचाभ उपास्थि के बजाय प्रत्यास्थ स्नायुओं के माध्यम से उरोस्थि से जुड़ती हैं"
+        },
+        "D": {
+          "en": "They are not connected ventrally to the sternum and their anterior ends remain free",
+          "hi": "वे अधर भाग में उरोस्थि (स्टर्नम) से नहीं जुड़ी होती हैं और उनके अग्र सिरे स्वतंत्र रहते हैं"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "There are 12 pairs of ribs. The 11th and 12th pairs of ribs are not connected ventrally and are therefore, called floating ribs. True ribs are 1st to 7th pairs (vertebrosternal); false ribs are 8th, 9th, and 10th pairs (vertebrochondral).",
+        "hi": "पसलियों के 12 जोड़े होते हैं। पसलियों के 11वें और 12वें जोड़े अधर रूप से नहीं जुड़े होते हैं और इसलिए, इन्हें प्लावी पसलियाँ कहा जाता है। वास्तविक पसलियाँ पहली से 7वीं जोड़ी (कशेरुक-उरोस्थि) होती हैं; कूट पसलियाँ 8वीं, 9वीं और 10वीं जोड़ी (कशेरुक-उपास्थि) होती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q05",
+      "category": "theory",
+      "question": {
+        "en": "In the human pectoral girdle, the scapula is a large triangular flat bone situated dorsally between the levels of which ribs?",
+        "hi": "मानव अंस मेखला में, अंसफलक (स्कैपुला) एक बड़ी त्रिकोणीय चपटी अस्थि है जो पृष्ठीय रूप से किन पसलियों के स्तर के बीच स्थित होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Second and seventh ribs",
+          "hi": "दूसरी और सातवीं पसलियों के बीच"
+        },
+        "B": {
+          "en": "First and fifth ribs",
+          "hi": "पहली और पाँचवीं पसलियों के बीच"
+        },
+        "C": {
+          "en": "Third and eighth ribs",
+          "hi": "तीसरी और आठवीं पसलियों के बीच"
+        },
+        "D": {
+          "en": "Fifth and tenth ribs",
+          "hi": "पाँचवीं और दसवीं पसलियों के बीच"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Scapula is a large triangular flat bone situated in the dorsal part of the thorax between the second and the seventh ribs. It has a slightly elevated ridge called the spine which projects as a flat, expanded process called the acromion.",
+        "hi": "अंसफलक (स्कैपुला) एक बड़ी त्रिकोणीय चपटी अस्थि है जो वक्ष के पृष्ठीय भाग में दूसरी और सातवीं पसलियों के बीच स्थित होती है। इसमें एक उभरा हुआ उभार होता है जिसे स्पाइन कहते हैं जो एक चपटे, विस्तृत प्रवर्ध के रूप में निकलता है जिसे अंसकूट (एक्रोमियन) कहा जाता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q06",
+      "category": "theory",
+      "question": {
+        "en": "Each coxal bone of the pelvic girdle is formed by the fusion of which three bones, and what is the deep cavity where the thigh bone articulates?",
+        "hi": "श्रोणि मेखला की प्रत्येक नितंब अस्थि (कॉक्सल बोन) किन तीन अस्थियों के संलयन से बनती है, और वह गहरी गुहा क्या है जहाँ जांघ की अस्थि संधि करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Clavicle, Coracoid, and Scapula; Glenoid cavity",
+          "hi": "क्लैविकल, कोराकॉइड और स्कैपुला; ग्लीनॉइड गुहा"
+        },
+        "B": {
+          "en": "Femur, Tibia, and Fibula; Obturator foramen",
+          "hi": "फीमर, टिबिया और फिबुला; ऑब्ट्यूरेटर फोरमेन"
+        },
+        "C": {
+          "en": "Ilium, Ischium, and Pubis; Acetabulum",
+          "hi": "इलियम, इस्चियम और प्यूबिस; ऐसीटाबुलम"
+        },
+        "D": {
+          "en": "Malleus, Incus, and Stapes; Glenoid cavity",
+          "hi": "मैलियस, इंकस और स्टेप्स; ग्लीनॉइड गुहा"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Each coxal bone is formed by the fusion of three bones: ilium, ischium, and pubis. At the point of fusion of the above bones is a cavity called acetabulum to which the thigh bone (femur) articulates. The two halves of the pelvic girdle meet ventrally to form the pubic symphysis containing fibrous cartilage.",
+        "hi": "प्रत्येक नितंब अस्थि तीन अस्थियों के संलयन से बनती है: इलियम, इस्चियम और प्यूबिस। उपरोक्त अस्थियों के संलयन बिंदु पर एक गुहा होती है जिसे ऐसीटाबुलम कहते हैं जिससे जांघ की अस्थि (फीमर) संधि करती है। श्रोणि मेखला के दोनों भाग अधर रूप से मिलकर जघन संधान (प्यूबिक सिम्फिसिस) बनाते हैं जिसमें रेशेदार उपास्थि होती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "A student counts the bones in one human upper limb (arm) and one lower limb (leg). Which bone count is accurate?",
+        "hi": "एक विद्यार्थी एक मानव अग्रपाद (हाथ) और एक पश्चपाद (पैर) की अस्थियों की गणना करता है। कौन सी अस्थि गणना सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "Arm = 32 bones (including 8 carpals); Leg = 30 bones (including 8 tarsals)",
+          "hi": "हाथ = 32 अस्थियाँ (8 कार्पल्स सहित); पैर = 30 अस्थियाँ (8 टार्सल्स सहित)"
+        },
+        "B": {
+          "en": "Arm = 30 bones (8 carpals); Leg = 30 bones (7 tarsals + 1 patella)",
+          "hi": "हाथ = 30 अस्थियाँ (8 कार्पल्स); पैर = 30 अस्थियाँ (7 टार्सल्स + 1 पटेला)"
+        },
+        "C": {
+          "en": "Arm = 30 bones (7 carpals + 1 patella); Leg = 30 bones (8 tarsals)",
+          "hi": "हाथ = 30 अस्थियाँ (7 कार्पल्स + 1 पटेला); पैर = 30 अस्थियाँ (8 टार्सल्स)"
+        },
+        "D": {
+          "en": "Arm = 28 bones; Leg = 32 bones",
+          "hi": "हाथ = 28 अस्थियाँ; पैर = 32 अस्थियाँ"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Each limb is made of 30 bones. Forelimb: Humerus (1), Radius (1), Ulna (1), Carpals (8 wrist bones), Metacarpals (5 palm bones), Phalanges (14 digits) = 30 bones. Hindlimb: Femur (1), Patella (1 knee cap), Tibia (1), Fibula (1), Tarsals (7 ankle bones), Metatarsals (5), Phalanges (14) = 30 bones.",
+        "hi": "प्रत्येक पाद 30 अस्थियों से बना होता है। अग्रपाद: प्रगंडिका/ह्यूमरस (1), बहिःप्रकोष्ठिका/रेडियस (1), अंतःप्रकोष्ठिका/अल्ना (1), मणिबंधिकाएं/कार्पल्स (8 कलाई की अस्थियाँ), करभिकाएं/मेटाकार्पल्स (5 हथेली की अस्थियाँ), अंगुलास्थियाँ/फैलेन्जेस (14) = 30 अस्थियाँ। पश्चपाद: उर्विका/फीमर (1), जानुफलक/पटेला (1), टिबिया (1), फिबुला (1), गुल्फिकाएं/टार्सल्स (7 टखने की अस्थियाँ), प्रगुल्फिकाएं/मेटाटार्सल्स (5), अंगुलास्थियाँ/फैलेन्जेस (14) = 30 अस्थियाँ।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "Calculate the total number of bones that contribute to the formation of the human thoracic rib cage:",
+        "hi": "मानव वक्षीय पंजर (रिब केज) के निर्माण में योगदान देने वाली अस्थियों की कुल संख्या की गणना कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "24 bones",
+          "hi": "24 अस्थियाँ"
+        },
+        "B": {
+          "en": "25 bones",
+          "hi": "25 अस्थियाँ"
+        },
+        "C": {
+          "en": "29 bones",
+          "hi": "29 अस्थियाँ"
+        },
+        "D": {
+          "en": "37 bones",
+          "hi": "37 अस्थियाँ"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The rib cage is composed of: 12 pairs of ribs (24 bones) + 1 Sternum (ventral) + 12 Thoracic vertebrae (dorsal) = 24 + 1 + 12 = 37 bones. (NCERT: Thoracic vertebrae, ribs and sternum together form the rib cage).",
+        "hi": "पसली पंजर (रिब केज) निम्नलिखित से मिलकर बनता है: 12 जोड़ी पसलियाँ (24 अस्थियाँ) + 1 उरोस्थि/स्टर्नम (अधर) + 12 वक्षीय कशेरुक (पृष्ठीय) = 24 + 1 + 12 = 37 अस्थियाँ। (NCERT: वक्षीय कशेरुक, पसलियाँ और उरोस्थि मिलकर पसली पंजर का निर्माण करते हैं)।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q09",
+      "category": "formula",
+      "question": {
+        "en": "The total number of bones present in the human head region (skull + hyoid + ear ossicles) is:",
+        "hi": "मानव सिर क्षेत्र (करोटि + हायॉइड + कर्णस्थिकाएँ) में उपस्थित अस्थियों की कुल संख्या कितनी है?"
+      },
+      "options": {
+        "A": {
+          "en": "29 bones",
+          "hi": "29 अस्थियाँ"
+        },
+        "B": {
+          "en": "22 bones",
+          "hi": "22 अस्थियाँ"
+        },
+        "C": {
+          "en": "28 bones",
+          "hi": "28 अस्थियाँ"
+        },
+        "D": {
+          "en": "33 bones",
+          "hi": "33 अस्थियाँ"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "The cranial bones are 8, facial bones are 14 (skull proper = 22). Adding 1 hyoid bone in the floor of buccal cavity + 6 ear ossicles (3 in each middle ear: Malleus, Incus, Stapes) gives 22 + 1 + 6 = 29 bones in the head region.",
+        "hi": "कपालीय अस्थियाँ 8 होती हैं, आननी अस्थियाँ 14 होती हैं (वास्तविक करोटि = 22)। मुख गुहा के आधार पर 1 हायॉइड अस्थि + 6 कर्णस्थिकाएँ (प्रत्येक मध्य कर्ण में 3: मैलियस, इंकस, स्टेप्स) जोड़ने पर सिर क्षेत्र में कुल 22 + 1 + 6 = 29 अस्थियाँ होती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q10",
+      "category": "formula",
+      "question": {
+        "en": "What is the standard digital (phalangeal) formula for both the human hand and the human foot?",
+        "hi": "मानव हाथ और मानव पैर दोनों के लिए मानक अंगुली (फैलेन्जियल) सूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "3, 3, 3, 3, 3",
+          "hi": "3, 3, 3, 3, 3"
+        },
+        "B": {
+          "en": "2, 2, 3, 3, 3",
+          "hi": "2, 2, 3, 3, 3"
+        },
+        "C": {
+          "en": "2, 3, 3, 3, 3",
+          "hi": "2, 3, 3, 3, 3"
+        },
+        "D": {
+          "en": "1, 2, 3, 4, 4",
+          "hi": "1, 2, 3, 4, 4"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "In humans, the thumb (pollex) and big toe (hallux) each possess 2 phalanges, while the remaining four digits each possess 3 phalanges. Thus, the digital formula is 2, 3, 3, 3, 3, giving a total of 14 phalanges per limb.",
+        "hi": "मनुष्यों में, अंगूठे (हस्त अंगूठा और पाद अंगूठा) प्रत्येक में 2 अंगुलास्थियाँ होती हैं, जबकि शेष चार अंगुलियों में प्रत्येक में 3 अंगुलास्थियाँ होती हैं। इस प्रकार, अंगुली सूत्र 2, 3, 3, 3, 3 है, जिससे प्रति पाद कुल 14 अंगुलास्थियाँ बनती हैं।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q11",
+      "category": "formula",
+      "question": {
+        "en": "In the human body, the ribs are divided into vertebrosternal, vertebrochondral, and vertebral ribs. What is the number of individual bones in each category respectively?",
+        "hi": "मानव शरीर में, पसलियों को कशेरुक-उरोस्थि, कशेरुक-उपास्थि और कशेरुकी पसलियों में विभाजित किया गया है। प्रत्येक श्रेणी में क्रमशः व्यक्तिगत अस्थियों की संख्या क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "7, 3, 2",
+          "hi": "7, 3, 2"
+        },
+        "B": {
+          "en": "14, 6, 4",
+          "hi": "14, 6, 4"
+        },
+        "C": {
+          "en": "12, 6, 6",
+          "hi": "12, 6, 6"
+        },
+        "D": {
+          "en": "14, 4, 6",
+          "hi": "14, 4, 6"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Vertebrosternal (True ribs) = 1st to 7th pairs = 7 pairs = 14 ribs.\nVertebrochondral (False ribs) = 8th, 9th, 10th pairs = 3 pairs = 6 ribs.\nVertebral (Floating ribs) = 11th and 12th pairs = 2 pairs = 4 ribs.\nTotal individual ribs = 14 + 6 + 4 = 24 bones.",
+        "hi": "कशेरुक-उरोस्थि (सत्य पसलियाँ) = 1 से 7वीं जोड़ी = 7 जोड़े = 14 पसलियाँ।\nकशेरुक-उपास्थि (कूट पसलियाँ) = 8वीं, 9वीं, 10वीं जोड़ी = 3 जोड़े = 6 पसलियाँ।\nकशेरुकी (प्लावी पसलियाँ) = 11वीं और 12वीं जोड़ी = 2 जोड़े = 4 पसलियाँ।\nकुल पसलियाँ = 14 + 6 + 4 = 24 अस्थियाँ।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q12",
+      "category": "formula",
+      "question": {
+        "en": "In the adult human skeleton, several bones represent the fusion of multiple embryonic bones. How many embryonic bones fuse to form the sacrum, coccyx, and each coxal bone respectively?",
+        "hi": "वयस्क मानव कंकाल में, कई अस्थियाँ कई भ्रूणीय अस्थियों के संलयन का प्रतिनिधित्व करती हैं। क्रमशः त्रिक (सैकर्म), अनुत्रिक (कॉक्सिक्स) और प्रत्येक नितंब अस्थि (कॉक्सल बोन) बनाने के लिए कितनी भ्रूणीय अस्थियाँ संलयित होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "4, 3, 2",
+          "hi": "4, 3, 2"
+        },
+        "B": {
+          "en": "5, 5, 3",
+          "hi": "5, 5, 3"
+        },
+        "C": {
+          "en": "7, 4, 3",
+          "hi": "7, 4, 3"
+        },
+        "D": {
+          "en": "5, 4, 3",
+          "hi": "5, 4, 3"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "The sacrum is formed by the fusion of 5 sacral vertebrae (S1-S5). The coccyx is formed by the fusion of 4 coccygeal vertebrae (Co1-Co4). Each coxal (hip) bone is formed by the fusion of 3 bones: ilium, ischium, and pubis. Thus, 5, 4, and 3.",
+        "hi": "त्रिक (सैकर्म) 5 त्रिक कशेरुकों (S1-S5) के संलयन से बनता है। अनुत्रिक (कॉक्सिक्स) 4 अनुत्रिक कशेरुकों (Co1-Co4) के संलयन से बनता है। प्रत्येक नितंब अस्थि 3 अस्थियों के संलयन से बनती है: इलियम, इस्चियम और प्यूबिस। अतः 5, 4 और 3।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the anatomical landmarks of the human pectoral girdle in Column I with their descriptions in Column II:\n\nColumn I:\n(a) Acromion\n(b) Glenoid cavity\n(c) Spine\n(d) Clavicle\n\nColumn II:\n(i) Shallow depression that articulates with the head of the humerus\n(ii) Long slender bone with two curvatures commonly called collar bone\n(iii) Flat expanded process that articulates with the clavicle\n(iv) Elevated ridge on the dorsal surface of the scapula",
+        "hi": "कॉलम I में दिए गए मानव अंस मेखला के संरचनात्मक चिह्नों का कॉलम II में उनके विवरण से मिलान कीजिए:\n\nकॉलम I:\n(a) एक्रोमियन (अंसकूट)\n(b) ग्लीनॉइड गुहा\n(c) स्पाइन (कंटक)\n(d) क्लैविकल (जत्रुक)\n\nकॉलम II:\n(i) उथला गड्डा जो प्रगंडिका (ह्यूमरस) के शीर्ष के साथ संधि करता है\n(ii) दो वक्रताओं वाली लंबी पतली अस्थि जिसे सामान्यतः कॉलर बोन कहा जाता है\n(iii) चपटा विस्तृत प्रवर्ध जो जत्रुक के साथ संधि करता है\n(iv) अंसफलक की पृष्ठीय सतह पर उभरा हुआ कटक"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        },
+        "B": {
+          "en": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+          "hi": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "D": {
+          "en": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+          "hi": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Correct matching:\n(a) Acromion -> (iii) Flat expanded process articulating with clavicle\n(b) Glenoid cavity -> (i) Articulates with head of humerus\n(c) Spine -> (iv) Elevated ridge on dorsal scapula\n(d) Clavicle -> (ii) Slender bone with two curvatures (collar bone).",
+        "hi": "सही मिलान:\n(a) एक्रोमियन (अंसकूट) -> (iii) चपटा विस्तृत प्रवर्ध जो जत्रुक के साथ संधि करता है\n(b) ग्लीनॉइड गुहा -> (i) प्रगंडिका के शीर्ष के साथ संधि करती है\n(c) स्पाइन (कंटक) -> (iv) अंसफलक की पृष्ठीय सतह पर उभरा हुआ कटक\n(d) क्लैविकल (जत्रुक) -> (ii) दो वक्रताओं वाली लंबी पतली अस्थि (कॉलर बोन)।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the bones of the appendicular skeleton in Column I with their exact count in a single limb in Column II:\n\nColumn I:\n(a) Carpals (wrist bones)\n(b) Tarsals (ankle bones)\n(c) Metacarpals (palm bones)\n(d) Phalanges (digits)\n\nColumn II:\n(i) 14\n(ii) 5\n(iii) 7\n(iv) 8",
+        "hi": "कॉलम I में दी गई उपांगी कंकाल की अस्थियों का कॉलम II में एक एकल पाद में उनकी सटीक संख्या से मिलान कीजिए:\n\nकॉलम I:\n(a) कार्पल्स (कलाई की अस्थियाँ)\n(b) टार्सल्स (टखने की अस्थियाँ)\n(c) मेटाकार्पल्स (हथेली की अस्थियाँ)\n(d) फैलेन्जेस (अंगुलास्थियाँ)\n\nकॉलम II:\n(i) 14\n(ii) 5\n(iii) 7\n(iv) 8"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+        },
+        "B": {
+          "en": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+        },
+        "C": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+          "hi": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "In a single limb:\n(a) Carpals = 8\n(b) Tarsals = 7 (the knee cap patella compensates for the 8th)\n(c) Metacarpals = 5\n(d) Phalanges = 14.",
+        "hi": "एक एकल पाद में:\n(a) कार्पल्स = 8\n(b) टार्सल्स = 7 (जानुफलक पटेला 8वीं अस्थि की पूर्ति करता है)\n(c) मेटाकार्पल्स = 5\n(d) फैलेन्जेस = 14।"
+      }
+    },
+    {
+      "id": "bio_11_ch17_mc03_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the bones in Column I with the skeletal subdivision they belong to in Column II:\n\nColumn I:\n(a) Sphenoid bone\n(b) Zygomatic bone\n(c) Incus\n(d) Atlas\n\nColumn II:\n(i) First cervical vertebra\n(ii) Ear ossicle\n(iii) Cranial bone\n(iv) Facial bone",
+        "hi": "कॉलम I में दी गई अस्थियों का कॉलम II में उनके संबंधित कंकाल उपखंड से मिलान कीजिए:\n\nकॉलम I:\n(a) स्फेनॉइड अस्थि\n(b) जाइगोमैटिक अस्थि\n(c) इंकस\n(d) एटलस\n\nकॉलम II:\n(i) प्रथम ग्रीवा कशेरुक\n(ii) कर्णस्थिका\n(iii) कपालीय अस्थि\n(iv) आननी अस्थि"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        },
+        "B": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+          "hi": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+        },
+        "D": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Correct match:\n(a) Sphenoid bone -> (iii) Cranial bone (forms the central floor of the cranium)\n(b) Zygomatic bone -> (iv) Facial bone (cheek bone)\n(c) Incus -> (ii) Ear ossicle (middle ear)\n(d) Atlas -> (i) First cervical vertebra (C1).",
+        "hi": "सही मिलान:\n(a) स्फेनॉइड अस्थि -> (iii) कपालीय अस्थि (कपाल का केंद्रीय तल बनाती है)\n(b) जाइगोमैटिक अस्थि -> (iv) आननी अस्थि (गाल की अस्थि)\n(c) इंकस -> (ii) कर्णस्थिका (मध्य कर्ण)\n(d) एटलस -> (i) प्रथम ग्रीवा कशेरुक (C1)।"
+      }
+    }
+  ]
+}

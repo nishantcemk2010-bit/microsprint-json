@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc08_q01",
+      "category": "theory",
+      "question": {
+        "en": "According to Hückel's rule, a cyclic, planar, completely conjugated system exhibits aromaticity if it contains how many delocalized $\\pi$-electrons?",
+        "hi": "हुकेल के नियम के अनुसार, एक चक्रीय, समतलीय, पूर्णतः संयुग्मित निकाय ऐरोमैटिकता प्रदर्शित करता है यदि उसमें कितने विस्थानीकृत $\\pi$-इलेक्ट्रॉन हों?"
+      },
+      "options": {
+        "A": {
+          "en": "$(4n+2)\\pi$ electrons, where $n = 0, 1, 2, 3, \\dots$",
+          "hi": "$(4n+2)\\pi$ इलेक्ट्रॉन, जहाँ $n = 0, 1, 2, 3, \\dots$"
+        },
+        "B": {
+          "en": "$4n\\pi$ electrons, where $n = 1, 2, 3, \\dots$",
+          "hi": "$4n\\pi$ इलेक्ट्रॉन, जहाँ $n = 1, 2, 3, \\dots$"
+        },
+        "C": {
+          "en": "$(2n+1)\\pi$ electrons",
+          "hi": "$(2n+1)\\pi$ इलेक्ट्रॉन"
+        },
+        "D": {
+          "en": "$2n\\pi$ electrons",
+          "hi": "$2n\\pi$ इलेक्ट्रॉन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following species is anti-aromatic according to Hückel's criteria?",
+        "hi": "हुकेल के मानदंडों के अनुसार निम्नलिखित में से कौन-सी स्पीशीज प्रति-ऐरोमैटिक (anti-aromatic) है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyclobutadiene (planar with $4\\pi$ electrons)",
+          "hi": "साइक्लोब्यूटेडाईईन (समतलीय, $4\\pi$ इलेक्ट्रॉनों के साथ)"
+        },
+        "B": {
+          "en": "Benzene ($6\\pi$ electrons)",
+          "hi": "बेन्जीन ($6\\pi$ इलेक्ट्रॉनों के साथ)"
+        },
+        "C": {
+          "en": "Cyclopentadienyl anion ($6\\pi$ electrons)",
+          "hi": "साइक्लोपेन्टाडाइएनाइल ऋणायन ($6\\pi$ इलेक्ट्रॉनों के साथ)"
+        },
+        "D": {
+          "en": "Tropylium cation ($6\\pi$ electrons)",
+          "hi": "ट्रोपिलियम धनायन ($6\\pi$ इलेक्ट्रॉनों के साथ)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q03",
+      "category": "theory",
+      "question": {
+        "en": "What is the active electrophile in the nitration of benzene using a mixture of concentrated $HNO_3$ and concentrated $H_2SO_4$ (nitrating mixture)?",
+        "hi": "सांद्र $HNO_3$ और सांद्र $H_2SO_4$ के मिश्रण (नाइट्रोकारी मिश्रण) का उपयोग करके बेन्जीन के नाइट्रीकरण में सक्रिय इलेक्ट्रॉनरागी क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Nitronium ion ($NO_2^+$)",
+          "hi": "नाइट्रोनियम आयन ($NO_2^+$)"
+        },
+        "B": {
+          "en": "Nitrite ion ($NO_2^-$)",
+          "hi": "नाइट्राइट आयन ($NO_2^-$)"
+        },
+        "C": {
+          "en": "Nitrate radical ($\\dot{NO}_3$)",
+          "hi": "नाइट्रेट मूलक ($\\dot{NO}_3$)"
+        },
+        "D": {
+          "en": "Nitrosonium ion ($NO^+$)",
+          "hi": "नाइट्रोसोनियम आयन ($NO^+$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q04",
+      "category": "theory",
+      "question": {
+        "en": "In Friedel-Crafts alkylation of benzene with 1-chloropropane in the presence of anhydrous $AlCl_3$, why is isopropylbenzene (cumene) obtained as the major product instead of n-propylbenzene?",
+        "hi": "निर्जल $AlCl_3$ की उपस्थिति में 1-क्लोरोप्रोपेन के साथ बेन्जीन के फ्रीडेल-क्राफ्ट्स ऐल्किलीकरण में n-प्रोपिलबेन्जीन के बजाय आइसोप्रोपिलबेन्जीन (क्यूमीन) मुख्य उत्पाद के रूप में क्यों प्राप्त होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The initially formed primary carbocation ($CH_3CH_2\\overset{+}{C}H_2$) undergoes a 1,2-hydride shift to form a more stable secondary carbocation ($CH_3\\overset{+}{C}HCH_3$)",
+          "hi": "प्रारंभ में बनने वाला प्राथमिक कार्बधनायन ($CH_3CH_2\\overset{+}{C}H_2$) अधिक स्थायी द्वितीयक कार्बधनायन ($CH_3\\overset{+}{C}HCH_3$) बनाने के लिए 1,2-हाइड्राइड स्थानांतरण से गुजरता है"
+        },
+        "B": {
+          "en": "Because n-propylbenzene is anti-aromatic and decomposes",
+          "hi": "क्योंकि n-प्रोपिलबेन्जीन प्रति-ऐरोमैटिक होता है और विघटित हो जाता है"
+        },
+        "C": {
+          "en": "Aluminium chloride selectively binds only to the methyl group",
+          "hi": "ऐलुमिनियम क्लोराइड केवल मेथिल समूह से चुनिंदा रूप से जुड़ता है"
+        },
+        "D": {
+          "en": "The reaction proceeds via free radical substitution rather than electrophilic attack",
+          "hi": "अभिक्रिया इलेक्ट्रॉनरागी आक्रमण के बजाय मुक्त मूलक प्रतिस्थापन के माध्यम से होती है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q05",
+      "category": "theory",
+      "question": {
+        "en": "Why does nitrobenzene NOT undergo Friedel-Crafts alkylation or acylation?",
+        "hi": "नाइट्रोबेन्जीन फ्रीडेल-क्राफ्ट्स ऐल्किलीकरण या ऐसिलीकरण क्यों नहीं करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "The nitro group ($-NO_2$) strongly deactivates the benzene ring through strong $-I$ and $-M$ effects, and also complexes with the catalyst $AlCl_3$",
+          "hi": "नाइट्रो समूह ($-NO_2$) प्रबल $-I$ और $-M$ प्रभावों के माध्यम से बेन्जीन वलय को अत्यधिक निष्क्रिय कर देता है, और उत्प्रेरक $AlCl_3$ के साथ संकुल भी बना लेता है"
+        },
+        "B": {
+          "en": "Nitrobenzene has an open chain structure",
+          "hi": "नाइट्रोबेन्जीन की संरचना खुली श्रृंखला वाली होती है"
+        },
+        "C": {
+          "en": "The nitro group donates electrons, making the ring too electron-rich",
+          "hi": "नाइट्रो समूह इलेक्ट्रॉन दान करता है, जिससे वलय बहुत अधिक इलेक्ट्रॉन-धनी हो जाता है"
+        },
+        "D": {
+          "en": "Nitrobenzene is insoluble in all organic solvents",
+          "hi": "नाइट्रोबेन्जीन सभी कार्बनिक विलायकों में अविलेय होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q06",
+      "category": "theory",
+      "question": {
+        "en": "Why are polynuclear aromatic hydrocarbons (containing more than two fused benzene rings, such as 1,2-benzanthracene and benzo[a]pyrene) recognized as health hazards?",
+        "hi": "बहुनाभिकीय ऐरोमैटिक हाइड्रोकार्बन (दो से अधिक संलयित बेन्जीन वलय युक्त, जैसे 1,2-बेन्जान्थ्रासीन और बेन्जो[a]पाइरीन) को स्वास्थ्य के लिए हानिकारक क्यों माना जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "They enter human cells and their biochemical metabolites bind covalently to DNA, causing mutations and carcinogenic cancer",
+          "hi": "वे मानव कोशिकाओं में प्रवेश करते हैं और उनके जैव-रासायनिक उपापचयी DNA से सहसंयोजक रूप से बंध जाते हैं, जिससे उत्परिवर्तन और कार्सिनोजेनिक कैंसर होता है"
+        },
+        "B": {
+          "en": "They convert directly into cyanides in the stomach",
+          "hi": "वे पेट में सीधे साइनाइड में परिवर्तित हो जाते हैं"
+        },
+        "C": {
+          "en": "They break down all bones rapidly by dissolving calcium",
+          "hi": "वे कैल्शियम को घोलकर सभी हड्डियों को तेजी से नष्ट कर देते हैं"
+        },
+        "D": {
+          "en": "They are highly radioactive isotopes of uranium",
+          "hi": "वे यूरेनियम के अत्यधिक रेडियोधर्मी समस्थानिक हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q07",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following compounds is non-aromatic due to adopting a non-planar 'tub-shaped' conformation?",
+        "hi": "निम्नलिखित में से कौन-सा यौगिक गैर-समतलीय 'टब-आकार' (tub-shaped) संरूपण अपनाने के कारण गैर-ऐरोमैटिक (non-aromatic) है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyclooctatetraene ($COT$)",
+          "hi": "साइक्लोऑक्टाटेट्राईन ($COT$)"
+        },
+        "B": {
+          "en": "Benzene",
+          "hi": "बेन्जीन"
+        },
+        "C": {
+          "en": "Anthracene",
+          "hi": "ऐन्थ्रासीन"
+        },
+        "D": {
+          "en": "Naphthalene",
+          "hi": "नेफ्थलीन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q08",
+      "category": "formula",
+      "question": {
+        "en": "In electrophilic aromatic substitution, which substituent is ortho/para-directing but DEACTIVATING towards electrophilic attack due to its strong $-I$ effect?",
+        "hi": "इलेक्ट्रॉनरागी ऐरोमैटिक प्रतिस्थापन में, कौन-सा प्रतिस्थापी अपने प्रबल $-I$ प्रभाव के कारण ऑर्थो/पैरा-निर्देशक होने के बावजूद इलेक्ट्रॉनरागी आक्रमण के प्रति निष्क्रियकारी (deactivating) होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Chlorine ($-Cl$)",
+          "hi": "क्लोरीन ($-Cl$)"
+        },
+        "B": {
+          "en": "Methyl ($-CH_3$)",
+          "hi": "मेथिल ($-CH_3$)"
+        },
+        "C": {
+          "en": "Hydroxyl ($-OH$)",
+          "hi": "हाइड्रॉक्सिल ($-OH$)"
+        },
+        "D": {
+          "en": "Nitro ($-NO_2$)",
+          "hi": "नाइट्रो ($-NO_2$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q09",
+      "category": "formula",
+      "question": {
+        "en": "When benzene reacts with chlorine in the presence of ultraviolet light ($h\\nu$) without a catalyst, what compound is formed?",
+        "hi": "जब बेन्जीन बिना किसी उत्प्रेरक के पराबैंगनी प्रकाश ($h\\nu$) की उपस्थिति में क्लोरीन के साथ अभिक्रिया करता है, तो कौन-सा यौगिक बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Benzene hexachloride ($BHC$ / Gammexane / Lindane, $C_6H_6Cl_6$)",
+          "hi": "बेन्जीन हेक्साक्लोराइड ($BHC$ / गैमेक्सीन / लिंडेन, $C_6H_6Cl_6$)"
+        },
+        "B": {
+          "en": "Chlorobenzene ($C_6H_5Cl$)",
+          "hi": "क्लोरोबेन्जीन ($C_6H_5Cl$)"
+        },
+        "C": {
+          "en": "Hexachlorobenzene ($C_6Cl_6$)",
+          "hi": "हेक्साक्लोरोबेन्जीन ($C_6Cl_6$)"
+        },
+        "D": {
+          "en": "p-Dichlorobenzene",
+          "hi": "p-डाईक्लोरोबेन्जीन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q10",
+      "category": "formula",
+      "question": {
+        "en": "When benzene is hydrogenated under pressure at $473-573\\text{ K}$ in the presence of nickel catalyst, what is the product?",
+        "hi": "जब बेन्जीन को निकेल उत्प्रेरक की उपस्थिति में $473-573\\text{ K}$ पर दाब में हाइड्रोजनीकृत किया जाता है, तो उत्पाद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyclohexane ($C_6H_{12}$)",
+          "hi": "साइक्लोहेक्सेन ($C_6H_{12}$)"
+        },
+        "B": {
+          "en": "n-Hexane ($C_6H_{14}$)",
+          "hi": "n-हेक्सेन ($C_6H_{14}$)"
+        },
+        "C": {
+          "en": "Cyclohexene ($C_6H_{10}$)",
+          "hi": "साइक्लोहेक्सीन ($C_6H_{10}$)"
+        },
+        "D": {
+          "en": "Cyclohexa-1,3-diene",
+          "hi": "साइक्लोहेक्सा-1,3-डाईईन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q11",
+      "category": "formula",
+      "question": {
+        "en": "What is the resonance energy of benzene, determined from the difference between the experimental heat of hydrogenation and the calculated theoretical heat for hypothetical cyclohexa-1,3,5-triene?",
+        "hi": "प्रायोगिक हाइड्रोजनीकरण ऊष्मा और काल्पनिक साइक्लोहेक्सा-1,3,5-ट्राईईन के लिए परिकलित सैद्धांतिक ऊष्मा के अंतर से निर्धारित बेन्जीन की अनुनाद ऊर्जा कितनी है?"
+      },
+      "options": {
+        "A": {
+          "en": "$150.6\\text{ kJ/mol}$ ($36\\text{ kcal/mol}$)",
+          "hi": "$150.6\\text{ kJ/mol}$ ($36\\text{ kcal/mol}$)"
+        },
+        "B": {
+          "en": "$28.5\\text{ kJ/mol}$",
+          "hi": "$28.5\\text{ kJ/mol}$"
+        },
+        "C": {
+          "en": "$358.5\\text{ kJ/mol}$",
+          "hi": "$358.5\\text{ kJ/mol}$"
+        },
+        "D": {
+          "en": "$525.0\\text{ kJ/mol}$",
+          "hi": "$525.0\\text{ kJ/mol}$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q12",
+      "category": "formula",
+      "question": {
+        "en": "In Friedel-Crafts acylation of benzene with acetyl chloride ($CH_3COCl$) in the presence of anhydrous $AlCl_3$, what is the active electrophile?",
+        "hi": "निर्जल $AlCl_3$ की उपस्थिति में एसिटिल क्लोराइड ($CH_3COCl$) के साथ बेन्जीन के फ्रीडेल-क्राफ्ट्स ऐसिलीकरण में सक्रिय इलेक्ट्रॉनरागी क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Acylium ion ($CH_3-\\overset{+}{C}=O \\leftrightarrow CH_3-C\\equiv \\overset{+}{O}$)",
+          "hi": "ऐसिलियम आयन ($CH_3-\\overset{+}{C}=O \\leftrightarrow CH_3-C\\equiv \\overset{+}{O}$)"
+        },
+        "B": {
+          "en": "Methyl carbocation ($\\overset{+}{C}H_3$)",
+          "hi": "मेथिल कार्बधनायन ($\\overset{+}{C}H_3$)"
+        },
+        "C": {
+          "en": "Chloride ion ($Cl^-$)",
+          "hi": "क्लोराइड आयन ($Cl^-$)"
+        },
+        "D": {
+          "en": "Aluminium tetrachloride anion ($AlCl_4^-$)",
+          "hi": "ऐलुमिनियम टेट्राक्लोराइड ऋणायन ($AlCl_4^-$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Observe the reaction energy profile of electrophilic aromatic substitution on benzene:\nStep 1: $\\text{Benzene} + E^+ \\rightarrow [\\sigma\\text{-complex / arenium ion intermediate}]$\nStep 2: $[\\sigma\\text{-complex}] \\rightarrow \\text{Substituted benzene} + H^+$\nWhy is Step 1 the rate-determining step with a much higher activation energy than Step 2?",
+        "hi": "बेन्जीन पर इलेक्ट्रॉनरागी ऐरोमैटिक प्रतिस्थापन के अभिक्रिया ऊर्जा प्रोफाइल का निरीक्षण कीजिए:\nपद 1: $\\text{बेन्जीन} + E^+ \\rightarrow [\\sigma\\text{-संकुल / ऐरेनियम आयन मध्यवर्ती}]$\nपद 2: $[\\sigma\\text{-संकुल}] \\rightarrow \\text{प्रतिस्थापित बेन्जीन} + H^+$\nपद 1 पद 2 की तुलना में बहुत अधिक संक्रियण ऊर्जा के साथ दर-निर्धारक पद क्यों है?"
+      },
+      "options": {
+        "A": {
+          "en": "Step 1 involves loss of the exceptionally stable aromatic resonance sextet to form the non-aromatic arenium ion",
+          "hi": "पद 1 में गैर-ऐरोमैटिक ऐरेनियम आयन बनाने के लिए असाधारण रूप से स्थायी ऐरोमैटिक अनुनाद षटक (sextet) की हानि शामिल है"
+        },
+        "B": {
+          "en": "Step 1 is a rapid neutralization reaction",
+          "hi": "पद 1 एक तीव्र उदासीनीकरण अभिक्रिया है"
+        },
+        "C": {
+          "en": "Step 2 requires breaking a carbon-carbon bond",
+          "hi": "पद 2 में कार्बन-कार्बन आबंध को तोड़ना पड़ता है"
+        },
+        "D": {
+          "en": "The electrophile is negatively charged in Step 2",
+          "hi": "पद 2 में इलेक्ट्रॉनरागी ऋणावेशित होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Classify the directing influence and activation nature of the substituents in the following table:\n| Substituent | Directing Influence | Activation / Deactivation |\n| :--- | :--- | :--- |\n| $-OH$ | Ortho / Para | Strongly activating |\n| $-CH_3$ | Ortho / Para | Weakly activating |\n| $-NO_2$ | Meta | Strongly deactivating |\n| $-Cl$ | Ortho / Para | Deactivating |\nWhich factor explains why $-Cl$ is ortho/para-directing despite being deactivating?",
+        "hi": "निम्नलिखित सारणी में प्रतिस्थापियों के निर्देशक प्रभाव और सक्रियण प्रकृति को वर्गीकृत किया गया है:\n| प्रतिस्थापी | निर्देशक प्रभाव | सक्रियण / निष्क्रियण |\n| :--- | :--- | :--- |\n| $-OH$ | ऑर्थो / पैरा | प्रबल सक्रियणकारी |\n| $-CH_3$ | ऑर्थो / पैरा | दुर्बल सक्रियणकारी |\n| $-NO_2$ | मेटा | प्रबल निष्क्रियकारी |\n| $-Cl$ | ऑर्थो / पैरा | निष्क्रियकारी |\nकौन-सा कारक यह स्पष्ट करता है कि निष्क्रियकारी होने के बावजूद $-Cl$ ऑर्थो/पैरा-निर्देशक क्यों है?"
+      },
+      "options": {
+        "A": {
+          "en": "Strong $-I$ effect reduces overall electron density on the ring (deactivating), but $+M$ resonance stabilization of the arenium ion is operative only at ortho and para positions",
+          "hi": "प्रबल $-I$ प्रभाव वलय पर समग्र इलेक्ट्रॉन घनत्व को कम करता है (निष्क्रियकारी), लेकिन ऐरेनियम आयन का $+M$ अनुनाद स्थायित्व केवल ऑर्थो और पैरा स्थितियों पर ही प्रभावी होता है"
+        },
+        "B": {
+          "en": "Chlorine atom has no d-orbitals available for bonding",
+          "hi": "क्लोरीन परमाणु में आबंधन के लिए कोई d-कक्षक उपलब्ध नहीं होते हैं"
+        },
+        "C": {
+          "en": "Chlorine does not have an inductive effect",
+          "hi": "क्लोरीन का कोई प्रेरणिक प्रभाव नहीं होता है"
+        },
+        "D": {
+          "en": "Chlorine reacts exclusively via free radical mechanisms",
+          "hi": "क्लोरीन केवल मुक्त मूलक क्रियाविधि द्वारा अभिक्रिया करता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc08_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the following polycyclic structures. Which of them violates Hückel's $(4n+2)\\pi$ rule and is classified as anti-aromatic if forced planar?",
+        "hi": "निम्नलिखित बहुचक्रीय संरचनाओं का परीक्षण कीजिए। इनमें से कौन हुकेल के $(4n+2)\\pi$ नियम का उल्लंघन करता है और यदि इसे समतलीय रखा जाए तो इसे प्रति-ऐरोमैटिक के रूप में वर्गीकृत किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Pentalene ($8\\pi$ electrons, two fused 5-membered rings)",
+          "hi": "पेन्टालीन ($8\\pi$ इलेक्ट्रॉन, दो संलयित 5-सदस्यीय वलय)"
+        },
+        "B": {
+          "en": "Naphthalene ($10\\pi$ electrons, two fused benzene rings)",
+          "hi": "नेफ्थलीन ($10\\pi$ इलेक्ट्रॉन, दो संलयित बेन्जीन वलय)"
+        },
+        "C": {
+          "en": "Anthracene ($14\\pi$ electrons, three fused benzene rings)",
+          "hi": "ऐन्थ्रासीन ($14\\pi$ इलेक्ट्रॉन, तीन संलयित बेन्जीन वलय)"
+        },
+        "D": {
+          "en": "Phenanthrene ($14\\pi$ electrons, three fused benzene rings)",
+          "hi": "फेनेन्थ्रीन ($14\\pi$ इलेक्ट्रॉन, तीन संलयित बेन्जीन वलय)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch07_mc01_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Why is chemical equilibrium referred to as a 'DYNAMIC' equilibrium rather than a static state?",
+        "hi": "रासायनिक साम्यावस्था को एक स्थिर अवस्था के बजाय 'गतिक' (Dynamic) साम्यावस्था क्यों कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Both forward and reverse reactions continue to occur simultaneously at equal rates, so macroscopic concentrations remain constant",
+          "hi": "अग्रगामी और पश्चगामी दोनों अभिक्रियाएं समान दरों पर एक साथ होती रहती हैं, जिससे स्थूल सांद्रता स्थिर रहती है"
+        },
+        "B": {
+          "en": "All chemical reactions completely stop at the molecular level",
+          "hi": "आणविक स्तर पर सभी रासायनिक अभिक्रियाएं पूरी तरह से रुक जाती हैं"
+        },
+        "C": {
+          "en": "Reactants and products constantly oscillate in nuclear mass",
+          "hi": "अभिकारक और उत्पाद नाभिकीय द्रव्यमान में लगातार दोलन करते हैं"
+        },
+        "D": {
+          "en": "The container continuously accelerates in space",
+          "hi": "पात्र अंतरिक्ष में लगातार त्वरित होता रहता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In the physical equilibrium between solid ice and liquid water at 0 °C (273.15 K) and 1 atm pressure:",
+        "hi": "0 °C (273.15 K) और 1 atm दाब पर ठोस बर्फ और द्रव जल के बीच भौतिक साम्यावस्था में:"
+      },
+      "options": {
+        "A": {
+          "en": "Rate of melting of ice equals the rate of freezing of water",
+          "hi": "बर्फ के पिघलने की दर जल के जमने की दर के बराबर होती है"
+        },
+        "B": {
+          "en": "All ice completely converts to liquid water within seconds",
+          "hi": "सारी बर्फ कुछ ही सेकंड में पूरी तरह से द्रव जल में बदल जाती है"
+        },
+        "C": {
+          "en": "Water vapor ceases to exist in the atmosphere",
+          "hi": "वायुमंडल में जलवाष्प का अस्तित्व समाप्त हो जाता है"
+        },
+        "D": {
+          "en": "The mass of ice must be equal to the mass of liquid water",
+          "hi": "बर्फ का द्रव्यमान द्रव जल के द्रव्यमान के बराबर होना चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q03",
+      "category": "Theory",
+      "question": {
+        "en": "Henry's Law for the physical equilibrium of dissolution of a gas in a liquid states that at constant temperature:",
+        "hi": "द्रव में गैस के घुलने की भौतिक साम्यावस्था के लिए हेनरी का नियम बताता है कि स्थिर तापमान पर:"
+      },
+      "options": {
+        "A": {
+          "en": "The mass or solubility of a gas dissolved in a given volume of liquid is directly proportional to the partial pressure of the gas above the liquid",
+          "hi": "द्रव के दिए गए आयतन में घुली गैस का द्रव्यमान या विलेयता द्रव के ऊपर गैस के आंशिक दाब के सीधे समानुपाती होती है"
+        },
+        "B": {
+          "en": "Solubility of gas increases with decrease in external gas pressure",
+          "hi": "बाह्य गैस दाब घटने पर गैस की विलेयता बढ़ती है"
+        },
+        "C": {
+          "en": "Gas solubility is completely independent of pressure",
+          "hi": "गैस की विलेयता दाब से पूरी तरह स्वतंत्र होती है"
+        },
+        "D": {
+          "en": "All gases have identical solubility in water regardless of nature",
+          "hi": "प्रकृति की परवाह किए बिना सभी गैसों की जल में विलेयता समान होती है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q04",
+      "category": "Theory",
+      "question": {
+        "en": "According to Guldberg and Waage's Law of Chemical Equilibrium, the equilibrium constant (K_c) for a reversible reaction depends strictly on:",
+        "hi": "गुल्डबर्ग और वागे के रासायनिक साम्य नियम के अनुसार, उत्क्रमणीय अभिक्रिया के लिए साम्यावस्था स्थिरांक (K_c) कड़ाई से किस पर निर्भर करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Temperature only (for a given chemical reaction)",
+          "hi": "केवल तापमान पर (दी गई रासायनिक अभिक्रिया के लिए)"
+        },
+        "B": {
+          "en": "Initial concentrations of the reactants",
+          "hi": "अभिकारकों की प्रारंभिक सांद्रता पर"
+        },
+        "C": {
+          "en": "Presence of a positive or negative catalyst",
+          "hi": "धनात्मक या ऋणात्मक उत्प्रेरक की उपस्थिति पर"
+        },
+        "D": {
+          "en": "Volume of the reaction container",
+          "hi": "अभिक्रिया पात्र के आयतन पर"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q05",
+      "category": "Formula",
+      "question": {
+        "en": "For the general reversible reaction: aA + bB ⇌ cC + dD, the equilibrium constant expression K_c is:",
+        "hi": "सामान्य उत्क्रमणीय अभिक्रिया aA + bB ⇌ cC + dD के लिए साम्य स्थिरांक K_c का व्यंजक क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "K_c = ([C]^c · [D]^d) / ([A]^a · [B]^b)",
+          "hi": "K_c = ([C]^c · [D]^d) / ([A]^a · [B]^b)"
+        },
+        "B": {
+          "en": "K_c = ([A]^a · [B]^b) / ([C]^c · [D]^d)",
+          "hi": "K_c = ([A]^a · [B]^b) / ([C]^c · [D]^d)"
+        },
+        "C": {
+          "en": "K_c = (c[C] + d[D]) / (a[A] + b[B])",
+          "hi": "K_c = (c[C] + d[D]) / (a[A] + b[B])"
+        },
+        "D": {
+          "en": "K_c = [C][D] / ([A][B])",
+          "hi": "K_c = [C][D] / ([A][B])"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q06",
+      "category": "Formula",
+      "question": {
+        "en": "If the equilibrium constant for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) is K, what is the equilibrium constant for the reversed reaction: 2NH₃(g) ⇌ N₂(g) + 3H₂(g)?",
+        "hi": "यदि अभिक्रिया N₂(g) + 3H₂(g) ⇌ 2NH₃(g) के लिए साम्य स्थिरांक K है, तो विपरीत अभिक्रिया 2NH₃(g) ⇌ N₂(g) + 3H₂(g) के लिए साम्य स्थिरांक क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "1 / K (the reciprocal of K)",
+          "hi": "1 / K (K का व्युत्क्रम)"
+        },
+        "B": {
+          "en": "-K",
+          "hi": "-K"
+        },
+        "C": {
+          "en": "√K",
+          "hi": "√K"
+        },
+        "D": {
+          "en": "K²",
+          "hi": "K²"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q07",
+      "category": "Formula",
+      "question": {
+        "en": "If the equilibrium constant for: (1/2)N₂(g) + (3/2)H₂(g) ⇌ NH₃(g) is K₁, and for N₂(g) + 3H₂(g) ⇌ 2NH₃(g) is K₂, how are K₁ and K₂ related?",
+        "hi": "यदि (1/2)N₂(g) + (3/2)H₂(g) ⇌ NH₃(g) के लिए साम्य स्थिरांक K₁ है, और N₂(g) + 3H₂(g) ⇌ 2NH₃(g) के लिए K₂ है, तो K₁ और K₂ कैसे संबंधित हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "K₂ = (K₁)²  (or K₁ = √K₂)",
+          "hi": "K₂ = (K₁)²  (या K₁ = √K₂)"
+        },
+        "B": {
+          "en": "K₂ = 2 K₁",
+          "hi": "K₂ = 2 K₁"
+        },
+        "C": {
+          "en": "K₂ = K₁ / 2",
+          "hi": "K₂ = K₁ / 2"
+        },
+        "D": {
+          "en": "K₂ = (K₁)³",
+          "hi": "K₂ = (K₁)³"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q08",
+      "category": "Formula",
+      "question": {
+        "en": "At 448 °C, the equilibrium concentrations for the reaction: H₂(g) + I₂(g) ⇌ 2HI(g) are [H₂] = 0.10 M, [I₂] = 0.20 M, and [HI] = 1.0 M. What is the value of K_c at this temperature?",
+        "hi": "448 °C पर अभिक्रिया H₂(g) + I₂(g) ⇌ 2HI(g) के लिए साम्यावस्था सांद्रताएँ [H₂] = 0.10 M, [I₂] = 0.20 M, और [HI] = 1.0 M हैं। इस तापमान पर K_c का मान क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "50",
+          "hi": "50"
+        },
+        "B": {
+          "en": "25",
+          "hi": "25"
+        },
+        "C": {
+          "en": "100",
+          "hi": "100"
+        },
+        "D": {
+          "en": "0.02",
+          "hi": "0.02"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q09",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Consider a graph plotting rate of reaction versus time for a reversible reaction A + B ⇌ C + D starting with only A and B:\nWhat condition signifies that chemical equilibrium has been attained on the graph?",
+        "hi": "केवल A और B से शुरू होने वाली उत्क्रमणीय अभिक्रिया A + B ⇌ C + D के लिए समय के विरुद्ध अभिक्रिया दर के आलेख पर विचार करें:\nआलेख पर कौन सी स्थिति यह दर्शाती है कि रासायनिक साम्य प्राप्त हो गया है?"
+      },
+      "options": {
+        "A": {
+          "en": "The forward reaction rate curve and the reverse reaction rate curve merge into a single horizontal line (r_forward = r_reverse)",
+          "hi": "अग्रगामी अभिक्रिया दर वक्र और पश्चगामी अभिक्रिया दर वक्र एक एकल क्षैतिज रेखा में विलीन हो जाते हैं (r_अग्र = r_पश्च)"
+        },
+        "B": {
+          "en": "Both rates drop to zero",
+          "hi": "दोनों दरें गिरकर शून्य हो जाती हैं"
+        },
+        "C": {
+          "en": "The forward rate becomes infinitely large",
+          "hi": "अग्रगामी दर अनंत रूप से बड़ी हो जाती है"
+        },
+        "D": {
+          "en": "The curves intersect at a 90-degree angle",
+          "hi": "वक्र 90-डिग्री के कोण पर प्रतिच्छेद करते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch07_mc01_q10",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In an experiment testing dynamic equilibrium, a saturated solution of lead chloride containing radioactive ²¹²Pb²⁺ ions is added to non-radioactive PbCl₂(s). What observation definitively proves that equilibrium is dynamic?",
+        "hi": "गतिक साम्यावस्था का परीक्षण करने वाले एक प्रयोग में, रेडियोधर्मी ²¹²Pb²⁺ आयनों वाले लेड क्लोराइड के संतृप्त विलयन को गैर-रेडियोधर्मी PbCl₂(s) में मिलाया जाता है। कौन सा अवलोकन निश्चित रूप से सिद्ध करता है कि साम्यावस्था गतिक है?"
+      },
+      "options": {
+        "A": {
+          "en": "Radioactivity soon appears in the solid precipitate PbCl₂(s) without any change in the total mass of the solid",
+          "hi": "ठोस के कुल द्रव्यमान में बिना किसी बदलाव के ठोस अवक्षेप PbCl₂(s) में जल्द ही रेडियोधर्मिता दिखाई देने लगती है"
+        },
+        "B": {
+          "en": "All solid dissolves completely into liquid",
+          "hi": "सारा ठोस पूरी तरह से द्रव में घुल जाता है"
+        },
+        "C": {
+          "en": "The radioactive emission stops completely",
+          "hi": "रेडियोधर्मी उत्सर्जन पूरी तरह से बंद हो जाता है"
+        },
+        "D": {
+          "en": "The solution changes color to bright blue",
+          "hi": "विलयन का रंग बदलकर चमकीला नीला हो जाता है"
+        }
+      }
+    }
+  ]
+}

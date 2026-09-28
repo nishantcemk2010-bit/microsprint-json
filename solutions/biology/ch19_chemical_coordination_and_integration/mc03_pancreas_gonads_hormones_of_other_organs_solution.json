@@ -1,0 +1,469 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch19_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "The human pancreas is a composite (heterocrine) gland because it consists of:",
+        "hi": "मानव अग्न्याशय एक संयुक्त (मिश्रित/हेटेरोक्राइन) ग्रंथि है क्योंकि इसमें उपस्थित होते हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Both sympathetic and parasympathetic nerve terminals only",
+          "hi": "केवल अनुकंपी और परानुकंपी तंत्रिका छोर"
+        },
+        "B": {
+          "en": "Both exocrine acinar tissue and endocrine Islets of Langerhans",
+          "hi": "बहिःस्रावी एसिनर ऊतक और अंतःस्रावी लैंगरहेंस के द्वीप समूह दोनों"
+        },
+        "C": {
+          "en": "Follicles containing colloid and surrounding parafollicular cells",
+          "hi": "कोलॉइड युक्त पुटक और आसपास की पैराफॉलिक्युलर कोशिकाएं"
+        },
+        "D": {
+          "en": "Adrenal medullary chromaffin cells embedded in renal tubules",
+          "hi": "वृक्क नलिकाओं में धंसी एड्रिनल मेडुलरी क्रोमैफिन कोशिकाएं"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Pancreas is a composite gland which acts as both exocrine (secreting pancreatic juice via ducts) and endocrine (Islets of Langerhans secreting hormones like insulin and glucagon directly into blood).",
+        "hi": "अग्न्याशय एक संयुक्त ग्रंथि है जो बहिःस्रावी (नलिकाओं द्वारा अग्न्याशयी रस का स्राव) और अंतःस्रावी (लैंगरहेंस के द्वीप समूह, जो सीधे रक्त में इंसुलिन और ग्लूकागॉन स्रावित करते हैं) दोनों के रूप में कार्य करती है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "Insulin is a peptide hormone secreted by the beta cells of the Islets of Langerhans. Its primary role in glucose homeostasis is to:",
+        "hi": "इंसुलिन लैंगरहेंस के द्वीप समूहों की बीटा कोशिकाओं द्वारा स्रावित एक पेप्टाइड हार्मोन है। ग्लूकोज समस्थापन में इसकी प्राथमिक भूमिका क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Lower blood glucose levels by enhancing cellular glucose uptake and stimulating glycogenesis",
+          "hi": "कोशिकीय ग्लूकोज अंतर्ग्रहण बढ़ाकर और ग्लाइकोजेनेसिस को प्रेरित करके रक्त ग्लूकोज के स्तर को कम करना"
+        },
+        "B": {
+          "en": "Elevate blood glucose levels by accelerating hepatic glycogenolysis and gluconeogenesis",
+          "hi": "यकृत में ग्लाइकोजनोलिसिस और ग्लूकोनियोजेनेसिस को तेज करके रक्त शर्करा को बढ़ाना"
+        },
+        "C": {
+          "en": "Inhibit glucose transport through GLUT-4 transporters in peripheral tissues",
+          "hi": "परिधीय ऊतकों में GLUT-4 ट्रांसपोर्टर्स के माध्यम से ग्लूकोज परिवहन को रोकना"
+        },
+        "D": {
+          "en": "Promote massive breakdown of glycogen into free glucose in muscle cells",
+          "hi": "पेशी कोशिकाओं में ग्लाइकोजन के मुक्त ग्लूकोज में अत्यधिक टूटने को बढ़ावा देना"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Insulin is a hypoglycemic hormone that decreases blood glucose by stimulating glucose uptake into hepatocytes and adipocytes (via GLUT-4) and stimulating glycogenesis (conversion of glucose to glycogen).",
+        "hi": "इंसुलिन एक हाइपोग्लाइसेमिक हार्मोन है जो यकृताणुओं और वसा कोशिकाओं में ग्लूकोज अंतर्ग्रहण (GLUT-4 द्वारा) को बढ़ाकर और ग्लाइकोजेनेसिस (ग्लूकोज का ग्लाइकोजन में रूपांतरण) को प्रेरित करके रक्त शर्करा को कम करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "Glucagon is synthesized and secreted by the alpha cells of the pancreas. It acts primarily on hepatocytes to:",
+        "hi": "ग्लूकागॉन अग्न्याशय की अल्फा कोशिकाओं द्वारा संश्लेषित और स्रावित होता है। यह मुख्य रूप से यकृताणुओं (हेपेटोसाइट्स) पर कार्य करके क्या करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Inhibit gluconeogenesis and induce rapid uptake of glucose by adipocytes",
+          "hi": "ग्लूकोनियोजेनेसिस को रोकता है और वसा कोशिकाओं द्वारा ग्लूकोज के तेजी से अंतर्ग्रहण को प्रेरित करता है"
+        },
+        "B": {
+          "en": "Convert circulating ketone bodies into triglycerides for storage",
+          "hi": "परिसंचारी कीटोन निकायों को भंडारण के लिए ट्राइग्लिसराइड्स में परिवर्तित करता है"
+        },
+        "C": {
+          "en": "Stimulate glycogenolysis and gluconeogenesis, producing hyperglycemia",
+          "hi": "ग्लाइकोजनोलिसिस और ग्लूकोनियोजेनेसिस को प्रेरित करता है, जिससे अतिग्लूकोज-रक्तता (हाइपरग्लाइसीमिया) होती है"
+        },
+        "D": {
+          "en": "Facilitate glycogen synthesis from hexose sugars in hepatocytes",
+          "hi": "यकृताणुओं में हेक्सोज शर्करा से ग्लाइकोजन संश्लेषण को सुगम बनाता है"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Glucagon acts mainly on the liver cells (hepatocytes) and stimulates glycogenolysis resulting in an increased blood sugar (hyperglycemia). In addition, it stimulates gluconeogenesis and reduces cellular glucose uptake.",
+        "hi": "ग्लूकागॉन मुख्य रूप से यकृत कोशिकाओं (यकृताणुओं) पर कार्य करता है और ग्लाइकोजनोलिसिस को प्रेरित करता है जिससे रक्त शर्करा बढ़ जाती है (हाइपरग्लाइसीमिया)। इसके अतिरिक्त, यह ग्लूकोनियोजेनेसिस को भी प्रेरित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which endocrine cells of the human testis are responsible for the synthesis and secretion of testosterone?",
+        "hi": "मानव वृषण की कौन सी अंतःस्रावी कोशिकाएं टेस्टोस्टेरोन के संश्लेषण और स्राव के लिए जिम्मेदार होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Sertoli cells (sustentacular cells)",
+          "hi": "सर्टोली कोशिकाएं (आलंबन कोशिकाएं)"
+        },
+        "B": {
+          "en": "Spermatogonia",
+          "hi": "शुक्राणुजन (स्पर्मेटोगोनिया)"
+        },
+        "C": {
+          "en": "Primary spermatocytes",
+          "hi": "प्राथमिक शुक्राणु कोशिकाएं"
+        },
+        "D": {
+          "en": "Leydig cells (interstitial cells)",
+          "hi": "लेडिग कोशिकाएं (अंतराली कोशिकाएं)"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "Leydig cells or interstitial cells, which are present in the intertubular spaces of the testis, produce a group of hormones called androgens, mainly testosterone.",
+        "hi": "लेडिग कोशिकाएं या अंतराली कोशिकाएं, जो वृषण के अंतराली स्थानों में उपस्थित होती हैं, एंड्रोजेन नामक हार्मोनों का उत्पादन करती हैं, जिनमें मुख्य टेस्टोस्टेरोन है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q05",
+      "category": "theory",
+      "question": {
+        "en": "After ovulation, the ruptured Graafian follicle transforms into a temporary endocrine structure called corpus luteum, which primarily secretes:",
+        "hi": "अंडोत्सर्ग के बाद, फटी हुई ग्रैफियन पुटिका एक अस्थायी अंतःस्रावी संरचना में बदल जाती है जिसे कॉर्पस ल्यूटियम कहते हैं, जो मुख्य रूप से क्या स्रावित करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Human chorionic gonadotropin exclusively",
+          "hi": "विशेष रूप से केवल मानव कोरियोनिक गोनाडोट्रोपिन"
+        },
+        "B": {
+          "en": "Progesterone to support and maintain pregnancy",
+          "hi": "सगर्भता (गर्भावस्था) को सहारा देने और बनाए रखने के लिए प्रोजेस्टेरोन"
+        },
+        "C": {
+          "en": "Prolactin to stimulate instant milk production",
+          "hi": "तत्काल दुग्ध उत्पादन को प्रेरित करने के लिए प्रोलैक्टिन"
+        },
+        "D": {
+          "en": "Luteinizing hormone to cause another immediate ovulation",
+          "hi": "एक और तत्काल अंडोत्सर्ग कराने के लिए ल्यूटिनाइजिंग हार्मोन"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "After ovulation, the ruptured ovarian follicle is converted to a structure called corpus luteum, which secretes mainly progesterone. Progesterone supports pregnancy and acts on mammary glands.",
+        "hi": "अंडोत्सर्ग के बाद, फटी हुई अंडाशयी पुटिका कॉर्पस ल्यूटियम नामक संरचना में बदल जाती है, जो मुख्य रूप से प्रोजेस्टेरोन स्रावित करती है। प्रोजेस्टेरोन सगर्भता को सहारा देता है और स्तन ग्रंथियों पर कार्य करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q06",
+      "category": "theory",
+      "question": {
+        "en": "Which peptide hormone secreted by the gastrointestinal tract stimulates the exocrine pancreas to secrete water and bicarbonate ions?",
+        "hi": "जठरांत्र क्षेत्र (GIT) द्वारा स्रावित कौन सा पेप्टाइड हार्मोन बहिःस्रावी अग्न्याशय को जल और बाइकार्बोनेट आयनों का स्राव करने के लिए प्रेरित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gastrin",
+          "hi": "गैस्ट्रिन"
+        },
+        "B": {
+          "en": "Cholecystokinin (CCK)",
+          "hi": "कोलसिस्टोकाइनिन (CCK)"
+        },
+        "C": {
+          "en": "Secretin",
+          "hi": "सिक्रेटिन"
+        },
+        "D": {
+          "en": "Gastric Inhibitory Peptide (GIP)",
+          "hi": "गैस्ट्रिक इन्हीबिटरी पेप्टाइड (GIP)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Secretin acts on the exocrine pancreas and stimulates secretion of water and bicarbonate ions. CCK acts on both pancreas (pancreatic enzymes) and gallbladder (bile). Gastrin stimulates HCl and pepsinogen.",
+        "hi": "सिक्रेटिन बहिःस्रावी अग्न्याशय पर कार्य करता है और जल तथा बाइकार्बोनेट आयनों के स्राव को प्रेरित करता है। CCK अग्न्याशयी एंजाइमों और पित्ताशय संकुचन को प्रेरित करता है। गैस्ट्रिन HCl और पेप्सिनोजेन को प्रेरित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "Prolonged hyperglycemia in patients with diabetes mellitus leads to which pair of characteristic diagnostic abnormalities?",
+        "hi": "डायबिटीज मेलिटस (मधुमेह) के रोगियों में दीर्घकालिक अतिग्लूकोज-रक्तता (हाइपरग्लाइसीमिया) किन दो विशिष्ट नैदानिक असामान्यताओं को जन्म देती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Glycosuria (loss of glucose in urine) and formation of ketone bodies (ketonuria)",
+          "hi": "ग्लाइकोसुरिया (मूत्र में ग्लूकोज की हानि) और कीटोन निकायों का निर्माण (कीटोनुरिया)"
+        },
+        "B": {
+          "en": "Hematuria (blood in urine) and severe hypokalemia",
+          "hi": "हेमेचुरिया (मूत्र में रक्त) और गंभीर हाइपोकैलिमिया"
+        },
+        "C": {
+          "en": "Proteinuria with bronze pigmentation of buccal mucosa",
+          "hi": "प्रोटीनुरिया और मुख गुहा की श्लेष्मा का कांस्य-वर्ण रंजकता"
+        },
+        "D": {
+          "en": "Elevated blood calcium with kidney stone precipitation",
+          "hi": "रक्त कैल्शियम में वृद्धि के साथ गुर्दे की पथरी का अवक्षेपण"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Prolonged hyperglycemia leads to a complex disorder called diabetes mellitus which is associated with loss of glucose through urine (glycosuria) and formation of harmful compounds known as ketone bodies (ketonuria).",
+        "hi": "दीर्घकालिक अतिग्लूकोज-रक्तता से डायबिटीज मेलिटस नामक जटिल विकार हो जाता है, जो मूत्र के माध्यम से ग्लूकोज की हानि (ग्लाइकोसुरिया) और कीटोन निकायों (कीटोनुरिया) जैसे हानिकारक यौगिकों के निर्माण से जुड़ा होता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "When arterial blood pressure rises, the atrial wall of the human heart secretes Atrial Natriuretic Factor (ANF). What is the physiological effect of ANF?",
+        "hi": "जब धमनीय रक्तचाप बढ़ता है, तो मानव हृदय की अलिंद भित्ति एट्रियल नैट्रियूरेटिक फैक्टर (ANF) स्रावित करती है। ANF का शारीरिक प्रभाव क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Vasoconstriction of peripheral arterioles to raise blood pressure further",
+          "hi": "रक्तचाप को और बढ़ाने के लिए परिधीय धमनिकाओं का संकीर्णन"
+        },
+        "B": {
+          "en": "Stimulation of renin release from juxtaglomerular apparatus",
+          "hi": "जक्स्टाग्लोमेरुलर उपकरण से रेनिन के स्राव का प्रेरण"
+        },
+        "C": {
+          "en": "Increased aldosterone secretion to maximize sodium retention",
+          "hi": "सोडियम प्रतिधारण को अधिकतम करने के लिए एल्डोस्टेरोन स्राव में वृद्धि"
+        },
+        "D": {
+          "en": "Dilation of blood vessels (vasodilation), thereby reducing blood pressure",
+          "hi": "रक्त वाहिकाओं का फैलाव (वासोडायलेशन), जिससे रक्तचाप कम हो जाता है"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "When blood pressure is increased, ANF is secreted by the atrial walls of the heart. It causes dilation of the blood vessels, which lowers blood pressure. It acts as an antagonistic check on the RAAS mechanism.",
+        "hi": "जब रक्तचाप बढ़ जाता है, तो हृदय की अलिंद भित्तियों द्वारा ANF स्रावित होता है। यह रक्त वाहिकाओं का विस्फारण (dilation) करता है, जिससे रक्तचाप कम हो जाता है। यह RAAS प्रणाली पर एक विरोधी नियंत्रण के रूप में कार्य करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which hormone is produced by the juxtaglomerular (JG) cells of the kidney, and what is its biological target?",
+        "hi": "वृक्क की जक्स्टाग्लोमेरुलर (JG) कोशिकाओं द्वारा कौन सा हार्मोन निर्मित होता है, और इसका जैविक लक्ष्य क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Renin, targeting hepatocytes to convert glycogen to glucose",
+          "hi": "रेनिन, ग्लाइकोजन को ग्लूकोज में बदलने के लिए यकृताणुओं को लक्षित करता है"
+        },
+        "B": {
+          "en": "Erythropoietin, targeting bone marrow to stimulate erythropoiesis",
+          "hi": "एरिथ्रोपोइटिन, एरिथ्रोपोइसिस (RBC निर्माण) को प्रेरित करने के लिए अस्थि मज्जा को लक्षित करता है"
+        },
+        "C": {
+          "en": "Angiotensinogen, targeting adrenal medulla to release adrenaline",
+          "hi": "एंजियोटेंसिनोजेन, एड्रिनेलिन मुक्त करने के लिए एड्रिनल मेडुला को लक्षित करता है"
+        },
+        "D": {
+          "en": "Calcitriol, targeting osteoblasts to deposit calcium into bone",
+          "hi": "कैल्सीट्रियोल, अस्थि में कैल्शियम जमा करने के लिए ऑस्टियोब्लास्ट्स को लक्षित करता है"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "The juxtaglomerular cells of the kidney produce a peptide hormone called Erythropoietin, which stimulates erythropoiesis (formation of RBCs) in the bone marrow, especially in response to hypoxia.",
+        "hi": "वृक्क की जक्स्टाग्लोमेरुलर कोशिकाएं एरिथ्रोपोइटिन नामक पेप्टाइड हार्मोन का उत्पादन करती हैं, जो विशेष रूप से हाइपोक्सिया के प्रत्युत्तर में अस्थि मज्जा में एरिथ्रोपोइसिस (RBC निर्माण) को प्रेरित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q10",
+      "category": "formula",
+      "question": {
+        "en": "Cholecystokinin (CCK) is a gastrointestinal hormone that acts simultaneously on two distinct digestive organs. These targets and actions are:",
+        "hi": "कोलसिस्टोकाइनिन (CCK) एक जठरांत्र हार्मोन है जो एक साथ दो अलग-अलग पाचन अंगों पर कार्य करता है। ये लक्ष्य और क्रियाएं कौन सी हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Stomach (stimulates HCl) and Liver (inhibits bile secretion)",
+          "hi": "आमाशय (HCl को प्रेरित करता है) और यकृत (पित्त स्राव को रोकता है)"
+        },
+        "B": {
+          "en": "Small intestine (stimulates peristalsis) and Colon (water reabsorption)",
+          "hi": "छोटी आंत (क्रमाकुंचन को प्रेरित करती है) और कोलन (जल पुनरवशोषण)"
+        },
+        "C": {
+          "en": "Gallbladder (stimulates contraction for bile release) and Pancreas (stimulates enzyme secretion)",
+          "hi": "पित्ताशय (पित्त स्राव हेतु संकुचन प्रेरित करता है) और अग्न्याशय (एंजाइम स्राव को प्रेरित करता है)"
+        },
+        "D": {
+          "en": "Salivary glands (stimulates amylase) and Esophagus (relaxes sphincter)",
+          "hi": "लार ग्रंथियां (एमाइलेज प्रेरित करती हैं) और ग्रसिका (अवरोधिनी को शिथिल करती है)"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Cholecystokinin (CCK) acts on both the gallbladder and pancreas. It stimulates the contraction of gallbladder to release bile and stimulates the exocrine pancreas to secrete pancreatic digestive enzymes.",
+        "hi": "कोलसिस्टोकाइनिन (CCK) पित्ताशय और अग्न्याशय दोनों पर कार्य करता है। यह पित्त रस विमोचन के लिए पित्ताशय के संकुचन को प्रेरित करता है तथा अग्न्याशयी पाचक एंजाइमों के स्राव हेतु बहिःस्रावी अग्न्याशय को प्रेरित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q11",
+      "category": "formula",
+      "question": {
+        "en": "What is the primary action of Gastric Inhibitory Peptide (GIP)?",
+        "hi": "जठरीय निरोधी पेप्टाइड (GIP) की प्राथमिक क्रिया क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Inhibits gastric acid secretion and motility",
+          "hi": "जठरीय अम्ल स्राव और गतिशीलता को रोकता है"
+        },
+        "B": {
+          "en": "Stimulates pepsinogen conversion into active pepsin",
+          "hi": "पेप्सिनोजेन के सक्रिय पेप्सिन में रूपांतरण को प्रेरित करता है"
+        },
+        "C": {
+          "en": "Promotes bicarbonate release from gastric parietal cells",
+          "hi": "जठरीय पार्श्विका कोशिकाओं से बाइकार्बोनेट विमोचन को बढ़ावा देता है"
+        },
+        "D": {
+          "en": "Stimulates hunger center in the lateral hypothalamus",
+          "hi": "पार्श्व हाइपोथैलेमस में भूख केंद्र को उत्तेजित करता है"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "GIP (Gastric Inhibitory Peptide) inhibits gastric secretion and motility, thereby allowing optimal digestion and absorption of nutrients in the intestine.",
+        "hi": "GIP (गैस्ट्रिक इन्हीबिटरी पेप्टाइड) जठरीय स्राव और गतिशीलता को संदमित (रोकने) का कार्य करता है, जिससे आंत में पोषक तत्वों का इष्टतम पाचन और अवशोषण हो सके।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q12",
+      "category": "formula",
+      "question": {
+        "en": "Compare the primary physiological effects of Estrogen and Progesterone in human females:\nI. Estrogen stimulates the growth and development of female secondary sex organs and ovarian follicles.\nII. Progesterone acts on mammary glands to stimulate the formation of alveoli and milk secretion.\nIII. Progesterone is essential for the maintenance of pregnancy.\nWhich of the statements are correct?",
+        "hi": "मानव मादा में एस्ट्रोजन और प्रोजेस्टेरोन के प्राथमिक शारीरिक प्रभावों की तुलना कीजिए:\nI. एस्ट्रोजन मादा द्वितीयक लैंगिक अंगों और अंडाशयी पुटिकाओं की वृद्धि और विकास को प्रेरित करता है।\nII. प्रोजेस्टेरोन स्तन ग्रंथियों पर कार्य कर कूपिकाओं (एल्वियोली) के निर्माण और दुग्ध स्राव को प्रेरित करता है।\nIII. प्रोजेस्टेरोन सगर्भता (गर्भावस्था) के अनुरक्षण के लिए आवश्यक है।\nउपरोक्त में से कौन से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I and II only",
+          "hi": "केवल I और II"
+        },
+        "B": {
+          "en": "II and III only",
+          "hi": "केवल II और III"
+        },
+        "C": {
+          "en": "I and III only",
+          "hi": "केवल I और III"
+        },
+        "D": {
+          "en": "I, II, and III",
+          "hi": "I, II, और III सभी"
+        }
+      },
+      "answer_key": "D",
+      "solution": {
+        "en": "All three statements are correct according to NCERT. Estrogens stimulate growth of secondary sex organs and follicular development. Progesterone supports pregnancy and acts on mammary glands stimulating formation of alveoli (structures that store milk) and milk secretion.",
+        "hi": "NCERT के अनुसार तीनों कथन सही हैं। एस्ट्रोजन द्वितीयक लैंगिक अंगों की वृद्धि और पुटिका विकास को प्रेरित करता है। प्रोजेस्टेरोन सगर्भता को सहारा देता है और स्तन ग्रंथियों पर कार्य कर कूपिकाओं (जो दुग्ध संचित करती हैं) के निर्माण और दुग्ध स्राव को प्रेरित करता है।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the gastrointestinal hormones in Column I with their target tissue / primary function in Column II:\n\nColumn I:\na. Gastrin\nb. Secretin\nc. CCK\nd. GIP\n\nColumn II:\n1. Exocrine pancreas (water & bicarbonate secretion)\n2. Gastric mucosa (inhibits secretion and motility)\n3. Gastric glands (stimulates HCl & pepsinogen)\n4. Gallbladder & Pancreas (bile release & enzyme secretion)",
+        "hi": "स्तंभ I में दिए गए जठरांत्र हार्मोनों का स्तंभ II में उनके लक्ष्य ऊतक / प्राथमिक कार्य से मिलान कीजिए:\n\nस्तंभ I:\na. गैस्ट्रिन\nb. सिक्रेटिन\nc. CCK\nd. GIP\n\nस्तंभ II:\n1. बहिःस्रावी अग्न्याशय (जल और बाइकार्बोनेट स्राव)\n2. जठर श्लेष्मा (स्राव और गतिशीलता को रोकता है)\n3. जठर ग्रंथियां (HCl और पेप्सिनोजेन को प्रेरित करती हैं)\n4. पित्ताशय और अग्न्याशय (पित्त विमोचन और एंजाइम स्राव)"
+      },
+      "options": {
+        "A": {
+          "en": "a-1, b-3, c-4, d-2",
+          "hi": "a-1, b-3, c-4, d-2"
+        },
+        "B": {
+          "en": "a-3, b-1, c-4, d-2",
+          "hi": "a-3, b-1, c-4, d-2"
+        },
+        "C": {
+          "en": "a-3, b-4, c-1, d-2",
+          "hi": "a-3, b-4, c-1, d-2"
+        },
+        "D": {
+          "en": "a-2, b-1, c-4, d-3",
+          "hi": "a-2, b-1, c-4, d-3"
+        }
+      },
+      "answer_key": "B",
+      "solution": {
+        "en": "Correct match: Gastrin acts on gastric glands to stimulate HCl and pepsinogen (a-3); Secretin acts on exocrine pancreas for water and bicarbonate (b-1); CCK acts on gallbladder and pancreas for bile and enzymes (c-4); GIP inhibits gastric secretion and motility (d-2).",
+        "hi": "सही मिलान: गैस्ट्रिन जठर ग्रंथियों पर कार्य कर HCl और पेप्सिनोजेन स्राव कराता है (a-3); सिक्रेटिन बहिःस्रावी अग्न्याशय पर जल और बाइकार्बोनेट हेतु कार्य करता है (b-1); CCK पित्ताशय और अग्न्याशय पर पित्त और एंजाइम हेतु कार्य करता है (c-4); GIP जठरीय स्राव और गतिशीलता को रोकता है (d-2)।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the non-endocrine organ / cell type in Column I with the hormone it produces in Column II:\n\nColumn I:\na. Atrial myocardial wall\nb. Juxtaglomerular cells of kidney\nc. Corpus luteum of ovary\nd. Beta cells of pancreatic islets\n\nColumn II:\n1. Erythropoietin\n2. Atrial Natriuretic Factor (ANF)\n3. Insulin\n4. Progesterone",
+        "hi": "स्तंभ I में दिए गए गैर-अंतःस्रावी अंग / कोशिका प्रकार का स्तंभ II में उनके द्वारा उत्पादित हार्मोन से मिलान कीजिए:\n\nस्तंभ I:\na. अलिंद मायोकार्डियल भित्ति\nb. वृक्क की जक्स्टाग्लोमेरुलर कोशिकाएं\nc. अंडाशय का कॉर्पस ल्यूटियम\nd. अग्न्याशयी द्वीपकों की बीटा कोशिकाएं\n\nस्तंभ II:\n1. एरिथ्रोपोइटिन\n2. एट्रियल नैट्रियूरेटिक फैक्टर (ANF)\n3. इंसुलिन\n4. प्रोजेस्टेरोन"
+      },
+      "options": {
+        "A": {
+          "en": "a-2, b-1, c-4, d-3",
+          "hi": "a-2, b-1, c-4, d-3"
+        },
+        "B": {
+          "en": "a-1, b-2, c-4, d-3",
+          "hi": "a-1, b-2, c-4, d-3"
+        },
+        "C": {
+          "en": "a-2, b-4, c-1, d-3",
+          "hi": "a-2, b-4, c-1, d-3"
+        },
+        "D": {
+          "en": "a-3, b-1, c-4, d-2",
+          "hi": "a-3, b-1, c-4, d-2"
+        }
+      },
+      "answer_key": "A",
+      "solution": {
+        "en": "Correct match: Atrial wall = ANF (a-2); Kidney JG cells = Erythropoietin (b-1); Corpus luteum = Progesterone (c-4); Pancreatic beta cells = Insulin (d-3).",
+        "hi": "सही मिलान: अलिंद भित्ति = ANF (a-2); वृक्क की JG कोशिकाएं = एरिथ्रोपोइटिन (b-1); कॉर्पस ल्यूटियम = प्रोजेस्टेरोन (c-4); अग्न्याशयी बीटा कोशिकाएं = इंसुलिन (d-3)।"
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc03_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In a feedback diagram of blood glucose regulation, what represents the cellular response triggered by Insulin in muscle and adipose tissue?",
+        "hi": "रक्त शर्करा नियमन के एक फीडबैक आरेख में, पेशी और वसा ऊतकों में इंसुलिन द्वारा प्रेरित कोशिकीय अनुक्रिया क्या दर्शाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hydrolysis of cellular ATP and synthesis of glucagon receptors",
+          "hi": "कोशिकीय ATP का जल-अपघटन और ग्लूकागॉन ग्राहियों का संश्लेषण"
+        },
+        "B": {
+          "en": "Accelerated release of free fatty acids and ketone bodies into blood",
+          "hi": "रक्त में मुक्त वसीय अम्लों और कीटोन निकायों का तीव्र विमोचन"
+        },
+        "C": {
+          "en": "Translocation of GLUT-4 glucose transporters to the plasma membrane, promoting glucose uptake and glycogenesis",
+          "hi": "प्लाज्मा झिल्ली पर GLUT-4 ग्लूकोज ट्रांसपोर्टर्स का स्थानांतरण, जिससे ग्लूकोज अंतर्ग्रहण और ग्लाइकोजेनेसिस बढ़ता है"
+        },
+        "D": {
+          "en": "Immediate conversion of amino acids into urea in skeletal muscle fibres",
+          "hi": "कंकाल पेशी तंतुओं में अमीनो अम्लों का यूरिया में तत्काल रूपांतरण"
+        }
+      },
+      "answer_key": "C",
+      "solution": {
+        "en": "Insulin binding to its receptor triggers the translocation of GLUT-4 glucose transporters to the cell surface in muscle and adipose tissues, facilitating rapid glucose uptake from blood and promoting glycogenesis.",
+        "hi": "इंसुलिन अपने ग्राही से जुड़कर पेशी और वसा ऊतकों में कोशिका की सतह पर GLUT-4 ग्लूकोज ट्रांसपोर्टर्स के स्थानांतरण को प्रेरित करता है, जिससे रक्त से ग्लूकोज का तीव्र अंतर्ग्रहण और ग्लाइकोजेनेसिस सुगम होता है।"
+      }
+    }
+  ]
+}

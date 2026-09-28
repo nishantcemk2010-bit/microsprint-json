@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "In the free radical chlorination of methane, which step corresponds to chain initiation?",
+        "hi": "मेथेन के मुक्त मूलक क्लोरीनीकरण में, कौन-सा पद श्रृंखला प्रारंभन (chain initiation) को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "$Cl_2 \\xrightarrow{h\\nu} 2\\dot{Cl}$",
+          "hi": "$Cl_2 \\xrightarrow{h\\nu} 2\\dot{Cl}$"
+        },
+        "B": {
+          "en": "$\\dot{Cl} + CH_4 \\rightarrow \\dot{C}H_3 + HCl$",
+          "hi": "$\\dot{Cl} + CH_4 \\rightarrow \\dot{C}H_3 + HCl$"
+        },
+        "C": {
+          "en": "$\\dot{C}H_3 + Cl_2 \\rightarrow CH_3Cl + \\dot{Cl}$",
+          "hi": "$\\dot{C}H_3 + Cl_2 \\rightarrow CH_3Cl + \\dot{Cl}$"
+        },
+        "D": {
+          "en": "$\\dot{C}H_3 + \\dot{Cl} \\rightarrow CH_3Cl$",
+          "hi": "$\\dot{C}H_3 + \\dot{Cl} \\rightarrow CH_3Cl$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "What is the order of reactivity of halogens towards alkanes in free radical substitution?",
+        "hi": "मुक्त मूलक प्रतिस्थापन में ऐल्केनों के प्रति हैलोजनों की क्रियाशीलता का क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "$F_2 > Cl_2 > Br_2 > I_2$",
+          "hi": "$F_2 > Cl_2 > Br_2 > I_2$"
+        },
+        "B": {
+          "en": "$I_2 > Br_2 > Cl_2 > F_2$",
+          "hi": "$I_2 > Br_2 > Cl_2 > F_2$"
+        },
+        "C": {
+          "en": "$Cl_2 > Br_2 > F_2 > I_2$",
+          "hi": "$Cl_2 > Br_2 > F_2 > I_2$"
+        },
+        "D": {
+          "en": "$F_2 > Br_2 > Cl_2 > I_2$",
+          "hi": "$F_2 > Br_2 > Cl_2 > I_2$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "Why is direct iodination of alkanes carried out in the presence of an oxidizing agent such as $HIO_3$ or $HNO_3$?",
+        "hi": "ऐल्केनों का प्रत्यक्ष आयोडिनीकरण $HIO_3$ या $HNO_3$ जैसे ऑक्सीकारक की उपस्थिति में क्यों किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Because $HI$ formed in the reaction is a strong reducing agent that reduces alkyl iodide back to alkane",
+          "hi": "क्योंकि अभिक्रिया में बना $HI$ एक प्रबल अपचायक है जो ऐल्किल आयोडाइड को पुनः ऐल्केन में अपचित कर देता है"
+        },
+        "B": {
+          "en": "To prevent explosive combustion of iodine",
+          "hi": "आयोडीन के विस्फोटक दहन को रोकने के लिए"
+        },
+        "C": {
+          "en": "To act as a Lewis acid catalyst to generate iodonium ions",
+          "hi": "आयोडोनियम आयन उत्पन्न करने के लिए लुईस अम्ल उत्प्रेरक के रूप में कार्य करने के लिए"
+        },
+        "D": {
+          "en": "Because alkane does not react with iodine without an acid base reaction",
+          "hi": "क्योंकि ऐल्केन बिना अम्ल-क्षार अभिक्रिया के आयोडीन के साथ अभिक्रिया नहीं करता"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "When n-hexane is heated to $773\\text{ K}$ at $10-20\\text{ atm}$ in the presence of $Cr_2O_3 / Al_2O_3$ catalyst, which compound is formed via aromatization?",
+        "hi": "जब n-हेक्सेन को $Cr_2O_3 / Al_2O_3$ उत्प्रेरक की उपस्थिति में $10-20\\text{ atm}$ दाब पर $773\\text{ K}$ तक गर्म किया जाता है, तो ऐरोमैटिकरण द्वारा कौन-सा यौगिक बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Benzene",
+          "hi": "बेन्जीन"
+        },
+        "B": {
+          "en": "Cyclohexane",
+          "hi": "साइक्लोहेक्सेन"
+        },
+        "C": {
+          "en": "Toluene",
+          "hi": "टॉलूईन"
+        },
+        "D": {
+          "en": "Hexene",
+          "hi": "हेक्सीन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "In the pyrolysis (cracking) of higher alkanes, which type of bond fission occurs and what products are typically obtained?",
+        "hi": "उच्च ऐल्केनों के ताप-अपघटन (क्रेकिंग/पायरोलिसिस) में, किस प्रकार का आबंध विखंडन होता है और सामान्यतः क्या उत्पाद प्राप्त होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Homolytic fission of $C-C$ and $C-H$ bonds yielding lower alkanes, alkenes, and hydrogen",
+          "hi": "$C-C$ और $C-H$ आबंधों का समांश विखंडन, जिससे निम्न ऐल्केन, ऐल्कीन और हाइड्रोजन प्राप्त होते हैं"
+        },
+        "B": {
+          "en": "Heterolytic fission yielding carbocations and carbanions exclusively",
+          "hi": "विषमांश विखंडन जिससे केवल कार्बधनायन और कार्बऋणायन प्राप्त होते हैं"
+        },
+        "C": {
+          "en": "Electrophilic substitution yielding halogenated alkanes",
+          "hi": "इलेक्ट्रॉनरागी प्रतिस्थापन जिससे हैलोजनीकृत ऐल्केन प्राप्त होते हैं"
+        },
+        "D": {
+          "en": "Nucleophilic addition yielding secondary alcohols",
+          "hi": "नाभिकरागी योग जिससे द्वितीयक ऐल्कोहॉल प्राप्त होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "Under controlled oxidation with $(CH_3COO)_2Mn$ catalyst, alkanes yield which organic product?",
+        "hi": "$(CH_3COO)_2Mn$ उत्प्रेरक के साथ नियंत्रित ऑक्सीकरण करने पर ऐल्केन कौन-सा कार्बनिक उत्पाद देते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Carboxylic acids",
+          "hi": "कार्बोक्सिलिक अम्ल"
+        },
+        "B": {
+          "en": "Alcohols",
+          "hi": "ऐल्कोहॉल"
+        },
+        "C": {
+          "en": "Aldehydes",
+          "hi": "ऐल्डिहाइड"
+        },
+        "D": {
+          "en": "Esters",
+          "hi": "एस्टर"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "During controlled catalytic oxidation of methane, which product is formed when methane and oxygen are passed through a copper tube at $523\\text{ K}$ and $100\\text{ atm}$?",
+        "hi": "मेथेन के नियंत्रित उत्प्रेरकीय ऑक्सीकरण के दौरान, जब मेथेन और ऑक्सीजन को $523\\text{ K}$ और $100\\text{ atm}$ पर तांबे (Cu) की नली से गुजारा जाता है, तो कौन-सा उत्पाद बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Methanol ($CH_3OH$)",
+          "hi": "मेथनॉल ($CH_3OH$)"
+        },
+        "B": {
+          "en": "Methanal ($HCHO$)",
+          "hi": "मेथेनैल ($HCHO$)"
+        },
+        "C": {
+          "en": "Methanoic acid ($HCOOH$)",
+          "hi": "मेथेनोइक अम्ल ($HCOOH$)"
+        },
+        "D": {
+          "en": "Carbon black ($C$)",
+          "hi": "कार्बन ब्लैक ($C$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "When methane is oxidized with molybdenum oxide ($Mo_2O_3$) catalyst under heating, the main product is:",
+        "hi": "जब मेथेन को गर्म करने पर मोलिब्डेनम ऑक्साइड ($Mo_2O_3$) उत्प्रेरक के साथ ऑक्सीकृत किया जाता है, तो मुख्य उत्पाद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Methanal ($HCHO$)",
+          "hi": "मेथेनैल ($HCHO$)"
+        },
+        "B": {
+          "en": "Methanol ($CH_3OH$)",
+          "hi": "मेथनॉल ($CH_3OH$)"
+        },
+        "C": {
+          "en": "Formic acid ($HCOOH$)",
+          "hi": "फॉर्मिक अम्ल ($HCOOH$)"
+        },
+        "D": {
+          "en": "Carbon monoxide ($CO$)",
+          "hi": "कार्बन मोनोऑक्साइड ($CO$)"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which alkane upon oxidation with alkaline $KMnO_4$ is oxidized to a tertiary alcohol?",
+        "hi": "क्षारीय $KMnO_4$ के साथ ऑक्सीकरण करने पर कौन-सा ऐल्केन तृतीयक ऐल्कोहॉल में ऑक्सीकृत हो जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "2-Methylpropane (Isobutane)",
+          "hi": "2-मेथिलप्रोपेन (आइसोब्यूटेन)"
+        },
+        "B": {
+          "en": "n-Butane",
+          "hi": "n-ब्यूटेन"
+        },
+        "C": {
+          "en": "Propane",
+          "hi": "प्रोपेन"
+        },
+        "D": {
+          "en": "Methane",
+          "hi": "मेथेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "In free radical bromination, the relative reactivity ratio of $3^\\circ : 2^\\circ : 1^\\circ$ hydrogens is approximately $1600 : 82 : 1$. What will be the major product of bromination of propane?",
+        "hi": "मुक्त मूलक ब्रोमीनीकरण में, $3^\\circ : 2^\\circ : 1^\\circ$ हाइड्रोजनों का आपेक्षिक क्रियाशीलता अनुपात लगभग $1600 : 82 : 1$ होता है। प्रोपेन के ब्रोमीनीकरण का मुख्य उत्पाद क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "2-Bromopropane (~97%)",
+          "hi": "2-ब्रोमोप्रोपेन (~97%)"
+        },
+        "B": {
+          "en": "1-Bromopropane (~97%)",
+          "hi": "1-ब्रोमोप्रोपेन (~97%)"
+        },
+        "C": {
+          "en": "Equal mixture of 1-bromopropane and 2-bromopropane",
+          "hi": "1-ब्रोमोप्रोपेन और 2-ब्रोमोप्रोपेन का समान मिश्रण"
+        },
+        "D": {
+          "en": "1,2-Dibromopropane exclusively",
+          "hi": "केवल 1,2-डाईब्रोमोप्रोपेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "When methane reacts with steam at $1273\\text{ K}$ in the presence of nickel catalyst, the gaseous mixture formed is called:",
+        "hi": "जब मेथेन निकल उत्प्रेरक की उपस्थिति में $1273\\text{ K}$ पर भाप के साथ अभिक्रिया करता है, तो बनने वाले गैसीय मिश्रण को क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Water gas (or Syngas, $CO + 3H_2$)",
+          "hi": "जल गैस (या संश्लेषण गैस, $CO + 3H_2$)"
+        },
+        "B": {
+          "en": "Producer gas ($CO + N_2$)",
+          "hi": "उत्पादक गैस ($CO + N_2$)"
+        },
+        "C": {
+          "en": "Coal gas ($CH_4 + H_2$)",
+          "hi": "कोल गैस ($CH_4 + H_2$)"
+        },
+        "D": {
+          "en": "Natural gas",
+          "hi": "प्राकृतिक गैस"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "When n-heptane is subjected to aromatization with $Cr_2O_3-Al_2O_3$ at $773\\text{ K}$ and $10-20\\text{ atm}$, what is the product?",
+        "hi": "जब n-हेप्टेन को $773\\text{ K}$ और $10-20\\text{ atm}$ पर $Cr_2O_3-Al_2O_3$ के साथ ऐरोमैटिकरण के अधीन किया जाता है, तो उत्पाद क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Toluene",
+          "hi": "टॉलूईन"
+        },
+        "B": {
+          "en": "Benzene",
+          "hi": "बेन्जीन"
+        },
+        "C": {
+          "en": "o-Xylene",
+          "hi": "o-जाइलीन"
+        },
+        "D": {
+          "en": "Cycloheptane",
+          "hi": "साइक्लोहेप्टेन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Observe the free radical chlorination reaction energy profile diagram. Why is the hydrogen abstraction step ($\\dot{Cl} + CH_4 \\rightarrow \\dot{C}H_3 + HCl$) endothermic by $+4\\text{ kJ/mol}$ while the corresponding step for bromine is endothermic by $+75\\text{ kJ/mol}$?",
+        "hi": "मुक्त मूलक क्लोरीनीकरण अभिक्रिया ऊर्जा आरेख का निरीक्षण कीजिए। हाइड्रोजन निष्कासन पद ($\\dot{Cl} + CH_4 \\rightarrow \\dot{C}H_3 + HCl$) $+4\\text{ kJ/mol}$ ऊष्माशोषी क्यों है, जबकि ब्रोमीन के लिए संगत पद $+75\\text{ kJ/mol}$ ऊष्माशोषी होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "$H-Cl$ bond formed ($431\\text{ kJ/mol}$) is much stronger than $H-Br$ bond ($366\\text{ kJ/mol}$), making bromine abstraction require higher activation energy",
+          "hi": "निर्मित $H-Cl$ आबंध ($431\\text{ kJ/mol}$) $H-Br$ आबंध ($366\\text{ kJ/mol}$) की तुलना में बहुत अधिक मजबूत है, जिससे ब्रोमीन निष्कासन के लिए उच्च संक्रियण ऊर्जा की आवश्यकता होती है"
+        },
+        "B": {
+          "en": "Bromine atom is smaller than chlorine atom",
+          "hi": "ब्रोमीन परमाणु क्लोरीन परमाणु से छोटा होता है"
+        },
+        "C": {
+          "en": "$C-H$ bond breaks heterolytically in the case of chlorine",
+          "hi": "क्लोरीन के मामले में $C-H$ आबंध विषमांश रूप से टूटता है"
+        },
+        "D": {
+          "en": "Chlorine radicals do not require activation energy",
+          "hi": "क्लोरीन मूलकों को संक्रियण ऊर्जा की आवश्यकता नहीं होती"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "The following diagram outlines the photochemical chlorination of ethane to identify chain termination steps:\n1. $\\dot{C}H_3 + \\dot{C}H_3 \\rightarrow CH_3-CH_3$\n2. $\\dot{C}_2H_5 + \\dot{Cl} \\rightarrow C_2H_5Cl$\n3. $\\dot{C}_2H_5 + \\dot{C}_2H_5 \\rightarrow C_4H_{10}$\nWhich of these accounts for the formation of butane trace impurity during the chlorination of ethane?",
+        "hi": "एथेन के प्रकाश-रासायनिक क्लोरीनीकरण में श्रृंखला समापन पदों की पहचान के लिए निम्नलिखित आरेख दिया गया है:\n1. $\\dot{C}H_3 + \\dot{C}H_3 \\rightarrow CH_3-CH_3$\n2. $\\dot{C}_2H_5 + \\dot{Cl} \\rightarrow C_2H_5Cl$\n3. $\\dot{C}_2H_5 + \\dot{C}_2H_5 \\rightarrow C_4H_{10}$\nइनमें से कौन-सा पद एथेन के क्लोरीनीकरण के दौरान सूक्ष्म अशुद्धि के रूप में ब्यूटेन के बनने का कारण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Step 3 only",
+          "hi": "केवल पद 3"
+        },
+        "B": {
+          "en": "Step 1 only",
+          "hi": "केवल पद 1"
+        },
+        "C": {
+          "en": "Step 2 only",
+          "hi": "केवल पद 2"
+        },
+        "D": {
+          "en": "Steps 1 and 2 together",
+          "hi": "पद 1 और 2 दोनों एक साथ"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the reagents in Column I with the corresponding oxidation reaction of alkanes in Column II:\n| Column I (Reagent / Condition) | Column II (Reaction / Product) |\n| :--- | :--- |\n| P. $Cu$ tube at $523\\text{ K}, 100\\text{ atm}$ | 1. $CH_4 \\rightarrow HCHO$ |\n| Q. $Mo_2O_3, \\Delta$ | 2. $CH_4 \\rightarrow CH_3OH$ |\n| R. $(CH_3COO)_2Mn, \\Delta$ | 3. Alkane $\\rightarrow$ Carboxylic acid |\n| S. $KMnO_4$ | 4. $3^\\circ$ Alkane $\\rightarrow 3^\\circ$ Alcohol |\nSelect the correct matching code:",
+        "hi": "स्तंभ I के अभिकर्मकों को स्तंभ II में ऐल्केनों की संगत ऑक्सीकरण अभिक्रिया से सुमेलित कीजिए:\n| स्तंभ I (अभिकर्मक / परिस्थिति) | स्तंभ II (अभिक्रिया / उत्पाद) |\n| :--- | :--- |\n| P. $Cu$ नली, $523\\text{ K}, 100\\text{ atm}$ | 1. $CH_4 \\rightarrow HCHO$ |\n| Q. $Mo_2O_3, \\Delta$ | 2. $CH_4 \\rightarrow CH_3OH$ |\n| R. $(CH_3COO)_2Mn, \\Delta$ | 3. ऐल्केन $\\rightarrow$ कार्बोक्सिलिक अम्ल |\n| S. $KMnO_4$ | 4. $3^\\circ$ ऐल्केन $\\rightarrow 3^\\circ$ ऐल्कोहॉल |\nसही सुमेलन कोड का चयन कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P-2, Q-1, R-3, S-4",
+          "hi": "P-2, Q-1, R-3, S-4"
+        },
+        "B": {
+          "en": "P-1, Q-2, R-3, S-4",
+          "hi": "P-1, Q-2, R-3, S-4"
+        },
+        "C": {
+          "en": "P-2, Q-1, R-4, S-3",
+          "hi": "P-2, Q-1, R-4, S-3"
+        },
+        "D": {
+          "en": "P-3, Q-4, R-1, S-2",
+          "hi": "P-3, Q-4, R-1, S-2"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc02_q01",
+      "category": "Theory",
+      "question": {
+        "en": "How are organic compounds broadly classified based on their carbon skeleton structure?",
+        "hi": "कार्बन कंकाल की संरचना के आधार पर कार्बनिक यौगिकों को मुख्य रूप से किस प्रकार वर्गीकृत किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Acyclic (open chain / aliphatic) and Cyclic (closed chain / ring) compounds",
+          "hi": "अचक्रीय (खुली श्रृंखला / ऐलिफैटिक) तथा चक्रीय (बंद श्रृंखला) यौगिक"
+        },
+        "B": {
+          "en": "Acidic and basic compounds only",
+          "hi": "केवल अम्लीय तथा क्षारीय यौगिक"
+        },
+        "C": {
+          "en": "Solid and liquid compounds only",
+          "hi": "केवल ठोस तथा द्रव यौगिक"
+        },
+        "D": {
+          "en": "Synthetic and natural compounds only",
+          "hi": "केवल संश्लेषित तथा प्राकृतिक यौगिक"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q02",
+      "category": "Theory",
+      "question": {
+        "en": "A heterocyclic aromatic compound is defined as a compound that contains:",
+        "hi": "एक विषमचक्रीय ऐरोमैटिक (Heterocyclic aromatic) यौगिक को उस यौगिक के रूप में परिभाषित किया जाता है जिसमें:"
+      },
+      "options": {
+        "A": {
+          "en": "A cyclic aromatic conjugated ring containing at least one heteroatom (such as N, O, or S) in the ring framework",
+          "hi": "एक चक्रीय ऐरोमैटिक संयुग्मित वलय जिसमें वलय के भीतर कम से कम एक विषम परमाणु (जैसे N, O, या S) उपस्थित हो"
+        },
+        "B": {
+          "en": "Only carbon and hydrogen atoms in an open chain",
+          "hi": "खुली श्रृंखला में केवल कार्बन तथा हाइड्रोजन परमाणु"
+        },
+        "C": {
+          "en": "Only alternating single and triple bonds",
+          "hi": "केवल एकांतर एकल तथा त्रिबंध"
+        },
+        "D": {
+          "en": "A ring containing only metal atoms",
+          "hi": "केवल धातु परमाणुओं से बनी वलय"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q03",
+      "category": "Theory",
+      "question": {
+        "en": "What is a 'Functional Group' in an organic molecule?",
+        "hi": "एक कार्बनिक अणु में 'क्रियात्मक समूह' (Functional Group) क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "An atom or group of bonded atoms that confers characteristic chemical reactivity to the organic compound",
+          "hi": "एक परमाणु अथवा परमाणुओं का बंधित समूह जो कार्बनिक यौगिक को विशिष्ट रासायनिक क्रियाशीलता प्रदान करता है"
+        },
+        "B": {
+          "en": "The largest hydrocarbon backbone chain",
+          "hi": "सबसे बड़ी हाइड्रोकार्बन मुख्य श्रृंखला"
+        },
+        "C": {
+          "en": "The total number of carbon atoms",
+          "hi": "कार्बन परमाणुओं की कुल संख्या"
+        },
+        "D": {
+          "en": "An inert impurity present in the solvent",
+          "hi": "विलायक में उपस्थित अक्रिय अशुद्धि"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q04",
+      "category": "Theory",
+      "question": {
+        "en": "What are the characteristics of a 'Homologous Series' of organic compounds?",
+        "hi": "कार्बनिक यौगिकों की एक 'समजातीय श्रेणी' (Homologous Series) की क्या विशेषताएं होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Successive members differ by a -CH2- unit (14 mass units), share the same general formula and functional group, and exhibit graded physical properties",
+          "hi": "क्रमिक सदस्यों में -CH2- इकाई (14 द्रव्यमान इकाई) का अंतर होता है, सामान्य सूत्र तथा क्रियात्मक समूह समान होते हैं, और भौतिक गुणों में क्रमिक परिवर्तन होता है"
+        },
+        "B": {
+          "en": "Members have completely different functional groups and reactivity",
+          "hi": "सदस्यों में भिन्न क्रियात्मक समूह होते हैं"
+        },
+        "C": {
+          "en": "Successive members differ by a -CH3 unit",
+          "hi": "क्रमिक सदस्यों में -CH3 का अंतर होता है"
+        },
+        "D": {
+          "en": "All members have identical boiling and melting points",
+          "hi": "सभी सदस्यों के क्वथनांक व गलनांक समान होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q05",
+      "category": "Formula",
+      "question": {
+        "en": "Which of the following pairs of compounds represents examples of ALICYCLIC compounds?",
+        "hi": "निम्नलिखित में से कौन-सा युग्म ऐलीसाइक्लिक (Alicyclic) यौगिकों का उदाहरण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyclohexane and Cyclopentene",
+          "hi": "साइक्लोहेक्सेन तथा साइक्लोपेन्टीन"
+        },
+        "B": {
+          "en": "Benzene and Toluene",
+          "hi": "बेंजीन तथा टॉलूईन"
+        },
+        "C": {
+          "en": "Pyridine and Pyrrole",
+          "hi": "पिरिडीन तथा पायरॉल"
+        },
+        "D": {
+          "en": "Naphthalene and Anthracene",
+          "hi": "नेफ्थालीन तथा एन्थ्रासीन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q06",
+      "category": "Formula",
+      "question": {
+        "en": "What is the general molecular formula for an acyclic homologous series of monocarboxylic acids (fatty acids)?",
+        "hi": "मोनोकार्बोक्सिलिक अम्लों (वसा अम्लों) की अचक्रीय समजातीय श्रेणी का सामान्य अणुसूत्र क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "CnH2nO2 (or CnH2n+1COOH, where n ≥ 0 in CnH2n+1)",
+          "hi": "CnH2nO2 (अथवा CnH2n+1COOH)"
+        },
+        "B": {
+          "en": "CnH2n+2O",
+          "hi": "CnH2n+2O"
+        },
+        "C": {
+          "en": "CnH2n-2O2",
+          "hi": "CnH2n-2O2"
+        },
+        "D": {
+          "en": "CnH2nO",
+          "hi": "CnH2nO"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q07",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following compounds is a NON-BENZENOID aromatic compound?",
+        "hi": "निम्नलिखित में से कौन-सा एक गैर-बेंजीनॉइड ऐरोमैटिक (Non-benzenoid aromatic) यौगिक है?"
+      },
+      "options": {
+        "A": {
+          "en": "Tropone (Tropylium-related 7-membered aromatic ring)",
+          "hi": "ट्रोपोन (Tropone, 7-सदस्यीय ऐरोमैटिक वलय)"
+        },
+        "B": {
+          "en": "Naphthalene",
+          "hi": "नेफ्थालीन"
+        },
+        "C": {
+          "en": "Aniline",
+          "hi": "ऐनिलीन"
+        },
+        "D": {
+          "en": "Phenol",
+          "hi": "फीनॉल"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q08",
+      "category": "Formula",
+      "question": {
+        "en": "Identify the functional groups present in aspirin (acetylsalicylic acid):\n        COOH\n       /   \n     //     \n     \\      \\ O-CO-CH3",
+        "hi": "एस्पिरिन (एसिटिलसेलिसिलिक अम्ल) में कौन-से क्रियात्मक समूह उपस्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Carboxylic acid (-COOH) and Ester (-OCOCH3)",
+          "hi": "कार्बोक्सिलिक अम्ल (-COOH) तथा एस्टर (-OCOCH3)"
+        },
+        "B": {
+          "en": "Aldehyde (-CHO) and Ketone (-CO-)",
+          "hi": "एल्डिहाइड (-CHO) तथा कीटोन (-CO-)"
+        },
+        "C": {
+          "en": "Alcohol (-OH) and Ether (-O-)",
+          "hi": "ऐल्कोहॉल (-OH) तथा ईथर (-O-)"
+        },
+        "D": {
+          "en": "Amide (-CONH2) and Phenol (-OH)",
+          "hi": "एमाइड (-CONH2) तथा फीनॉल (-OH)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q09",
+      "category": "Diagram",
+      "question": {
+        "en": "The chart illustrates the classification tree of cyclic organic compounds:\nCyclic Compounds\n   |-- Homocyclic / Carbocyclic\n   |      |-- Alicyclic (e.g. Cyclohexane)\n   |      `-- Aromatic\n   |             |-- Benzenoid (e.g. Benzene)\n   |             `-- Non-benzenoid (e.g. Tropone)\n   `-- Heterocyclic\n          |-- Alicyclic (e.g. Tetrahydrofuran)\n          `-- Aromatic (e.g. Pyridine, Furan)\nWhich class does Thiophene belong to?",
+        "hi": "चक्रीय कार्बनिक यौगिकों के वर्गीकरण आरेख का परीक्षण कीजिए:\nथायोफीन (Thiophene) किस वर्ग से संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Heterocyclic aromatic compound (contains sulfur in aromatic ring)",
+          "hi": "विषमचक्रीय ऐरोमैटिक यौगिक (वलय में सल्फर युक्त)"
+        },
+        "B": {
+          "en": "Homocyclic benzenoid compound",
+          "hi": "समचक्रीय बेंजीनॉइड यौगिक"
+        },
+        "C": {
+          "en": "Acyclic alkane",
+          "hi": "अचक्रीय एल्केन"
+        },
+        "D": {
+          "en": "Heterocyclic non-aromatic alicyclic compound",
+          "hi": "विषमचक्रीय गैर-ऐरोमैटिक ऐलीसाइक्लिक यौगिक"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc02_q10",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table of functional groups and their characteristic class names:\n| Functional Group | Structure | Class of Compound |\n|---|---|---|\n| Hydroxyl | -OH | Alcohol |\n| Formyl | -CHO | Aldehyde |\n| Carbonyl | >C=O | Ketone |\n| Carboxyl | -COOH | Carboxylic acid |\n| Alkoxycarbonyl | -COOR | X |\nWhat class of compound corresponds to X?",
+        "hi": "क्रियात्मक समूहों की तालिका का अवलोकन कीजिए:\n-COOR संरचना वाले यौगिकों का वर्ग X क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ester",
+          "hi": "एस्टर (Ester)"
+        },
+        "B": {
+          "en": "Ether",
+          "hi": "ईथर (Ether)"
+        },
+        "C": {
+          "en": "Anhydride",
+          "hi": "एनहाइड्राइड"
+        },
+        "D": {
+          "en": "Acyl halide",
+          "hi": "एसिल हैलाइड"
+        }
+      }
+    }
+  ]
+}

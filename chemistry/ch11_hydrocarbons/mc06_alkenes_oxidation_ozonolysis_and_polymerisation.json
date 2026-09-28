@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_11_ch11_mc06_q01",
+      "category": "theory",
+      "question": {
+        "en": "What is 'Baeyer's reagent' and what visual change occurs when it reacts with an alkene?",
+        "hi": "'बेयर अभिकर्मक' क्या है और जब यह किसी ऐल्कीन के साथ अभिक्रिया करता है तो क्या दृश्य परिवर्तन होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cold, dilute, alkaline potassium permanganate ($KMnO_4$); the pink/purple color disappears with formation of a brown $MnO_2$ precipitate",
+          "hi": "ठंडा, तनु, क्षारीय पोटैशियम परमैंगनेट ($KMnO_4$); भूरे $MnO_2$ अवक्षेप के बनने के साथ गुलाबी/बैंगनी रंग उड़ जाता है"
+        },
+        "B": {
+          "en": "Acidified potassium dichromate ($K_2Cr_2O_7$); turns from orange to green",
+          "hi": "अम्लीकृत पोटैशियम डाइक्रोमेट ($K_2Cr_2O_7$); नारंगी से हरा हो जाता है"
+        },
+        "C": {
+          "en": "Ammoniacal cuprous chloride; forms a red precipitate",
+          "hi": "अमोनियामय क्यूप्रस क्लोराइड; लाल अवक्षेप बनाता है"
+        },
+        "D": {
+          "en": "Bromine in carbon tetrachloride; turns reddish brown",
+          "hi": "कार्बन टेट्राक्लोराइड में ब्रोमीन; लाल भूरा हो जाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q02",
+      "category": "theory",
+      "question": {
+        "en": "In the reductive ozonolysis of an alkene using $O_3$ followed by $Zn / H_2O$, what is the role of zinc dust?",
+        "hi": "$O_3$ के बाद $Zn / H_2O$ का उपयोग करके किसी ऐल्कीन के अपचायक ओज़ोनोलिसिस में जिंक चूर्ण की क्या भूमिका होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "To reduce hydrogen peroxide ($H_2O_2$) formed in the reaction, preventing further oxidation of aldehydes to carboxylic acids",
+          "hi": "अभिक्रिया में बने हाइड्रोजन परॉक्साइड ($H_2O_2$) को अपचित करना, जिससे ऐल्डिहाइडों का आगे कार्बोक्सिलिक अम्लों में ऑक्सीकरण न हो सके"
+        },
+        "B": {
+          "en": "To act as a Lewis acid to cleave the alkene directly",
+          "hi": "ऐल्कीन को सीधे विखंडित करने के लिए लुईस अम्ल के रूप में कार्य करना"
+        },
+        "C": {
+          "en": "To regenerate ozone gas during the reaction",
+          "hi": "अभिक्रिया के दौरान ओज़ोन गैस को पुनरुत्पादित करना"
+        },
+        "D": {
+          "en": "To catalyze the polymerisation of ozonide",
+          "hi": "ओज़ोनाइड के बहुलकीकरण को उत्प्रेरित करना"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q03",
+      "category": "theory",
+      "question": {
+        "en": "What is the primary industrial and diagnostic analytical utility of the ozonolysis reaction of alkenes?",
+        "hi": "ऐल्कीनों की ओज़ोनोलिसिस अभिक्रिया की प्राथमिक औद्योगिक और नैदानिक विश्लेषणात्मक उपयोगिता क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "To locate the precise position and branching of the double bond in the unknown alkene molecule",
+          "hi": "अज्ञात ऐल्कीन अणु में द्वि-आबंध की सटीक स्थिति और शाखन का पता लगाना"
+        },
+        "B": {
+          "en": "To determine the exact molecular weight of the alkene cryoscopically",
+          "hi": "हिमांकमितीय रूप से ऐल्कीन के सटीक आण्विक भार का निर्धारण करना"
+        },
+        "C": {
+          "en": "To convert alkenes into alkanes without using hydrogen gas",
+          "hi": "हाइड्रोजन गैस का उपयोग किए बिना ऐल्कीनों को ऐल्केनों में परिवर्तित करना"
+        },
+        "D": {
+          "en": "To remove halogen impurities from alkenes",
+          "hi": "ऐल्कीनों से हैलोजन अशुद्धियों को दूर करना"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q04",
+      "category": "theory",
+      "question": {
+        "en": "What type of stereochemical addition occurs when an alkene is treated with cold dilute alkaline $KMnO_4$?",
+        "hi": "जब किसी ऐल्कीन को ठंडे तनु क्षारीय $KMnO_4$ के साथ उपचारित किया जाता है तो किस प्रकार का त्रिविम-रसायनिक योग होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "syn-Dihydroxylation (both $-OH$ groups add to the same face of the double bond)",
+          "hi": "सिन-डाइहाइड्रॉक्सीलीकरण (दोनों $-OH$ समूह द्वि-आबंध के एक ही फलक पर जुड़ते हैं)"
+        },
+        "B": {
+          "en": "anti-Dihydroxylation ($-OH$ groups add to opposite faces)",
+          "hi": "ऐंटी-डाइहाइड्रॉक्सीलीकरण ($-OH$ समूह विपरीत फलकों पर जुड़ते हैं)"
+        },
+        "C": {
+          "en": "Free radical non-stereospecific addition",
+          "hi": "मुक्त मूलक गैर-त्रिविमविशिष्ट योग"
+        },
+        "D": {
+          "en": "Electrophilic substitution",
+          "hi": "इलेक्ट्रॉनरागी प्रतिस्थापन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q05",
+      "category": "theory",
+      "question": {
+        "en": "Under vigorous oxidation with hot acidic $KMnO_4$, a terminal alkene unit ($=CH_2$) is converted into:",
+        "hi": "गर्म अम्लीय $KMnO_4$ के साथ प्रबल ऑक्सीकरण के तहत, एक अंतस्थ ऐल्कीन इकाई ($=CH_2$) किसमें परिवर्तित हो जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "$CO_2$ and $H_2O$",
+          "hi": "$CO_2$ और $H_2O$"
+        },
+        "B": {
+          "en": "Methanal ($HCHO$)",
+          "hi": "मेथेनैल ($HCHO$)"
+        },
+        "C": {
+          "en": "Methanol ($CH_3OH$)",
+          "hi": "मेथनॉल ($CH_3OH$)"
+        },
+        "D": {
+          "en": "Formic acid ($HCOOH$) exclusively remaining stable",
+          "hi": "फॉर्मिक अम्ल ($HCOOH$) जो स्थिर रहता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q06",
+      "category": "theory",
+      "question": {
+        "en": "Which catalyst system is famously used in the low-pressure coordination polymerisation of ethene to High-Density Polythene (HDPE)?",
+        "hi": "एथीन के निम्न-दाब समन्वय बहुलकीकरण द्वारा उच्च-घनत्व पॉलीथीन (HDPE) बनाने के लिए किस प्रसिद्ध उत्प्रेरक प्रणाली का उपयोग किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ziegler-Natta catalyst: Triethylaluminium and titanium tetrachloride ($Al(C_2H_5)_3 + TiCl_4$)",
+          "hi": "जिग्लर-नाटा उत्प्रेरक: ट्राईएथिलऐलुमिनियम और टाइटेनियम टेट्राक्लोराइड ($Al(C_2H_5)_3 + TiCl_4$)"
+        },
+        "B": {
+          "en": "Fenton's reagent: $FeSO_4 + H_2O_2$",
+          "hi": "फेंटन अभिकर्मक: $FeSO_4 + H_2O_2$"
+        },
+        "C": {
+          "en": "Lindlar's catalyst: $Pd/CaCO_3$",
+          "hi": "लिंडलार उत्प्रेरक: $Pd/CaCO_3$"
+        },
+        "D": {
+          "en": "Raney Nickel: $Ni / Al$",
+          "hi": "रेने निकेल: $Ni / Al$"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q07",
+      "category": "formula",
+      "question": {
+        "en": "An alkene upon reductive ozonolysis ($O_3$ followed by $Zn/H_2O$) yields an equimolar mixture of ethanal ($CH_3CHO$) and acetone ($CH_3COCH_3$). What is the IUPAC name of the alkene?",
+        "hi": "एक ऐल्कीन अपचायक ओज़ोनोलिसिस ($O_3$ के बाद $Zn/H_2O$) पर एथेनैल ($CH_3CHO$) और एसीटोन ($CH_3COCH_3$) का सममोलर मिश्रण देता है। ऐल्कीन का IUPAC नाम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "2-Methylbut-2-ene",
+          "hi": "2-मेथिलब्यूट-2-ईन"
+        },
+        "B": {
+          "en": "2-Methylbut-1-ene",
+          "hi": "2-मेथिलब्यूट-1-ईन"
+        },
+        "C": {
+          "en": "Pent-2-ene",
+          "hi": "पेन्ट-2-ईन"
+        },
+        "D": {
+          "en": "3-Methylbut-1-ene",
+          "hi": "3-मेथिलब्यूट-1-ईन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q08",
+      "category": "formula",
+      "question": {
+        "en": "Ozonolysis of an alkene yields ONLY propan-2-one (acetone). What is the alkene?",
+        "hi": "एक ऐल्कीन का ओज़ोनोलिसिस केवल प्रोपेन-2-वन (एसीटोन) देता है। वह ऐल्कीन कौन-सा है?"
+      },
+      "options": {
+        "A": {
+          "en": "2,3-Dimethylbut-2-ene",
+          "hi": "2,3-डाईमेथिलब्यूट-2-ईन"
+        },
+        "B": {
+          "en": "2-Methylbut-2-ene",
+          "hi": "2-मेथिलब्यूट-2-ईन"
+        },
+        "C": {
+          "en": "Hex-3-ene",
+          "hi": "हेक्स-3-ईन"
+        },
+        "D": {
+          "en": "2,3-Dimethylbut-1-ene",
+          "hi": "2,3-डाईमेथिलब्यूट-1-ईन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q09",
+      "category": "formula",
+      "question": {
+        "en": "What are the oxidation products when 2-methylpropene is heated with hot acidic $KMnO_4$ solution?",
+        "hi": "जब 2-मेथिलप्रोपीन को गर्म अम्लीय $KMnO_4$ विलयन के साथ गर्म किया जाता है तो ऑक्सीकरण उत्पाद क्या होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Propan-2-one (Acetone), $CO_2$, and $H_2O$",
+          "hi": "प्रोपेन-2-वन (एसीटोन), $CO_2$, और $H_2O$"
+        },
+        "B": {
+          "en": "Acetic acid and formic acid",
+          "hi": "एसिटिक अम्ल और फॉर्मिक अम्ल"
+        },
+        "C": {
+          "en": "Propanoic acid and methanol",
+          "hi": "प्रोपेनोइक अम्ल और मेथनॉल"
+        },
+        "D": {
+          "en": "Isobutyric acid exclusively",
+          "hi": "केवल आइसोब्यूटाइरिक अम्ल"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q10",
+      "category": "formula",
+      "question": {
+        "en": "What is the product when ethene is treated with cold dilute alkaline $KMnO_4$?",
+        "hi": "जब एथीन को ठंडे तनु क्षारीय $KMnO_4$ के साथ उपचारित किया जाता है तो क्या उत्पाद बनता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethane-1,2-diol (Ethylene glycol)",
+          "hi": "एथेन-1,2-डाईऑल (एथिलीन ग्लाइकॉल)"
+        },
+        "B": {
+          "en": "Ethanol",
+          "hi": "एथनॉल"
+        },
+        "C": {
+          "en": "Ethanoic acid",
+          "hi": "एथेनोइक अम्ल"
+        },
+        "D": {
+          "en": "Oxalic acid",
+          "hi": "ऑक्सालिक अम्ल"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q11",
+      "category": "formula",
+      "question": {
+        "en": "Reductive ozonolysis of a cycloalkene produces hexane-1,6-dial ($OHC-(CH_2)_4-CHO$). What was the starting cycloalkene?",
+        "hi": "एक साइक्लोऐल्कीन का अपचायक ओज़ोनोलिसिस हेक्सेन-1,6-डाइअल ($OHC-(CH_2)_4-CHO$) उत्पन्न करता है। प्रारंभिक साइक्लोऐल्कीन क्या था?"
+      },
+      "options": {
+        "A": {
+          "en": "Cyclohexene",
+          "hi": "साइक्लोहेक्सीन"
+        },
+        "B": {
+          "en": "Cyclopentene",
+          "hi": "साइक्लोपेन्टीन"
+        },
+        "C": {
+          "en": "Cycloheptene",
+          "hi": "साइक्लोहेप्टीन"
+        },
+        "D": {
+          "en": "1-Methylcyclopentene",
+          "hi": "1-मेथिलसाइक्लोपेन्टीन"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q12",
+      "category": "formula",
+      "question": {
+        "en": "During the free radical polymerisation of ethene to Low-Density Polythene (LDPE) at $1000-2000\\text{ atm}$ and $350-570\\text{ K}$, what is used as the initiator?",
+        "hi": "$1000-2000\\text{ atm}$ और $350-570\\text{ K}$ पर एथीन के निम्न-घनत्व पॉलीथीन (LDPE) में मुक्त मूलक बहुलकीकरण के दौरान प्रारंभक (initiator) के रूप में किसका उपयोग किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Traces of dioxygen ($O_2$) or a peroxide catalyst (e.g., benzoyl peroxide)",
+          "hi": "डाइऑक्सीजन ($O_2$) की सूक्ष्म मात्रा या परॉक्साइड उत्प्रेरक (जैसे बेन्जॉयल परॉक्साइड)"
+        },
+        "B": {
+          "en": "Titanium tetrachloride and triethylaluminium",
+          "hi": "टाइटेनियम टेट्राक्लोराइड और ट्राईएथिलऐलुमिनियम"
+        },
+        "C": {
+          "en": "Concentrated sulfuric acid",
+          "hi": "सांद्र सल्फ्यूरिक अम्ल"
+        },
+        "D": {
+          "en": "Sodium metal in liquid ammonia",
+          "hi": "द्रव अमोनिया में सोडियम धातु"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the following cyclic intermediate formed during the ozonolysis of an alkene:\nAn alkene reacts with $O_3$ to form a 'molozonide' which rapidly rearranges to an 'ozonide'. What is the structure of the ozonide ring?",
+        "hi": "ऐल्कीन के ओज़ोनोलिसिस के दौरान बनने वाले निम्नलिखित चक्रीय मध्यवर्ती की जांच कीजिए:\nएक ऐल्कीन $O_3$ के साथ अभिक्रिया करके 'मोलोज़ोनाइड' बनाता है जो तेजी से 'ओज़ोनाइड' में पुनर्विन्यासित हो जाता है। ओज़ोनाइड वलय की संरचना क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "A five-membered ring containing two carbons, with one oxygen bridging both carbons and a peroxide ($-O-O-$) bridge linking the other side",
+          "hi": "दो कार्बनों वाली एक पांच-सदस्यीय वलय, जिसमें एक ऑक्सीजन दोनों कार्बनों को जोड़ता है और दूसरी तरफ एक परॉक्साइड ($-O-O-$) सेतु जोड़ता है"
+        },
+        "B": {
+          "en": "A three-membered ring containing two carbons and one oxygen (epoxide)",
+          "hi": "दो कार्बन और एक ऑक्सीजन वाली तीन-सदस्यीय वलय (एपॉक्साइड)"
+        },
+        "C": {
+          "en": "A four-membered ring containing two carbons and two oxygens (dioxetane)",
+          "hi": "दो कार्बन और दो ऑक्सीजन वाली चार-सदस्यीय वलय (डाईऑक्सेटेन)"
+        },
+        "D": {
+          "en": "A linear non-cyclic peroxide polymer",
+          "hi": "एक रैखिक गैर-चक्रीय परॉक्साइड बहुलक"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q14",
+      "category": "diagram",
+      "question": {
+        "en": "An unknown alkene $[A]$ with formula $C_6H_{12}$ undergoes ozonolysis with $O_3 / Zn-H_2O$ to yield a single compound $[B]$, which gives a positive iodoform test and reduces Tollens' reagent. What is $[A]$?",
+        "hi": "सूत्र $C_6H_{12}$ वाला एक अज्ञात ऐल्कीन $[A]$ $O_3 / Zn-H_2O$ के साथ ओज़ोनोलिसिस पर एक एकल यौगिक $[B]$ देता है, जो सकारात्मक आयोडोफॉर्म परीक्षण देता है और टॉलेन्स अभिकर्मक को अपचित करता है। $[A]$ क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Compound $[B]$ cannot give both tests simultaneously; a single compound from $C_6H_{12}$ must be ethanal ($CH_3CHO$) from hex-3-ene? Wait, ethanal ($C_2H_4O$) gives both tests and comes from $C_6H_{12}$ if $[A]$ was hex-3-ene? No, hex-3-ene gives propanal (3 carbons)! Ethanal has 2 carbons: 3 units would require a triene! What gives a single compound of 3 carbons?",
+          "hi": "यौगिक $[B]$ दोनों परीक्षण एक साथ नहीं दे सकता? आइए विश्लेषण करें: यदि $[B]$ 3-कार्बन का हो तो प्रोपेनल (टॉलेन्स देता है लेकिन आयोडोफॉर्म नहीं) या एसीटोन (आयोडोफॉर्म देता है लेकिन टॉलेन्स नहीं)। केवल एथेनैल ($CH_3CHO$) दोनों परीक्षण देता है! तो 3 कार्बन वाला क्या हो सकता है?"
+        },
+        "B": {
+          "en": "Hex-3-ene yields propanal, which reduces Tollens' reagent but does not give iodoform test",
+          "hi": "हेक्स-3-ईन प्रोपेनल देता है, जो टॉलेन्स अभिकर्मक को अपचित करता है लेकिन आयोडोफॉर्म परीक्षण नहीं देता"
+        },
+        "C": {
+          "en": "2,3-Dimethylbut-2-ene yields acetone, which gives iodoform test but does NOT reduce Tollens' reagent",
+          "hi": "2,3-डाईमेथिलब्यूट-2-ईन एसीटोन देता है, जो आयोडोफॉर्म परीक्षण देता है लेकिन टॉलेन्स अभिकर्मक को अपचित नहीं करता"
+        },
+        "D": {
+          "en": "Hex-3-ene yields propanal ($CH_3CH_2CHO$); 2,3-dimethylbut-2-ene yields propan-2-one ($(CH_3)_2CO$)",
+          "hi": "हेक्स-3-ईन प्रोपेनल ($CH_3CH_2CHO$) देता है; 2,3-डाईमेथिलब्यूट-2-ईन प्रोपेन-2-वन ($(CH_3)_2CO$) देता है"
+        }
+      }
+    },
+    {
+      "id": "chem_11_ch11_mc06_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following table comparing Low-Density Polythene (LDPE) and High-Density Polythene (HDPE):\n| Property | LDPE | HDPE |\n| :--- | :--- | :--- |\n| Pressure Condition | $1000-2000\\text{ atm}$ | $6-7\\text{ atm}$ |\n| Temperature | $350-570\\text{ K}$ | $333-343\\text{ K}$ |\n| Catalyst | Peroxide / $O_2$ traces | Ziegler-Natta | \n| Structure | Highly branched | Linear, closely packed |\n| Density & Melting Point | Low density, lower m.p. | High density, higher m.p. |\nWhat structural characteristic explains why HDPE has higher density and tensile strength than LDPE?",
+        "hi": "निम्न-घनत्व पॉलीथीन (LDPE) और उच्च-घनत्व पॉलीथीन (HDPE) की तुलना करने वाली निम्नलिखित सारणी पर विचार कीजिए:\n| गुण | LDPE | HDPE |\n| :--- | :--- | :--- |\n| दाब परिस्थिति | $1000-2000\\text{ atm}$ | $6-7\\text{ atm}$ |\n| तापमान | $350-570\\text{ K}$ | $333-343\\text{ K}$ |\n| उत्प्रेरक | परॉक्साइड / $O_2$ सूक्ष्म मात्रा | जिग्लर-नाटा |\n| संरचना | अत्यधिक शाखित | रैखिक, सघन संकुलित |\n| घनत्व और गलनांक | कम घनत्व, निम्न गलनांक | उच्च घनत्व, उच्च गलनांक |\nकौन-सी संरचनात्मक विशेषता यह स्पष्ट करती है कि HDPE का घनत्व और तन्यता सामर्थ्य LDPE से अधिक क्यों होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Linear unbranched chains in HDPE pack closely together in crystalline domains, resulting in stronger intermolecular forces",
+          "hi": "HDPE में रैखिक अशाखित श्रृंखलाएं क्रिस्टलीय क्षेत्रों में बहुत सघनता से संकुलित होती हैं, जिससे अंतराआण्विक बल अधिक प्रबल होते हैं"
+        },
+        "B": {
+          "en": "LDPE has a higher molecular weight than HDPE",
+          "hi": "LDPE का आण्विक भार HDPE से अधिक होता है"
+        },
+        "C": {
+          "en": "HDPE contains cross-linking covalent bonds between titanium atoms",
+          "hi": "HDPE में टाइटेनियम परमाणुओं के बीच क्रॉस-लिंकिंग सहसंयोजक आबंध होते हैं"
+        },
+        "D": {
+          "en": "LDPE consists of planar rings while HDPE is purely spherical",
+          "hi": "LDPE में समतलीय वलय होते हैं जबकि HDPE पूरी तरह से गोलाकार होता है"
+        }
+      }
+    }
+  ]
+}

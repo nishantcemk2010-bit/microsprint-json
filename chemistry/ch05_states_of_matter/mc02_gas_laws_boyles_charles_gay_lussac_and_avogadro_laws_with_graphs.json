@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch05_mc02_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Boyle's Law states that at constant temperature, the pressure of a fixed mass of gas is:",
+        "hi": "बॉयल का नियम बताता है कि स्थिर तापमान पर, गैस के एक निश्चित द्रव्यमान का दाब:"
+      },
+      "options": {
+        "A": {
+          "en": "Inversely proportional to its volume (P ∝ 1/V or PV = constant)",
+          "hi": "इसके आयतन के व्युत्क्रमानुपाती होता है (P ∝ 1/V या PV = स्थिरांक)"
+        },
+        "B": {
+          "en": "Directly proportional to its absolute temperature",
+          "hi": "इसके परम तापमान के सीधे समानुपाती होता है"
+        },
+        "C": {
+          "en": "Directly proportional to its volume",
+          "hi": "इसके आयतन के सीधे समानुपाती होता है"
+        },
+        "D": {
+          "en": "Independent of volume and temperature",
+          "hi": "आयतन और तापमान से स्वतंत्र होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q02",
+      "category": "Theory",
+      "question": {
+        "en": "Charles' Law states that at constant pressure, the volume of a fixed mass of gas is directly proportional to its:",
+        "hi": "चार्ल्स का नियम बताता है कि स्थिर दाब पर, गैस के एक निश्चित द्रव्यमान का आयतन किसके सीधे समानुपाती होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Absolute temperature in Kelvin (V ∝ T or V/T = constant)",
+          "hi": "केल्विन में परम तापमान के (V ∝ T या V/T = स्थिरांक)"
+        },
+        "B": {
+          "en": "Temperature in degrees Celsius squared",
+          "hi": "डिग्री सेल्सियस में तापमान के वर्ग के"
+        },
+        "C": {
+          "en": "Atmospheric pressure",
+          "hi": "वायुमंडलीय दाब के"
+        },
+        "D": {
+          "en": "Molar mass of the gas",
+          "hi": "गैस के मोलर द्रव्यमान के"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q03",
+      "category": "Theory",
+      "question": {
+        "en": "The concept of 'Absolute Zero' (0 K or -273.15 °C) is derived theoretically from Charles' Law because at this temperature:",
+        "hi": "'परम शून्य' (0 K या -273.15 °C) की अवधारणा सैद्धांतिक रूप से चार्ल्स के नियम से प्राप्त होती है क्योंकि इस तापमान पर:"
+      },
+      "options": {
+        "A": {
+          "en": "The extrapolated volume of an ideal gas becomes theoretically zero",
+          "hi": "एक आदर्श गैस का बहिर्वेशित आयतन सैद्धांतिक रूप से शून्य हो जाता है"
+        },
+        "B": {
+          "en": "The pressure of the gas becomes infinitely large",
+          "hi": "गैस का दाब अनंत रूप से बढ़ जाता है"
+        },
+        "C": {
+          "en": "Gas molecules acquire relativistic speed of light",
+          "hi": "गैस के अणु प्रकाश की आपेक्षिकीय गति प्राप्त कर लेते हैं"
+        },
+        "D": {
+          "en": "All chemical elements undergo nuclear fission",
+          "hi": "सभी रासायनिक तत्व नाभिकीय विखंडन से गुजरते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Gay-Lussac's Law describes the pressure-temperature relationship of a gas at constant volume (isochore). It states that:",
+        "hi": "गे-लुसाक का नियम स्थिर आयतन (समआयतनिक) पर गैस के दाब-तापमान संबंध का वर्णन करता है। यह बताता है कि:"
+      },
+      "options": {
+        "A": {
+          "en": "At constant volume, pressure of a fixed mass of gas is directly proportional to its absolute temperature (P ∝ T)",
+          "hi": "स्थिर आयतन पर, गैस के निश्चित द्रव्यमान का दाब उसके परम तापमान के सीधे समानुपाती होता है (P ∝ T)"
+        },
+        "B": {
+          "en": "At constant volume, pressure is inversely proportional to temperature",
+          "hi": "स्थिर आयतन पर, दाब तापमान के व्युत्क्रमानुपाती होता है"
+        },
+        "C": {
+          "en": "Pressure increases with square root of temperature",
+          "hi": "दाब तापमान के वर्गमूल के साथ बढ़ता है"
+        },
+        "D": {
+          "en": "Volume increases with square of pressure",
+          "hi": "आयतन दाब के वर्ग के साथ बढ़ता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q05",
+      "category": "Theory",
+      "question": {
+        "en": "Avogadro's Law states that equal volumes of all gases under the same conditions of temperature and pressure contain:",
+        "hi": "आवोगाद्रो का नियम बताता है कि समान तापमान और दाब की परिस्थितियों में सभी गैसों के समान आयतन में क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Equal number of molecules (V ∝ n at constant T and P)",
+          "hi": "समान संख्या में अणु होते हैं (स्थिर T और P पर V ∝ n)"
+        },
+        "B": {
+          "en": "Equal masses of gas in grams",
+          "hi": "ग्राम में गैस का समान द्रव्यमान होता है"
+        },
+        "C": {
+          "en": "Equal number of electrons and protons",
+          "hi": "समान संख्या में इलेक्ट्रॉन और प्रोटॉन होते हैं"
+        },
+        "D": {
+          "en": "Equal number of chemical bonds",
+          "hi": "समान संख्या में रासायनिक आबंध होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q06",
+      "category": "Theory",
+      "question": {
+        "en": "What is the molar volume of an ideal gas at standard temperature and pressure (STP: 273.15 K and 1 bar) as per current IUPAC definition?",
+        "hi": "वर्तमान IUPAC परिभाषा के अनुसार मानक तापमान और दाब (STP: 273.15 K और 1 बार) पर एक आदर्श गैस का मोलर आयतन क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "22.71 L/mol",
+          "hi": "22.71 L/mol"
+        },
+        "B": {
+          "en": "22.41 L/mol",
+          "hi": "22.41 L/mol"
+        },
+        "C": {
+          "en": "24.46 L/mol",
+          "hi": "24.46 L/mol"
+        },
+        "D": {
+          "en": "20.00 L/mol",
+          "hi": "20.00 L/mol"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q07",
+      "category": "Formula",
+      "question": {
+        "en": "A gas occupies a volume of 2.5 L at a pressure of 1.2 bar. If the pressure is increased to 3.0 bar at constant temperature, what will be its new volume?",
+        "hi": "एक गैस 1.2 बार के दाब पर 2.5 L आयतन घेरती है। यदि स्थिर तापमान पर दाब बढ़ाकर 3.0 बार कर दिया जाए, तो इसका नया आयतन क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "1.0 L",
+          "hi": "1.0 L"
+        },
+        "B": {
+          "en": "0.8 L",
+          "hi": "0.8 L"
+        },
+        "C": {
+          "en": "1.5 L",
+          "hi": "1.5 L"
+        },
+        "D": {
+          "en": "6.25 L",
+          "hi": "6.25 L"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q08",
+      "category": "Formula",
+      "question": {
+        "en": "A sample of gas has a volume of 300 mL at 27 °C. At what temperature (in °C) will its volume become 600 mL at constant pressure?",
+        "hi": "गैस के एक नमूने का आयतन 27 °C पर 300 mL है। स्थिर दाब पर किस तापमान (डिग्री सेल्सियस में) पर इसका आयतन 600 mL हो जाएगा?"
+      },
+      "options": {
+        "A": {
+          "en": "327 °C",
+          "hi": "327 °C"
+        },
+        "B": {
+          "en": "54 °C",
+          "hi": "54 °C"
+        },
+        "C": {
+          "en": "600 °C",
+          "hi": "600 °C"
+        },
+        "D": {
+          "en": "150 °C",
+          "hi": "150 °C"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q09",
+      "category": "Formula",
+      "question": {
+        "en": "An automobile tyre is inflated to a pressure of 200 kPa at 27 °C. After driving, the temperature of the air inside the tyre rises to 77 °C. Assuming constant tyre volume, the new pressure inside the tyre is:",
+        "hi": "एक ऑटोमोबाइल टायर को 27 °C पर 200 kPa के दाब तक फुलाया जाता है। चलाने के बाद, टायर के अंदर की हवा का तापमान 77 °C तक बढ़ जाता है। स्थिर आयतन मानते हुए, टायर के अंदर नया दाब क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "233.3 kPa",
+          "hi": "233.3 kPa"
+        },
+        "B": {
+          "en": "570.0 kPa",
+          "hi": "570.0 kPa"
+        },
+        "C": {
+          "en": "215.0 kPa",
+          "hi": "215.0 kPa"
+        },
+        "D": {
+          "en": "250.0 kPa",
+          "hi": "250.0 kPa"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q10",
+      "category": "Formula",
+      "question": {
+        "en": "How does the density (d) of a gas relate to its pressure (P) at constant temperature according to Boyle's law?",
+        "hi": "बॉयल के नियम के अनुसार स्थिर तापमान पर गैस का घनत्व (d) उसके दाब (P) से किस प्रकार संबंधित है?"
+      },
+      "options": {
+        "A": {
+          "en": "d ∝ P (density is directly proportional to pressure)",
+          "hi": "d ∝ P (घनत्व दाब के सीधे समानुपाती होता है)"
+        },
+        "B": {
+          "en": "d ∝ 1/P",
+          "hi": "d ∝ 1/P"
+        },
+        "C": {
+          "en": "d ∝ P²",
+          "hi": "d ∝ P²"
+        },
+        "D": {
+          "en": "d is independent of P",
+          "hi": "d दाब से स्वतंत्र होता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q11",
+      "category": "Formula",
+      "question": {
+        "en": "At constant temperature, if a graph of PV versus P is plotted for an ideal gas, the resulting graph is:",
+        "hi": "स्थिर तापमान पर, यदि किसी आदर्श गैस के लिए P के विरुद्ध PV का आलेख खींचा जाए, तो परिणामी आलेख कैसा होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "A horizontal straight line parallel to the pressure axis",
+          "hi": "दाब अक्ष के समानांतर एक क्षैतिज सीधी रेखा"
+        },
+        "B": {
+          "en": "A straight line passing through the origin with slope 1",
+          "hi": "ढाल 1 के साथ मूल बिंदु से गुजरने वाली सीधी रेखा"
+        },
+        "C": {
+          "en": "A rectangular hyperbola",
+          "hi": "एक आयताकार अतिपरवलय"
+        },
+        "D": {
+          "en": "An upwardly opening parabola",
+          "hi": "ऊपर की ओर खुलने वाला परवलय"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q12",
+      "category": "Formula",
+      "question": {
+        "en": "If a graph of P versus 1/V is plotted for a gas at three temperatures T₁, T₂, and T₃ (where T₃ > T₂ > T₁), which line will have the steepest slope?",
+        "hi": "यदि तीन तापमानों T₁, T₂ और T₃ (जहाँ T₃ > T₂ > T₁) पर गैस के लिए 1/V के विरुद्ध P का आलेख खींचा जाए, तो किस रेखा का ढाल (slope) सबसे अधिक होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "The line at temperature T₃",
+          "hi": "तापमान T₃ वाली रेखा का"
+        },
+        "B": {
+          "en": "The line at temperature T₁",
+          "hi": "तापमान T₁ वाली रेखा का"
+        },
+        "C": {
+          "en": "The line at temperature T₂",
+          "hi": "तापमान T₂ वाली रेखा का"
+        },
+        "D": {
+          "en": "All three lines have the exact same slope",
+          "hi": "तीनों रेखाओं का ढाल बिल्कुल समान होगा"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q13",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Examine the following table matching gas laws with their corresponding graphical curve names:\n| Gas Law | Constant Parameter | Graphical Curve Name |\n| :--- | :--- | :--- |\n| 1. Boyle's Law | Temperature (T) | P. Isobar |\n| 2. Charles' Law | Pressure (P) | Q. Isotherm |\n| 3. Gay-Lussac's Law | Volume (V) | R. Isochore |\nWhich matching is correct?",
+        "hi": "गैस नियमों और उनके आलेखीय वक्रों के नामों का मिलान करने वाली तालिका की जाँच करें:\n| गैस नियम | स्थिर पैरामीटर | आलेखीय वक्र का नाम |\n| :--- | :--- | :--- |\n| 1. बॉयल का नियम | तापमान (T) | P. समदाबी (Isobar) |\n| 2. चार्ल्स का नियम | दाब (P) | Q. समतापी (Isotherm) |\n| 3. गे-लुसाक का नियम | आयतन (V) | R. समआयतनिक (Isochore) |\nकौन सा मिलान सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "1-Q, 2-P, 3-R",
+          "hi": "1-Q, 2-P, 3-R"
+        },
+        "B": {
+          "en": "1-P, 2-Q, 3-R",
+          "hi": "1-P, 2-Q, 3-R"
+        },
+        "C": {
+          "en": "1-R, 2-P, 3-Q",
+          "hi": "1-R, 2-P, 3-Q"
+        },
+        "D": {
+          "en": "1-Q, 2-R, 3-P",
+          "hi": "1-Q, 2-R, 3-P"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q14",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "In a plot of Volume (V) versus temperature in Celsius (t in °C) at different constant pressures P₁, P₂, P₃ (where P₁ < P₂ < P₃), all straight lines extrapolate backwards to intersect the temperature axis at which point?",
+        "hi": "विभिन्न स्थिर दाबों P₁, P₂, P₃ (जहाँ P₁ < P₂ < P₃) पर सेल्सियस तापमान (t in °C) के विरुद्ध आयतन (V) के आलेख में, सभी सीधी रेखाएँ पीछे की ओर बढ़ाने पर तापमान अक्ष को किस बिंदु पर काटती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "-273.15 °C",
+          "hi": "-273.15 °C"
+        },
+        "B": {
+          "en": "0 °C",
+          "hi": "0 °C"
+        },
+        "C": {
+          "en": "100 °C",
+          "hi": "100 °C"
+        },
+        "D": {
+          "en": "-100 °C",
+          "hi": "-100 °C"
+        }
+      }
+    },
+    {
+      "id": "chem_ch05_mc02_q15",
+      "category": "Diagram/Table",
+      "question": {
+        "en": "Why does a hot air balloon rise in the atmosphere, according to Charles' Law?",
+        "hi": "चार्ल्स के नियम के अनुसार, गर्म हवा का गुब्बारा वायुमंडल में ऊपर क्यों उठता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Heating expands the air inside, decreasing its density below that of the surrounding cool air",
+          "hi": "गर्म करने पर अंदर की हवा फैलती है, जिससे इसका घनत्व आसपास की ठंडी हवा के घनत्व से कम हो जाता है"
+        },
+        "B": {
+          "en": "Heating converts air molecules into hydrogen gas",
+          "hi": "गर्म करने से हवा के अणु हाइड्रोजन गैस में परिवर्तित हो जाते हैं"
+        },
+        "C": {
+          "en": "The atmospheric pressure inside the balloon increases infinitely",
+          "hi": "गुब्बारे के अंदर वायुमंडलीय दाब अनंत रूप से बढ़ जाता है"
+        },
+        "D": {
+          "en": "The balloon experiences downward buoyant force",
+          "hi": "गुब्बारा नीचे की ओर उत्प्लावन बल का अनुभव करता है"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch08_mc01_q01",
+      "category": "Theory",
+      "question": {
+        "en": "According to the classical concept, oxidation is defined as:",
+        "hi": "प्राचीन (शास्त्रीय) संकल्पना के अनुसार, ऑक्सीकरण को किस प्रकार परिभाषित किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Addition of oxygen / electronegative element or removal of hydrogen / electropositive element",
+          "hi": "ऑक्सीजन / ऋणविद्युती तत्व का जुड़ना अथवा हाइड्रोजन / धनविद्युती तत्व का निष्कासन"
+        },
+        "B": {
+          "en": "Addition of hydrogen or electropositive element only",
+          "hi": "केवल हाइड्रोजन अथवा धनविद्युती तत्व का जुड़ना"
+        },
+        "C": {
+          "en": "Gain of electrons by a chemical species",
+          "hi": "किसी रासायनिक स्पीशीज द्वारा इलेक्ट्रॉन ग्रहण करना"
+        },
+        "D": {
+          "en": "Decrease in positive valency of an element",
+          "hi": "किसी तत्व की धनात्मक संयोजकता में कमी होना"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q02",
+      "category": "Theory",
+      "question": {
+        "en": "In terms of electronic concept, reduction of a species is defined as:",
+        "hi": "इलेक्ट्रॉनिक संकल्पना के आधार पर, किसी स्पीशीज का अपचयन क्या कहलाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gain of one or more electrons (decrease in oxidation state)",
+          "hi": "एक या अधिक इलेक्ट्रॉनों का ग्रहण करना (ऑक्सीकरण संख्या में कमी)"
+        },
+        "B": {
+          "en": "Loss of one or more electrons",
+          "hi": "एक या अधिक इलेक्ट्रॉनों का त्याग करना"
+        },
+        "C": {
+          "en": "Addition of an electronegative element",
+          "hi": "किसी ऋणविद्युती तत्व का जुड़ना"
+        },
+        "D": {
+          "en": "Removal of electrons into the surroundings",
+          "hi": "परिवेश में इलेक्ट्रॉनों का निष्कासन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q03",
+      "category": "Theory",
+      "question": {
+        "en": "A reducing agent (reductant) is a substance that:",
+        "hi": "एक अपचायक (Reductant) वह पदार्थ है जो:"
+      },
+      "options": {
+        "A": {
+          "en": "Loses electrons and undergoes oxidation itself",
+          "hi": "इलेक्ट्रॉनों का त्याग करता है और स्वयं ऑक्सीकृत होता है"
+        },
+        "B": {
+          "en": "Gains electrons and undergoes reduction itself",
+          "hi": "इलेक्ट्रॉन ग्रहण करता है और स्वयं अपचयित होता है"
+        },
+        "C": {
+          "en": "Acts as an electron acceptor only",
+          "hi": "केवल इलेक्ट्रॉन ग्राही के रूप में कार्य करता है"
+        },
+        "D": {
+          "en": "Prevents any electron transfer in the reaction",
+          "hi": "अभिक्रिया में किसी भी इलेक्ट्रॉन स्थानांतरण को रोकता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q04",
+      "category": "Theory",
+      "question": {
+        "en": "Why do oxidation and reduction always occur simultaneously in a chemical system?",
+        "hi": "किसी रासायनिक निकाय में ऑक्सीकरण और अपचयन सदैव एक साथ क्यों होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Electrons lost by the oxidized species must be immediately accepted by the reduced species (conservation of charge)",
+          "hi": "ऑक्सीकृत स्पीशीज द्वारा त्यागे गए इलेक्ट्रॉन तुरंत अपचयित स्पीशीज द्वारा ग्रहण किए जाते हैं (आवेश संरक्षण)"
+        },
+        "B": {
+          "en": "Protons cannot exist in aqueous media",
+          "hi": "प्रोटॉन जलीय माध्यम में उपस्थित नहीं रह सकते"
+        },
+        "C": {
+          "en": "Because mass is destroyed during electron exchange",
+          "hi": "क्योंकि इलेक्ट्रॉन विनिमय के दौरान द्रव्यमान नष्ट हो जाता है"
+        },
+        "D": {
+          "en": "Because reaction temperature must remain constant",
+          "hi": "क्योंकि अभिक्रिया का तापमान स्थिर रहना चाहिए"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q05",
+      "category": "Reaction",
+      "question": {
+        "en": "In the reaction: 2Na(s) + Cl2(g) -> 2NaCl(s), which element acts as the reducing agent?",
+        "hi": "अभिक्रिया: 2Na(s) + Cl2(g) -> 2NaCl(s) में कौन-सा तत्व अपचायक की भांति कार्य करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Sodium (Na), because each Na atom loses an electron: Na -> Na+ + e^-",
+          "hi": "सोडियम (Na), क्योंकि प्रत्येक Na परमाणु इलेक्ट्रॉन त्यागता है: Na -> Na+ + e^-"
+        },
+        "B": {
+          "en": "Chlorine (Cl2), because it gains electrons",
+          "hi": "क्लोरीन (Cl2), क्योंकि यह इलेक्ट्रॉन ग्रहण करता है"
+        },
+        "C": {
+          "en": "NaCl, because it is the product",
+          "hi": "NaCl, क्योंकि यह उत्पाद है"
+        },
+        "D": {
+          "en": "Neither, it is not a redox reaction",
+          "hi": "कोई नहीं, यह रेडॉक्स अभिक्रिया नहीं है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q06",
+      "category": "Reaction",
+      "question": {
+        "en": "In the reaction: CuO(s) + H2(g) -> Cu(s) + H2O(l), what are the oxidized and reduced substances respectively?",
+        "hi": "अभिक्रिया: CuO(s) + H2(g) -> Cu(s) + H2O(l) में क्रमशः ऑक्सीकृत और अपचयित होने वाले पदार्थ कौन-से हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "H2 is oxidized (gains oxygen), CuO is reduced (loses oxygen)",
+          "hi": "H2 ऑक्सीकृत होता है (ऑक्सीजन ग्रहण करता है), CuO अपचयित होता है (ऑक्सीजन त्यागता है)"
+        },
+        "B": {
+          "en": "CuO is oxidized, H2 is reduced",
+          "hi": "CuO ऑक्सीकृत होता है, H2 अपचयित होता है"
+        },
+        "C": {
+          "en": "Cu is oxidized, H2O is reduced",
+          "hi": "Cu ऑक्सीकृत होता है, H2O अपचयित होता है"
+        },
+        "D": {
+          "en": "Both H2 and CuO are oxidized",
+          "hi": "H2 और CuO दोनों ऑक्सीकृत होते हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q07",
+      "category": "Formula",
+      "question": {
+        "en": "When a zinc rod is placed into an aqueous solution of CuSO4, blue color fades and reddish copper deposits. The net ionic equation is:",
+        "hi": "जब जिंक की छड़ को CuSO4 के जलीय विलयन में रखा जाता है, तो नीला रंग गायब हो जाता है और लाल-भूरा कॉपर जमा हो जाता है। शुद्ध आयनिक समीकरण है:"
+      },
+      "options": {
+        "A": {
+          "en": "Zn(s) + Cu^2+(aq) -> Zn^2+(aq) + Cu(s)",
+          "hi": "Zn(s) + Cu^2+(aq) -> Zn^2+(aq) + Cu(s)"
+        },
+        "B": {
+          "en": "Zn^2+(aq) + Cu(s) -> Zn(s) + Cu^2+(aq)",
+          "hi": "Zn^2+(aq) + Cu(s) -> Zn(s) + Cu^2+(aq)"
+        },
+        "C": {
+          "en": "Zn(s) + SO4^2-(aq) -> ZnSO4(s) + 2e^-",
+          "hi": "Zn(s) + SO4^2-(aq) -> ZnSO4(s) + 2e^-"
+        },
+        "D": {
+          "en": "Cu^2+(aq) + 2e^- -> Cu(s) only",
+          "hi": "केवल Cu^2+(aq) + 2e^- -> Cu(s)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q08",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following competitive electron transfer reactions will NOT proceed spontaneously?",
+        "hi": "निम्नलिखित में से कौन-सी प्रतिस्पर्धी इलेक्ट्रॉन स्थानांतरण अभिक्रिया स्वतः प्रवर्धित नहीं होगी?"
+      },
+      "options": {
+        "A": {
+          "en": "Cu(s) + 2Ag+(aq) -> Cu^2+(aq) + 2Ag(s) (Proceeds spontaneously)",
+          "hi": "Cu(s) + 2Ag+(aq) -> Cu^2+(aq) + 2Ag(s) (स्वतः होती है)"
+        },
+        "B": {
+          "en": "Cu(s) + Zn^2+(aq) -> Cu^2+(aq) + Zn(s)",
+          "hi": "Cu(s) + Zn^2+(aq) -> Cu^2+(aq) + Zn(s)"
+        },
+        "C": {
+          "en": "Zn(s) + 2H+(aq) -> Zn^2+(aq) + H2(g)",
+          "hi": "Zn(s) + 2H+(aq) -> Zn^2+(aq) + H2(g)"
+        },
+        "D": {
+          "en": "Mg(s) + Fe^2+(aq) -> Mg^2+(aq) + Fe(s)",
+          "hi": "Mg(s) + Fe^2+(aq) -> Mg^2+(aq) + Fe(s)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q09",
+      "category": "Diagram",
+      "question": {
+        "en": "The schematic diagram shows electron transfer in a competitive reaction:\nZn(s)  === lose 2e- ===>  Zn^2+(aq)\n  |                          ^\n  +====== 2e- transfer =====+\n  |                          |\nCu^2+(aq)  === gain 2e- ===>  Cu(s)\nWhat are the oxidation half-reaction and reduction half-reaction respectively?",
+        "hi": "प्रतिस्पर्धी अभिक्रिया में इलेक्ट्रॉन स्थानांतरण का रेखाचित्र देखिए:\nZn(s)  === 2e- त्याग ===>  Zn^2+(aq)\n  |                          ^\n  +====== 2e- स्थानांतरण ===+\n  |                          |\nCu^2+(aq)  === 2e- ग्रहण ===>  Cu(s)\nऑक्सीकरण अर्ध-अभिक्रिया तथा अपचयन अर्ध-अभिक्रिया क्रमशः क्या हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Oxidation: Zn -> Zn^2+ + 2e^- ; Reduction: Cu^2+ + 2e^- -> Cu",
+          "hi": "ऑक्सीकरण: Zn -> Zn^2+ + 2e^- ; अपचयन: Cu^2+ + 2e^- -> Cu"
+        },
+        "B": {
+          "en": "Oxidation: Cu^2+ + 2e^- -> Cu ; Reduction: Zn -> Zn^2+ + 2e^-",
+          "hi": "ऑक्सीकरण: Cu^2+ + 2e^- -> Cu ; अपचयन: Zn -> Zn^2+ + 2e^-"
+        },
+        "C": {
+          "en": "Both are oxidation reactions",
+          "hi": "दोनों ऑक्सीकरण अभिक्रियाएं हैं"
+        },
+        "D": {
+          "en": "Both are reduction reactions",
+          "hi": "दोनों अपचयन अभिक्रियाएं हैं"
+        }
+      }
+    },
+    {
+      "id": "chem_ch08_mc01_q10",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table comparing oxidizing and reducing agents:\n| Feature | Oxidizing Agent (Oxidant) | Reducing Agent (Reductant) |\n|---|---|---|\n| Electron action | Accepts electrons | Donates electrons |\n| Own oxidation state | Decreases | Increases |\n| In reaction: 2Fe^3+ + Sn^2+ -> 2Fe^2+ + Sn^4+ | X | Y |\nIdentify X and Y:",
+        "hi": "ऑक्सीकारक तथा अपचायक की तुलना करने वाली तालिका का अवलोकन कीजिए:\n| लक्षण | ऑक्सीकारक | अपचायक |\n|---|---|---|\n| इलेक्ट्रॉन क्रिया | इलेक्ट्रॉन ग्राही | इलेक्ट्रॉन दाता |\n| स्वयं की ऑक्सीकरण संख्या | घटती है | बढ़ती है |\n| अभिक्रिया: 2Fe^3+ + Sn^2+ -> 2Fe^2+ + Sn^4+ | X | Y |\nX तथा Y को पहचानिए:"
+      },
+      "options": {
+        "A": {
+          "en": "X = Fe^3+, Y = Sn^2+",
+          "hi": "X = Fe^3+, Y = Sn^2+"
+        },
+        "B": {
+          "en": "X = Sn^2+, Y = Fe^3+",
+          "hi": "X = Sn^2+, Y = Fe^3+"
+        },
+        "C": {
+          "en": "X = Fe^2+, Y = Sn^4+",
+          "hi": "X = Fe^2+, Y = Sn^4+"
+        },
+        "D": {
+          "en": "X = Sn^4+, Y = Fe^2+",
+          "hi": "X = Sn^4+, Y = Fe^2+"
+        }
+      }
+    }
+  ]
+}

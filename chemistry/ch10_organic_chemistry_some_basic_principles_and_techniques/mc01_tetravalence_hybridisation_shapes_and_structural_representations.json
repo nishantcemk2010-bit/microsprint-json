@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": "chem_ch10_mc01_q01",
+      "category": "Theory",
+      "question": {
+        "en": "Why does carbon uniquely exhibit tetravalency and form millions of organic compounds?",
+        "hi": "कार्बन विशिष्ट रूप से चतुःसंयोजकता क्यों प्रदर्शित करता है और लाखों कार्बनिक यौगिक बनाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Due to its small atomic size, ability to form stable C-C covalent bonds (catenation), and tetravalency achieved by promoting a 2s electron to the 2pz orbital",
+          "hi": "इसके छोटे परमाणु आकार, स्थिर C-C सहसंयोजक बंध बनाने की क्षमता (श्रृंखलन/Catenation), तथा 2s इलेक्ट्रॉन को 2pz कक्षक में प्रोन्नत कर चतुःसंयोजकता प्राप्त करने के कारण"
+        },
+        "B": {
+          "en": "Because it has 6 valence electrons and forms hexavalent bonds",
+          "hi": "क्योंकि इसमें 6 संयोजी इलेक्ट्रॉन होते हैं और यह षट्-संयोजक बंध बनाता है"
+        },
+        "C": {
+          "en": "Because carbon is an alkali metal",
+          "hi": "क्योंकि कार्बन एक क्षार धातु है"
+        },
+        "D": {
+          "en": "Due to spontaneous radioactive decay of carbon-12",
+          "hi": "कार्बन-12 के स्वतः रेडियोधर्मी क्षय के कारण"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q02",
+      "category": "Theory",
+      "question": {
+        "en": "What are the shapes and bond angles associated with sp3, sp2, and sp hybridised carbon atoms respectively?",
+        "hi": "sp3, sp2 तथा sp संकरित कार्बन परमाणुओं से संबंधित आकृतियां तथा बंध कोण क्रमशः क्या होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Tetrahedral (109.5°), Trigonal planar (120°), and Linear (180°)",
+          "hi": "चतुष्फलकीय (109.5°), त्रिकोणीय समतलीय (120°), तथा रेखीय (180°)"
+        },
+        "B": {
+          "en": "Octahedral (90°), Square planar (90°), and Pyramidal (107°)",
+          "hi": "अष्टफलकीय (90°), वर्गाकार समतलीय (90°), तथा पिरामिडीय (107°)"
+        },
+        "C": {
+          "en": "Linear (180°), Tetrahedral (109.5°), and Bent (104.5°)",
+          "hi": "रेखीय (180°), चतुष्फलकीय (109.5°), तथा कोणीय (104.5°)"
+        },
+        "D": {
+          "en": "Trigonal bipyramidal (90°/120°), Linear (180°), and Tetrahedral (109.5°)",
+          "hi": "त्रिकोणीय द्विपिरामिडीय (90°/120°), रेखीय (180°), तथा चतुष्फलकीय (109.5°)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q03",
+      "category": "Theory",
+      "question": {
+        "en": "How does the electronegativity and s-character of a hybrid orbital vary from sp3 to sp hybridised carbon?",
+        "hi": "sp3 से sp संकरित कार्बन की ओर जाने पर संकर कक्षक के s-लक्षण तथा ऋणविद्युतता में क्या परिवर्तन होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "s-character increases (25% -> 33.3% -> 50%) and electronegativity increases (sp > sp2 > sp3)",
+          "hi": "s-लक्षण बढ़ता है (25% -> 33.3% -> 50%) तथा ऋणविद्युतता बढ़ती है (sp > sp2 > sp3)"
+        },
+        "B": {
+          "en": "s-character decreases and electronegativity decreases",
+          "hi": "s-लक्षण घटता है तथा ऋणविद्युतता घटती है"
+        },
+        "C": {
+          "en": "s-character remains constant at 50%",
+          "hi": "s-लक्षण 50% पर स्थिर रहता है"
+        },
+        "D": {
+          "en": "sp3 is the most electronegative hybrid state",
+          "hi": "sp3 सर्वाधिक ऋणविद्युती संकर अवस्था है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch09_mc01_q04",
+      "category": "Theory",
+      "question": {
+        "en": "In a 3D wedge-and-dash structural representation of a molecule on paper, what do the solid wedge and hashed/dashed wedge represent?",
+        "hi": "कागज पर अणु के त्रिविम वेज-डैश (Wedge-and-dash) निरूपण में ठोस वेज तथा डैश वेज क्या प्रदर्शित करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Solid wedge indicates a bond projecting out of the plane towards the viewer; dashed wedge indicates a bond projecting behind the plane away from the viewer",
+          "hi": "ठोस वेज तल से बाहर दर्शक की ओर आते हुए बंध को दर्शाता है; डैश वेज तल के पीछे दर्शक से दूर जाते हुए बंध को दर्शाता है"
+        },
+        "B": {
+          "en": "Solid wedge indicates ionic bond; dashed wedge indicates hydrogen bond",
+          "hi": "ठोस वेज आयनिक बंध तथा डैश वेज हाइड्रोजन बंध दर्शाता है"
+        },
+        "C": {
+          "en": "Both represent bonds strictly lying within the paper plane",
+          "hi": "दोनों कागज के तल में स्थित बंध दर्शाते हैं"
+        },
+        "D": {
+          "en": "Solid wedge indicates a triple bond; dashed wedge indicates single bond",
+          "hi": "ठोस वेज त्रिबंध तथा डैश वेज एकल बंध दर्शाता है"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q05",
+      "category": "Formula",
+      "question": {
+        "en": "What are the hybridisation states of each carbon in propadiene (allene, H2C=C=CH2) from left to right?",
+        "hi": "प्रोपडाइईन (एलीन, H2C=C=CH2) में बाएं से दाएं प्रत्येक कार्बन परमाणु की संकरण अवस्था क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "sp2, sp, sp2",
+          "hi": "sp2, sp, sp2"
+        },
+        "B": {
+          "en": "sp2, sp2, sp2",
+          "hi": "sp2, sp2, sp2"
+        },
+        "C": {
+          "en": "sp3, sp, sp3",
+          "hi": "sp3, sp, sp3"
+        },
+        "D": {
+          "en": "sp, sp2, sp",
+          "hi": "sp, sp2, sp"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q06",
+      "category": "Formula",
+      "question": {
+        "en": "How many sigma (σ) and pi (π) bonds are present in a molecule of vinylacetylene (HC≡C-CH=CH2)?",
+        "hi": "वाइनिलएसिटिलीन (HC≡C-CH=CH2) के एक अणु में कुल कितने सिग्मा (σ) तथा पाई (π) बंध उपस्थित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "7 σ bonds and 3 π bonds",
+          "hi": "7 σ बंध तथा 3 π बंध"
+        },
+        "B": {
+          "en": "6 σ bonds and 2 π bonds",
+          "hi": "6 σ बंध तथा 2 π बंध"
+        },
+        "C": {
+          "en": "8 σ bonds and 3 π bonds",
+          "hi": "8 σ बंध तथा 3 π बंध"
+        },
+        "D": {
+          "en": "7 σ bonds and 2 π bonds",
+          "hi": "7 σ बंध तथा 2 π बंध"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q07",
+      "category": "Trend",
+      "question": {
+        "en": "What is the correct order of C-H bond length in ethane (C2H6), ethene (C2H4), and ethyne (C2H2)?",
+        "hi": "एथेन (C2H6), एथीन (C2H4) तथा एथाइन (C2H2) में C-H बंध लंबाई का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethane (sp3) > Ethene (sp2) > Ethyne (sp)",
+          "hi": "एथेन (sp3) > एथीन (sp2) > एथाइन (sp)"
+        },
+        "B": {
+          "en": "Ethyne (sp) > Ethene (sp2) > Ethane (sp3)",
+          "hi": "एथाइन (sp) > एथीन (sp2) > एथेन (sp3)"
+        },
+        "C": {
+          "en": "Ethene > Ethane > Ethyne",
+          "hi": "एथीन > एथेन > एथाइन"
+        },
+        "D": {
+          "en": "Ethane = Ethene = Ethyne",
+          "hi": "एथेन = एथीन = एथाइन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q08",
+      "category": "Trend",
+      "question": {
+        "en": "Which of the following hydrocarbons possesses the MOST acidic hydrogen atom?",
+        "hi": "निम्नलिखित हाइड्रोकार्बनों में से किसमें सर्वाधिक अम्लीय हाइड्रोजन परमाणु उपस्थित है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethyne (HC≡CH, sp carbon with 50% s-character)",
+          "hi": "एथाइन (HC≡CH, 50% s-लक्षण वाला sp कार्बन)"
+        },
+        "B": {
+          "en": "Ethene (H2C=CH2, sp2 carbon)",
+          "hi": "एथीन (H2C=CH2, sp2 कार्बन)"
+        },
+        "C": {
+          "en": "Ethane (H3C-CH3, sp3 carbon)",
+          "hi": "एथेन (H3C-CH3, sp3 कार्बन)"
+        },
+        "D": {
+          "en": "Benzene (C6H6)",
+          "hi": "बेंजीन (C6H6)"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q09",
+      "category": "Diagram",
+      "question": {
+        "en": "The bond-line structural formula of an organic molecule is drawn as a zigzag line:\n     /\\  /\\\n    /  \\/  \\_OH\nHow many carbon and hydrogen atoms are present in this structure (hexan-1-ol)?",
+        "hi": "जिग-जैग बंध-रेखा सूत्र में 6 कार्बन परमाणुओं की एक श्रृंखला के सिरे पर -OH समूह लगा है (हेक्सेन-1-ऑल)। इसमें कुल कितने कार्बन और हाइड्रोजन परमाणु उपस्थित हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "6 Carbons, 14 Hydrogens (Formula: C6H14O)",
+          "hi": "6 कार्बन, 14 हाइड्रोजन (सूत्र: C6H14O)"
+        },
+        "B": {
+          "en": "6 Carbons, 12 Hydrogens",
+          "hi": "6 कार्बन, 12 हाइड्रोजन"
+        },
+        "C": {
+          "en": "5 Carbons, 11 Hydrogens",
+          "hi": "5 कार्बन, 11 हाइड्रोजन"
+        },
+        "D": {
+          "en": "7 Carbons, 16 Hydrogens",
+          "hi": "7 कार्बन, 16 हाइड्रोजन"
+        }
+      }
+    },
+    {
+      "id": "chem_ch10_mc01_q10",
+      "category": "Table",
+      "question": {
+        "en": "Examine the following table comparing the three hybridisation states of carbon:\n| Hybridisation | s-character | p-character | Geometry | C-C Bond length |\n|---|---|---|---|---|\n| sp3 | 25% | 75% | Tetrahedral | 154 pm |\n| sp2 | 33.3% | 66.7% | Trigonal planar | 134 pm |\n| sp | 50% | 50% | Linear | X |\nWhat is the C≡C triple bond length X in an alkyne (sp carbon)?",
+        "hi": "कार्बन की संकरण अवस्थाओं की तुलनात्मक तालिका का अवलोकन कीजिए:\nएल्काइन में C≡C त्रिबंध की लंबाई X क्या होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "120 pm",
+          "hi": "120 pm"
+        },
+        "B": {
+          "en": "154 pm",
+          "hi": "154 pm"
+        },
+        "C": {
+          "en": "134 pm",
+          "hi": "134 pm"
+        },
+        "D": {
+          "en": "145 pm",
+          "hi": "145 pm"
+        }
+      }
+    }
+  ]
+}
