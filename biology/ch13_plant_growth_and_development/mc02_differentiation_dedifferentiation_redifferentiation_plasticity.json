@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch13_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "The process by which meristematic cells undergo structural and functional changes to become mature and specialized cells is called:",
+        "hi": "वह प्रक्रिया जिसके द्वारा विभज्योतकी कोशिकाएं परिपक्व और विशिष्ट कोशिकाएं बनने के लिए संरचनात्मक और कार्यात्मक परिवर्तनों से गुजरती हैं, क्या कहलाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Differentiation",
+          "hi": "विभेदन (Differentiation)"
+        },
+        "B": {
+          "en": "Dedifferentiation",
+          "hi": "निर्वभेदन (Dedifferentiation)"
+        },
+        "C": {
+          "en": "Redifferentiation",
+          "hi": "पुनर्विभेदन (Redifferentiation)"
+        },
+        "D": {
+          "en": "Senescence",
+          "hi": "जीर्णता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "Living differentiated parenchyma cells, that have lost the capacity to divide, can regain the power of division under certain conditions. This phenomenon is called:",
+        "hi": "जीवित विभेदित मृदूतक कोशिकाएं, जिन्होंने विभाजन की क्षमता खो दी है, कुछ परिस्थितियों में पुनः विभाजन की क्षमता प्राप्त कर सकती हैं। इस परिघटना को क्या कहते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Dedifferentiation (e.g., formation of interfascicular cambium and cork cambium)",
+          "hi": "निर्वभेदन / Dedifferentiation (उदा. अंतरापुलिकीय कैम्बियम और कॉर्क कैम्बियम का बनना)"
+        },
+        "B": {
+          "en": "Differentiation",
+          "hi": "विभेदन"
+        },
+        "C": {
+          "en": "Redifferentiation",
+          "hi": "पुनर्विभेदन"
+        },
+        "D": {
+          "en": "Plasticity",
+          "hi": "सुघट्यता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "When cells produced by dedifferentiated meristems (like secondary xylem and cork) lose the capacity to divide once again and mature to perform specific functions, it is called:",
+        "hi": "जब निर्विभेदित विभज्योतकों द्वारा निर्मित कोशिकाएं (जैसे द्वितीयक जाइलम और कॉर्क) एक बार फिर विभाजन की क्षमता खो देती हैं और विशिष्ट कार्यों के लिए परिपक्व होती हैं, तो इसे क्या कहते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Redifferentiation",
+          "hi": "पुनर्विभेदन (Redifferentiation)"
+        },
+        "B": {
+          "en": "Dedifferentiation",
+          "hi": "निर्वभेदन"
+        },
+        "C": {
+          "en": "Primary differentiation",
+          "hi": "प्राथमिक विभेदन"
+        },
+        "D": {
+          "en": "Totipotency",
+          "hi": "पूर्णशक्तता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "Plants follow different pathways in response to environment or phases of life to form different kinds of structures. This ability is called:",
+        "hi": "पौधे पर्यावरण या जीवन के विभिन्न चरणों के प्रति अनुक्रिया के रूप में विभिन्न प्रकार की संरचनाएं बनाने के लिए विभिन्न पथों का अनुसरण करते हैं। इस क्षमता को क्या कहते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Plasticity",
+          "hi": "सुघट्यता / प्लास्टिसिटी (Plasticity)"
+        },
+        "B": {
+          "en": "Dormancy",
+          "hi": "प्रसुप्ति"
+        },
+        "C": {
+          "en": "Vernalisation",
+          "hi": "वसंतीकरण"
+        },
+        "D": {
+          "en": "Senescence",
+          "hi": "जीर्णता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "In cotton, coriander, and larkspur, the leaves of the juvenile plant are different in shape from those in mature plants. This is an example of:",
+        "hi": "कपास, धनिया और लार्कस्पर में किशोर पौधे की पत्तियां परिपक्व पौधे की पत्तियों से आकार में भिन्न होती हैं। यह किसका उदाहरण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Developmental heterophylly due to phases of life",
+          "hi": "जीवन के चरणों के कारण विकासीय विषमपर्णता (Developmental heterophylly)"
+        },
+        "B": {
+          "en": "Environmental heterophylly",
+          "hi": "पर्यावरणीय विषमपर्णता"
+        },
+        "C": {
+          "en": "Dedifferentiation",
+          "hi": "निर्वभेदन"
+        },
+        "D": {
+          "en": "Vernalisation",
+          "hi": "वसंतीकरण"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "In buttercup (Ranunculus), leaves produced in air are broad and lobed, while leaves produced in water are highly dissected and filamentous. This is an example of:",
+        "hi": "बटरकप (Ranunculus) में हवा में पैदा होने वाली पत्तियां चौड़ी और पालियुक्त होती हैं, जबकि जल में डूबी पत्तियां अत्यधिक कटी-फटी और पतली होती हैं। यह किसका उदाहरण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Environmental heterophylly (plasticity due to environment)",
+          "hi": "पर्यावरणीय विषमपर्णता / Environmental heterophylly"
+        },
+        "B": {
+          "en": "Developmental heterophylly",
+          "hi": "विकासीय विषमपर्णता"
+        },
+        "C": {
+          "en": "Photoperiodism",
+          "hi": "दीप्तिकालिता"
+        },
+        "D": {
+          "en": "Apical dominance",
+          "hi": "शीर्षस्थ प्रभाविता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "Development in plants is the sum total of which two processes?",
+        "hi": "पौधों में परिवर्धन (Development) किन दो प्रक्रियाओं का कुल योग है?"
+      },
+      "options": {
+        "A": {
+          "en": "Growth and Differentiation",
+          "hi": "वृद्धि और विभेदन (Growth and Differentiation)"
+        },
+        "B": {
+          "en": "Cell division and Dedifferentiation",
+          "hi": "कोशिका विभाजन और निर्वभेदन"
+        },
+        "C": {
+          "en": "Respiration and Photosynthesis",
+          "hi": "श्वसन और प्रकाश-संश्लेषण"
+        },
+        "D": {
+          "en": "Senescence and Death",
+          "hi": "जीर्णता और मृत्यु"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following is an example of dedifferentiation in plants?",
+        "hi": "पौधों में निर्विभेदन (Dedifferentiation) का निम्नलिखित में से कौन-सा उदाहरण है?"
+      },
+      "options": {
+        "A": {
+          "en": "Formation of interfascicular cambium from medullary ray parenchyma",
+          "hi": "मज्जा किरण मृदूतक से अंतरापुलिकीय कैम्बियम का निर्माण"
+        },
+        "B": {
+          "en": "Formation of tracheary elements from apical meristem",
+          "hi": "शीर्षस्थ विभज्योतक से वाहिका तत्वों का निर्माण"
+        },
+        "C": {
+          "en": "Formation of secondary xylem from vascular cambium",
+          "hi": "संवहन कैम्बियम से द्वितीयक जाइलम का निर्माण"
+        },
+        "D": {
+          "en": "Formation of epidermis from protoderm",
+          "hi": "प्रोटोडर्म से बाह्यत्वचा का निर्माण"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following tissues is a product of redifferentiation?",
+        "hi": "निम्नलिखित में से कौन-सा ऊतक पुनर्विभेदन (Redifferentiation) का उत्पाद है?"
+      },
+      "options": {
+        "A": {
+          "en": "Secondary cortex (phelloderm) and cork (phellem)",
+          "hi": "द्वितीयक वल्कुट (फेलोडर्म) और कॉर्क (फेलम)"
+        },
+        "B": {
+          "en": "Phellogen (cork cambium)",
+          "hi": "फेलोजन (कॉर्क कैम्बियम)"
+        },
+        "C": {
+          "en": "Interfascicular cambium",
+          "hi": "अंतरापुलिकीय कैम्बियम"
+        },
+        "D": {
+          "en": "Apical meristem",
+          "hi": "शीर्षस्थ विभज्योतक"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "During tracheary element differentiation, what major structural change occurs in the cells to facilitate efficient water transport under high tension?",
+        "hi": "वाहिका तत्व विभेदन के दौरान, उच्च तनाव में कुशल जल परिवहन को सुगम बनाने के लिए कोशिकाओं में क्या प्रमुख संरचनात्मक परिवर्तन होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Loss of protoplasm and development of strong, lignocellulosic secondary cell walls",
+          "hi": "जीवद्रव्य का लोप और मजबूत, लिग्नोसेल्युलोजिक द्वितीयक कोशिका भित्तियों का विकास"
+        },
+        "B": {
+          "en": "Multiplication of chloroplasts and mitochondria",
+          "hi": "क्लोरोप्लास्ट और माइटोकॉन्ड्रिया का गुणन"
+        },
+        "C": {
+          "en": "Development of dense cytoplasm and large nuclei",
+          "hi": "घने जीवद्रव्य और बड़े केंद्रक का विकास"
+        },
+        "D": {
+          "en": "Thinning of primary cell walls without any lignin",
+          "hi": "बिना किसी लिग्निन के प्राथमिक भित्ति का पतला होना"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "The sequence of developmental stages in a plant cell from meristem to death is:",
+        "hi": "विभज्योतक से मृत्यु तक एक पादप कोशिका में विकासात्मक चरणों का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cell division → Plasmatic growth → Cell elongation → Maturation → Senescence → Death",
+          "hi": "कोशिका विभाजन → जीवद्रव्यी वृद्धि → कोशिका दीर्घीकरण → परिपक्वन → जीर्णता → मृत्यु"
+        },
+        "B": {
+          "en": "Cell division → Senescence → Maturation → Death",
+          "hi": "कोशिका विभाजन → जीर्णता → परिपक्वन → मृत्यु"
+        },
+        "C": {
+          "en": "Maturation → Cell division → Elongation → Death",
+          "hi": "परिपक्वन → कोशिका विभाजन → दीर्घीकरण → मृत्यु"
+        },
+        "D": {
+          "en": "Plasmatic growth → Differentiation → Cell division → Death",
+          "hi": "जीवद्रव्यी वृद्धि → विभेदन → कोशिका विभाजन → मृत्यु"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "Why is differentiation in plants said to be 'open'?",
+        "hi": "पादपों में विभेदन को 'खुला' (open) क्यों कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Because cells/tissues arising out of the same meristem have different structures at maturity depending on location",
+          "hi": "क्योंकि एक ही विभज्योतक से उत्पन्न कोशिकाएं/ऊतक स्थिति के आधार पर परिपक्वता पर विभिन्न संरचनाएं ग्रहण करते हैं"
+        },
+        "B": {
+          "en": "Because plant cells have no cell wall",
+          "hi": "क्योंकि पादप कोशिकाओं में कोशिका भित्ति नहीं होती"
+        },
+        "C": {
+          "en": "Because plant cells cannot undergo dedifferentiation",
+          "hi": "क्योंकि पादप कोशिकाएं निर्विभेदन नहीं कर सकतीं"
+        },
+        "D": {
+          "en": "Because differentiation is always irreversible",
+          "hi": "क्योंकि विभेदन सदैव अपरिवर्तनीय होता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the process in Column I with its appropriate example in Column II:\n| Column I (Process) | Column II (Example) |\n| :--- | :--- |\n| P. Differentiation | 1. Formation of tracheary elements from cambium |\n| Q. Dedifferentiation | 2. Formation of cork cambium from parenchyma |\n| R. Redifferentiation | 3. Formation of secondary cortex from cork cambium |\nSelect the correct combination:",
+        "hi": "स्तंभ I की प्रक्रिया को स्तंभ II के उपयुक्त उदाहरण के साथ सुमेलित कीजिए:\n| स्तंभ I (प्रक्रिया) | स्तंभ II (उदाहरण) |\n| :--- | :--- |\n| P. विभेदन | 1. कैम्बियम से वाहिका तत्वों का बनना |\n| Q. निर्वभेदन | 2. मृदूतक से कॉर्क कैम्बियम का बनना |\n| R. पुनर्विभेदन | 3. कॉर्क कैम्बियम से द्वितीयक वल्कुट का बनना |\nसही संयोजन का चयन कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P-1, Q-2, R-3",
+          "hi": "P-1, Q-2, R-3"
+        },
+        "B": {
+          "en": "P-2, Q-1, R-3",
+          "hi": "P-2, Q-1, R-3"
+        },
+        "C": {
+          "en": "P-3, Q-2, R-1",
+          "hi": "P-3, Q-2, R-1"
+        },
+        "D": {
+          "en": "P-1, Q-3, R-2",
+          "hi": "P-1, Q-3, R-2"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the plant showing heterophylly with the type of plasticity involved:\n| Column I (Plant) | Column II (Type of Heterophylly) |\n| :--- | :--- |\n| P. Larkspur / Coriander | 1. Environmental heterophylly (terrestrial vs water) |\n| Q. Buttercup (Ranunculus) | 2. Developmental heterophylly (juvenile vs adult) |\nCorrect code:",
+        "hi": "विषमपर्णता प्रदर्शित करने वाले पौधे को संबंधित सुघट्यता के प्रकार से सुमेलित कीजिए:\n| स्तंभ I (पौधा) | स्तंभ II (विषमपर्णता का प्रकार) |\n| :--- | :--- |\n| P. लार्कस्पर / धनिया | 1. पर्यावरणीय विषमपर्णता (स्थलीय बनाम जलीय) |\n| Q. बटरकप (Ranunculus) | 2. विकासीय विषमपर्णता (किशोर बनाम वयस्क) |\nसही कोड:"
+      },
+      "options": {
+        "A": {
+          "en": "P-2, Q-1",
+          "hi": "P-2, Q-1"
+        },
+        "B": {
+          "en": "P-1, Q-2",
+          "hi": "P-1, Q-2"
+        },
+        "C": {
+          "en": "Both are Environmental",
+          "hi": "दोनों पर्यावरणीय हैं"
+        },
+        "D": {
+          "en": "Both are Developmental",
+          "hi": "दोनों विकासीय हैं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following diagrammatic statements about plant growth:\nStatement A: Interfascicular cambium is formed by dedifferentiation of medullary ray cells.\nStatement B: Cork cambium is formed by dedifferentiation of cortical cells.\nStatement C: Both interfascicular cambium and cork cambium are secondary lateral meristems.\nWhich statements are correct?",
+        "hi": "पादप वृद्धि के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nकथन A: अंतरापुलिकीय कैम्बियम मज्जा किरण कोशिकाओं के निर्विभेदन से बनता है।\nकथन B: कॉर्क कैम्बियम वल्कुट कोशिकाओं के निर्विभेदन से बनता है।\nकथन C: अंतरापुलिकीय कैम्बियम और कॉर्क कैम्बियम दोनों द्वितीयक पार्श्वीय विभज्योतक हैं।\nकौन-से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Statements A, B, and C are all correct",
+          "hi": "कथन A, B और C तीनों सही हैं"
+        },
+        "B": {
+          "en": "Only A and B are correct",
+          "hi": "केवल A और B सही हैं"
+        },
+        "C": {
+          "en": "Only A and C are correct",
+          "hi": "केवल A और C सही हैं"
+        },
+        "D": {
+          "en": "Only B is correct",
+          "hi": "केवल B सही है"
+        }
+      }
+    }
+  ]
+}

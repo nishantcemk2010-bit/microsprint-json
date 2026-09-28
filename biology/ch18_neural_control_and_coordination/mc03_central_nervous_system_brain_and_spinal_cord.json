@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch18_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "The human brain is protected inside the cranium by three connective tissue cranial meninges. From outermost to innermost, their correct sequence is:",
+        "hi": "मानव मस्तिष्क कपाल के भीतर तीन संयोजी ऊतक कपालीय तानिकाओं (cranial meninges) द्वारा सुरक्षित होता है। सबसे बाहरी से सबसे भीतरी परत का सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Duramater -> Arachnoid mater -> Piamater",
+          "hi": "दृढ़तानिका (ड्यूरामेटर) -> जालतानिका (एरेकनॉइड) -> मृदुतानिका (पायामीटर)"
+        },
+        "B": {
+          "en": "Piamater -> Arachnoid mater -> Duramater",
+          "hi": "मृदुतानिका (पायामीटर) -> जालतानिका (एरेकनॉइड) -> दृढ़तानिका (ड्यूरामेटर)"
+        },
+        "C": {
+          "en": "Arachnoid mater -> Duramater -> Piamater",
+          "hi": "जालतानिका (एरेकनॉइड) -> दृढ़तानिका (ड्यूरामेटर) -> मृदुतानिका (पायामीटर)"
+        },
+        "D": {
+          "en": "Duramater -> Piamater -> Arachnoid mater",
+          "hi": "दृढ़तानिका (ड्यूरामेटर) -> मृदुतानिका (पायामीटर) -> जालतानिका (एरेकनॉइड)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "In the human brain, the two cerebral hemispheres are structurally interconnected by a large, arched transverse tract of myelinated nerve fibres known as the:",
+        "hi": "मानव मस्तिष्क में, दोनों प्रमस्तिष्क गोलार्द्ध (cerebral hemispheres) संरचनात्मक रूप से मज्जाकृत तंत्रिका तंतुओं के एक बड़े अनुप्रस्थ ट्रैक्ट द्वारा आपस में जुड़े होते हैं, जिसे क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Corpora quadrigemina",
+          "hi": "कॉरपोरा क्वाड्रिजेमिना (Corpora quadrigemina)"
+        },
+        "B": {
+          "en": "Corpus callosum",
+          "hi": "कॉर्पस कैलोसम (Corpus callosum)"
+        },
+        "C": {
+          "en": "Cerebral aqueduct",
+          "hi": "सेरेब्रल एक्वाडक्ट (Cerebral aqueduct)"
+        },
+        "D": {
+          "en": "Crura cerebri",
+          "hi": "क्रूरा सेरेब्री (Crura cerebri)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "The cerebral cortex contains prominent regions that are neither clearly sensory nor clearly motor in function. These regions are called:",
+        "hi": "प्रमस्तिष्क वल्कुट (Cerebral cortex) में ऐसे प्रमुख क्षेत्र होते हैं जो स्पष्ट रूप से न तो संवेदी होते हैं और न ही प्रेरक। इन क्षेत्रों को क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Basal nuclei",
+          "hi": "आधारी केंद्रक (बेसल न्यूक्लिआई)"
+        },
+        "B": {
+          "en": "Colliculi",
+          "hi": "कोलिक्युली"
+        },
+        "C": {
+          "en": "Association areas",
+          "hi": "सहभागिता क्षेत्र (Association areas)"
+        },
+        "D": {
+          "en": "Arbor vitae",
+          "hi": "आर्बर विटे"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following vital physiological functions is NOT directly regulated by the hypothalamus?",
+        "hi": "निम्नलिखित में से कौन सा महत्वपूर्ण शारीरिक कार्य हाइपोथैलेमस द्वारा सीधे नियंत्रित नहीं होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Thermoregulation (maintenance of constant body temperature)",
+          "hi": "ताप नियमन (शरीर का स्थिर तापमान बनाए रखना)"
+        },
+        "B": {
+          "en": "Control of urge for eating (hunger) and drinking (thirst)",
+          "hi": "खाने (भूख) और पीने (प्यास) की इच्छा का नियंत्रण"
+        },
+        "C": {
+          "en": "Secretion of neurohormones regulating the pituitary gland",
+          "hi": "पीयूष ग्रंथि को नियंत्रित करने वाले न्यूरोहॉर्मोन का स्राव"
+        },
+        "D": {
+          "en": "Coordination of voluntary muscular movements and body posture",
+          "hi": "ऐच्छिक पेशीय गतिविधियों और शारीरिक मुद्रा का समन्वय"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q05",
+      "category": "theory",
+      "question": {
+        "en": "The limbic system (limbic lobe), often referred to as the 'emotional brain', is structurally composed of:",
+        "hi": "लिम्बिक तंत्र (लिम्बिक लोब), जिसे अक्सर 'भावनात्मक मस्तिष्क' कहा जाता है, संरचनात्मक रूप से किससे मिलकर बना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Inner parts of cerebral hemispheres and associated deep structures like amygdala, hippocampus, and hypothalamus",
+          "hi": "प्रमस्तिष्क गोलार्द्धों के आंतरिक भाग और संबंधित गहरी संरचनाएं जैसे एमिग्डाला, हिप्पोकैम्पस और हाइपोथैलेमस"
+        },
+        "B": {
+          "en": "Pons varolii, medulla oblongata, and corpora quadrigemina",
+          "hi": "पोन्स वेरोलाई, मेड्युला ऑबलांगाटा और कॉरपोरा क्वाड्रिजेमिना"
+        },
+        "C": {
+          "en": "Cerebellar cortex, arbor vitae, and spinal cord",
+          "hi": "अनुमस्तिष्क वल्कुट, आर्बर विटे और मेरुरज्जु"
+        },
+        "D": {
+          "en": "Optic chiasma, infundibulum, and pineal gland only",
+          "hi": "केवल ऑप्टिक काइऐज्मा, इन्फंडिबुलम और पीनियल ग्रंथि"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q06",
+      "category": "theory",
+      "question": {
+        "en": "The medulla oblongata of the hindbrain connects to the spinal cord and contains vital autonomic reflex centers controlling:",
+        "hi": "पश्च मस्तिष्क का मेड्युला ऑबलांगाटा (Medulla oblongata) मेरुरज्जु से जुड़ता है और इसमें निम्नलिखित को नियंत्रित करने वाले महत्वपूर्ण स्वायत्त प्रतिवर्ती केंद्र होते हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Visual reflexes and pupil accommodation to light",
+          "hi": "दृष्टि प्रतिवर्त और प्रकाश के प्रति पुतली का समंजन"
+        },
+        "B": {
+          "en": "Respiration, cardiovascular reflexes, and gastric secretions",
+          "hi": "श्वसन, हृदय संवहनी (कार्डियोवस्कुलर) प्रतिवर्त और जठरीय स्राव"
+        },
+        "C": {
+          "en": "Creative thinking, conscious memory, and speech articulation",
+          "hi": "रचनात्मक सोच, सचेत स्मृति और वाक् उच्चारण"
+        },
+        "D": {
+          "en": "Sleep-wake cycle and biological circadian clock exclusively",
+          "hi": "केवल निद्रा-जागरण चक्र और जैविक 24-घंटे की लय"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following correctly defines the anatomical components comprising the human Brainstem?",
+        "hi": "निम्नलिखित में से कौन मानव मस्तिष्क स्तंभ (Brainstem) का निर्माण करने वाले शारीरिक घटकों को सही ढंग से परिभाषित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Brainstem = Forebrain + Midbrain + Hindbrain",
+          "hi": "मस्तिष्क स्तंभ = अग्रमस्तिष्क + मध्यमस्तिष्क + पश्चमस्तिष्क"
+        },
+        "B": {
+          "en": "Brainstem = Midbrain + Cerebellum + Medulla oblongata",
+          "hi": "मस्तिष्क स्तंभ = मध्यमस्तिष्क + अनुमस्तिष्क + मेड्युला ऑबलांगाटा"
+        },
+        "C": {
+          "en": "Brainstem = Midbrain + Pons varolii + Medulla oblongata",
+          "hi": "मस्तिष्क स्तंभ = मध्यमस्तिष्क (Midbrain) + पोन्स (Pons) + मेड्युला ऑबलांगाटा (Medulla oblongata)"
+        },
+        "D": {
+          "en": "Brainstem = Thalamus + Hypothalamus + Pons",
+          "hi": "मस्तिष्क स्तंभ = थैलेमस + हाइपोथैलेमस + पोन्स"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "Which anatomical canal passes through the midbrain, and what is the characteristic dorsal feature of the midbrain in humans?",
+        "hi": "मध्यमस्तिष्क से होकर कौन सी शारीरिक नलिका (canal) गुजरती है, और मानव में मध्यमस्तिष्क की विशिष्ट पृष्ठीय संरचना क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Central canal; Corpus callosum",
+          "hi": "केंद्रीय नाल; कॉर्पस कैलोसम"
+        },
+        "B": {
+          "en": "Foramen of Monro; Infundibulum",
+          "hi": "मोनरो का रंध्र; इन्फंडिबुलम"
+        },
+        "C": {
+          "en": "Eustachian tube; Arbor vitae",
+          "hi": "यूस्टेशियन नलिका; आर्बर विटे"
+        },
+        "D": {
+          "en": "Cerebral aqueduct; Corpora quadrigemina (four round swellings)",
+          "hi": "सेरेब्रल एक्वाडक्ट (मस्तिष्क जलप्रणाल); कॉरपोरा क्वाड्रिजेमिना (चार गोल उभार)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q09",
+      "category": "formula",
+      "question": {
+        "en": "How are Grey Matter and White Matter distributed in the Brain versus the Spinal Cord?",
+        "hi": "मस्तिष्क और मेरुरज्जु में धूसर द्रव्य (Grey Matter) और श्वेत द्रव्य (White Matter) का वितरण किस प्रकार होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Brain: Outer Grey matter, Inner White matter; Spinal Cord: Outer White matter, Inner Grey matter",
+          "hi": "मस्तिष्क: बाहर धूसर द्रव्य, अंदर श्वेत द्रव्य; मेरुरज्जु: बाहर श्वेत द्रव्य, अंदर धूसर द्रव्य"
+        },
+        "B": {
+          "en": "Brain: Outer White matter, Inner Grey matter; Spinal Cord: Outer Grey matter, Inner White matter",
+          "hi": "मस्तिष्क: बाहर श्वेत द्रव्य, अंदर धूसर द्रव्य; मेरुरज्जु: बाहर धूसर द्रव्य, अंदर श्वेत द्रव्य"
+        },
+        "C": {
+          "en": "Both Brain and Spinal Cord have Grey matter exclusively on the outside and White matter inside",
+          "hi": "मस्तिष्क और मेरुरज्जु दोनों में धूसर द्रव्य विशेष रूप से बाहर और श्वेत द्रव्य अंदर होता है"
+        },
+        "D": {
+          "en": "Both Brain and Spinal Cord have White matter exclusively on the outside and Grey matter inside",
+          "hi": "मस्तिष्क और मेरुरज्जु दोनों में श्वेत द्रव्य विशेष रूप से बाहर और धूसर द्रव्य अंदर होता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q10",
+      "category": "formula",
+      "question": {
+        "en": "Regarding the neural regulation of respiration, which brainstem structure houses the 'pneumotaxic center' and what is its physiological role?",
+        "hi": "श्वसन के तंत्रिका नियमन के संबंध में, मस्तिष्क स्तंभ की कौन सी संरचना 'श्वासप्रभावी केंद्र' (pneumotaxic center) धारण करती है और इसकी शारीरिक भूमिका क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cerebellum; increases the duration of inspiration to maximize lung volume",
+          "hi": "अनुमस्तिष्क; फेफड़ों के आयतन को अधिकतम करने के लिए अंतःश्वसन की अवधि बढ़ाता है"
+        },
+        "B": {
+          "en": "Pons varolii; moderates the functions of the respiratory rhythm center and can reduce the duration of inspiration",
+          "hi": "पोन्स वेरोलाई; श्वसन लय केंद्र के कार्यों को नियंत्रित करता है और अंतःश्वसन की अवधि को कम कर सकता है"
+        },
+        "C": {
+          "en": "Thalamus; triggers deep gasping respiration during low oxygen levels",
+          "hi": "थैलेमस; ऑक्सीजन का स्तर कम होने पर गहरी हांफने वाली श्वसन शुरू करता है"
+        },
+        "D": {
+          "en": "Corpora quadrigemina; detects aortic arch CO2 concentration",
+          "hi": "कॉरपोरा क्वाड्रिजेमिना; महाधमनी चाप की CO2 सांद्रता का पता लगाता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q11",
+      "category": "formula",
+      "question": {
+        "en": "Which structural feature of the cerebellum enables it to accommodate an enormous number of neurons for fine-tuning motor coordination and balance?",
+        "hi": "अनुमस्तिष्क (Cerebellum) की कौन सी संरचनात्मक विशेषता इसे सूक्ष्म मोटर समन्वय और संतुलन के लिए भारी संख्या में न्यूरॉन्स को समायोजित करने में सक्षम बनाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "A completely smooth, unfolded cortex lacking sulci or gyri",
+          "hi": "सुलसी या गाइरी रहित एक पूरी तरह से चिकना, बिना मुड़ा हुआ वल्कुट"
+        },
+        "B": {
+          "en": "Absence of white matter in its interior core",
+          "hi": "इसके आंतरिक कोर में श्वेत द्रव्य की अनुपस्थिति"
+        },
+        "C": {
+          "en": "A very highly convoluted surface that greatly increases available surface area",
+          "hi": "एक अत्यधिक संवलित (convoluted) सतह जो उपलब्ध पृष्ठीय क्षेत्रफल को बहुत अधिक बढ़ा देती है"
+        },
+        "D": {
+          "en": "Direct continuous attachment to the corpus callosum",
+          "hi": "कॉर्पस कैलोसम के साथ सीधा निरंतर जुड़ाव"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q12",
+      "category": "formula",
+      "question": {
+        "en": "The cerebrum wraps around an egg-shaped structure called the Thalamus. What is the fundamental physiological role of the thalamus?",
+        "hi": "प्रमस्तिष्क एक अंडे के आकार की संरचना के चारों ओर लिपटा होता है जिसे थैलेमस (Thalamus) कहा जाता है। थैलेमस की मौलिक शारीरिक भूमिका क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Initiation of voluntary motor commands from the cardiac muscle",
+          "hi": "हृदय पेशी से ऐच्छिक प्रेरक आज्ञाओं की शुरुआत करना"
+        },
+        "B": {
+          "en": "Production and secretion of oxytocin and vasopressin",
+          "hi": "ऑक्सीटोसिन और वैसोप्रेसिन का उत्पादन और स्राव"
+        },
+        "C": {
+          "en": "Primary site for long-term spatial memory storage",
+          "hi": "दीर्घकालिक स्थानिक स्मृति भंडारण का प्राथमिक स्थल"
+        },
+        "D": {
+          "en": "Major relay and coordinating station for sensory and motor signaling destined for the cerebral cortex",
+          "hi": "प्रमस्तिष्क वल्कुट के लिए लक्षित संवेदी और प्रेरक संकेतों के लिए प्रमुख रिले और समन्वय केंद्र"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Brain Region) with List-II (Specific Functional Role):\nList-I:\n(a) Hypothalamus\n(b) Cerebellum\n(c) Medulla oblongata\n(d) Association area\n\nList-II:\n(1) Intersensory associations, memory, and communication\n(2) Body temperature regulation, urge for eating and drinking\n(3) Precision coordination of voluntary muscular movements and balance\n(4) Cardiovascular reflexes, respiration rhythm, and gastric secretion\n\nChoose the correct option:",
+        "hi": "सूची-I (मस्तिष्क क्षेत्र) को सूची-II (विशिष्ट कार्यात्मक भूमिका) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) हाइपोथैलेमस\n(b) अनुमस्तिष्क\n(c) मेड्युला ऑबलांगाटा\n(d) सहभागिता क्षेत्र\n\nसूची-II:\n(1) अंतर्संवेदी संघ, स्मृति और संचार\n(2) शरीर के तापमान का नियमन, खाने और पीने की इच्छा\n(3) ऐच्छिक पेशीय गतिविधियों और संतुलन का सटीक समन्वय\n(4) हृदय संवहनी प्रतिवर्त, श्वसन लय और जठरीय स्राव\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(2), (b)-(3), (c)-(4), (d)-(1)",
+          "hi": "(a)-(2), (b)-(3), (c)-(4), (d)-(1)"
+        },
+        "B": {
+          "en": "(a)-(3), (b)-(2), (c)-(1), (d)-(4)",
+          "hi": "(a)-(3), (b)-(2), (c)-(1), (d)-(4)"
+        },
+        "C": {
+          "en": "(a)-(2), (b)-(4), (c)-(3), (d)-(1)",
+          "hi": "(a)-(2), (b)-(4), (c)-(3), (d)-(1)"
+        },
+        "D": {
+          "en": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)",
+          "hi": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Anatomical Structure) with List-II (Location / Distinctive Feature):\nList-I:\n(a) Corpus callosum\n(b) Corpora quadrigemina\n(c) Cerebral aqueduct\n(d) Piamater\n\nList-II:\n(1) Canal traversing through the midbrain\n(2) Innermost vascular meninx in contact with brain tissue\n(3) Transverse tract of myelinated nerve fibres connecting cerebral hemispheres\n(4) Four round lobes on the dorsal surface of midbrain\n\nChoose the correct option:",
+        "hi": "सूची-I (शारीरिक संरचना) को सूची-II (स्थान / विशिष्ट विशेषता) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) कॉर्पस कैलोसम\n(b) कॉरपोरा क्वाड्रिजेमिना\n(c) सेरेब्रल एक्वाडक्ट\n(d) पायामीटर (मृदुतानिका)\n\nसूची-II:\n(1) मध्यमस्तिष्क से होकर गुजरने वाली नाल\n(2) मस्तिष्क ऊतक के संपर्क में रहने वाली अंतरतम संवहनी तानिका\n(3) प्रमस्तिष्क गोलार्द्धों को जोड़ने वाले मज्जाकृत तंत्रिका तंतुओं का अनुप्रस्थ ट्रैक्ट\n(4) मध्यमस्तिष्क की पृष्ठीय सतह पर चार गोल लोब\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+          "hi": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)"
+        },
+        "B": {
+          "en": "(a)-(3), (b)-(4), (c)-(1), (d)-(2)",
+          "hi": "(a)-(3), (b)-(4), (c)-(1), (d)-(2)"
+        },
+        "C": {
+          "en": "(a)-(3), (b)-(1), (c)-(4), (d)-(2)",
+          "hi": "(a)-(3), (b)-(1), (c)-(4), (d)-(2)"
+        },
+        "D": {
+          "en": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)",
+          "hi": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc03_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Which of the following rows in the structural table correctly identifies the cranial meninges and their associated spaces in sequence from superficial (skull) to deep (brain)?",
+        "hi": "संरचनात्मक तालिका में निम्नलिखित में से कौन सी पंक्ति खोपड़ी (बाह्य) से मस्तिष्क (गंभीर) तक कपालीय तानिकाओं और उनके संबंधित अंतरालों की सही पहचान करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Skull -> Subarachnoid space -> Arachnoid -> Duramater -> Piamater -> Brain",
+          "hi": "खोपड़ी -> सब-एरेकनॉइड स्पेस -> एरेकनॉइड -> ड्यूरामेटर -> पायामीटर -> मस्तिष्क"
+        },
+        "B": {
+          "en": "Skull -> Piamater -> Subarachnoid space -> Arachnoid -> Duramater -> Brain",
+          "hi": "खोपड़ी -> पायामीटर -> सब-एरेकनॉइड स्पेस -> एरेकनॉइड -> ड्यूरामेटर -> मस्तिष्क"
+        },
+        "C": {
+          "en": "Skull -> Duramater -> Subdural space -> Arachnoid mater -> Subarachnoid space (CSF) -> Piamater -> Brain",
+          "hi": "खोपड़ी -> ड्यूरामेटर -> सबड्यूटरल स्पेस -> एरेकनॉइड मेटर -> सब-एरेकनॉइड स्पेस (CSF) -> पायामीटर -> मस्तिष्क"
+        },
+        "D": {
+          "en": "Skull -> Arachnoid -> Duramater -> CSF -> Piamater -> Brain",
+          "hi": "खोपड़ी -> एरेकनॉइड -> ड्यूरामेटर -> CSF -> पायामीटर -> मस्तिष्क"
+        }
+      }
+    }
+  ]
+}

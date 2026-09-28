@@ -1,0 +1,395 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch14_mc04_q01",
+      "category": "theory",
+      "question": {
+        "en": "How is oxygen primarily transported in human blood, and how many molecules of O2 can a single haemoglobin molecule bind at maximum?",
+        "hi": "मानव रक्त में ऑक्सीजन का मुख्य रूप से परिवहन किस प्रकार होता है, तथा एक अकेला हीमोग्लोबिन अणु अधिकतम कितने O2 अणुओं को बांध सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "90% dissolved in plasma; 2 molecules of O2",
+          "hi": "90% प्लाज्मा में घुलकर; 2 O2 अणु"
+        },
+        "B": {
+          "en": "97% by RBCs as oxyhaemoglobin; 4 molecules of O2",
+          "hi": "97% RBCs द्वारा ऑक्सीहीमोग्लोबिन के रूप में; 4 O2 अणु"
+        },
+        "C": {
+          "en": "70% as bicarbonate ions; 4 molecules of O2",
+          "hi": "70% बाइकार्बोनेट आयनों के रूप में; 4 O2 अणु"
+        },
+        "D": {
+          "en": "97% dissolved in plasma; 1 molecule of O2",
+          "hi": "97% प्लाज्मा में घुलकर; 1 O2 अणु"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following sets of physiological conditions at the tissue level favors the dissociation of oxygen from oxyhaemoglobin (shift of dissociation curve to the right)?",
+        "hi": "ऊतक स्तर पर निम्नलिखित में से कौन-सी शारीरिक परिस्थितियों का समूह ऑक्सीहीमोग्लोबिन से ऑक्सीजन के वियोजन (वियोजन वक्र का दाईं ओर विस्थापन / बोहर प्रभाव) के अनुकूल होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Low pO2, high pCO2, high H+ concentration (lower pH), and higher temperature",
+          "hi": "कम pO2, उच्च pCO2, उच्च H+ सांद्रता (कम pH), तथा उच्च तापमान"
+        },
+        "B": {
+          "en": "High pO2, low pCO2, low H+ concentration, and lower temperature",
+          "hi": "उच्च pO2, कम pCO2, कम H+ सांद्रता, तथा कम तापमान"
+        },
+        "C": {
+          "en": "High pO2, high pCO2, low H+ concentration, and lower temperature",
+          "hi": "उच्च pO2, उच्च pCO2, कम H+ सांद्रता, तथा कम तापमान"
+        },
+        "D": {
+          "en": "Low pO2, low pCO2, low H+ concentration, and low temperature",
+          "hi": "कम pO2, कम pCO2, कम H+ सांद्रता, तथा कम तापमान"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q03",
+      "category": "theory",
+      "question": {
+        "en": "In human blood, what are the primary forms and proportions in which carbon dioxide is transported from tissues to the lungs?",
+        "hi": "मानव रक्त में, ऊतकों से फेफड़ों तक कार्बन डाइऑक्साइड का परिवहन किन प्राथमिक रूपों और अनुपातों में होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "97% as carbamino-haemoglobin, 3% dissolved in plasma",
+          "hi": "97% कार्बामिनो-हीमोग्लोबिन के रूप में, 3% प्लाज्मा में घुलकर"
+        },
+        "B": {
+          "en": "70% dissolved in plasma, 20-25% as bicarbonate, 7% as carbamino-haemoglobin",
+          "hi": "70% प्लाज्मा में घुलकर, 20-25% बाइकार्बोनेट के रूप में, 7% कार्बामिनो-हीमोग्लोबिन के रूप में"
+        },
+        "C": {
+          "en": "70% as bicarbonate ions (HCO3-), 20-25% as carbamino-haemoglobin, and 7% dissolved in plasma",
+          "hi": "70% बाइकार्बोनेट आयनों (HCO3-) के रूप में, 20-25% कार्बामिनो-हीमोग्लोबिन के रूप में, तथा 7% प्लाज्मा में घुलित अवस्था में"
+        },
+        "D": {
+          "en": "50% as bicarbonate, 50% as carboxyhaemoglobin",
+          "hi": "50% बाइकार्बोनेट के रूप में, 50% कार्बोक्सीहीमोग्लोबिन के रूप में"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which enzyme present in very high concentration in RBCs and minute quantities in plasma facilitates the reversible conversion of CO2 and H2O into bicarbonate ions?",
+        "hi": "RBCs में अत्यधिक सांद्रता में तथा प्लाज्मा में सूक्ष्म मात्रा में उपस्थित कौन-सा एंजाइम CO2 और H2O के बाइकार्बोनेट आयनों में उत्क्रमणीय परिवर्तन को उत्प्रेरित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Carboxypeptidase",
+          "hi": "कार्बोक्सीपेप्टिडेस"
+        },
+        "B": {
+          "en": "Carbonic dehydrogenase",
+          "hi": "कार्बोनिक डिहाइड्रोजिनेस"
+        },
+        "C": {
+          "en": "Cytochrome oxidase",
+          "hi": "साइटोक्रोम ऑक्सीडेस"
+        },
+        "D": {
+          "en": "Carbonic anhydrase",
+          "hi": "कार्बोनिक एनहाइड्रेज (Carbonic anhydrase)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q05",
+      "category": "theory",
+      "question": {
+        "en": "A specialized centre present in the medulla oblongata called the respiratory rhythm centre regulates respiration. Another centre present in the pons region that moderates its function and can reduce the duration of inspiration is called the:",
+        "hi": "मेडुला ऑबलागेटा में उपस्थित एक विशिष्ट केंद्र जिसे श्वसन लय केंद्र कहते हैं, श्वसन का नियमन करता है। पोन्स क्षेत्र में उपस्थित दूसरा केंद्र जो इसके कार्य को नियंत्रित करता है तथा अंतःश्वसन की अवधि को कम कर सकता है, क्या कहलाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Apneustic centre",
+          "hi": "एप्न्युस्टिक केंद्र"
+        },
+        "B": {
+          "en": "Pneumotaxic centre",
+          "hi": "श्वास नियमन केंद्र (Pneumotaxic centre)"
+        },
+        "C": {
+          "en": "Cardiovascular reflex centre",
+          "hi": "हृद-संवहनी प्रतिवर्त केंद्र"
+        },
+        "D": {
+          "en": "Chemoreceptor trigger zone",
+          "hi": "कीमोरिसेप्टर ट्रिगर जोन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q06",
+      "category": "theory",
+      "question": {
+        "en": "The chemosensitive area situated adjacent to the respiratory rhythm centre in the medulla is highly sensitive to changes in:",
+        "hi": "मेडुला में श्वसन लय केंद्र के पास स्थित रसोसंवेदी क्षेत्र (Chemosensitive area) किसके परिवर्तनों के प्रति अत्यधिक संवेदनशील होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Carbon dioxide (CO2) and hydrogen ions (H+)",
+          "hi": "कार्बन डाइऑक्साइड (CO2) तथा हाइड्रोजन आयनों (H+)"
+        },
+        "B": {
+          "en": "Oxygen (O2) and glucose concentration",
+          "hi": "ऑक्सीजन (O2) तथा ग्लूकोज सांद्रता"
+        },
+        "C": {
+          "en": "Oxygen (O2) and blood pressure only",
+          "hi": "केवल ऑक्सीजन (O2) तथा रक्तदाब"
+        },
+        "D": {
+          "en": "Nitrogen and bicarbonate levels only",
+          "hi": "केवल नाइट्रोजन तथा बाइकार्बोनेट स्तर"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q07",
+      "category": "formula",
+      "question": {
+        "en": "Every 100 mL of oxygenated blood delivers approximately 5 mL of O2 to the tissues under normal physiological conditions. In a healthy adult with a resting cardiac output of 5000 mL/min, what total volume of O2 is delivered to the tissues per minute?",
+        "hi": "सामान्य शारीरिक परिस्थितियों में प्रत्येक 100 mL ऑक्सीकृत रक्त ऊतकों को लगभग 5 mL O2 वितरित करता है। विश्राम की स्थिति में 5000 mL/min कार्डियक आउटपुट वाले एक स्वस्थ वयस्क में, ऊतकों को प्रति मिनट O2 का कुल कितना आयतन वितरित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "100 mL O2/min",
+          "hi": "100 mL O2/min"
+        },
+        "B": {
+          "en": "1000 mL O2/min",
+          "hi": "1000 mL O2/min"
+        },
+        "C": {
+          "en": "250 mL O2/min",
+          "hi": "250 mL O2/min"
+        },
+        "D": {
+          "en": "500 mL O2/min",
+          "hi": "500 mL O2/min"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q08",
+      "category": "formula",
+      "question": {
+        "en": "Every 100 mL of deoxygenated blood delivers approximately how much CO2 to the alveoli?",
+        "hi": "प्रत्येक 100 mL अनॉक्सीकृत रक्त कूपिकाओं (एल्वियोली) को लगभग कितनी CO2 वितरित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "5 mL of CO2",
+          "hi": "5 mL CO2"
+        },
+        "B": {
+          "en": "4 mL of CO2",
+          "hi": "4 mL CO2"
+        },
+        "C": {
+          "en": "20 mL of CO2",
+          "hi": "20 mL CO2"
+        },
+        "D": {
+          "en": "1.34 mL of CO2",
+          "hi": "1.34 mL CO2"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q09",
+      "category": "formula",
+      "question": {
+        "en": "The p50 value is defined as the partial pressure of oxygen at which haemoglobin is 50% saturated. An increase in p50 indicates:",
+        "hi": "p50 मान को ऑक्सीजन के उस आंशिक दाब के रूप में परिभाषित किया जाता है जिस पर हीमोग्लोबिन 50% संतृप्त होता है। p50 मान में वृद्धि क्या दर्शाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Increased affinity of haemoglobin for oxygen (left shift)",
+          "hi": "ऑक्सीजन के लिए हीमोग्लोबिन की बंधुता में वृद्धि (बायां विस्थापन)"
+        },
+        "B": {
+          "en": "Formation of carboxyhaemoglobin",
+          "hi": "कार्बोक्सीहीमोग्लोबिन का निर्माण"
+        },
+        "C": {
+          "en": "Decreased body temperature and lower pCO2",
+          "hi": "शरीर के तापमान में कमी तथा निम्न pCO2"
+        },
+        "D": {
+          "en": "Decreased affinity of haemoglobin for oxygen (right shift / Bohr effect)",
+          "hi": "ऑक्सीजन के लिए हीमोग्लोबिन की बंधुता में कमी (दायां विस्थापन / बोहर प्रभाव)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q10",
+      "category": "formula",
+      "question": {
+        "en": "Carbon monoxide (CO) is a deadly asphyxiant because its binding affinity for haemoglobin is approximately how many times greater than that of oxygen?",
+        "hi": "कार्बन मोनोऑक्साइड (CO) एक घातक श्वासावरोधक (विषैली गैस) है क्योंकि हीमोग्लोबिन के लिए इसकी बंधुता ऑक्सीजन की तुलना में लगभग कितने गुना अधिक होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "200 to 250 times greater",
+          "hi": "200 से 250 गुना अधिक"
+        },
+        "B": {
+          "en": "20 to 25 times greater",
+          "hi": "20 से 25 गुना अधिक"
+        },
+        "C": {
+          "en": "2 to 3 times greater",
+          "hi": "2 से 3 गुना अधिक"
+        },
+        "D": {
+          "en": "Same affinity as oxygen",
+          "hi": "ऑक्सीजन के समान बंधुता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q11",
+      "category": "formula",
+      "question": {
+        "en": "Under resting conditions, arterial blood entering systemic capillaries is approximately 97% saturated with O2, while mixed venous blood leaving tissues is approximately 75% saturated. What percentage of total oxygen carried by haemoglobin is unloaded at tissues under resting physiological conditions?",
+        "hi": "विश्राम की स्थिति में, कायिक केशिकाओं में प्रवेश करने वाला धमनी रक्त O2 से लगभग 97% संतृप्त होता है, जबकि ऊतकों से निकलने वाला मिश्रित शिरापरक रक्त लगभग 75% संतृप्त होता है। विश्राम की स्थिति में ऊतकों पर हीमोग्लोबिन द्वारा वहन की गई कुल ऑक्सीजन का कितना प्रतिशत मुक्त (unload) होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "75%",
+          "hi": "75%"
+        },
+        "B": {
+          "en": "97%",
+          "hi": "97%"
+        },
+        "C": {
+          "en": "Approx. 22% - 25% (delivering ~5 mL O2 per 100 mL blood)",
+          "hi": "लगभग 22% - 25% (प्रति 100 mL रक्त में ~5 mL O2 का वितरण)"
+        },
+        "D": {
+          "en": "50%",
+          "hi": "50%"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q12",
+      "category": "formula",
+      "question": {
+        "en": "During the chloride shift (Hamburger phenomenon) in systemic capillaries, as bicarbonate ions (HCO3-) diffuse out from RBCs into plasma, which ions diffuse into the RBCs to maintain electrical neutrality?",
+        "hi": "कायिक केशिकाओं में क्लोराइड विस्थापन (हैमबर्गर परिघटना) के दौरान, जैसे ही बाइकार्बोनेट आयन (HCO3-) RBCs से बाहर प्लाज्मा में विसरित होते हैं, विद्युत तटस्थता बनाए रखने के लिए कौन-से आयन RBCs के भीतर प्रवेश करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Sodium ions (Na+)",
+          "hi": "सोडियम आयन (Na+)"
+        },
+        "B": {
+          "en": "Chloride ions (Cl-)",
+          "hi": "क्लोराइड आयन (Cl-)"
+        },
+        "C": {
+          "en": "Potassium ions (K+)",
+          "hi": "पोटेशियम आयन (K+)"
+        },
+        "D": {
+          "en": "Calcium ions (Ca2+)",
+          "hi": "कैल्शियम आयन (Ca2+)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the respiratory disorders in Column I with their characteristic clinical features in Column II:\n\nColumn I\na. Asthma\nb. Emphysema\nc. Occupational Respiratory Disorder (Silicosis)\nd. Carbon monoxide poisoning\n\nColumn II\n1. Breakdown of alveolar walls reducing respiratory surface area; caused mainly by smoking\n2. Long-term exposure to dust leading to lung inflammation and irreversible fibrosis\n3. Formation of carboxyhaemoglobin with very high affinity\n4. Allergic inflammation of bronchi and bronchioles causing wheezing and breathing difficulty",
+        "hi": "कॉलम I में दिए गए श्वसन विकारों का कॉलम II में उनकी विशिष्ट रोगसूचक विशेषताओं से मिलान कीजिए:\n\nकॉलम I\na. दमा (Asthma)\nb. वातस्फीति (Emphysema)\nc. व्यावसायिक श्वसन विकार (सिलिकोसिस)\nd. कार्बन मोनोऑक्साइड विषाक्तता\n\nकॉलम II\n1. कूपिका भित्तियों का क्षतिग्रस्त होना जिससे श्वसन सतह घट जाती है; मुख्यतः धूम्रपान से\n2. धूल के दीर्घकालिक संपर्क से फेफड़ों में शोथ तथा अपरिवर्तनीय तंतुमयता (फाइब्रोसिस)\n3. अत्यधिक बंधुता के साथ कार्बोक्सीहीमोग्लोबिन का निर्माण\n4. श्वसनी और श्वसनिकाओं का एलर्जी संबंधी शोथ जिससे सांस लेने में कठिनाई और घबराहट (wheezing) होती है"
+      },
+      "options": {
+        "A": {
+          "en": "a-1, b-4, c-2, d-3",
+          "hi": "a-1, b-4, c-2, d-3"
+        },
+        "B": {
+          "en": "a-4, b-2, c-1, d-3",
+          "hi": "a-4, b-2, c-1, d-3"
+        },
+        "C": {
+          "en": "a-2, b-1, c-4, d-3",
+          "hi": "a-2, b-1, c-4, d-3"
+        },
+        "D": {
+          "en": "a-4, b-1, c-2, d-3",
+          "hi": "a-4, b-1, c-2, d-3"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the regulatory components of the respiratory control system in Column I with their anatomical locations or primary trigger factors in Column II:\n\nColumn I\na. Respiratory rhythm centre\nb. Pneumotaxic centre\nc. Central chemosensitive area\nd. Peripheral chemoreceptors (aortic & carotid bodies)\n\nColumn II\n1. Medulla oblongata; primarily sets basic rhythm\n2. Pons varolii; switches off inspiration\n3. Medulla (adjacent to rhythm centre); highly sensitive to CO2 and H+\n4. Aortic arch and carotid arteries; detect arterial CO2 and H+",
+        "hi": "कॉलम I में श्वसन नियंत्रण प्रणाली के घटकों का कॉलम II में उनकी शारीरिक स्थिति या प्राथमिक प्रेरक कारकों से मिलान कीजिए:\n\nकॉलम I\na. श्वसन लय केंद्र\nb. श्वास नियमन केंद्र (न्यूमोटैक्सिक)\nc. केंद्रीय रसोसंवेदी क्षेत्र\nd. परिधीय कीमोरिसेप्टर्स (एओर्टिक व कैरोटिड काय)\n\nकॉलम II\n1. मेडुला ऑबलागेटा; प्राथमिक मूल लय निर्धारित करता है\n2. पोन्स वैरोलाई; अंतःश्वसन को समाप्त (स्विच ऑफ) करता है\n3. मेडुला (लय केंद्र के पास); CO2 और H+ के प्रति अत्यधिक संवेदी\n4. महाधमनी चाप तथा कैरोटिड धमनियां; धमनी CO2 और H+ का संवेदन"
+      },
+      "options": {
+        "A": {
+          "en": "a-1, b-2, c-3, d-4",
+          "hi": "a-1, b-2, c-3, d-4"
+        },
+        "B": {
+          "en": "a-2, b-1, c-4, d-3",
+          "hi": "a-2, b-1, c-4, d-3"
+        },
+        "C": {
+          "en": "a-1, b-3, c-2, d-4",
+          "hi": "a-1, b-3, c-2, d-4"
+        },
+        "D": {
+          "en": "a-3, b-2, c-1, d-4",
+          "hi": "a-3, b-2, c-1, d-4"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch14_mc04_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In the classic sigmoid-shaped Oxygen-Haemoglobin Dissociation Curve, what effect does an increase in blood pCO2, elevated temperature, and high H+ concentration (acidosis) have on the curve?",
+        "hi": "पारंपरिक सिग्मॉइड आकार के ऑक्सीजन-हीमोग्लोबिन वियोजन वक्र में, रक्त pCO2 में वृद्धि, बढ़े हुए तापमान, तथा उच्च H+ सांद्रता (अम्लता) का वक्र पर क्या प्रभाव पड़ता है?",
+        "image": "diagram_oxygen_haemoglobin_dissociation_curve.png"
+      },
+      "options": {
+        "A": {
+          "en": "Shifts the curve to the left, indicating increased affinity of Hb for O2",
+          "hi": "वक्र को बाईं ओर विस्थापित करता है, जो O2 के प्रति Hb की बढ़ी हुई बंधुता को दर्शाता है"
+        },
+        "B": {
+          "en": "Transforms the sigmoid curve into a linear straight line",
+          "hi": "सिग्मॉइड वक्र को एक रैखिक सीधी रेखा में बदल देता है"
+        },
+        "C": {
+          "en": "Shifts the curve to the right, indicating decreased affinity of Hb for O2 and easier delivery to tissues",
+          "hi": "वक्र को दाईं ओर विस्थापित करता है, जो O2 के प्रति Hb की घटी हुई बंधुता और ऊतकों को आसान वितरण को दर्शाता है"
+        },
+        "D": {
+          "en": "Has no effect on curve position because only pO2 determines saturation",
+          "hi": "वक्र की स्थिति पर कोई प्रभाव नहीं पड़ता क्योंकि केवल pO2 ही संतृप्ति निर्धारित करता है"
+        }
+      }
+    }
+  ]
+}

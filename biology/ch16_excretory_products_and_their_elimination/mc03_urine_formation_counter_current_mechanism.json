@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch16_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "Glomerular ultrafiltration occurs across the filtration membrane consisting of which three layers?",
+        "hi": "केशिकागुच्छ परानिस्यंदन (ultrafiltration) निस्यंदन झिल्ली की किन तीन परतों के आर-पार होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Endothelium of glomerular blood vessels, basement membrane, and visceral epithelium (podocytes) of Bowman's capsule",
+          "hi": "केशिकागुच्छ रक्त वाहिकाओं का एंडोथीलियम, आधारीय झिल्ली, और बोमन संपुट की आंतरांगी उपकला (पोडोसाइट्स)"
+        },
+        "B": {
+          "en": "Parietal layer of Bowman's capsule, peritubular capillaries, and macula densa",
+          "hi": "बोमन संपुट की भित्तीय परत, परिनलिका केशिकाएं, और मैकुला डेंसा"
+        },
+        "C": {
+          "en": "Tunica adventitia, tunica media, and tunica intima of afferent arteriole",
+          "hi": "अभिवाही धमनिका की ट्यूनिका एडवेंटीशिया, ट्यूनिका मीडिया और ट्यूनिका इंटिमा"
+        },
+        "D": {
+          "en": "Renal capsule, cortical stroma, and medullary ray endothelium",
+          "hi": "वृक्क संपुट, वल्कुटीय स्ट्रोमा और मध्यांश किरण एंडोथीलियम"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "In a healthy human adult, what is the normal Glomerular Filtration Rate (GFR) and what proportion of cardiac output do the kidneys filter per minute?",
+        "hi": "एक स्वस्थ वयस्क मानव में, सामान्य केशिकागुच्छ निस्यंदन दर (GFR) क्या है और वृक्क प्रति मिनट हृदय निकास (cardiac output) का कितना भाग निस्यंदित करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "180 mL/min; approximately 50% of cardiac output",
+          "hi": "180 mL/min; हृदय निकास का लगभग 50%"
+        },
+        "B": {
+          "en": "50 mL/min; approximately 1/10th of cardiac output",
+          "hi": "50 mL/min; हृदय निकास का लगभग 1/10वां भाग"
+        },
+        "C": {
+          "en": "125 mL/min (~180 L/day); approximately 1/5th of cardiac output (1100-1200 mL/min)",
+          "hi": "125 mL/min (~180 L/दिन); हृदय निकास का लगभग 1/5वां भाग (1100-1200 mL/min)"
+        },
+        "D": {
+          "en": "500 mL/min; approximately 1/3rd of cardiac output",
+          "hi": "500 mL/min; हृदय निकास का लगभग 1/3 भाग"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "During tubular reabsorption in the renal tubules, which of the following substances are reabsorbed actively and passively, respectively?",
+        "hi": "वृक्क नलिकाओं में नलिका पुनरवशोषण के दौरान, निम्नलिखित में से कौन से पदार्थ क्रमशः सक्रिय और निष्क्रिय रूप से पुनरवशोषित होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Active: Urea and water; Passive: Glucose and amino acids",
+          "hi": "सक्रिय: यूरिया और जल; निष्क्रिय: ग्लूकोज और अमीनो अम्ल"
+        },
+        "B": {
+          "en": "Active: Water only; Passive: Na+ and glucose",
+          "hi": "सक्रिय: केवल जल; निष्क्रिय: Na+ और ग्लूकोज"
+        },
+        "C": {
+          "en": "Active: Creatinine and urea; Passive: Na+ and amino acids",
+          "hi": "सक्रिय: क्रिएटिनिन और यूरिया; निष्क्रिय: Na+ और अमीनो अम्ल"
+        },
+        "D": {
+          "en": "Active: Glucose, amino acids, and Na+; Passive: Nitrogenous wastes (urea) and water",
+          "hi": "सक्रिय: ग्लूकोज, अमीनो अम्ल और Na+; निष्क्रिय: नाइट्रोजनी अपशिष्ट (यूरिया) और जल"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following correctly describes the permeability characteristics of the descending and ascending limbs of Henle's loop?",
+        "hi": "निम्नलिखित में से कौन हेनले के लूप की अवरोही और आरोही भुजाओं की पारगम्यता विशेषताओं का सही वर्णन करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Descending: Impermeable to water, permeable to salts; Ascending: Permeable to water, impermeable to salts",
+          "hi": "अवरोही: जल के लिए अपारगम्य, लवणों के लिए पारगम्य; आरोही: जल के लिए पारगम्य, लवणों के लिए अपारगम्य"
+        },
+        "B": {
+          "en": "Descending: Permeable to water, almost impermeable to electrolytes; Ascending: Impermeable to water, permeable to electrolytes",
+          "hi": "अवरोही: जल के लिए पारगम्य, विद्युत-अपघट्यों के लिए लगभग अपारगम्य; आरोही: जल के लिए अपारगम्य, विद्युत-अपघट्यों के लिए पारगम्य"
+        },
+        "C": {
+          "en": "Descending: Permeable to both water and salts; Ascending: Impermeable to both water and salts",
+          "hi": "अवरोही: जल और लवण दोनों के लिए पारगम्य; आरोही: जल और लवण दोनों के लिए अपारगम्य"
+        },
+        "D": {
+          "en": "Descending: Impermeable to both water and salts; Ascending: Freely permeable to proteins",
+          "hi": "अवरोही: जल और लवण दोनों के लिए अपारगम्य; आरोही: प्रोटीनों के लिए स्वतंत्र रूप से पारगम्य"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q05",
+      "category": "theory",
+      "question": {
+        "en": "Tubular secretion in the nephron helps maintain ionic and acid-base balance of body fluids primarily by secreting which ions into the filtrate?",
+        "hi": "नेफ्रॉन में नलिका स्राव (tubular secretion) निस्यंद में किन आयनों का स्राव करके शारीरिक द्रवों के आयनिक और अम्ल-क्षार संतुलन को बनाए रखने में मदद करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hydrogen ions (H+), potassium ions (K+), and ammonia (NH3)",
+          "hi": "हाइड्रोजन आयन (H+), पोटेशियम आयन (K+), और अमोनिया (NH3)"
+        },
+        "B": {
+          "en": "Sodium ions (Na+), chloride ions (Cl-), and bicarbonate (HCO3-)",
+          "hi": "सोडियम आयन (Na+), क्लोराइड आयन (Cl-), और बाइकार्बोनेट (HCO3-)"
+        },
+        "C": {
+          "en": "Glucose, albumin, and calcium ions (Ca2+)",
+          "hi": "ग्लूकोज, एल्बुमिन, और कैल्शियम आयन (Ca2+)"
+        },
+        "D": {
+          "en": "Hemoglobin fragments and bilirubin only",
+          "hi": "केवल हीमोग्लोबिन के टुकड़े और बिलीरुबिन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q06",
+      "category": "theory",
+      "question": {
+        "en": "Which two solutes are predominantly responsible for establishing and maintaining the hyperosmolar gradient in the medullary interstitium?",
+        "hi": "मध्यांश अंतराकाशी में अतिपरासारी प्रवणता स्थापित करने और बनाए रखने के लिए मुख्य रूप से कौन से दो विलेय उत्तरदायी हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Glucose and creatinine",
+          "hi": "ग्लूकोज और क्रिएटिनिन"
+        },
+        "B": {
+          "en": "Bicarbonate and potassium ions",
+          "hi": "बाइकार्बोनेट और पोटेशियम आयन"
+        },
+        "C": {
+          "en": "NaCl and urea",
+          "hi": "NaCl और यूरिया"
+        },
+        "D": {
+          "en": "Uric acid and calcium oxalate",
+          "hi": "यूरिक अम्ल और कैल्शियम ऑक्सालेट"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "Given: Glomerular Hydrostatic Pressure (GHP) = 60 mm Hg, Blood Colloid Osmotic Pressure (BCOP) = 32 mm Hg, and Capsular Hydrostatic Pressure (CHP) = 18 mm Hg. What is the Net Filtration Pressure (NFP)?",
+        "hi": "दिया गया है: केशिकागुच्छ द्रवस्थैतिक दबाव (GHP) = 60 mm Hg, रक्त कोलॉइडी परासरणी दबाव (BCOP) = 32 mm Hg, और संपुट द्रवस्थैतिक दबाव (CHP) = 18 mm Hg। शुद्ध निस्यंदन दबाव (NFP) क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "110 mm Hg",
+          "hi": "110 mm Hg"
+        },
+        "B": {
+          "en": "10 mm Hg",
+          "hi": "10 mm Hg"
+        },
+        "C": {
+          "en": "42 mm Hg",
+          "hi": "42 mm Hg"
+        },
+        "D": {
+          "en": "0 mm Hg",
+          "hi": "0 mm Hg"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "If a healthy adult forms 180 liters of glomerular filtrate per day but excretes only 1.5 liters of urine, what percentage of the filtrate is reabsorbed by the renal tubules?",
+        "hi": "यदि एक स्वस्थ वयस्क प्रतिदिन 180 लीटर केशिकागुच्छ निस्यंद बनाता है लेकिन केवल 1.5 लीटर मूत्र उत्सर्जित करता है, तो वृक्क नलिकाओं द्वारा निस्यंद का कितना प्रतिशत पुनरवशोषित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "50%",
+          "hi": "50%"
+        },
+        "B": {
+          "en": "75%",
+          "hi": "75%"
+        },
+        "C": {
+          "en": "90%",
+          "hi": "90%"
+        },
+        "D": {
+          "en": "99.17% (~99%)",
+          "hi": "99.17% (~99%)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q09",
+      "category": "formula",
+      "question": {
+        "en": "What is the trend of filtrate osmolarity as it travels: Renal cortex -> Tip of Henle's loop -> Entering DCT -> Final urine excreted?",
+        "hi": "निस्यंद की परासारिता की प्रवृत्ति क्या होती है जैसे-जैसे यह गमन करता है: वृक्क वल्कुट -> हेनले के लूप का शीर्ष -> DCT में प्रवेश -> उत्सर्जित अंतिम मूत्र?"
+      },
+      "options": {
+        "A": {
+          "en": "300 mOsmol/L -> 1200 mOsmol/L -> 200 mOsmol/L -> 1200 mOsmol/L",
+          "hi": "300 mOsmol/L -> 1200 mOsmol/L -> 200 mOsmol/L -> 1200 mOsmol/L"
+        },
+        "B": {
+          "en": "1200 mOsmol/L -> 300 mOsmol/L -> 1200 mOsmol/L -> 300 mOsmol/L",
+          "hi": "1200 mOsmol/L -> 300 mOsmol/L -> 1200 mOsmol/L -> 300 mOsmol/L"
+        },
+        "C": {
+          "en": "300 mOsmol/L -> 300 mOsmol/L -> 300 mOsmol/L -> 300 mOsmol/L",
+          "hi": "300 mOsmol/L -> 300 mOsmol/L -> 300 mOsmol/L -> 300 mOsmol/L"
+        },
+        "D": {
+          "en": "100 mOsmol/L -> 500 mOsmol/L -> 800 mOsmol/L -> 1200 mOsmol/L",
+          "hi": "100 mOsmol/L -> 500 mOsmol/L -> 800 mOsmol/L -> 1200 mOsmol/L"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q10",
+      "category": "formula",
+      "question": {
+        "en": "The Filtration Fraction (FF) represents the fraction of renal plasma flow that becomes filtrate. If GFR = 125 mL/min and Renal Plasma Flow (RPF) = 650 mL/min, what is the Filtration Fraction?",
+        "hi": "निस्यंदन अंश (FF) वृक्क प्लाज्मा प्रवाह के उस भाग को दर्शाता है जो निस्यंद बन जाता है। यदि GFR = 125 mL/min और वृक्क प्लाज्मा प्रवाह (RPF) = 650 mL/min है, तो निस्यंदन अंश क्या होगा?"
+      },
+      "options": {
+        "A": {
+          "en": "5%",
+          "hi": "5%"
+        },
+        "B": {
+          "en": "10%",
+          "hi": "10%"
+        },
+        "C": {
+          "en": "~19.2% (roughly 20%)",
+          "hi": "~19.2% (लगभग 20%)"
+        },
+        "D": {
+          "en": "50%",
+          "hi": "50%"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q11",
+      "category": "formula",
+      "question": {
+        "en": "If a pharmacological agent selectively inhibits active NaCl transport in the thick ascending limb of Henle's loop, what will happen to urine volume and medullary osmolarity?",
+        "hi": "यदि कोई औषधीय घटक हेनले के लूप की मोटी आरोही भुजा में सक्रिय NaCl परिवहन को चुनिंदा रूप से संदमित कर दे, तो मूत्र के आयतन और मध्यांश परासारिता पर क्या प्रभाव पड़ेगा?"
+      },
+      "options": {
+        "A": {
+          "en": "Medullary osmolarity increases; urine volume drops to near zero",
+          "hi": "मध्यांश परासारिता बढ़ जाती है; मूत्र का आयतन शून्य के करीब गिर जाता है"
+        },
+        "B": {
+          "en": "Medullary osmotic gradient collapses; urine becomes dilute and large in volume (diuresis)",
+          "hi": "मध्यांश परासरणी प्रवणता समाप्त हो जाती है; मूत्र तनु और अधिक आयतन में हो जाता है (मूत्रल प्रभाव / diuresis)"
+        },
+        "C": {
+          "en": "GFR immediately quadruples due to afferent dilation",
+          "hi": "अभिवाही धमनिका के विस्तार के कारण GFR तुरंत चार गुना हो जाता है"
+        },
+        "D": {
+          "en": "No change, because collecting duct compensates fully without any gradient",
+          "hi": "कोई परिवर्तन नहीं, क्योंकि संग्रह नलिका बिना किसी प्रवणता के पूरी तरह से क्षतिपूर्ति कर लेती है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q12",
+      "category": "formula",
+      "question": {
+        "en": "How many times more concentrated can the final urine produced by human kidneys be compared to the initial glomerular filtrate?",
+        "hi": "मानव वृक्कों द्वारा उत्पादित अंतिम मूत्र प्रारंभिक केशिकागुच्छ निस्यंद की तुलना में लगभग कितने गुना अधिक सांद्र हो सकता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Equal concentration (1 time)",
+          "hi": "समान सांद्रता (1 गुना)"
+        },
+        "B": {
+          "en": "2 times concentrated",
+          "hi": "2 गुना सांद्र"
+        },
+        "C": {
+          "en": "10 times concentrated",
+          "hi": "10 गुना सांद्र"
+        },
+        "D": {
+          "en": "4 times concentrated (1200 mOsmol/L vs 300 mOsmol/L)",
+          "hi": "4 गुना सांद्र (1200 mOsmol/L बनाम 300 mOsmol/L)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the nephron segments in Column-I with their predominant physiological transport functions in Column-II:\nColumn-I:\n(a) Proximal Convoluted Tubule (PCT)\n(b) Descending limb of Henle\n(c) Ascending limb of Henle\n(d) Distal Convoluted Tubule (DCT)\n\nColumn-II:\n(i) Impermeable to water; active/passive transport of NaCl\n(ii) Reabsorption of 70-80% of electrolytes and water\n(iii) Conditional reabsorption of Na+ and water under hormonal control\n(iv) Permeable to water, almost impermeable to electrolytes",
+        "hi": "कॉलम-I में दिए गए नेफ्रॉन खंडों का कॉलम-II के उनके मुख्य कार्यिकीय परिवहन कार्यों से मिलान कीजिए:\nकॉलम-I:\n(a) समीपस्थ संवलित नलिका (PCT)\n(b) हेनले की अवरोही भुजा\n(c) हेनले की आरोही भुजा\n(d) दूरस्थ संवलित नलिका (DCT)\n\nकॉलम-II:\n(i) जल के लिए अपारगम्य; NaCl का सक्रिय/निष्क्रिय परिवहन\n(ii) 70-80% विद्युत-अपघट्यों और जल का पुनरवशोषण\n(iii) हार्मोनल नियंत्रण के तहत Na+ और जल का सशर्त पुनरवशोषण\n(iv) जल के लिए पारगम्य, विद्युत-अपघट्यों के लिए लगभग अपारगम्य"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        },
+        "B": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        "C": {
+          "en": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hi": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        },
+        "D": {
+          "en": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+          "hi": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q14",
+      "category": "diagram",
+      "question": {
+        "en": "In the counter-current exchanger mechanism of the vasa recta, which solute exchanges occur across the descending and ascending capillary limbs?",
+        "hi": "वासा रेक्टा की प्रतिधारा विनिमय प्रणाली में, अवरोही और आरोही केशिका भुजाओं के पार कौन से विलेय विनिमय होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Descending: Water enters, NaCl exits; Ascending: Water exits, NaCl enters",
+          "hi": "अवरोही: जल प्रवेश करता है, NaCl बाहर निकलता है; आरोही: जल बाहर निकलता है, NaCl प्रवेश करता है"
+        },
+        "B": {
+          "en": "Both limbs: Glucose enters and urea exits",
+          "hi": "दोनों भुजाएं: ग्लूकोज प्रवेश करता है और यूरिया बाहर निकलता है"
+        },
+        "C": {
+          "en": "Descending limb: NaCl enters and water leaves; Ascending limb: NaCl leaves and water enters",
+          "hi": "अवरोही भुजा: NaCl प्रवेश करता है और जल बाहर निकलता है; आरोही भुजा: NaCl बाहर निकलता है और जल प्रवेश करता है"
+        },
+        "D": {
+          "en": "Descending: Only albumin enters; Ascending: Only globulin leaves",
+          "hi": "अवरोही: केवल एल्बुमिन प्रवेश करता है; आरोही: केवल ग्लोब्युलिन बाहर निकलता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc03_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Consider the following statements regarding the counter-current mechanism:\nI. The flow of filtrate in the two limbs of Henle's loop is in opposite directions and forms a counter-current.\nII. The flow of blood through the two limbs of vasa recta also forms a counter-current pattern.\nIII. The proximity between Henle's loop and vasa recta helps in maintaining an increasing osmolarity towards the inner medullary interstitium.\nIV. Counter-current multiplier mechanism operates in the peritubular capillaries around the PCT.\nWhich of the above statements are CORRECT?",
+        "hi": "प्रतिधारा प्रणाली के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nI. हेनले के लूप की दोनों भुजाओं में निस्यंद का प्रवाह विपरीत दिशाओं में होता है और एक प्रतिधारा बनाता है।\nII. वासा रेक्टा की दोनों भुजाओं के माध्यम से रक्त का प्रवाह भी एक प्रतिधारा पैटर्न बनाता है।\nIII. हेनले के लूप और वासा रेक्टा के बीच निकटता आंतरिक मध्यांश अंतराकाशी की ओर बढ़ती परासारिता को बनाए रखने में मदद करती है।\nIV. प्रतिधारा गुणक क्रियाविधि PCT के चारों ओर परिनलिका केशिकाओं में संचालित होती है।\nउपरोक्त में से कौन-से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I and IV only",
+          "hi": "केवल I और IV"
+        },
+        "B": {
+          "en": "I, II, and III only",
+          "hi": "केवल I, II और III"
+        },
+        "C": {
+          "en": "II, III, and IV only",
+          "hi": "केवल II, III और IV"
+        },
+        "D": {
+          "en": "I, II, III, and IV",
+          "hi": "I, II, III और IV सभी"
+        }
+      }
+    }
+  ]
+}

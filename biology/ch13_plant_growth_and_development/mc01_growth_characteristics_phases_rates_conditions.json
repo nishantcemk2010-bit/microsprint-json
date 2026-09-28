@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch13_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "Plant growth is generally indeterminate because plants retain the capacity for unlimited growth throughout their life. This is due to the presence of:",
+        "hi": "पादप वृद्धि सामान्यतः अपरिमित (indeterminate) होती है क्योंकि पौधे जीवन भर असीमित वृद्धि की क्षमता बनाए रखते हैं। यह किसकी उपस्थिति के कारण होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Meristems at specific locations",
+          "hi": "विशिष्ट स्थानों पर विभज्योतकों (Meristems) की उपस्थिति"
+        },
+        "B": {
+          "en": "Permanent tissues throughout the plant body",
+          "hi": "संपूर्ण पादप शरीर में स्थायी ऊतक"
+        },
+        "C": {
+          "en": "Large vacuolated cells",
+          "hi": "बड़ी रिक्तिका युक्त कोशिकाएं"
+        },
+        "D": {
+          "en": "Continuous secondary growth only",
+          "hi": "केवल सतत द्वितीयक वृद्धि"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "The period of growth is generally divided into three phases: meristematic, elongation, and maturation. In which phase do cells show increased vacuolation, cell enlargement, and new cell wall deposition?",
+        "hi": "वृद्धि की अवधि को सामान्यतः तीन चरणों में विभाजित किया जाता है: विभज्योतकी, दीर्घीकरण और परिपक्वन। किस चरण में कोशिकाएं बढ़ी हुई रिक्तिका, कोशिका विवर्धन और नई कोशिका भित्ति का जमाव प्रदर्शित करती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Phase of elongation",
+          "hi": "दीर्घीकरण चरण (Phase of elongation)"
+        },
+        "B": {
+          "en": "Phase of meristematic activity",
+          "hi": "विभज्योतकी चरण"
+        },
+        "C": {
+          "en": "Phase of maturation",
+          "hi": "परिपक्वन चरण"
+        },
+        "D": {
+          "en": "Senescence phase",
+          "hi": "जीर्णता चरण"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "Arithmetic growth can be expressed mathematically as: Lt = L0 + rt. What does the parameter 'r' represent in this equation?",
+        "hi": "अंकगणितीय वृद्धि को गणितीय रूप से व्यक्त किया जा सकता है: Lt = L0 + rt। इस समीकरण में 'r' क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Growth rate / elongation per unit time",
+          "hi": "वृद्धि दर / प्रति इकाई समय में दीर्घीकरण"
+        },
+        "B": {
+          "en": "Initial length at time zero",
+          "hi": "समय शून्य पर प्रारंभिक लंबाई"
+        },
+        "C": {
+          "en": "Total time of experiment",
+          "hi": "प्रयोग का कुल समय"
+        },
+        "D": {
+          "en": "Base of natural logarithm",
+          "hi": "प्राकृतिक लघुगणक का आधार"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "In geometric growth, the S-shaped growth curve (sigmoid curve) is characteristic of living organisms growing in natural conditions. The three phases of the sigmoid curve are:",
+        "hi": "ज्यामितीय वृद्धि में, प्राकृतिक परिस्थितियों में उगने वाले जीवित जीवों के लिए S-आकार का वृद्धि वक्र (सिग्मॉइड वक्र) विशिष्ट है। सिग्मॉइड वक्र के तीन चरण कौन-से हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Lag phase, Log (exponential) phase, and Stationary phase",
+          "hi": "लैग चरण (मन्द काल), लॉग (घातीय) चरण और स्थिर चरण"
+        },
+        "B": {
+          "en": "Linear phase, stationary phase, and decline phase",
+          "hi": "रैखिक चरण, स्थिर चरण और गिरावट चरण"
+        },
+        "C": {
+          "en": "Initial phase, middle phase, and ending phase",
+          "hi": "प्रारंभिक चरण, मध्य चरण और अंतिम चरण"
+        },
+        "D": {
+          "en": "Mitotic phase, meiotic phase, and resting phase",
+          "hi": "समसूत्री चरण, अर्धसूत्री चरण और विश्राम चरण"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "The exponential growth equation is given as W1 = W0 * e^(rt). In this equation, what does 'r' represent?",
+        "hi": "घातीय वृद्धि समीकरण W1 = W0 * e^(rt) के रूप में दिया गया है। इस समीकरण में 'r' क्या दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Relative growth rate and the measure of ability of the plant to produce new plant material (efficiency index)",
+          "hi": "सापेक्ष वृद्धि दर तथा नए पादप पदार्थ उत्पन्न करने की पौधे की क्षमता का माप (दक्षता सूचकांक)"
+        },
+        "B": {
+          "en": "Absolute growth rate only",
+          "hi": "केवल निरपेक्ष वृद्धि दर"
+        },
+        "C": {
+          "en": "Base of natural logarithm",
+          "hi": "प्राकृतिक लघुगणक का आधार"
+        },
+        "D": {
+          "en": "Initial weight at time zero",
+          "hi": "समय शून्य पर प्रारंभिक भार"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "Measurement and comparison of total growth per unit time is called [X], while the growth of the given system per unit time expressed on a common basis (per unit initial parameter) is called [Y]. Identify X and Y:",
+        "hi": "प्रति इकाई समय में कुल वृद्धि का मापन और तुलना [X] कहलाता है, जबकि प्रति इकाई समय में किसी दिए गए तंत्र की वृद्धि को सामान्य आधार (प्रति इकाई प्रारंभिक मान) पर व्यक्त करना [Y] कहलाता है। X और Y की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "X = Absolute growth rate; Y = Relative growth rate",
+          "hi": "X = निरपेक्ष वृद्धि दर (Absolute growth rate); Y = सापेक्ष वृद्धि दर (Relative growth rate)"
+        },
+        "B": {
+          "en": "X = Relative growth rate; Y = Absolute growth rate",
+          "hi": "X = सापेक्ष वृद्धि दर; Y = निरपेक्ष वृद्धि दर"
+        },
+        "C": {
+          "en": "X = Arithmetic growth; Y = Geometric growth",
+          "hi": "X = अंकगणितीय वृद्धि; Y = ज्यामितीय वृद्धि"
+        },
+        "D": {
+          "en": "X = Efficiency index; Y = Intrinsic rate",
+          "hi": "X = दक्षता सूचकांक; Y = आंतरिक दर"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "Leaf A increases in area from 5 cm² to 10 cm² in one week. Leaf B increases in area from 50 cm² to 55 cm² in one week. Which leaf has a higher Relative Growth Rate (RGR)?",
+        "hi": "पत्ती A का क्षेत्रफल एक सप्ताह में 5 cm² से बढ़कर 10 cm² हो जाता है। पत्ती B का क्षेत्रफल एक सप्ताह में 50 cm² से बढ़कर 55 cm² हो जाता है। किस पत्ती की सापेक्ष वृद्धि दर (RGR) अधिक है?"
+      },
+      "options": {
+        "A": {
+          "en": "Leaf A (RGR = 5/5 = 100%, compared to Leaf B with 5/50 = 10%)",
+          "hi": "पत्ती A (RGR = 5/5 = 100%, जबकि पत्ती B की 5/50 = 10% है)"
+        },
+        "B": {
+          "en": "Leaf B",
+          "hi": "पत्ती B"
+        },
+        "C": {
+          "en": "Both have identical Relative Growth Rates",
+          "hi": "दोनों की सापेक्ष वृद्धि दर समान है"
+        },
+        "D": {
+          "en": "Cannot be determined without knowing leaf thickness",
+          "hi": "पत्ती की मोटाई जाने बिना निर्धारित नहीं किया जा सकता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "Turgidity of cells helps in extension growth. Thus, which environmental factor is essential for cell enlargement as well as enzyme activity during plant growth?",
+        "hi": "कोशिकाओं की स्फीति (turgidity) विस्तार वृद्धि में सहायता करती है। इस प्रकार पादप वृद्धि के दौरान कोशिका विवर्धन और एंजाइम सक्रियता दोनों के लिए कौन-सा पर्यावरणीय कारक आवश्यक है?"
+      },
+      "options": {
+        "A": {
+          "en": "Water",
+          "hi": "जल (Water)"
+        },
+        "B": {
+          "en": "Oxygen",
+          "hi": "ऑक्सीजन"
+        },
+        "C": {
+          "en": "Gravity",
+          "hi": "गुरुत्वाकर्षण"
+        },
+        "D": {
+          "en": "Carbon dioxide",
+          "hi": "कार्बन डाइऑक्साइड"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "In geometric growth, following mitotic cell division, how do daughter cells behave?",
+        "hi": "ज्यामितीय वृद्धि में, समसूत्री कोशिका विभाजन के बाद पुत्री कोशिकाएं कैसा व्यवहार करती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Both daughter cells retain the ability to divide and continue to do so",
+          "hi": "दोनों पुत्री कोशिकाएं विभाजन की क्षमता बनाए रखती हैं और लगातार विभाजित होती रहती हैं"
+        },
+        "B": {
+          "en": "Only one daughter cell divides while the other differentiates and matures",
+          "hi": "केवल एक पुत्री कोशिका विभाजित होती है जबकि दूसरी विभेदित व परिपक्व हो जाती है"
+        },
+        "C": {
+          "en": "Both daughter cells stop dividing permanently",
+          "hi": "दोनों पुत्री कोशिकाएं स्थायी रूप से विभाजन बंद कर देती हैं"
+        },
+        "D": {
+          "en": "One daughter cell degenerates immediately",
+          "hi": "एक पुत्री कोशिका तुरंत नष्ट हो जाती है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following parameters is commonly used to measure plant growth?",
+        "hi": "पादप वृद्धि को मापने के लिए सामान्यतः निम्नलिखित में से किन मापदंडों का उपयोग किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Increase in fresh weight, dry weight, length, area, volume, and cell number",
+          "hi": "ताजा भार, शुष्क भार, लंबाई, क्षेत्रफल, आयतन और कोशिका संख्या में वृद्धि"
+        },
+        "B": {
+          "en": "Only change in cell color",
+          "hi": "केवल कोशिका के रंग में परिवर्तन"
+        },
+        "C": {
+          "en": "Exclusively dry weight of dead cells",
+          "hi": "विशिष्ट रूप से मृत कोशिकाओं का शुष्क भार"
+        },
+        "D": {
+          "en": "Rate of transpiration only",
+          "hi": "केवल वाष्पोत्सर्जन की दर"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "Root apical meristem and shoot apical meristem are responsible for:",
+        "hi": "मूल शीर्षस्थ विभज्योतक और प्ररोह शीर्षस्थ विभज्योतक किसके लिए उत्तरदायी होते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Primary growth of the plant and elongation along its axis",
+          "hi": "पौधे की प्राथमिक वृद्धि और उसके अक्ष के समानांतर दीर्घीकरण"
+        },
+        "B": {
+          "en": "Increase in girth (diameter) exclusively",
+          "hi": "केवल तने की मोटाई (घेरा) बढ़ाने के लिए"
+        },
+        "C": {
+          "en": "Formation of bark and cork only",
+          "hi": "केवल छाल और कॉर्क निर्माण के लिए"
+        },
+        "D": {
+          "en": "Production of gametes",
+          "hi": "युग्मक निर्माण के लिए"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "In geometric growth, why does the exponential phase eventually slow down, leading to a stationary phase?",
+        "hi": "ज्यामितीय वृद्धि में, घातीय चरण अंततः धीमा क्यों पड़ जाता है, जिससे स्थिर चरण आ जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Limited nutrient supply and accumulation of toxic waste products",
+          "hi": "पोषक तत्वों की सीमित आपूर्ति और विषाक्त अपशिष्ट उत्पादों का संचय"
+        },
+        "B": {
+          "en": "Decrease in atmospheric oxygen",
+          "hi": "वायुमंडलीय ऑक्सीजन में कमी"
+        },
+        "C": {
+          "en": "Permanent destruction of all enzymes",
+          "hi": "सभी एंजाइमों का स्थायी विनाश"
+        },
+        "D": {
+          "en": "Failure of DNA replication",
+          "hi": "DNA प्रतिकृति की विफलता"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the growth curve in Column I with its mathematical representation in Column II:\n| Column I (Curve) | Column II (Equation) |\n| :--- | :--- |\n| P. Arithmetic growth | 1. W1 = W0 * e^(rt) |\n| Q. Geometric growth | 2. Lt = L0 + rt |\n| R. Sigmoid curve | 3. S-shaped curve (Lag + Log + Stationary) |\nSelect the correct combination:",
+        "hi": "स्तंभ I में वृद्धि वक्र को स्तंभ II में उसके गणितीय निरूपण के साथ सुमेलित कीजिए:\n| स्तंभ I (वक्र) | स्तंभ II (समीकरण) |\n| :--- | :--- |\n| P. अंकगणितीय वृद्धि | 1. W1 = W0 * e^(rt) |\n| Q. ज्यामितीय वृद्धि | 2. Lt = L0 + rt |\n| R. सिग्मॉइड वक्र | 3. S-आकार का वक्र (लैग + लॉग + स्थिर) |\nसही संयोजन का चयन कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P-2, Q-1, R-3",
+          "hi": "P-2, Q-1, R-3"
+        },
+        "B": {
+          "en": "P-1, Q-2, R-3",
+          "hi": "P-1, Q-2, R-3"
+        },
+        "C": {
+          "en": "P-3, Q-1, R-2",
+          "hi": "P-3, Q-1, R-2"
+        },
+        "D": {
+          "en": "P-2, Q-3, R-1",
+          "hi": "P-2, Q-3, R-1"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Examine the following statements about phases of growth:\nI. Cells of meristematic zone have rich protoplasm and large conspicuous nuclei.\nII. Cell walls in meristematic zone are thin, cellulosic, with abundant plasmodesmata.\nIII. Cells in the maturation zone attain their maximal size in terms of wall thickening and protoplasmic modifications.\nWhich statements are correct?",
+        "hi": "वृद्धि के चरणों के बारे में निम्नलिखित कथनों का परीक्षण कीजिए:\nI. विभज्योतकी क्षेत्र की कोशिकाओं में प्रचुर जीवद्रव्य और बड़े स्पष्ट केंद्रक होते हैं।\nII. विभज्योतकी क्षेत्र में कोशिका भित्तियां पतली, सेल्युलोज युक्त और प्रचुर जीवद्रव्यतंतु (प्लाज्मोडेस्मेटा) वाली होती हैं।\nIII. परिपक्वन क्षेत्र की कोशिकाएं भित्ति स्थूलन और जीवद्रव्यी रूपांतरण के संदर्भ में अपना अधिकतम आकार प्राप्त करती हैं।\nकौन-से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Statements I, II, and III are all correct",
+          "hi": "कथन I, II और III तीनों सही हैं"
+        },
+        "B": {
+          "en": "Only I and II are correct",
+          "hi": "केवल I और II सही हैं"
+        },
+        "C": {
+          "en": "Only I and III are correct",
+          "hi": "केवल I और III सही हैं"
+        },
+        "D": {
+          "en": "Only II and III are correct",
+          "hi": "केवल II और III सही हैं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "A plot of length against time for arithmetic growth yields a [X], while a plot of parameter against time for geometric growth yields an [Y]. Identify X and Y:",
+        "hi": "अंकगणितीय वृद्धि के लिए समय के विरुद्ध लंबाई का आलेख एक [X] देता है, जबकि ज्यामितीय वृद्धि के लिए समय के विरुद्ध मान का आलेख एक [Y] देता है। X और Y की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "X = Linear curve (straight line); Y = Sigmoid (S-shaped) curve",
+          "hi": "X = रैखिक वक्र (सीधी रेखा); Y = सिग्मॉइड (S-आकार का) वक्र"
+        },
+        "B": {
+          "en": "X = Sigmoid curve; Y = Linear curve",
+          "hi": "X = सिग्मॉइड वक्र; Y = रैखिक वक्र"
+        },
+        "C": {
+          "en": "X = Hyperbolic curve; Y = Parabolic curve",
+          "hi": "X = अतिपरवलयिक वक्र; Y = परवलयिक वक्र"
+        },
+        "D": {
+          "en": "X = Bell-shaped curve; Y = Straight line",
+          "hi": "X = घंटी के आकार का वक्र; Y = सीधी रेखा"
+        }
+      }
+    }
+  ]
+}

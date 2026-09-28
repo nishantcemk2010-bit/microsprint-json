@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch16_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following statements correctly describes the anatomical position and average dimensions of human kidneys?",
+        "hi": "निम्नलिखित में से कौन सा कथन मानव वृक्क की शारीरिक स्थिति और औसत विमाओं का सही वर्णन करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Intraperitoneal, between C7 and T12 vertebrae, 15-20 cm length, 250 g weight",
+          "hi": "अंतःपेरिटोनियल, C7 और T12 कशेरुकाओं के बीच, 15-20 सेमी लंबाई, 250 ग्राम वजन"
+        },
+        "B": {
+          "en": "Retroperitoneal, between T6 and T10 vertebrae, 5-7 cm length, 50-80 g weight",
+          "hi": "पश्चपेरिटोनियल (रेट्रोपेरिटोनियल), T6 और T10 कशेरुकाओं के बीच, 5-7 सेमी लंबाई, 50-80 ग्राम वजन"
+        },
+        "C": {
+          "en": "Retroperitoneal, between the levels of T12 and L3 vertebrae, 10-12 cm in length, 120-170 g weight",
+          "hi": "पश्चपेरिटोनियल (रेट्रोपेरिटोनियल), T12 और L3 कशेरुकाओं के स्तर के बीच, 10-12 सेमी लंबाई, 120-170 ग्राम भार"
+        },
+        "D": {
+          "en": "Intraperitoneal, between L1 and L5 vertebrae, 8-10 cm length, 200 g weight",
+          "hi": "अंतःपेरिटोनियल, L1 और L5 कशेरुकाओं के बीच, 8-10 सेमी लंबाई, 200 ग्राम वजन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "The extensions of the renal cortex that project inward between the medullary pyramids are known as:",
+        "hi": "मध्यांश (मेडुला) पिरामिडों के बीच अंदर की ओर उभरे हुए वृक्क वल्कुट के प्रसार क्या कहलाते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Columns of Bertin (renal columns)",
+          "hi": "बर्टिनी के स्तंभ (वृक्क स्तंभ)"
+        },
+        "B": {
+          "en": "Ducts of Bellini",
+          "hi": "बेलिनाई की नलिकाएं"
+        },
+        "C": {
+          "en": "Major calyces",
+          "hi": "दीर्घ चषक (Major calyces)"
+        },
+        "D": {
+          "en": "Renal papillae",
+          "hi": "वृक्क पैपिला"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "The Malpighian body (renal corpuscle) of a nephron comprises which two structures?",
+        "hi": "नेफ्रॉन का मैलपीघी काय (वृक्क कणिका) किन दो संरचनाओं से मिलकर बना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Proximal convoluted tubule and Henle's loop",
+          "hi": "समीपस्थ संवलित नलिका और हेनले का लूप"
+        },
+        "B": {
+          "en": "Glomerulus and Bowman's capsule",
+          "hi": "केशिकागुच्छ (ग्लोमेरुलस) और बोमन संपुट"
+        },
+        "C": {
+          "en": "Afferent arteriole and efferent arteriole",
+          "hi": "अभिवाही धमनिका और अपवाही धमनिका"
+        },
+        "D": {
+          "en": "Distal convoluted tubule and collecting duct",
+          "hi": "दूरस्थ संवलित नलिका और संग्रह नलिका"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "Podocytes are specialized cells that form filtration slits. Where are they located in the nephron?",
+        "hi": "पोडोसाइट्स (पदाणु) विशेष कोशिकाएं हैं जो निस्यंदन खांचे (स्लिट) बनाती हैं। वे नेफ्रॉन में कहाँ स्थित होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Parietal layer of Bowman's capsule",
+          "hi": "बोमन संपुट की भित्तीय (पार्श्विक) परत में"
+        },
+        "B": {
+          "en": "Inner endothelial lining of the glomerular capillary tuft",
+          "hi": "केशिकागुच्छ केशिकाओं की आंतरिक एंडोथीलियल परत में"
+        },
+        "C": {
+          "en": "Basement membrane between endothelium and capsule",
+          "hi": "एंडोथीलियम और संपुट के बीच की आधारीय झिल्ली में"
+        },
+        "D": {
+          "en": "Visceral epithelial layer of Bowman's capsule",
+          "hi": "बोमन संपुट की आंतरिक आंतरांगी (visceral) उपकला परत में"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "What type of epithelium lines the Proximal Convoluted Tubule (PCT) and facilitates massive reabsorption?",
+        "hi": "समीपस्थ संवलित नलिका (PCT) में किस प्रकार की उपकला पाई जाती है जो बड़े पैमाने पर पुनरवशोषण को सुगम बनाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Simple squamous non-ciliated epithelium",
+          "hi": "सरल शल्की गैर-पक्ष्माभी उपकला"
+        },
+        "B": {
+          "en": "Stratified columnar keratinized epithelium",
+          "hi": "स्तरीकृत स्तंभाकार किरेटिनयुक्त उपकला"
+        },
+        "C": {
+          "en": "Simple cuboidal brush border epithelium",
+          "hi": "सरल घनाकार ब्रुश-बॉर्डर उपकला"
+        },
+        "D": {
+          "en": "Transitional epithelium with uroplakin plaques",
+          "hi": "यूरोप्लेकिन पट्टिकाओं से युक्त अंतवर्ती उपकला (transitional epithelium)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "Vasa recta is a specialized capillary network that runs parallel to which tubular structure?",
+        "hi": "वासा रेक्टा एक विशेष केशिका जाल है जो किस नलिका संरचना के समानांतर चलता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Proximal convoluted tubule of cortical nephrons",
+          "hi": "वल्कुटीय नेफ्रॉन की समीपस्थ संवलित नलिका"
+        },
+        "B": {
+          "en": "Loop of Henle, predominantly in juxtamedullary nephrons",
+          "hi": "हेनले का लूप, मुख्य रूप से सन्निकट मध्यांश (जक्सटामेडुलरी) नेफ्रॉन में"
+        },
+        "C": {
+          "en": "Distal convoluted tubule within the renal capsule",
+          "hi": "वृक्क संपुट के भीतर दूरस्थ संवलित नलिका"
+        },
+        "D": {
+          "en": "Ureteric diverticulum inside the renal pelvis",
+          "hi": "वृक्क श्रोणि के अंदर यूरेटेरिक अंधनाल"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "What proportion of nephrons in human kidneys are cortical nephrons vs juxtamedullary nephrons?",
+        "hi": "मानव वृक्कों में वल्कुटीय (cortical) नेफ्रॉन बनाम सन्निकट मध्यांश (juxtamedullary) नेफ्रॉन का अनुपात क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cortical ~85%, Juxtamedullary ~15%",
+          "hi": "वल्कुटीय ~85%, सन्निकट मध्यांश ~15%"
+        },
+        "B": {
+          "en": "Cortical ~15%, Juxtamedullary ~85%",
+          "hi": "वल्कुटीय ~15%, सन्निकट मध्यांश ~85%"
+        },
+        "C": {
+          "en": "Cortical ~50%, Juxtamedullary ~50%",
+          "hi": "वल्कुटीय ~50%, सन्निकट मध्यांश ~50%"
+        },
+        "D": {
+          "en": "Cortical ~99%, Juxtamedullary ~1%",
+          "hi": "वल्कुटीय ~99%, सन्निकट मध्यांश ~1%"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "The afferent arteriole has a wider lumen than the efferent arteriole. What is the physiological consequence of this structural diameter difference?",
+        "hi": "अभिवाही धमनिका (afferent arteriole) का अवकाशिका व्यास अपवाही धमनिका (efferent arteriole) से अधिक चौड़ा होता है। इस व्यास भेद का कार्यिकीय परिणाम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Decreases glomerular filtration rate to prevent albumin loss",
+          "hi": "एल्बुमिन हानि को रोकने के लिए केशिकागुच्छ निस्यंदन दर को कम करता है"
+        },
+        "B": {
+          "en": "Forces active transport of urea back into renal interlobar veins",
+          "hi": "यूरिया के सक्रिय परिवहन को वृक्क अंतःपालि शिराओं में वापस धकेलता है"
+        },
+        "C": {
+          "en": "Causes severe turbulence leading to rapid hemolysis of RBCs",
+          "hi": "गंभीर विक्षोभ उत्पन्न करता है जिससे RBCs का तीव्र लयन होता है"
+        },
+        "D": {
+          "en": "Creates high glomerular capillary hydrostatic pressure that drives ultrafiltration",
+          "hi": "उच्च केशिकागुच्छ द्रवस्थैतिक दबाव उत्पन्न करता है जो परानिस्यंदन (ultrafiltration) को प्रेरित करता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "In a healthy human adult, what is the approximate total number of nephrons in both kidneys combined?",
+        "hi": "एक स्वस्थ वयस्क मानव में, दोनों वृक्कों में कुल मिलाकर नेफ्रॉनों की अनुमानित संख्या कितनी होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "100,000 (1 lakh)",
+          "hi": "100,000 (1 लाख)"
+        },
+        "B": {
+          "en": "500,000 (5 lakh)",
+          "hi": "500,000 (5 लाख)"
+        },
+        "C": {
+          "en": "2,000,000 (~2 million or 1 million per kidney)",
+          "hi": "2,000,000 (~20 लाख या 10 लाख प्रति वृक्क)"
+        },
+        "D": {
+          "en": "10,000,000 (1 crore)",
+          "hi": "10,000,000 (1 करोड़)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "The presence of a densely packed brush border of microvilli in the PCT increases its luminal surface area by approximately:",
+        "hi": "PCT में सूक्ष्मांकुरों (microvilli) के घने ब्रुश-बॉर्डर की उपस्थिति इसके गुहा पृष्ठीय क्षेत्रफल को लगभग कितना बढ़ा देती है?"
+      },
+      "options": {
+        "A": {
+          "en": "2-fold",
+          "hi": "2 गुना"
+        },
+        "B": {
+          "en": "20-fold",
+          "hi": "20 गुना"
+        },
+        "C": {
+          "en": "200-fold",
+          "hi": "200 गुना"
+        },
+        "D": {
+          "en": "1000-fold",
+          "hi": "1000 गुना"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following traces the correct anatomical sequence of filtrate flow through the parts of a nephron?",
+        "hi": "निम्नलिखित में से कौन नेफ्रॉन के भागों के माध्यम से निस्यंद के प्रवाह के सही शारीरिक क्रम को दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Bowman's capsule -> PCT -> Descending limb of Henle -> Ascending limb of Henle -> DCT -> Collecting duct",
+          "hi": "बोमन संपुट -> PCT -> हेनले की अवरोही भुजा -> हेनले की आरोही भुजा -> DCT -> संग्रह नलिका"
+        },
+        "B": {
+          "en": "Bowman's capsule -> DCT -> Ascending limb of Henle -> Descending limb of Henle -> PCT -> Collecting duct",
+          "hi": "बोमन संपुट -> DCT -> हेनले की आरोही भुजा -> हेनले की अवरोही भुजा -> PCT -> संग्रह नलिका"
+        },
+        "C": {
+          "en": "Glomerulus -> DCT -> PCT -> Loop of Henle -> Calyx -> Collecting duct",
+          "hi": "केशिकागुच्छ -> DCT -> PCT -> हेनले का लूप -> चषक -> संग्रह नलिका"
+        },
+        "D": {
+          "en": "Bowman's capsule -> Ascending limb of Henle -> PCT -> Descending limb -> DCT -> Ureter",
+          "hi": "बोमन संपुट -> हेनले की आरोही भुजा -> PCT -> अवरोही भुजा -> DCT -> मूत्रवाहिनी"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "Desert mammals, such as the kangaroo rat (Dipodomys), can survive without drinking liquid water because of which nephron specialization?",
+        "hi": "कंगारू चूहा (Dipodomys) जैसे मरुस्थलीय स्तनधारी बिना तरल जल पिए जीवित रह सकते हैं, इसका कारण किस नेफ्रॉन विशेषज्ञता की उपस्थिति है?"
+      },
+      "options": {
+        "A": {
+          "en": "Complete absence of glomeruli to prevent any filtration",
+          "hi": "किसी भी निस्यंदन को रोकने के लिए केशिकागुच्छों की पूर्ण अनुपस्थिति"
+        },
+        "B": {
+          "en": "Predominance of cortical nephrons with very short loops of Henle",
+          "hi": "बहुत छोटे हेनले लूप वाले वल्कुटीय नेफ्रॉनों की प्रधानता"
+        },
+        "C": {
+          "en": "Replacement of Henle's loop with flame bulbs",
+          "hi": "हेनले के लूप का ज्वाला बल्बों द्वारा प्रतिस्थापन"
+        },
+        "D": {
+          "en": "Very high proportion of juxtamedullary nephrons with extremely long loops of Henle",
+          "hi": "अत्यधिक लंबे हेनले लूप वाले सन्निकट मध्यांश (जक्सटामेडुलरी) नेफ्रॉनों का अत्यधिक उच्च अनुपात"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the nephron components in Column-I with their characteristic features in Column-II:\nColumn-I:\n(a) Podocytes\n(b) Proximal Convoluted Tubule\n(c) Columns of Bertin\n(d) Vasa recta\n\nColumn-II:\n(i) Brush border of dense microvilli\n(ii) Slit pores or filtration slits\n(iii) Hairpin-shaped capillary loop parallel to Henle's loop\n(iv) Cortical tissue extending between medullary pyramids",
+        "hi": "कॉलम-I में दिए गए नेफ्रॉन घटकों का कॉलम-II की उनकी विशिष्ट विशेषताओं से मिलान कीजिए:\nकॉलम-I:\n(a) पोडोसाइट्स (पदाणु)\n(b) समीपस्थ संवलित नलिका (PCT)\n(c) बर्टिनी के स्तंभ\n(d) वासा रेक्टा\n\nकॉलम-II:\n(i) घने सूक्ष्मांकुरों का ब्रुश-बॉर्डर\n(ii) स्लिट छिद्र या निस्यंदन खांच\n(iii) हेनले के लूप के समानांतर हेयरपिन के आकार का केशिका लूप\n(iv) मध्यांश पिरामिडों के बीच फैला वल्कुट ऊतक"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+        },
+        "B": {
+          "en": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+          "hi": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        },
+        "C": {
+          "en": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "hi": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        },
+        "D": {
+          "en": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+          "hi": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Observe the gross anatomical pathway of urine exiting the kidney. Which sequence correctly represents the route from medullary pyramids to the ureter?",
+        "hi": "वृक्क से बाहर निकलने वाले मूत्र के स्थूल शारीरिक मार्ग को देखिए। कौन सा क्रम मध्यांश पिरामिडों से मूत्रवाहिनी तक के मार्ग को सही रूप से दर्शाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Medullary pyramid -> Renal papilla -> Minor calyx -> Major calyx -> Renal pelvis -> Ureter",
+          "hi": "मध्यांश पिरामिड -> वृक्क पैपिला -> लघु चषक -> दीर्घ चषक -> वृक्क श्रोणि (पेल्विस) -> मूत्रवाहिनी"
+        },
+        "B": {
+          "en": "Renal pelvis -> Major calyx -> Minor calyx -> Renal papilla -> Ureter",
+          "hi": "वृक्क श्रोणि -> दीर्घ चषक -> लघु चषक -> वृक्क पैपिला -> मूत्रवाहिनी"
+        },
+        "C": {
+          "en": "Medullary pyramid -> Renal pelvis -> Minor calyx -> Major calyx -> Ureter",
+          "hi": "मध्यांश पिरामिड -> वृक्क श्रोणि -> लघु चषक -> दीर्घ चषक -> मूत्रवाहिनी"
+        },
+        "D": {
+          "en": "Calyx -> Renal cortex -> Renal papilla -> Renal pelvis -> Ureter",
+          "hi": "चषक -> वृक्क वल्कुट -> वृक्क पैपिला -> वृक्क श्रोणि -> मूत्रवाहिनी"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch16_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Given below are two statements regarding cortical and juxtamedullary nephrons:\nStatement I: In cortical nephrons, the loop of Henle is too short and extends very little into the medulla.\nStatement II: Juxtamedullary nephrons possess a well-developed vasa recta which plays a crucial role in concentrating urine.\nIn the light of above statements, choose the most appropriate answer:",
+        "hi": "वल्कुटीय और सन्निकट मध्यांश नेफ्रॉनों के संबंध में नीचे दो कथन दिए गए हैं:\nकथन I: वल्कुटीय नेफ्रॉनों में हेनले का लूप बहुत छोटा होता है और मध्यांश में बहुत कम धंसा होता है।\nकथन II: सन्निकट मध्यांश (juxtamedullary) नेफ्रॉनों में सुविकसित वासा रेक्टा होती है जो मूत्र को सांद्रित करने में महत्वपूर्ण भूमिका निभाती है।\nउपरोक्त कथनों के आलोक में सर्वाधिक उपयुक्त उत्तर चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "Statement I is correct but Statement II is incorrect",
+          "hi": "कथन I सही है लेकिन कथन II गलत है"
+        },
+        "B": {
+          "en": "Both Statement I and Statement II are correct",
+          "hi": "कथन I और कथन II दोनों सही हैं"
+        },
+        "C": {
+          "en": "Statement I is incorrect but Statement II is correct",
+          "hi": "कथन I गलत है लेकिन कथन II सही है"
+        },
+        "D": {
+          "en": "Both Statement I and Statement II are incorrect",
+          "hi": "कथन I और कथन II दोनों गलत हैं"
+        }
+      }
+    }
+  ]
+}

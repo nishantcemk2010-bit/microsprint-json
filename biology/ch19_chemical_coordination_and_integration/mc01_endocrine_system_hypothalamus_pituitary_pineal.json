@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch19_mc01_q01",
+      "category": "theory",
+      "question": {
+        "en": "According to the modern scientific definition given in NCERT, hormones are correctly defined as:",
+        "hi": "NCERT में दी गई आधुनिक वैज्ञानिक परिभाषा के अनुसार, हार्मोनों को सही रूप में किस प्रकार परिभाषित किया गया है?"
+      },
+      "options": {
+        "A": {
+          "en": "Nutrient-rich chemical secretions carried by ducts to digestive organs",
+          "hi": "पोषक तत्वों से भरपूर रासायनिक स्राव जो नलिकाओं द्वारा पाचन अंगों तक ले जाए जाते हैं"
+        },
+        "B": {
+          "en": "Proteins produced in large quantities that provide direct cellular energy",
+          "hi": "बड़ी मात्रा में उत्पादित प्रोटीन जो प्रत्यक्ष कोशिकीय ऊर्जा प्रदान करते हैं"
+        },
+        "C": {
+          "en": "Non-nutrient intercellular chemical messengers produced in trace amounts",
+          "hi": "अ-पोषक अंतरकोशिकीय रासायनिक संदेशवाहक जो सूक्ष्म मात्रा में उत्पन्न होते हैं"
+        },
+        "D": {
+          "en": "Enzymatic catalysts released exclusively by exocrine glands into body cavities",
+          "hi": "एंजाइमी उत्प्रेरक जो विशेष रूप से बहिःस्रावी ग्रंथियों द्वारा देहगुहाओं में छोड़े जाते हैं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q02",
+      "category": "theory",
+      "question": {
+        "en": "The pituitary gland is anatomically located in a bony cavity of the sphenoid bone called:",
+        "hi": "पीयूष ग्रंथि (पिट्यूटरी) स्फेनॉइड अस्थि की एक अस्थिल गुहा में स्थित होती है, जिसे क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Sella turcica and is connected to the hypothalamus by an infundibulum stalk",
+          "hi": "सेला टर्सिका और यह हाइपोथैलेमस से एक वृंत (इन्फंडिबुलम) द्वारा जुड़ी होती है"
+        },
+        "B": {
+          "en": "Foramen magnum and is connected to the medulla oblongata",
+          "hi": "फोरामेन मैग्नम और यह मेडुला ऑबलोंगाटा से जुड़ी होती है"
+        },
+        "C": {
+          "en": "Glenoid cavity and is suspended from the cerebral cortex",
+          "hi": "ग्लीनॉइड गुहा और यह प्रमस्तिष्क वल्कुट से निलंबित होती है"
+        },
+        "D": {
+          "en": "Cribriform plate and is connected directly to the olfactory bulb",
+          "hi": "क्रिब्रीफॉर्म प्लेट और यह सीधे घ्राण बल्ब से जुड़ी होती है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q03",
+      "category": "theory",
+      "question": {
+        "en": "Which hypothalamic hormone specifically inhibits the release of Growth Hormone (GH) from the anterior pituitary?",
+        "hi": "कौन सा हाइपोथैलेमिक हार्मोन अग्र पीयूष ग्रंथि से वृद्धि हार्मोन (GH) के स्राव को विशेष रूप से रोकता (संदमित करता) है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gonadotropin-Releasing Hormone (GnRH)",
+          "hi": "गोनाडोट्रोपिन-मोचक हार्मोन (GnRH)"
+        },
+        "B": {
+          "en": "Somatostatin",
+          "hi": "सोमैटोस्टैटिन"
+        },
+        "C": {
+          "en": "Thyrotropin-Releasing Hormone (TRH)",
+          "hi": "थायरोट्रोपिन-मोचक हार्मोन (TRH)"
+        },
+        "D": {
+          "en": "Corticotropin-Releasing Hormone (CRH)",
+          "hi": "कोर्टिकोट्रोपिन-मोचक हार्मोन (CRH)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q04",
+      "category": "theory",
+      "question": {
+        "en": "The adenohypophysis of the pituitary gland consists of two portions, namely:",
+        "hi": "पीयूष ग्रंथि का एडेनोहाइपोफाइसिस दो भागों से मिलकर बना होता है, जिनके नाम हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Pars distalis and Pars nervosa",
+          "hi": "पार्स डिस्टैलिस और पार्स नर्वोसा"
+        },
+        "B": {
+          "en": "Pars tuberalis and Epithalamus",
+          "hi": "पार्स ट्यूबरैलिस और एपिथैलेमस"
+        },
+        "C": {
+          "en": "Corpus callosum and Pars nervosa",
+          "hi": "कॉर्पस कैलोसम और पार्स नर्वोसा"
+        },
+        "D": {
+          "en": "Pars distalis and Pars intermedia",
+          "hi": "पार्स डिस्टैलिस और पार्स इंटरमीडिया"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q05",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following statements regarding the neurohypophysis (pars nervosa) is factually correct?",
+        "hi": "न्यूरोहाइपोफाइसिस (पार्स नर्वोसा) के संदर्भ में निम्नलिखित में से कौन सा कथन तथ्यात्मक रूप से सही है?"
+      },
+      "options": {
+        "A": {
+          "en": "It synthesizes, stores, and secretes Prolactin and TSH",
+          "hi": "यह प्रोलैक्टिन और TSH का संश्लेषण, संचयन और स्राव करता है"
+        },
+        "B": {
+          "en": "It is connected to the hypothalamus solely via the hypophyseal portal circulation",
+          "hi": "यह हाइपोथैलेमस से केवल हाइपोफाइसियल निवाहिका परिसंचरण द्वारा जुड़ा होता है"
+        },
+        "C": {
+          "en": "It only stores and releases Oxytocin and Vasopressin, which are synthesized by hypothalamus",
+          "hi": "यह केवल ऑक्सीटोसिन और वैसोप्रेसिन का संचय और विमोचन करता है, जो हाइपोथैलेमस द्वारा संश्लेषित होते हैं"
+        },
+        "D": {
+          "en": "It degenerates completely in adulthood to form the pineal body",
+          "hi": "यह वयस्क अवस्था में पूरी तरह से अपह्रासित होकर पीनियल काय बनाता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q06",
+      "category": "theory",
+      "question": {
+        "en": "The pineal gland is located on the dorsal side of forebrain and secretes a hormone called melatonin, which primarily functions to:",
+        "hi": "पीनियल ग्रंथि अग्र-मस्तिष्क के पृष्ठ भाग पर स्थित होती है और मेलाटोनिन नामक हार्मोन स्रावित करती है, जिसका प्राथमिक कार्य क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Maintain the 24-hour diurnal (circadian) rhythm of sleep-wake cycle and body temperature",
+          "hi": "नींद-जागने के चक्र और शरीर के तापमान की 24 घंटे की दैनिक (सर्कैडियन) लय बनाए रखना"
+        },
+        "B": {
+          "en": "Stimulate the development of female secondary sexual characters during puberty",
+          "hi": "यौवनारंभ के दौरान महिला द्वितीयक लैंगिक लक्षणों के विकास को प्रेरित करना"
+        },
+        "C": {
+          "en": "Directly increase the reabsorption of calcium ions in distal convoluted tubules",
+          "hi": "दूरस्थ संवलित नलिकाओं में कैल्शियम आयनों के पुनरवशोषण को सीधे बढ़ाना"
+        },
+        "D": {
+          "en": "Trigger glycogen breakdown in hepatocytes during fight-or-flight reactions",
+          "hi": "संकटकालीन प्रतिक्रियाओं के दौरान यकृताणुओं में ग्लाइकोजन के विखंडन को प्रेरित करना"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q07",
+      "category": "formula",
+      "question": {
+        "en": "Consider the following statements regarding Growth Hormone (GH) disorders:\nI. Low secretion of GH in childhood causes pituitary dwarfism.\nII. Hypersecretion of GH in adulthood leads to acromegaly with severe facial disfigurement.\nIII. Hypersecretion of GH in childhood causes gigantism.\nWhich of the above statements are correct?",
+        "hi": "वृद्धि हार्मोन (GH) के विकारों के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nI. बाल्यावस्था में GH के अल्पस्राव से पिट्यूटरी बौनापन होता है।\nII. वयस्कता में GH के अतिस्राव से एक्रोमेगाली होती है जिसमें चेहरे की गंभीर विकृति हो जाती है।\nIII. बाल्यावस्था में GH के अतिस्राव से महाकायता (जाइगैन्टिज्म) होती है।\nउपरोक्त में से कौन से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I and II only",
+          "hi": "केवल I और II"
+        },
+        "B": {
+          "en": "I, II, and III",
+          "hi": "I, II, और III सभी"
+        },
+        "C": {
+          "en": "II and III only",
+          "hi": "केवल II और III"
+        },
+        "D": {
+          "en": "I and III only",
+          "hi": "केवल I और III"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q08",
+      "category": "formula",
+      "question": {
+        "en": "During parturition and lactation in human females, oxytocin mediates two distinct physiological reflexes. These are:",
+        "hi": "मानव मादा में प्रसव और दुग्धपान के दौरान, ऑक्सीटोसिन दो अलग-अलग शारीरिक प्रतिवर्तों का संचालन करता है। ये हैं:"
+      },
+      "options": {
+        "A": {
+          "en": "Synthesis of milk in alveoli and relaxation of uterine myometrium",
+          "hi": "कूपिकाओं में दुग्ध का संश्लेषण और गर्भाशय मायोमेट्रियम का शिथिलन"
+        },
+        "B": {
+          "en": "Secretion of progesterone and maintenance of corpus luteum",
+          "hi": "प्रोजेस्टेरोन का स्राव और कॉर्पस ल्यूटियम का अनुरक्षण"
+        },
+        "C": {
+          "en": "Inhibition of prolactin release and constriction of fallopian tubes",
+          "hi": "प्रोलैक्टिन स्राव का संदमन और फैलोपियन नलिकाओं का संकुचन"
+        },
+        "D": {
+          "en": "Vigorous contraction of uterine myometrium and milk ejection reflex",
+          "hi": "गर्भाशय मायोमेट्रियम का तीव्र संकुचन और दुग्ध निष्कासन प्रतिवर्त"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q09",
+      "category": "formula",
+      "question": {
+        "en": "Deficiency or hyposecretion of Antidiuretic Hormone (ADH / Vasopressin) diminishes the kidney's ability to conserve water, resulting in a condition known as:",
+        "hi": "एंटीडाइयूरेटिक हार्मोन (ADH / वैसोप्रेसिन) की कमी या अल्पस्राव से वृक्क द्वारा जल संरक्षण की क्षमता कम हो जाती है, जिसके परिणामस्वरूप कौन सा विकार उत्पन्न होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Diabetes insipidus, marked by polyuria and absence of glucose in urine",
+          "hi": "डायबिटीज इंसिपिडस (उदकमेह), जिसमें बहुमूत्रता होती है तथा मूत्र में ग्लूकोज अनुपस्थित होता है"
+        },
+        "B": {
+          "en": "Diabetes mellitus, characterized by hyperglycemia and glycosuria",
+          "hi": "डायबिटीज मेलिटस (मधुमेह), जिसमें अतिग्लूकोज-रक्तता और मूत्र में शर्करा होती है"
+        },
+        "C": {
+          "en": "Addison's disease, marked by severe sodium retention and hypertension",
+          "hi": "एडिसन रोग, जिसमें अत्यधिक सोडियम प्रतिधारण और उच्च रक्तचाप होता है"
+        },
+        "D": {
+          "en": "Cushing's syndrome, accompanied by hypercalcemia and bone fragility",
+          "hi": "कुशिंग सिंड्रोम, जिसमें हाइपरकैल्सीमिया और अस्थि भंगुरता होती है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q10",
+      "category": "formula",
+      "question": {
+        "en": "Match the gonadotropin action correctly in human males and females:\nI. In males, LH stimulates Leydig cells to synthesize androgens.\nII. In females, LH induces ovulation of Graafian follicles and maintains corpus luteum.\nIII. In males, FSH along with androgens regulates spermatogenesis.\nWhich of the above statements are correct?",
+        "hi": "मानव नर और मादा में गोनाडोट्रोपिन की क्रियाओं का सही मिलान कीजिए:\nI. नर में, LH लेडिग कोशिकाओं को एंड्रोजेन संश्लेषित करने के लिए प्रेरित करता है।\nII. मादा में, LH ग्रैफियन पुटिकाओं के अंडोत्सर्ग को प्रेरित करता है तथा कॉर्पस ल्यूटियम को बनाए रखता है।\nIII. नर में, FSH एंड्रोजेन्स के साथ मिलकर शुक्रजनन का नियमन करता है।\nउपरोक्त में से कौन से कथन सही हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "I and II only",
+          "hi": "केवल I और II"
+        },
+        "B": {
+          "en": "II and III only",
+          "hi": "केवल II और III"
+        },
+        "C": {
+          "en": "I, II, and III",
+          "hi": "I, II, और III सभी"
+        },
+        "D": {
+          "en": "I and III only",
+          "hi": "केवल I और III"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q11",
+      "category": "formula",
+      "question": {
+        "en": "How do hypothalamic hormones reach the anterior pituitary versus the posterior pituitary?",
+        "hi": "हाइपोथैलेमिक हार्मोन अग्र पीयूष ग्रंथि बनाम पश्च पीयूष ग्रंथि तक किस प्रकार पहुँचते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Anterior via direct axonal tracts; Posterior via the lymphatic channels",
+          "hi": "अग्र में प्रत्यक्ष अक्षतंतु मार्गों द्वारा; पश्च में लसिका वाहिकाओं द्वारा"
+        },
+        "B": {
+          "en": "Anterior via hypophyseal portal system; Posterior via direct axonal transport",
+          "hi": "अग्र में हाइपोफाइसियल पोर्टल तंत्र द्वारा; पश्च में प्रत्यक्ष तंत्रिकाक्षीय परिवहन द्वारा"
+        },
+        "C": {
+          "en": "Both lobes are regulated exclusively via the systemic arterial blood flow",
+          "hi": "दोनों पालियों का नियमन विशेष रूप से दैहिक धमनी रक्त प्रवाह द्वारा होता है"
+        },
+        "D": {
+          "en": "Anterior via cerebrospinal fluid; Posterior via hypophyseal portal veins",
+          "hi": "अग्र में प्रमस्तिष्कमेरु द्रव द्वारा; पश्च में हाइपोफाइसियल पोर्टल शिराओं द्वारा"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q12",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following hormones is secreted by the pars intermedia of the pituitary gland?",
+        "hi": "पीयूष ग्रंथि के पार्स इंटरमीडिया भाग द्वारा निम्नलिखित में से कौन सा हार्मोन स्रावित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Adrenocorticotropic Hormone (ACTH)",
+          "hi": "एड्रिनोकोर्टिकोट्रोपिक हार्मोन (ACTH)"
+        },
+        "B": {
+          "en": "Follicle Stimulating Hormone (FSH)",
+          "hi": "पुटिका प्रेरक हार्मोन (FSH)"
+        },
+        "C": {
+          "en": "Thyroid Stimulating Hormone (TSH)",
+          "hi": "थायरॉयड प्रेरक हार्मोन (TSH)"
+        },
+        "D": {
+          "en": "Melanocyte Stimulating Hormone (MSH)",
+          "hi": "मेलानोसाइट प्रेरक हार्मोन (MSH)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the hormones in Column I with their respective endocrine origin / storage sites in Column II:\n\nColumn I:\na. Oxytocin\nb. Prolactin\nc. MSH\nd. Melatonin\n\nColumn II:\n1. Pars intermedia\n2. Pineal gland\n3. Synthesized in hypothalamus, stored in Neurohypophysis\n4. Pars distalis",
+        "hi": "स्तंभ I में दिए गए हार्मोनों का स्तंभ II में उनके संबंधित अंतःस्रावी उत्पत्ति / संचयन स्थलों से मिलान कीजिए:\n\nस्तंभ I:\na. ऑक्सीटोसिन\nb. प्रोलैक्टिन\nc. MSH\nd. मेलाटोनिन\n\nस्तंभ II:\n1. पार्स इंटरमीडिया\n2. पीनियल ग्रंथि\n3. हाइपोथैलेमस में संश्लेषित, न्यूरोहाइपोफाइसिस में संचित\n4. पार्स डिस्टैलिस"
+      },
+      "options": {
+        "A": {
+          "en": "a-4, b-3, c-1, d-2",
+          "hi": "a-4, b-3, c-1, d-2"
+        },
+        "B": {
+          "en": "a-3, b-4, c-1, d-2",
+          "hi": "a-3, b-4, c-1, d-2"
+        },
+        "C": {
+          "en": "a-3, b-1, c-4, d-2",
+          "hi": "a-3, b-1, c-4, d-2"
+        },
+        "D": {
+          "en": "a-2, b-4, c-1, d-3",
+          "hi": "a-2, b-4, c-1, d-3"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q14",
+      "category": "diagram",
+      "question": {
+        "en": "In a schematic diagram of the human brain illustrating the endocrine glands, which pair of glands is located in the diencephalon / epithalamus region?",
+        "hi": "मानव मस्तिष्क में अंतःस्रावी ग्रंथियों को दर्शाने वाले एक आरेखीय निरूपण में, ग्रंथियों का कौन सा युग्म डाइएनसिफैलॉन / एपिथैलेमस क्षेत्र में स्थित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Hypothalamus and Pineal gland",
+          "hi": "हाइपोथैलेमस और पीनियल ग्रंथि"
+        },
+        "B": {
+          "en": "Thymus and Thyroid gland",
+          "hi": "थाइमस और थायरॉयड ग्रंथि"
+        },
+        "C": {
+          "en": "Adrenal gland and Pancreas",
+          "hi": "एड्रिनल ग्रंथि और अग्न्याशय"
+        },
+        "D": {
+          "en": "Parathyroid and Pituitary gland",
+          "hi": "पैराथायरॉयड और पीयूष ग्रंथि"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc01_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Match the clinical condition in Column I with its corresponding hormone anomaly in Column II:\n\nColumn I:\na. Acromegaly\nb. Diabetes insipidus\nc. Pituitary dwarfism\nd. Jet lag / sleep rhythm disruption\n\nColumn II:\n1. Hyposecretion of GH in childhood\n2. Melatonin dysregulation\n3. Hypersecretion of GH in adulthood\n4. Hyposecretion of Vasopressin (ADH)",
+        "hi": "स्तंभ I में दी गई चिकित्सीय स्थिति का स्तंभ II में दी गई संबंधित हार्मोन विसंगति से मिलान कीजिए:\n\nस्तंभ I:\na. एक्रोमेगाली\nb. डायबिटीज इंसिपिडस\nc. पिट्यूटरी बौनापन\nd. जेट लैग / निद्रा चक्र विकार\n\nस्तंभ II:\n1. बाल्यावस्था में GH का अल्पस्राव\n2. मेलाटोनिन का असंतुलन\n3. वयस्कता में GH का अतिस्राव\n4. वैसोप्रेसिन (ADH) का अल्पस्राव"
+      },
+      "options": {
+        "A": {
+          "en": "a-1, b-4, c-3, d-2",
+          "hi": "a-1, b-4, c-3, d-2"
+        },
+        "B": {
+          "en": "a-3, b-1, c-4, d-2",
+          "hi": "a-3, b-1, c-4, d-2"
+        },
+        "C": {
+          "en": "a-3, b-4, c-1, d-2",
+          "hi": "a-3, b-4, c-1, d-2"
+        },
+        "D": {
+          "en": "a-4, b-3, c-1, d-2",
+          "hi": "a-4, b-3, c-1, d-2"
+        }
+      }
+    }
+  ]
+}

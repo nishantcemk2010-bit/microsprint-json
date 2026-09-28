@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch19_mc02_q01",
+      "category": "theory",
+      "question": {
+        "en": "The two lobes of the human thyroid gland are located on either side of the trachea and are interconnected by a thin flap of connective tissue called:",
+        "hi": "मानव थायरॉयड ग्रंथि की दो पालियाँ श्वासनली के दोनों ओर स्थित होती हैं और संयोजी ऊतक के एक पतले पट्टे द्वारा आपस में जुड़ी होती हैं, जिसे क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Infundibulum",
+          "hi": "इन्फंडिबुलम"
+        },
+        "B": {
+          "en": "Isthmus",
+          "hi": "इस्थमस (संकीर्ण पथ)"
+        },
+        "C": {
+          "en": "Ligamentum arteriosum",
+          "hi": "लिगामेंटम आर्टीरियोसम"
+        },
+        "D": {
+          "en": "Falciform ligament",
+          "hi": "फाल्सीफॉर्म लिगामेंट"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q02",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following is NOT a physiological function of thyroid hormones (T3 and T4)?",
+        "hi": "निम्नलिखित में से कौन सा थायरॉयड हार्मोन (T3 और T4) का शारीरिक कार्य नहीं है?"
+      },
+      "options": {
+        "A": {
+          "en": "Regulation of the basal metabolic rate (BMR)",
+          "hi": "आधारभूत उपापचयी दर (BMR) का नियमन"
+        },
+        "B": {
+          "en": "Supporting the process of red blood cell formation (erythropoiesis)",
+          "hi": "लाल रक्त कणिकाओं के निर्माण (एरिथ्रोपोइसिस) की प्रक्रिया का समर्थन"
+        },
+        "C": {
+          "en": "Maintenance of water and electrolyte balance in the body",
+          "hi": "शरीर में जल और विद्युत-अपघट्य (इलेक्ट्रोलाइट) संतुलन का अनुरक्षण"
+        },
+        "D": {
+          "en": "Direct stimulation of osteoclast resorption to cause hypercalcemia",
+          "hi": "अस्थिशोषक (ऑस्टियोक्लास्ट) अवशोषण का सीधा प्रेरण जिससे हाइपरकैल्सीमिया हो"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q03",
+      "category": "theory",
+      "question": {
+        "en": "Thyrocalcitonin (TCT), secreted by the parafollicular C-cells of the thyroid gland, acts to:",
+        "hi": "थायरॉयड ग्रंथि की पैराफॉलिक्युलर सी-कोशिकाओं द्वारा स्रावित थायरोकैल्सीटोनिन (TCT) क्या कार्य करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Lower blood calcium levels (hypocalcemic peptide hormone)",
+          "hi": "रक्त में कैल्शियम के स्तर को कम करना (हाइपोकैल्सीमिक पेप्टाइड हार्मोन)"
+        },
+        "B": {
+          "en": "Increase blood calcium levels by mobilizing calcium from bone matrix",
+          "hi": "अस्थि मैट्रिक्स से कैल्शियम को मुक्त करके रक्त कैल्शियम स्तर को बढ़ाना"
+        },
+        "C": {
+          "en": "Accelerate iodine absorption in the intestinal mucosa",
+          "hi": "आंतों के म्यूकोसा में आयोडीन के अवशोषण को तेज करना"
+        },
+        "D": {
+          "en": "Inhibit thyroid-stimulating hormone (TSH) release from adenohypophysis",
+          "hi": "एडेनोहाइपोफाइसिस से थायरॉयड प्रेरक हार्मोन (TSH) के विमोचन को रोकना"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which statement regarding the thymus gland is factually INCORRECT?",
+        "hi": "थाइमस ग्रंथि के संबंध में निम्नलिखित में से कौन सा कथन तथ्यात्मक रूप से गलत है?"
+      },
+      "options": {
+        "A": {
+          "en": "It is located between lungs behind sternum on the ventral side of aorta",
+          "hi": "यह फेफड़ों के बीच उरोस्थि के पीछे महाधमनी के अधर भाग में स्थित होती है"
+        },
+        "B": {
+          "en": "It secretes peptide hormones named thymosins",
+          "hi": "यह थाइमोसिन नामक पेप्टाइड हार्मोन स्रावित करती है"
+        },
+        "C": {
+          "en": "It increases in size progressively throughout life, reaching maximum mass in old age",
+          "hi": "यह जीवन भर आकार में उत्तरोत्तर बढ़ती है और वृद्धावस्था में अधिकतम द्रव्यमान प्राप्त करती है"
+        },
+        "D": {
+          "en": "Thymosins promote T-lymphocyte differentiation for cell-mediated immunity",
+          "hi": "थाइमोसिन कोशिका-माध्यित प्रतिरक्षा के लिए T-लिम्फोसाइट्स के विभेदन को प्रेरित करते हैं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q05",
+      "category": "theory",
+      "question": {
+        "en": "The adrenal medulla secretes two catecholamines, adrenaline and noradrenaline. These are commonly known as emergency or 3F hormones because they:",
+        "hi": "एड्रिनल मध्यांश (मेडुला) दो कैटेकोलामाइन, एड्रिनेलिन और नॉरएड्रिनेलिन स्रावित करता है। इन्हें आमतौर पर आपातकालीन या 3F हार्मोन कहा जाता है क्योंकि वे:"
+      },
+      "options": {
+        "A": {
+          "en": "Promote deep sleep and decrease body temperature during resting phase",
+          "hi": "विश्राम के दौरान गहरी नींद को बढ़ावा देते हैं और शरीर का तापमान घटाते हैं"
+        },
+        "B": {
+          "en": "Increase alertness, pupillary dilation, piloerection, heart rate, and glycogenolysis in response to stress",
+          "hi": "तनाव के समय सतर्कता, पुतली का फैलना, रोंगटे खड़े होना, हृदय गति और ग्लाइकोजन अपघटन को बढ़ाते हैं"
+        },
+        "C": {
+          "en": "Exclusively stimulate glycogenesis and deposition of adipose lipids",
+          "hi": "केवल ग्लाइकोजेनेसिस और वसा के संचयन को प्रेरित करते हैं"
+        },
+        "D": {
+          "en": "Inhibit breathing rate and decrease cardiac output to conserve cellular oxygen",
+          "hi": "ऑक्सीजन संरक्षण के लिए श्वसन दर को रोकते हैं और हृदय निकास को कम करते हैं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q06",
+      "category": "theory",
+      "question": {
+        "en": "The three concentric layers of the adrenal cortex from the outer surface to the inner boundary are:",
+        "hi": "एड्रिनल वल्कुट (कोर्टेक्स) की तीन संकेंद्री परतें बाहरी सतह से भीतरी सीमा तक क्रमशः कौन सी हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Zona fasciculata -> Zona reticularis -> Zona glomerulosa",
+          "hi": "ज़ोना फैसिकुलेटा -> ज़ोना रेटिकुलेरिस -> ज़ोना ग्लोमेरुलोसा"
+        },
+        "B": {
+          "en": "Zona reticularis -> Zona glomerulosa -> Zona fasciculata",
+          "hi": "ज़ोना रेटिकुलेरिस -> ज़ोना ग्लोमेरुलोसा -> ज़ोना फैसिकुलेटा"
+        },
+        "C": {
+          "en": "Zona glomerulosa -> Zona reticularis -> Zona fasciculata",
+          "hi": "ज़ोना ग्लोमेरुलोसा -> ज़ोना रेटिकुलेरिस -> ज़ोना फैसिकुलेटा"
+        },
+        "D": {
+          "en": "Zona glomerulosa -> Zona fasciculata -> Zona reticularis",
+          "hi": "ज़ोना ग्लोमेरुलोसा -> ज़ोना फैसिकुलेटा -> ज़ोना रेटिकुलेरिस"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q07",
+      "category": "formula",
+      "question": {
+        "en": "Parathyroid Hormone (PTH) increases blood Ca2+ levels by all of the following mechanisms EXCEPT:",
+        "hi": "पैराथायरॉयड हार्मोन (PTH) निम्नलिखित में से किस तंत्र को छोड़कर अन्य सभी तंत्रों द्वारा रक्त Ca2+ स्तर को बढ़ाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Stimulating bone resorption (demineralization by osteoclasts)",
+          "hi": "अस्थि अवशोषण (ऑस्टियोक्लास्ट द्वारा विखनिजीकरण) को प्रेरित करके"
+        },
+        "B": {
+          "en": "Stimulating reabsorption of Ca2+ by the renal tubules",
+          "hi": "वृक्क नलिकाओं द्वारा Ca2+ के पुनरवशोषण को प्रेरित करके"
+        },
+        "C": {
+          "en": "Inhibiting calcium absorption from digested food in the gastrointestinal tract",
+          "hi": "जठरांत्र क्षेत्र में पचित भोजन से कैल्शियम के अवशोषण को रोककर"
+        },
+        "D": {
+          "en": "Increasing calcium absorption from digested food in the intestine",
+          "hi": "आंत में पचित भोजन से कैल्शियम के अवशोषण को बढ़ाकर"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q08",
+      "category": "formula",
+      "question": {
+        "en": "Cortisol, the main glucocorticoid produced by the zona fasciculata of adrenal cortex, produces which combination of physiological effects?",
+        "hi": "कोर्टिसोल, जो एड्रिनल कॉर्टेक्स के ज़ोना फैसिकुलेटा द्वारा उत्पादित मुख्य ग्लूकोकोर्टिकॉइड है, कौन से शारीरिक प्रभावों का संयोजन उत्पन्न करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Stimulates gluconeogenesis, lipolysis, proteolysis, anti-inflammatory reactions, and RBC production",
+          "hi": "ग्लूकोनियोजेनेसिस, लिपोलिसिस, प्रोटीयोलिसिस, प्रतिशोथ (एंटी-इन्फ्लेमेटरी) प्रतिक्रियाओं और RBC उत्पादन को प्रेरित करता है"
+        },
+        "B": {
+          "en": "Stimulates glycogenesis, protein synthesis, and enhances phagocytic immune responses",
+          "hi": "ग्लाइकोजेनेसिस, प्रोटीन संश्लेषण को प्रेरित करता है और भक्षकाणु प्रतिरक्षा प्रतिक्रियाओं को बढ़ाता है"
+        },
+        "C": {
+          "en": "Directly excretes sodium and water while retaining potassium and hydrogen ions",
+          "hi": "पोटेशियम और हाइड्रोजन आयनों को बनाए रखते हुए सीधे सोडियम और जल का उत्सर्जन करता है"
+        },
+        "D": {
+          "en": "Lowers blood glucose levels by accelerating GLUT-4 mediated uptake in adipocytes",
+          "hi": "वसा कोशिकाओं में GLUT-4 मध्यस्थता वाले अंतर्ग्रहण को तेज करके रक्त शर्करा के स्तर को कम करता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q09",
+      "category": "formula",
+      "question": {
+        "en": "Aldosterone, the principal mineralocorticoid from the adrenal cortex, acts mainly on the renal tubules to cause:",
+        "hi": "एल्डोस्टेरोन, जो एड्रिनल कॉर्टेक्स का मुख्य मिनरलोकॉर्टिकॉइड है, मुख्य रूप से वृक्क नलिकाओं पर कार्य करके क्या करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Excretion of Na+ and water, and reabsorption of K+ and phosphate ions",
+          "hi": "Na+ और जल का उत्सर्जन, तथा K+ और फॉस्फेट आयनों का पुनरवशोषण"
+        },
+        "B": {
+          "en": "Reabsorption of Na+ and water, and excretion of K+ and phosphate ions",
+          "hi": "Na+ और जल का पुनरवशोषण, तथा K+ और फॉस्फेट आयनों का उत्सर्जन"
+        },
+        "C": {
+          "en": "Reabsorption of glucose and amino acids with loss of chloride ions",
+          "hi": "क्लोराइड आयनों की हानि के साथ ग्लूकोज और अमीनो अम्लों का पुनरवशोषण"
+        },
+        "D": {
+          "en": "Total cessation of urea excretion and lowering of blood pressure",
+          "hi": "यूरिया उत्सर्जन का पूर्ण विराम और रक्तचाप में कमी"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q10",
+      "category": "formula",
+      "question": {
+        "en": "Hypothyroidism during pregnancy leads to defective development and maturation of the growing baby, resulting in a disease known as:",
+        "hi": "गर्भावस्था के दौरान अवटु-अल्पसक्रियता (हाइपोथायरायडिज्म) से गर्भस्थ शिशु के विकास और परिपक्वता में बाधा आती है, जिसके परिणामस्वरूप कौन सा रोग होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Graves' disease with exophthalmos",
+          "hi": "नेत्रोत्सेध के साथ ग्रेव्स रोग"
+        },
+        "B": {
+          "en": "Cushing's syndrome with moon face",
+          "hi": "चंद्रमुख के साथ कुशिंग सिंड्रोम"
+        },
+        "C": {
+          "en": "Acromegaly with jaw protrusion",
+          "hi": "जबड़े के फैलाव के साथ एक्रोमेगाली"
+        },
+        "D": {
+          "en": "Cretinism, marked by stunted growth, mental retardation, and deaf-mutism",
+          "hi": "क्रेटिनिज्म (जड़वामनता), जिसके लक्षणों में अवरुद्ध वृद्धि, मानसिक मंदता और मूक-बधिरता शामिल हैं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q11",
+      "category": "formula",
+      "question": {
+        "en": "Underproduction of hormones by the adrenal cortex alters carbohydrate metabolism, causing acute weakness, fatigue, and bronze pigmentation of the skin. This clinical condition is:",
+        "hi": "एड्रिनल कॉर्टेक्स द्वारा हार्मोनों का अल्प-उत्पादन कार्बोहाइड्रेट उपापचय को बदल देता है, जिससे अत्यधिक कमजोरी, थकान और त्वचा का कांस्य-वर्ण रंजकता हो जाती है। यह चिकित्सीय स्थिति क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Cushing's syndrome",
+          "hi": "कुशिंग सिंड्रोम"
+        },
+        "B": {
+          "en": "Addison's disease",
+          "hi": "एडिसन रोग"
+        },
+        "C": {
+          "en": "Hashimoto's thyroiditis",
+          "hi": "हाशिमोटो थायरॉइडाइटिस"
+        },
+        "D": {
+          "en": "Conn's syndrome",
+          "hi": "कॉन सिंड्रोम"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q12",
+      "category": "formula",
+      "question": {
+        "en": "Why does the immune response of elderly people become noticeably weak?",
+        "hi": "वृद्ध व्यक्तियों की प्रतिरक्षा अनुक्रिया स्पष्ट रूप से कमजोर क्यों हो जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Due to progressive degeneration of the thymus gland and reduced thymosin secretion",
+          "hi": "थाइमस ग्रंथि के क्रमिक अपह्रास और थाइमोसिन के कम स्राव के कारण"
+        },
+        "B": {
+          "en": "Due to hypersecretion of calcitonin leading to bone demineralization",
+          "hi": "कैल्सीटोनिन के अतिस्राव के कारण जिससे अस्थि विखनिजीकरण होता है"
+        },
+        "C": {
+          "en": "Due to complete destruction of thyroid follicles by dietary iodine deficiency",
+          "hi": "आहार में आयोडीन की कमी से थायरॉयड पुटकों के पूर्ण विनाश के कारण"
+        },
+        "D": {
+          "en": "Due to excessive production of catecholamines from adrenal medulla",
+          "hi": "एड्रिनल मेडुला से कैटेकोलामाइन के अत्यधिक उत्पादन के कारण"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the layers of the adrenal cortex with their representative hormones:\n\nColumn I (Adrenal layer):\na. Zona glomerulosa\nb. Zona fasciculata\nc. Zona reticularis\nd. Adrenal medulla\n\nColumn II (Hormone secreted):\n1. Androgenic corticoids\n2. Glucocorticoids (Cortisol)\n3. Catecholamines (Adrenaline)\n4. Mineralocorticoids (Aldosterone)",
+        "hi": "एड्रिनल ग्रंथि की परतों का उनके संबंधित हार्मोनों से मिलान कीजिए:\n\nस्तंभ I (एड्रिनल परत):\na. ज़ोना ग्लोमेरुलोसा\nb. ज़ोना फैसिकुलेटा\nc. ज़ोना रेटिकुलेरिस\nd. एड्रिनल मेडुला\n\nस्तंभ II (स्रावित हार्मोन):\n1. एंड्रोजेनिक कॉर्टिकॉइड्स\n2. ग्लूकोकोर्टिकॉइड्स (कोर्टिसोल)\n3. कैटेकोलामाइन (एड्रिनेलिन)\n4. मिनरलोकॉर्टिकॉइड्स (एल्डोस्टेरोन)"
+      },
+      "options": {
+        "A": {
+          "en": "a-2, b-4, c-1, d-3",
+          "hi": "a-2, b-4, c-1, d-3"
+        },
+        "B": {
+          "en": "a-4, b-1, c-2, d-3",
+          "hi": "a-4, b-1, c-2, d-3"
+        },
+        "C": {
+          "en": "a-4, b-2, c-1, d-3",
+          "hi": "a-4, b-2, c-1, d-3"
+        },
+        "D": {
+          "en": "a-1, b-2, c-4, d-3",
+          "hi": "a-1, b-2, c-4, d-3"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the clinical endocrine disorders in Column I with their specific etiology in Column II:\n\nColumn I:\na. Graves' disease (Exophthalmic goitre)\nb. Cretinism\nc. Addison's disease\nd. Simple Goitre\n\nColumn II:\n1. Dietary deficiency of iodine\n2. Hyperthyroidism with protruding eyeballs\n3. Hypothyroidism during pregnancy\n4. Hyposecretion of adrenal cortex hormones",
+        "hi": "स्तंभ I में दिए गए अंतःस्रावी विकारों का स्तंभ II में उनके विशिष्ट कारणों से मिलान कीजिए:\n\nस्तंभ I:\na. ग्रेव्स रोग (एक्सोफ्थैल्मिक गॉइटर)\nb. क्रेटिनिज्म (जड़वामनता)\nc. एडिसन रोग\nd. सामान्य घेंघा (गलगंड)\n\nस्तंभ II:\n1. आहार में आयोडीन की कमी\n2. उभरी हुई आँखों के साथ अतिथायराइडता\n3. गर्भावस्था के दौरान अवटु-अल्पसक्रियता\n4. एड्रिनल कॉर्टेक्स हार्मोनों का अल्पस्राव"
+      },
+      "options": {
+        "A": {
+          "en": "a-2, b-3, c-4, d-1",
+          "hi": "a-2, b-3, c-4, d-1"
+        },
+        "B": {
+          "en": "a-3, b-2, c-4, d-1",
+          "hi": "a-3, b-2, c-4, d-1"
+        },
+        "C": {
+          "en": "a-2, b-1, c-4, d-3",
+          "hi": "a-2, b-1, c-4, d-3"
+        },
+        "D": {
+          "en": "a-4, b-3, c-2, d-1",
+          "hi": "a-4, b-3, c-2, d-1"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch19_mc02_q15",
+      "category": "diagram",
+      "question": {
+        "en": "In the hormonal regulation of calcium homeostasis, which antagonistic pair of hormones coordinates to maintain plasma Ca2+ balance?",
+        "hi": "कैल्शियम समस्थापन के हार्मोनल नियमन में, हार्मोनों का कौन सा विरोधी युग्म प्लाज्मा Ca2+ संतुलन बनाए रखने के लिए समन्वय करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Insulin and Glucagon",
+          "hi": "इंसुलिन और ग्लूकागॉन"
+        },
+        "B": {
+          "en": "Oxytocin and Vasopressin",
+          "hi": "ऑक्सीटोसिन और वैसोप्रेसिन"
+        },
+        "C": {
+          "en": "Aldosterone and Atrial Natriuretic Factor",
+          "hi": "एल्डोस्टेरोन और एट्रियल नैट्रियूरेटिक फैक्टर"
+        },
+        "D": {
+          "en": "Parathyroid Hormone (PTH) and Thyrocalcitonin (TCT)",
+          "hi": "पैराथायरॉयड हार्मोन (PTH) और थायरोकैल्सीटोनिन (TCT)"
+        }
+      }
+    }
+  ]
+}

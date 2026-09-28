@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch18_mc04_q01",
+      "category": "theory",
+      "question": {
+        "en": "Which of the following correctly describes the anatomical pathway of nerve impulses along a complete somatic reflex arc?",
+        "hi": "निम्नलिखित में से कौन सा एक संपूर्ण कायिक प्रतिवर्ती चाप (reflex arc) में तंत्रिका आवेगों के शारीरिक मार्ग का सही वर्णन करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Receptor -> Efferent neuron -> Dorsal root -> Spinal cord -> Afferent neuron -> Effector",
+          "hi": "ग्राही -> अपवाही न्यूरॉन -> पृष्ठ मूल -> मेरुरज्जु -> अभिवाही न्यूरॉन -> प्रेरक अंग"
+        },
+        "B": {
+          "en": "Effector -> Afferent neuron -> Ventral root -> Interneuron -> Efferent neuron -> Receptor",
+          "hi": "प्रेरक अंग -> अभिवाही न्यूरॉन -> उदर मूल -> इंटरन्यूरॉन -> अपवाही न्यूरॉन -> ग्राही"
+        },
+        "C": {
+          "en": "Receptor -> Ventral root ganglion -> Afferent neuron -> Motor neuron -> Effector",
+          "hi": "ग्राही -> उदर मूल गुच्छिका -> अभिवाही न्यूरॉन -> मोटर न्यूरॉन -> प्रेरक अंग"
+        },
+        "D": {
+          "en": "Receptor -> Afferent (sensory) neuron -> Dorsal root ganglion -> Interneuron (CNS grey matter) -> Efferent (motor) neuron via ventral root -> Effector organ",
+          "hi": "ग्राही -> अभिवाही (संवेदी) न्यूरॉन -> पृष्ठ मूल गुच्छिका -> इंटरन्यूरॉन (CNS धूसर द्रव्य) -> उदर मूल के माध्यम से अपवाही (प्रेरक) न्यूरॉन -> प्रेरक अंग (मांसपेशी)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q02",
+      "category": "theory",
+      "question": {
+        "en": "In the human retina, what is the correct anatomical arrangement of the three cellular layers from INSIDE (vitreous body side) to OUTSIDE (choroid side)?",
+        "hi": "मानव रेटिना में, अंदर (काचाभ पिंड की ओर) से बाहर (कोरॉइड की ओर) तीन कोशिकीय परतों का सही शारीरिक क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ganglion cells -> Bipolar cells -> Photoreceptor cells",
+          "hi": "गुच्छिका कोशिकाएं (Ganglion cells) -> द्विध्रुवीय कोशिकाएं (Bipolar cells) -> प्रकाशग्राही कोशिकाएं (Photoreceptor cells)"
+        },
+        "B": {
+          "en": "Photoreceptor cells -> Bipolar cells -> Ganglion cells",
+          "hi": "प्रकाशग्राही कोशिकाएं -> द्विध्रुवीय कोशिकाएं -> गुच्छिका कोशिकाएं"
+        },
+        "C": {
+          "en": "Bipolar cells -> Ganglion cells -> Photoreceptor cells",
+          "hi": "द्विध्रुवीय कोशिकाएं -> गुच्छिका कोशिकाएं -> प्रकाशग्राही कोशिकाएं"
+        },
+        "D": {
+          "en": "Photoreceptor cells -> Ganglion cells -> Bipolar cells",
+          "hi": "प्रकाशग्राही कोशिकाएं -> गुच्छिका कोशिकाएं -> द्विध्रुवीय कोशिकाएं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q03",
+      "category": "theory",
+      "question": {
+        "en": "The purplish-red visual pigment Rhodopsin present in rods is biochemically composed of:",
+        "hi": "शलाकाओं (rods) में मौजूद बैंगनी-लाल दृश्य वर्णक रोडोप्सिन (Rhodopsin) जैव-रासायनिक रूप से किससे बना होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Opsin (a carbohydrate) and Retinoic acid",
+          "hi": "ऑप्सिन (एक कार्बोहाइड्रेट) और रेटिनोइक एसिड"
+        },
+        "B": {
+          "en": "Opsin (a protein) and Retinal (an aldehyde of vitamin A)",
+          "hi": "ऑप्सिन (एक प्रोटीन) और रेटिनल (विटामिन A का एक एल्डिहाइड)"
+        },
+        "C": {
+          "en": "Iodopsin and Beta-carotene",
+          "hi": "आयोडोप्सिन और बीटा-कैरोटीन"
+        },
+        "D": {
+          "en": "Melanin and Retinol (an alcohol of vitamin A)",
+          "hi": "मेलेनिन और रेटिनॉल (विटामिन A का एक अल्कोहल)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q04",
+      "category": "theory",
+      "question": {
+        "en": "The middle ear contains three tiny ear ossicles that transmit sound vibrations from the tympanic membrane to the oval window. Their correct order from outer to inner is:",
+        "hi": "मध्य कर्ण में तीन छोटी कर्ण अस्थिकाएं (ear ossicles) होती हैं जो ध्वनि कंपनों को कर्णपटह से अंडाकार खिड़की तक पहुंचाती हैं। बाहर से अंदर की ओर उनका सही क्रम क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Stapes -> Incus -> Malleus",
+          "hi": "स्टेप्स (Stapes) -> इनकस (Incus) -> मैलियस (Malleus)"
+        },
+        "B": {
+          "en": "Incus -> Malleus -> Stapes",
+          "hi": "इनकस -> मैलियस -> स्टेप्स"
+        },
+        "C": {
+          "en": "Malleus -> Incus -> Stapes",
+          "hi": "मैलियस (Malleus) -> इनकस (Incus) -> स्टेप्स (Stapes)"
+        },
+        "D": {
+          "en": "Malleus -> Stapes -> Incus",
+          "hi": "मैलियस -> स्टेप्स -> इनकस"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q05",
+      "category": "theory",
+      "question": {
+        "en": "The Organ of Corti is the actual sensory organ of hearing in the internal ear. Where is it located and what are its primary sensory receptor cells?",
+        "hi": "कॉर्टी का अंग (Organ of Corti) आंतरिक कान में सुनने का वास्तविक संवेदी अंग है। यह कहाँ स्थित होता है और इसकी प्राथमिक संवेदी ग्राही कोशिकाएं कौन सी हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "On Reissner's membrane; Otolith cells",
+          "hi": "रीस्नर की झिल्ली पर; ओटोलिथ कोशिकाएं"
+        },
+        "B": {
+          "en": "In the ampulla; Crista cells",
+          "hi": "एम्पुला में; क्रिस्टा कोशिकाएं"
+        },
+        "C": {
+          "en": "On the tectorial membrane; Ciliary epithelial cells",
+          "hi": "टेक्टोरियल झिल्ली पर; पक्ष्माभी उपकला कोशिकाएं"
+        },
+        "D": {
+          "en": "On the basilar membrane; Hair cells acting as auditory receptors",
+          "hi": "आधारीय झिल्ली (Basilar membrane) पर; श्रवण ग्राही के रूप में कार्य करने वाली रोम कोशिकाएं (Hair cells)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q06",
+      "category": "theory",
+      "question": {
+        "en": "The vestibular apparatus of the inner ear maintains equilibrium and posture of the body. Which parts are responsible for dynamic balance (rotational acceleration) and static balance (gravitational/linear acceleration), respectively?",
+        "hi": "आंतरिक कान का वेस्टिबुलर उपकरण शरीर के संतुलन और मुद्रा को बनाए रखता है। क्रमशः गतिक संतुलन (घूर्णी त्वरण) और स्थैतिक संतुलन (गुरुत्वीय/रैखिक त्वरण) के लिए कौन से भाग उत्तरदायी हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Dynamic: Crista ampullaris of semicircular canals; Static: Macula of utricle and saccule",
+          "hi": "गतिक: अर्धचंद्राकार नलिकाओं का क्रिस्टा एम्पुलारिस; स्थैतिक: यूट्रिकल और सैक्यूल का मैकुला"
+        },
+        "B": {
+          "en": "Dynamic: Organ of Corti; Static: Crista ampullaris",
+          "hi": "गतिक: कॉर्टी का अंग; स्थैतिक: क्रिस्टा एम्पुलारिस"
+        },
+        "C": {
+          "en": "Dynamic: Macula; Static: Basilar membrane",
+          "hi": "गतिक: मैकुला; स्थैतिक: आधारीय झिल्ली"
+        },
+        "D": {
+          "en": "Dynamic: Scala media; Static: Eustachian tube",
+          "hi": "गतिक: स्केला मीडिया; स्थैतिक: यूस्टेशियन नलिका"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q07",
+      "category": "formula",
+      "question": {
+        "en": "Which of the following statements correctly compares the Fovea Centralis and the Blind Spot (Optic Disc) of the human eye?",
+        "hi": "निम्नलिखित में से कौन सा कथन मानव नेत्र के फोविया सेंट्रैलिस (Fovea Centralis) और अंध बिंदु (Blind Spot) की सही तुलना करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Fovea contains only rods; Blind spot contains only cones.",
+          "hi": "फोविया में केवल शलाकाएं होती हैं; अंध बिंदु में केवल शंकु होते हैं।"
+        },
+        "B": {
+          "en": "Fovea centralis is a thinned-out pit containing only densely packed cones (point of greatest visual acuity); Blind spot completely lacks photoreceptors where optic nerve exits.",
+          "hi": "फोविया सेंट्रैलिस एक पतला गर्त है जिसमें केवल घनी संकुलित शंकु कोशिकाएं होती हैं (उच्चतम दृष्टि तीक्ष्णता का बिंदु); अंध बिंदु में प्रकाशग्राही पूरी तरह अनुपस्थित होते हैं जहाँ से दृष्टि तंत्रिका निकलती है।"
+        },
+        "C": {
+          "en": "Both regions completely lack cones but are densely packed with rhodopsin-rich rods.",
+          "hi": "दोनों क्षेत्रों में शंकु का पूर्ण अभाव होता है लेकिन वे रोडोप्सिन युक्त शलाकाओं से भरे होते हैं।"
+        },
+        "D": {
+          "en": "Fovea centralis is located medial to the optic disc where retinal blood vessels enter.",
+          "hi": "फोविया सेंट्रैलिस ऑप्टिक डिस्क के मध्य में स्थित होता है जहाँ रेटिना की रक्त वाहिकाएं प्रवेश करती हैं।"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q08",
+      "category": "formula",
+      "question": {
+        "en": "The space between the cornea and the lens is the aqueous chamber containing aqueous humor, while the space between the lens and the retina is the vitreous chamber containing vitreous humor. How do these two fluids fundamentally compare?",
+        "hi": "कॉर्निया और लेंस के बीच का स्थान जलीय कोष्ठ (aqueous chamber) होता है जिसमें जलीय द्रव होता है, जबकि लेंस और रेटिना के बीच का स्थान काचाभ कोष्ठ (vitreous chamber) होता है जिसमें काचाभ द्रव होता है। इन दोनों द्रवों की मौलिक तुलना कैसे की जाती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Aqueous humor is a thick immovable jelly; Vitreous humor is continuously secreted and drained.",
+          "hi": "जलीय द्रव एक गाढ़ा अचल जेली है; काचाभ द्रव लगातार स्रावित और प्रवाहित होता रहता है।"
+        },
+        "B": {
+          "en": "Both fluids are identical transparent gels secreted exclusively during fetal life.",
+          "hi": "दोनों द्रव समान पारदर्शी जेल हैं जो केवल भ्रूणीय जीवन के दौरान स्रावित होते हैं।"
+        },
+        "C": {
+          "en": "Aqueous humor is a thin, watery fluid continuously produced by the ciliary body; Vitreous humor is a permanent, transparent hydrogel maintaining eyeball shape.",
+          "hi": "जलीय द्रव एक पतला, पानी जैसा द्रव है जो सिलियरी बॉडी द्वारा लगातार बनता है; काचाभ द्रव एक स्थायी, पारदर्शी हाइड्रोजेल है जो नेत्रगोलक के आकार को बनाए रखता है।"
+        },
+        "D": {
+          "en": "Vitreous humor drains through the canal of Schlemm into venous blood to regulate intraocular pressure.",
+          "hi": "नेत्र के आंतरिक दबाव को नियंत्रित करने के लिए काचाभ द्रव श्लेम की नाल (canal of Schlemm) के माध्यम से शिरापरक रक्त में बहता है।"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q09",
+      "category": "formula",
+      "question": {
+        "en": "In the internal ear, the coiled organ of hearing is the Cochlea. Which row correctly identifies the fluids present inside its three longitudinal compartments?",
+        "hi": "आंतरिक कान में सुनने का कुंडलित अंग कॉक्लिया (Cochlea) है। कौन सी पंक्ति इसके तीन अनुदैर्ध्य कक्षों के भीतर मौजूद द्रवों की सही पहचान करती है?"
+      },
+      "options": {
+        "A": {
+          "en": "Scala vestibuli: Endolymph; Scala media: Perilymph; Scala tympani: Endolymph",
+          "hi": "स्केला वेस्टिबुली: एंडोलिम्फ; स्केला मीडिया: पेरिलिम्फ; स्केला टिम्पैनी: एंडोलिम्फ"
+        },
+        "B": {
+          "en": "Scala vestibuli: Perilymph; Scala media: Perilymph; Scala tympani: Endolymph",
+          "hi": "स्केला वेस्टिबुली: पेरिलिम्फ; स्केला मीडिया: पेरिलिम्फ; स्केला टिम्पैनी: एंडोलिम्फ"
+        },
+        "C": {
+          "en": "Scala vestibuli: Endolymph; Scala media: Endolymph; Scala tympani: Perilymph",
+          "hi": "स्केला वेस्टिबुली: एंडोलिम्फ; स्केला मीडिया: एंडोलिम्फ; स्केला टिम्पैनी: पेरिलिम्फ"
+        },
+        "D": {
+          "en": "Scala vestibuli: Perilymph; Scala media: Endolymph; Scala tympani: Perilymph",
+          "hi": "स्केला वेस्टिबुली: पेरिलिम्फ (परिलसीका); स्केला मीडिया: एंडोलिम्फ (अंतर्लसीका); स्केला टिम्पैनी: पेरिलिम्फ (परिलसीका)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q10",
+      "category": "formula",
+      "question": {
+        "en": "Human color vision is trichromatic, mediated by three distinct types of cone photoreceptors. What visual sensation is produced when all three types of cones are stimulated equally?",
+        "hi": "मानव रंग दृष्टि त्रि-वर्णक (trichromatic) होती है, जो शंकु प्रकाशग्राहियों के तीन अलग-अलग प्रकारों द्वारा मध्यस्थ होती है। जब तीनों प्रकार के शंकु समान रूप से उत्तेजित होते हैं तो कौन सी दृश्य संवेदना उत्पन्न होती है?"
+      },
+      "options": {
+        "A": {
+          "en": "A sensation of white light",
+          "hi": "श्वेत प्रकाश (White light) की संवेदना"
+        },
+        "B": {
+          "en": "Complete blackness (absence of vision)",
+          "hi": "पूर्ण अंधकार (दृष्टि की अनुपस्थिति)"
+        },
+        "C": {
+          "en": "Pure monochromatic yellow light",
+          "hi": "शुद्ध एकवर्णी पीला प्रकाश"
+        },
+        "D": {
+          "en": "A sensation of fluorescent green",
+          "hi": "फ्लोरोसेंट हरे रंग की संवेदना"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q11",
+      "category": "formula",
+      "question": {
+        "en": "What anatomical connection is established by the Eustachian tube, and what is its primary physiological purpose?",
+        "hi": "यूस्टेशियन नलिका (Eustachian tube) द्वारा कौन सा शारीरिक संबंध स्थापित होता है, और इसका प्राथमिक शारीरिक उद्देश्य क्या है?"
+      },
+      "options": {
+        "A": {
+          "en": "Connects external ear canal with middle ear to drain excess cerumen",
+          "hi": "अतिरिक्त मोम को बाहर निकालने के लिए बाहरी कान की नाल को मध्य कान से जोड़ती है"
+        },
+        "B": {
+          "en": "Connects middle ear cavity with pharynx to equalize air pressure on either side of the tympanic membrane",
+          "hi": "कर्णपटह झिल्ली के दोनों ओर वायु दाब को बराबर करने के लिए मध्य कर्ण गुहा को ग्रसनी (pharynx) से जोड़ती है"
+        },
+        "C": {
+          "en": "Connects cochlea with semicircular canals to balance endolymph volume",
+          "hi": "एंडोलिम्फ की मात्रा को संतुलित करने के लिए कॉक्लिया को अर्धचंद्राकार नलिकाओं से जोड़ती है"
+        },
+        "D": {
+          "en": "Connects middle ear with internal acoustic meatus for cranial nerve passage",
+          "hi": "कपालीय तंत्रिका के गुजरने के लिए मध्य कान को आंतरिक ध्वनिक मार्ग से जोड़ती है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q12",
+      "category": "formula",
+      "question": {
+        "en": "How are the three semicircular canals of the vestibular apparatus spatially oriented relative to one another?",
+        "hi": "वेस्टिबुलर उपकरण की तीनों अर्धचंद्राकार नलिकाएं एक-दूसरे के सापेक्ष स्थानिक रूप से किस प्रकार उन्मुख होती हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "All three canals lie parallel to each other in the horizontal plane.",
+          "hi": "तीनों नलिकाएं क्षैतिज तल में एक-दूसरे के समानांतर स्थित होती हैं।"
+        },
+        "B": {
+          "en": "Two canals lie parallel at 45 degrees, while the third is vertical.",
+          "hi": "दो नलिकाएं 45 डिग्री पर समानांतर होती हैं, जबकि तीसरी लंबवत होती है।"
+        },
+        "C": {
+          "en": "Each semicircular canal lies in a different plane at right angles (90 degrees) to the other two.",
+          "hi": "प्रत्येक अर्धचंद्राकार नलिका अन्य दो के समकोण (90 डिग्री) पर एक अलग तल में स्थित होती है।"
+        },
+        "D": {
+          "en": "They form three concentric nested loops inside the cochlear duct.",
+          "hi": "वे कॉक्लियर डक्ट के अंदर तीन संकेंद्रीय लूप बनाती हैं।"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Auditory / Vestibular Structure) with List-II (Specific Functional Role):\nList-I:\n(a) Crista ampullaris\n(b) Macula of otolith organ\n(c) Organ of Corti\n(d) Eustachian tube\n\nList-II:\n(1) Equalises pressure on either side of the tympanic membrane\n(2) Phonoreceptor organ of hearing containing sensory hair cells on basilar membrane\n(3) Sensory receptor for static balance, linear acceleration, and head tilt\n(4) Sensory receptor for dynamic balance and angular / rotational acceleration\n\nChoose the correct option:",
+        "hi": "सूची-I (श्रवण / वेस्टिबुलर संरचना) को सूची-II (विशिष्ट कार्यात्मक भूमिका) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) क्रिस्टा एम्पुलारिस\n(b) ओटोलिथ अंग का मैकुला\n(c) कॉर्टी का अंग\n(d) यूस्टेशियन नलिका\n\nसूची-II:\n(1) कर्णपटह झिल्ली के दोनों ओर के दाब को बराबर करती है\n(2) आधारीय झिल्ली पर संवेदी रोम कोशिकाओं युक्त सुनने का अंग\n(3) स्थैतिक संतुलन, रैखिक त्वरण और सिर के झुकाव के लिए संवेदी ग्राही\n(4) गतिक संतुलन और कोणीय / घूर्णी त्वरण के लिए संवेदी ग्राही\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+          "hi": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)"
+        },
+        "B": {
+          "en": "(a)-(3), (b)-(4), (c)-(2), (d)-(1)",
+          "hi": "(a)-(3), (b)-(4), (c)-(2), (d)-(1)"
+        },
+        "C": {
+          "en": "(a)-(4), (b)-(2), (c)-(3), (d)-(1)",
+          "hi": "(a)-(4), (b)-(2), (c)-(3), (d)-(1)"
+        },
+        "D": {
+          "en": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)",
+          "hi": "(a)-(4), (b)-(3), (c)-(2), (d)-(1)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match List-I (Eye Tunic / Structure) with List-II (Characteristic Description):\nList-I:\n(a) Cornea\n(b) Choroid\n(c) Fovea centralis\n(d) Iris\n\nList-II:\n(1) Anterior transparent, non-vascular portion of the fibrous coat\n(2) Pigmented muscular diaphragm with central pupil controlling light entry\n(3) Highly vascular bluish middle coat containing melanin pigment\n(4) Thinned-out pit of macula lutea with highest density of cones and maximum visual acuity\n\nChoose the correct option:",
+        "hi": "सूची-I (नेत्र आवरण / संरचना) को सूची-II (विशिष्ट विवरण) के साथ सुमेलित कीजिए:\nसूची-I:\n(a) कॉर्निया\n(b) कोरॉइड (रक्तक पटल)\n(c) फोविया सेंट्रैलिस\n(d) आइरिस (परितारिका)\n\nसूची-II:\n(1) रेशेदार आवरण का अग्र पारदर्शी, रक्तवाहिनी-रहित भाग\n(2) प्रकाश के प्रवेश को नियंत्रित करने वाले केंद्रीय पुतली युक्त वर्णकित पेशीय डायफ्राम\n(3) मेलेनिन वर्णक युक्त अत्यधिक संवहनी नीले रंग का मध्य आवरण\n(4) शंकुओं के उच्चतम घनत्व और अधिकतम दृष्टि तीक्ष्णता वाला पीत बिंदु का गर्त\n\nसही विकल्प चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(a)-(1), (b)-(3), (c)-(4), (d)-(2)",
+          "hi": "(a)-(1), (b)-(3), (c)-(4), (d)-(2)"
+        },
+        "B": {
+          "en": "(a)-(3), (b)-(1), (c)-(2), (d)-(4)",
+          "hi": "(a)-(3), (b)-(1), (c)-(2), (d)-(4)"
+        },
+        "C": {
+          "en": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+          "hi": "(a)-(1), (b)-(2), (c)-(3), (d)-(4)"
+        },
+        "D": {
+          "en": "(a)-(4), (b)-(3), (c)-(1), (d)-(2)",
+          "hi": "(a)-(4), (b)-(3), (c)-(1), (d)-(2)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch18_mc04_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Trace the correct chronological path of sound vibrations from the external environment to the generation of nerve impulses in the auditory nerve:\n(1) Tympanic membrane\n(2) Ear ossicles (Malleus -> Incus -> Stapes)\n(3) Oval window (Fenestra ovalis)\n(4) Pinna and external auditory meatus\n(5) Waves in perilymph of scala vestibuli & scala tympani\n(6) Bending of hair cell stereocilia against tectorial membrane on basilar membrane\n\nChoose the correct sequence:",
+        "hi": "बाहरी वातावरण से श्रवण तंत्रिका में तंत्रिका आवेगों की उत्पत्ति तक ध्वनि कंपनों के सही कालानुक्रमिक मार्ग का पता लगाइए:\n(1) कर्णपटह (Tympanic membrane)\n(2) कर्ण अस्थिकाएं (मैलियस -> इनकस -> स्टेप्स)\n(3) अंडाकार खिड़की (Oval window)\n(4) कर्ण पल्लव और बाह्य श्रवण नाल\n(5) स्केला वेस्टिबुली और स्केला टिम्पैनी के पेरिलिम्फ में तरंगें\n(6) आधारीय झिल्ली पर स्थित टेक्टोरियल झिल्ली के विरुद्ध रोम कोशिकाओं का मुड़ना\n\nसही क्रम चुनिए:"
+      },
+      "options": {
+        "A": {
+          "en": "(1) -> (4) -> (2) -> (3) -> (5) -> (6)",
+          "hi": "(1) -> (4) -> (2) -> (3) -> (5) -> (6)"
+        },
+        "B": {
+          "en": "(4) -> (1) -> (2) -> (3) -> (5) -> (6)",
+          "hi": "(4) -> (1) -> (2) -> (3) -> (5) -> (6)"
+        },
+        "C": {
+          "en": "(4) -> (2) -> (1) -> (3) -> (6) -> (5)",
+          "hi": "(4) -> (2) -> (1) -> (3) -> (6) -> (5)"
+        },
+        "D": {
+          "en": "(4) -> (1) -> (3) -> (2) -> (5) -> (6)",
+          "hi": "(4) -> (1) -> (3) -> (2) -> (5) -> (6)"
+        }
+      }
+    }
+  ]
+}

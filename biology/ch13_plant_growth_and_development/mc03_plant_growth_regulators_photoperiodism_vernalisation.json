@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "bio_11_ch13_mc03_q01",
+      "category": "theory",
+      "question": {
+        "en": "Auxin was first isolated by F.W. Went from which plant tissue?",
+        "hi": "एफ.डब्ल्यू. वेंट (F.W. Went) द्वारा ऑक्सिन को पहली बार किस पादप ऊतक से पृथक किया गया था?"
+      },
+      "options": {
+        "A": {
+          "en": "Tips of coleoptiles of oat seedlings (Avena sativa)",
+          "hi": "जई (ओट) के अंकुरों के प्रांकुरचोल के शीर्ष से (Avena sativa)"
+        },
+        "B": {
+          "en": "Fungus Gibberella fujikuroi",
+          "hi": "कवक जिबरेला फ्यूजीकुरोई से"
+        },
+        "C": {
+          "en": "Autoclaved herring sperm DNA",
+          "hi": "हेरिंग मछली के शुक्राणु के DNA से"
+        },
+        "D": {
+          "en": "Ripened oranges",
+          "hi": "पके हुए संतरों से"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q02",
+      "category": "theory",
+      "question": {
+        "en": "The 'bakanae' (foolish seedling) disease of rice seedlings led to the discovery of which plant hormone by E. Kurosawa (1926)?",
+        "hi": "धान के पौधों में 'बकाने' (मूर्ख नवोद्भिद) रोग के कारण ई. कुरोसावा (1926) द्वारा किस पादप हार्मोन की खोज हुई?"
+      },
+      "options": {
+        "A": {
+          "en": "Gibberellin (GA3)",
+          "hi": "जिबरेलिन / GA3 (Gibberellin)"
+        },
+        "B": {
+          "en": "Auxin (IAA)",
+          "hi": "ऑक्सिन (IAA)"
+        },
+        "C": {
+          "en": "Cytokinin (Zeatin)",
+          "hi": "साइटोकाइनिन"
+        },
+        "D": {
+          "en": "Abscisic acid (ABA)",
+          "hi": "एब्सिसिक अम्ल (ABA)"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q03",
+      "category": "theory",
+      "question": {
+        "en": "Skoog and Miller discovered kinetin (a modified adenine, cytokinin) from autoclaved herring sperm DNA. What is the naturally occurring cytokinin isolated from corn kernels and coconut milk called?",
+        "hi": "स्कूग और मिलर ने ऑटोक्लेव्ड हेरिंग मछली के शुक्राणु DNA से काइनेटिन की खोज की। मक्के के दानों और नारियल पानी से पृथक किए गए प्राकृतिक साइटोकाइनिन को क्या कहा जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Zeatin",
+          "hi": "जिएटिन (Zeatin)"
+        },
+        "B": {
+          "en": "Kinetin",
+          "hi": "काइनेटिन"
+        },
+        "C": {
+          "en": "IAA",
+          "hi": "IAA"
+        },
+        "D": {
+          "en": "IBA",
+          "hi": "IBA"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q04",
+      "category": "theory",
+      "question": {
+        "en": "Which plant growth regulator is a simple gaseous hormone synthesized in large amounts by tissues undergoing senescence and ripening fruits?",
+        "hi": "कौन-सा पादप वृद्धि नियामक एक सरल गैसीय हार्मोन है जो जीर्णता से गुजर रहे ऊतकों और पकने वाले फलों द्वारा बड़ी मात्रा में संश्लेषित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethylene (C2H4)",
+          "hi": "एथिलीन / C2H4 (Ethylene)"
+        },
+        "B": {
+          "en": "Auxin",
+          "hi": "ऑक्सिन"
+        },
+        "C": {
+          "en": "Abscisic acid",
+          "hi": "एब्सिसिक अम्ल"
+        },
+        "D": {
+          "en": "Gibberellic acid",
+          "hi": "जिबरेलिक अम्ल"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q05",
+      "category": "theory",
+      "question": {
+        "en": "Abscisic acid (ABA) is widely known as the 'stress hormone' because it:",
+        "hi": "एब्सिसिक अम्ल (ABA) को व्यापक रूप से 'तनाव हार्मोन' (stress hormone) के रूप में जाना जाता है क्योंकि यह:"
+      },
+      "options": {
+        "A": {
+          "en": "Stimulates the closure of stomata during water stress and increases plant tolerance to adverse conditions",
+          "hi": "जल तनाव के समय रंध्रों को बंद करने के लिए प्रेरित करता है और प्रतिकूल परिस्थितियों में पौधे की सहनशीलता बढ़ाता है"
+        },
+        "B": {
+          "en": "Causes rapid elongation of internodes",
+          "hi": "पोरियों का तीव्र दीर्घीकरण करता है"
+        },
+        "C": {
+          "en": "Promotes seed germination",
+          "hi": "बीज अंकुरण को बढ़ावा देता है"
+        },
+        "D": {
+          "en": "Delays leaf senescence",
+          "hi": "पत्तियों की जीर्णता को रोकता है"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q06",
+      "category": "theory",
+      "question": {
+        "en": "In most higher plants, the growing apical bud inhibits the growth of the lateral (axillary) buds. This phenomenon is known as [X] and is caused by [Y]. Identify X and Y:",
+        "hi": "अधिकांश उच्च पादपों में, बढ़ती हुई शीर्षस्थ कलिका पार्श्वीय (कक्षीय) कलिकाओं की वृद्धि को रोकती है। यह परिघटना [X] कहलाती है और [Y] के कारण होती है। X और Y की पहचान कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "X = Apical dominance; Y = Auxin",
+          "hi": "X = शीर्षस्थ प्रभाविता (Apical dominance); Y = ऑक्सिन (Auxin)"
+        },
+        "B": {
+          "en": "X = Bolting; Y = Gibberellin",
+          "hi": "X = वोल्टिंग; Y = जिबरेलिन"
+        },
+        "C": {
+          "en": "X = Abscission; Y = Ethylene",
+          "hi": "X = विलगन; Y = एथिलीन"
+        },
+        "D": {
+          "en": "X = Plasticity; Y = Cytokinin",
+          "hi": "X = सुघट्यता; Y = साइटोकाइनिन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q07",
+      "category": "formula",
+      "question": {
+        "en": "Which synthetic auxin is widely used as a selective herbicide to kill broad-leaved dicot weeds in cereal (monocot) lawns?",
+        "hi": "अनाज (एकबीजपत्री) के लॉन में चौड़ी पत्ती वाले द्विबीजपत्री खरपतवारों को नष्ट करने के लिए किस संश्लेषित ऑक्सिन का चयनात्मक शाकनाशी के रूप में व्यापक रूप से उपयोग किया जाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "2,4-D (2,4-dichlorophenoxyacetic acid)",
+          "hi": "2,4-D (2,4-डाइक्लोरोफेनॉक्सीएसीटिक अम्ल)"
+        },
+        "B": {
+          "en": "NAA (Naphthalene acetic acid)",
+          "hi": "NAA"
+        },
+        "C": {
+          "en": "IAA (Indole-3-acetic acid)",
+          "hi": "IAA"
+        },
+        "D": {
+          "en": "IBA (Indole butyric acid)",
+          "hi": "IBA"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q08",
+      "category": "formula",
+      "question": {
+        "en": "Spray of which plant hormone causes 'bolting' (internode elongation just prior to flowering) in rosette plants like beet, cabbage, and many plants with rosette habit?",
+        "hi": "चुकंदर, पत्तागोभी और कई रोजेट स्वभाव वाले पौधों में किस पादप हार्मोन का छिड़काव 'बोल्टिंग' (पुष्पन से ठीक पहले पोरियों का तीव्र दीर्घीकरण) को प्रेरित करता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Gibberellins (GAs)",
+          "hi": "जिबरेलिन / GAs (Gibberellins)"
+        },
+        "B": {
+          "en": "Auxins",
+          "hi": "ऑक्सिन"
+        },
+        "C": {
+          "en": "Abscisic acid",
+          "hi": "एब्सिसिक अम्ल"
+        },
+        "D": {
+          "en": "Cytokinins",
+          "hi": "साइटोकाइनिन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q09",
+      "category": "formula",
+      "question": {
+        "en": "In tissue culture, morphogenesis is controlled by the ratio of which two hormones?",
+        "hi": "ऊतक संवर्धन (Tissue culture) में अंगजनन (Morphogenesis) किन दो हार्मोनों के अनुपात द्वारा नियंत्रित होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Auxin and Cytokinin (high auxin promotes rooting; high cytokinin promotes shooting)",
+          "hi": "ऑक्सिन और साइटोकाइनिन (उच्च ऑक्सिन जड़ निर्माण; उच्च साइटोकाइनिन प्ररोह निर्माण)"
+        },
+        "B": {
+          "en": "Gibberellin and Abscisic acid",
+          "hi": "जिबरेलिन और एब्सिसिक अम्ल"
+        },
+        "C": {
+          "en": "Ethylene and Auxin",
+          "hi": "एथिलीन और ऑक्सिन"
+        },
+        "D": {
+          "en": "ABA and Ethylene",
+          "hi": "ABA और एथिलीन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q10",
+      "category": "formula",
+      "question": {
+        "en": "Which commercially available chemical is an aqueous solution of ethylene that is readily absorbed and transported within the plant, releasing ethylene slowly to ripen fruits?",
+        "hi": "व्यावसायिक रूप से उपलब्ध कौन-सा रसायन एथिलीन का जलीय घोल है जो पौधे द्वारा आसानी से अवशोषित होकर धीरे-धीरे एथिलीन छोड़ता है और फलों को पकाता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Ethephon",
+          "hi": "एथेफॉन (Ethephon)"
+        },
+        "B": {
+          "en": "Zeatin",
+          "hi": "जिएटिन"
+        },
+        "C": {
+          "en": "2,4-D",
+          "hi": "2,4-D"
+        },
+        "D": {
+          "en": "Gibberellic acid",
+          "hi": "जिबरेलिक अम्ल"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q11",
+      "category": "formula",
+      "question": {
+        "en": "Which two plant growth regulators act antagonistically with respect to seed dormancy and germination?",
+        "hi": "बीज प्रसुप्ति और अंकुरण के संबंध में कौन-से दो पादप वृद्धि नियामक एक-दूसरे के विरोधी (antagonistic) रूप में कार्य करते हैं?"
+      },
+      "options": {
+        "A": {
+          "en": "Abscisic acid (promotes dormancy) and Gibberellin (breaks dormancy)",
+          "hi": "एब्सिसिक अम्ल (प्रसुप्ति बढ़ाता है) और जिबरेलिन (प्रसुप्ति तोड़ता है)"
+        },
+        "B": {
+          "en": "Auxin and Cytokinin",
+          "hi": "ऑक्सिन और साइटोकाइनिन"
+        },
+        "C": {
+          "en": "Ethylene and Auxin",
+          "hi": "एथिलीन और ऑक्सिन"
+        },
+        "D": {
+          "en": "Cytokinin and Ethylene",
+          "hi": "साइटोकाइनिन और एथिलीन"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q12",
+      "category": "formula",
+      "question": {
+        "en": "The site of perception of light/dark duration for photoperiodic induction of flowering is the:",
+        "hi": "पुष्पन के दीप्तिकालिक प्रेरण के लिए प्रकाश/अंधकार की अवधि को ग्रहण करने का स्थल क्या होता है?"
+      },
+      "options": {
+        "A": {
+          "en": "Leaves",
+          "hi": "पत्तियां (Leaves)"
+        },
+        "B": {
+          "en": "Shoot apex",
+          "hi": "प्ररोह शीर्ष"
+        },
+        "C": {
+          "en": "Root tips",
+          "hi": "मूल शीर्ष"
+        },
+        "D": {
+          "en": "Floral buds",
+          "hi": "पुष्प कलिकाएं"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q13",
+      "category": "diagram",
+      "question": {
+        "en": "Match the plant hormone in Column I with its primary commercial application in Column II:\n| Column I (Hormone) | Column II (Application) |\n| :--- | :--- |\n| P. Auxin (NAA/IBA) | 1. Rooting of stem cuttings and weedicide |\n| Q. Gibberellin (GA3) | 2. Elongating sugarcane stems and brewing industry |\n| R. Ethylene (Ethephon) | 3. Fruit ripening in tomatoes and apples |\nSelect the correct combination:",
+        "hi": "स्तंभ I में पादप हार्मोन को स्तंभ II में उसके प्राथमिक व्यावसायिक अनुप्रयोग के साथ सुमेलित कीजिए:\n| स्तंभ I (हार्मोन) | स्तंभ II (अनुप्रयोग) |\n| :--- | :--- |\n| P. ऑक्सिन | 1. कलमों में जड़ निर्माण और खरपतवारनाशी |\n| Q. जिबरेलिन | 2. गन्ने के तने की लंबाई बढ़ाना और शराब उद्योग |\n| R. एथिलीन | 3. टमाटर और सेब में फल पकाना |\nसही संयोजन का चयन कीजिए:"
+      },
+      "options": {
+        "A": {
+          "en": "P-1, Q-2, R-3",
+          "hi": "P-1, Q-2, R-3"
+        },
+        "B": {
+          "en": "P-2, Q-1, R-3",
+          "hi": "P-2, Q-1, R-3"
+        },
+        "C": {
+          "en": "P-3, Q-1, R-2",
+          "hi": "P-3, Q-1, R-2"
+        },
+        "D": {
+          "en": "P-1, Q-3, R-2",
+          "hi": "P-1, Q-3, R-2"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q14",
+      "category": "diagram",
+      "question": {
+        "en": "Match the discovery in Column I with the scientist(s) in Column II:\n| Column I (Discovery) | Column II (Scientist) |\n| :--- | :--- |\n| P. Phototropism in canary grass coleoptiles | 1. Charles Darwin and Francis Darwin |\n| Q. Isolation of Auxin from oat coleoptile tips | 2. F.W. Went |\n| R. Discovery of Kinetin | 3. Skoog and Miller |\nCorrect code:",
+        "hi": "स्तंभ I में खोज को स्तंभ II में वैज्ञानिक के साथ सुमेलित कीजिए:\n| स्तंभ I (खोज) | स्तंभ II (वैज्ञानिक) |\n| :--- | :--- |\n| P. कैनरी घास के प्रांकुरचोल में प्रकाशानुवर्तन | 1. चार्ल्स डार्विन और फ्रांसिस डार्विन |\n| Q. जई के प्रांकुरचोल से ऑक्सिन का पृथक्करण | 2. एफ.डब्ल्यू. वेंट |\n| R. काइनेटिन की खोज | 3. स्कूग और मिलर |\nसही कोड:"
+      },
+      "options": {
+        "A": {
+          "en": "P-1, Q-2, R-3",
+          "hi": "P-1, Q-2, R-3"
+        },
+        "B": {
+          "en": "P-2, Q-1, R-3",
+          "hi": "P-2, Q-1, R-3"
+        },
+        "C": {
+          "en": "P-3, Q-2, R-1",
+          "hi": "P-3, Q-2, R-1"
+        },
+        "D": {
+          "en": "P-1, Q-3, R-2",
+          "hi": "P-1, Q-3, R-2"
+        }
+      }
+    },
+    {
+      "id": "bio_11_ch13_mc03_q15",
+      "category": "diagram",
+      "question": {
+        "en": "Vernalisation refers specifically to the promotion of flowering by a period of low temperature. Which of the following statements about vernalisation is FALSE?",
+        "hi": "वसंतीकरण (Vernalisation) विशेष रूप से कम तापमान की अवधि द्वारा पुष्पन के प्रेरण को संदर्भित करता है। वसंतीकरण के संबंध में निम्नलिखित में से कौन-सा कथन असत्य है?"
+      },
+      "options": {
+        "A": {
+          "en": "Vernalisation is perceived by mature leaves exclusively, never by the shoot apex or embryo",
+          "hi": "वसंतीकरण की अनुभूति केवल परिपक्व पत्तियों द्वारा होती है, प्ररोह शीर्ष या भ्रूण द्वारा कभी नहीं"
+        },
+        "B": {
+          "en": "It prevents precocious reproductive development late in the growing season",
+          "hi": "यह बढ़ते मौसम के अंत में असामयिक जनन परिवर्धन को रोकता है"
+        },
+        "C": {
+          "en": "Winter varieties of wheat, barley, and rye require vernalisation",
+          "hi": "गेहूं, जौ और राई की शीतकालीन किस्मों को वसंतीकरण की आवश्यकता होती है"
+        },
+        "D": {
+          "en": "Biennial plants like sugarbeet, cabbage, and carrot can be induced to flower early by chilling",
+          "hi": "द्विवर्षी पौधे जैसे चुकंदर, पत्तागोभी और गाजर को शीत उपचार द्वारा शीघ्र पुष्पित किया जा सकता है"
+        }
+      }
+    }
+  ]
+}
